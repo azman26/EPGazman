@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sources>
+  <sourcecat sourcecatname="[azman] IPTV EPG">
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV PL KWP EPG.xml">
+      <description>[kodiwpigulce.pl] IPTV PL KWP EPG</description>
+      <url><![CDATA[https://epg.ovh/plar.xml]]></url>
+    </source>
+	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV RADIO PL EPG.xml">
+      <description>[azman] IPTV RADIO PL EPG</description>
+      <url><![CDATA[http://www.topolowa4.pl/guide.xml]]></url>
+    </source>
+  </sourcecat>
+</sources>
