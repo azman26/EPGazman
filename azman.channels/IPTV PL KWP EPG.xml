@@ -16,4 +16,5 @@
 <!-- 13E --><channel id="France 24 UK">1:0:1:328:3BC4:13E:820000:0:0:0:http%3a//azman.com</channel><!-- FRANCE 24 ENGLISH HD -->
 <!-- 13E --><channel id="Al Jazeera">1:0:19:1C8A:332C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- AL JAZEERA ENGLISH HD-->
 <!-- IPTV --><channel id="VIVA Polska">1:0:1:533C:8B4E:EC:0:0:0:0:http%3a//azman.com</channel><!-- VIVA RUSSIA-->
+<!-- IPTV --><channel id="TVP Kobieta">1:0:1:5EC9:13FB:EC:0:0:0:0:http%3a//azman.com</channel><!-- TVP KOBIETA-->
 </channels>
