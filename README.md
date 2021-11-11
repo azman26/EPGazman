@@ -2,12 +2,9 @@
 
 Pliki i folder umieścić w /etc/epgimport/
 
-- IPTV RADIO PL EPG moje źródło, generowane jest na 7 dni, jak zapomnę zrobić to po tygodniu nie będzie.
+- IPTV RADIO PL EPG -- moje prywatne źródło, generowane jest na 7 dni pod warunkiem że na stronach www jest tyle publikowane.
+( EPG dla RADIO ZŁOTE PRZEBOJE, RMF FM, RMF MAXXX, RMF CLASSIC, TOK FM, RADIO ZET, PR 1, 2, 3, 4, POLSKIE RADIO 24, RADIO DZIECIOM, RADIO KIEROWCÓW, RADIO POLAND, POLSKIE RADIO DLA ZAGRANICY, RADIO CHOPIN )
+( EPG dla reszty programów radiowych SAT oraz IP wyszczególnionych poniżej)
 
-( EPG dla RADIO ZŁOTE PRZEBOJE, RMF FM, RMF MAXXX, RMF CLASSIC, TOK FM, RADIO ZET ),
-( EPG dla PR 1, 2, 3, 4, POLSKIE RADIO 24, RADIO DZIECIOM, RADIO KIEROWCÓW, RADIO POLAND, POLSKIE RADIO DLA ZAGRANICY, RADIO CHOPIN )
-( EPG dla reszty programów radiowych SAT oraz IP wyszczególnionych poniżej),
-
-- IPTV PL KWP EPG działa stabilnie bo korzysta ze źródeł kolegów kodiwpigółce.pl dla listy WP.PILOT.FULL i do tego czego nie ma z sat na 13E.
-
-( EPG dla DOCUBOX HD, GINX ESPORTS TV, DUCK TV, ENGLISH CLUB TV, ULTRA TV 4K, FILMBOX, TOP KIDS HD, TRAVEL XP, FASHION TV, EURONEWS, CNN, BBC WORLD )
+- IPTV PL KWP EPG źródło to https://epg.ovh/ kolegów https://kodiwpigulce.pl/ dla listy WP.PILOT.FULL i do tego czego nie ma z Sat na 13E i 19,2E
+( EPG dla DOCUBOX HD, GINX ESPORTS TV, DUCK TV, ENGLISH CLUB TV, ULTRA TV 4K, TOP KIDS HD, TRAVEL XP, FASHION TV, EURONEWS, CNN, BBC WORLD )
