@@ -5,9 +5,15 @@
       <description>[kodiwpigulce.pl] IPTV PL KWP EPG</description>
       <url><![CDATA[https://epg.ovh/plar.xml]]></url>
     </source>
+	
 	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV RADIO PL EPG.xml">
       <description>[azman] IPTV RADIO PL EPG</description>
       <url><![CDATA[http://www.topolowa4.pl/guide.xml]]></url>
     </source>
+	
+	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV MUZYCZNE EPG.xml">
+		  <description>[azman] IPTV MUZYCZNE</description>
+		  <url>http://runigma.com.ua/EPG/IPTV/epg-iptv.xml.gz</url>
+	</source>
   </sourcecat>
 </sources>
