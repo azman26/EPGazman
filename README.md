@@ -8,3 +8,4 @@ Pliki i folder umieścić w /etc/epgimport/
 
 - IPTV PL KWP EPG -- źródło to https://epg.ovh/ kolegów https://kodiwpigulce.pl/ dla listy WP.PILOT.FULL i do tego czego nie ma z Sat na 13E i 19,2E
 ( EPG dla DOCUBOX HD, GINX ESPORTS TV, DUCK TV, ENGLISH CLUB TV, ULTRA TV 4K, TOP KIDS HD, TRAVEL XP, FASHION TV, EURONEWS, CNN, BBC WORLD, TVP KULTURA )
+
