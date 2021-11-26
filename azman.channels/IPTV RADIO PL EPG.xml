@@ -56,4 +56,5 @@
 <!-- WP PILOT --><channel id="RADIO NOWY ŚWIAT">1:0:1:513D:DFC5:EC:0:0:0:0:http%3a//azman.com</channel><!-- RADIO NOWY ŚWIAT -->
 <!-- WP PILOT --><channel id="RADIO 357">1:0:1:3C02:3AF2:EC:0:0:0:0:http%3a//azman.com</channel><!-- RADIO 357 -->
 <!-- IPTV PL --><channel id="Echo 24">1:0:1:65:1:48:0:0:0:0:http%3a//azman.com</channel><!-- Echo 24 -->
+<!-- IPTV PL --><channel id="E-SPORT">1:0:1:6745:7F4A:EC:0:0:0:0:http%3a//azman.com</channel><!-- E-SPORT -->
 </channels>
