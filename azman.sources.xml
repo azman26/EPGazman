@@ -8,7 +8,7 @@
 	
 	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV 13E.xml">
 		<description>[kodiwpigulce.pl] IPTV 13E</description>
-		<url><![CDATA[https://epg.ovh/plar.xml]]></url>
+		<url><![CDATA[https://epg.ovh/pltv.xml]]></url>
     </source>
 		  
 	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV 13E RADIO.xml">
