@@ -5,11 +5,12 @@
 <!-- WP PILOT FULL --><channel id="English Club TV HD">1:0:1:7985:ABCC:EC:0:0:0:0:http%3a//azman.com</channel><!-- ENGLISH CLUB HD -->
 <!-- WP PILOT FULL --><channel id="ULTRA TV 4K">1:0:1:7389:DE37:EC:0:0:0:0:http%3a//azman.com</channel><!-- ULTRA TV 4K -->
 <!-- WP PILOT FULL --><channel id="TOP KIDS">1:0:1:11AB:12AB:EC:0:0:0:0:http%3a//azman.com</channel><!-- TOP KIDS HD -->
-<!-- WP PILOT FULL --><channel id="FILMAX">1:0:1:5B80:3C08:EC:0:0:0:0:http%3a//azman.com</channel><!-- FILMAX HD -->
 <!-- WP PILOT FULL --><channel id="GINX ESPORTS TV">1:0:1:5E1:F:601:FFFF0000:0:0:0:http%3a//azman.com</channel><!-- GINX ESPORTS TV HD -->
 <!-- WP PILOT FULL --><channel id="MTV 80S">1:0:1:6FF1:436:1:C00000:0:0:0:http%3a//azman.com</channel><!-- MTV 80S -->
 <!-- WP PILOT --><channel id="Fashion TV">1:0:1:44D:238C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- FASHION TV HD -->
 <!-- WP PILOT --><channel id="Travel XP">1:0:1:11FB:2B5C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- TRAVELXP HD -->
+<!-- IPTV PL --><channel id="TVP Kobieta">1:0:1:5EC9:13FB:EC:0:0:0:0:http%3a//azman.com</channel><!-- TVP KOBIETA -->
+<!-- IPTV --><channel id="VIVARussia.ru">1:0:1:533C:8B4E:EC:0:0:0:0:http%3a//azman.com</channel><!-- VIVA RUSSIA -->
 <!-- 13E --><channel id="CNN">1:0:19:329:3BC4:13E:820000:0:0:0:http%3a//azman.com</channel><!-- CNN INTERNATIONAL HD -->
 <!-- 13E --><channel id="EURONEWS HD">1:0:1:321:3BC4:13E:820000:0:0:0:http%3a//azman.com</channel><!-- EURONEWS ENGLISH HD -->
 <!-- 13E --><channel id="BBC WORLD NEWS">1:0:1:200C:24B8:13E:820000:0:0:0:http%3a//azman.com</channel><!-- BBC WORLD NEWS -->
@@ -18,6 +19,4 @@
 <!-- 13E --><channel id="Al Jazeera">1:0:19:1C8A:332C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- AL JAZEERA ENGLISH HD -->
 <!-- 13E --><channel id="NASA TV">1:0:1:1F8:384:13E:820000:0:0:0:http%3a//azman.com</channel><!-- NASA TV HD -->
 <!-- 13E --><channel id="NASA UHD">1:0:1:11FA:2B5C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- NASA TV UHD -->
-<!-- IPTV --><channel id="VIVA Polska">1:0:1:533C:8B4E:EC:0:0:0:0:http%3a//azman.com</channel><!-- VIVA RUSSIA -->
-<!-- IPTV --><channel id="TVP Kobieta">1:0:1:5EC9:13FB:EC:0:0:0:0:http%3a//azman.com</channel><!-- TVP KOBIETA -->
 </channels>
