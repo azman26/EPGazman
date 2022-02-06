@@ -63,7 +63,9 @@
 <!-- IPTV PL --><channel id="Dizi">1:0:1:755:1362:EC:0:0:0:0:http%3a//azman.com</channel><!-- DIZI -->
 <!-- IPTV PL --><channel id="Bollywood HD">1:0:1:756:1362:EC:0:0:0:0:http%3a//azman.com</channel><!-- Bollywood HD -->
 <!-- 13E --><channel id="UATV">1:0:16:421C:2F44:13E:820000:0:0:0:http%3a//azman.com</channel><!-- UATV -->
+<!-- 13E --><channel id="Arirang World">1:0:1:29DB:1C20:13E:820000:0:0:0:http%3a//azman.com</channel><!-- Arirang World -->
 <!-- 13E --><channel id="Bloomberg European TV">1:0:1:1C86:332C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- Bloomberg European TV -->
+<!-- 13E --><channel id="NASA UHD">1:0:1:11FA:2B5C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- NASA TV UHD -->
 <!-- 13E --><channel id="Eurosport 4K">1:0:19:3B69:12C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- EUROSPORT 4K -->
 <!-- 13E --><channel id="Eurosport 3">1:0:19:3B66:12C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- EUROSPORT 3 HD -->
 <!-- 13E --><channel id="Eurosport 4">1:0:19:3B67:12C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- EUROSPORT 4 HD -->
