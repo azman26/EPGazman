@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
-  <sourcecat sourcecatname="[azman] IPTV EPG">
-    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV PL KWP EPG.xml">
-      <description>[kodiwpigulce.pl] IPTV PL KWP EPG</description>
-      <url><![CDATA[https://epg.ovh/plar.xml]]></url>
+  <sourcecat sourcecatname="[azman] IPTV 13E RADIO PL EPG">
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV 13E RADIO.xml">
+		<description>[azman] IPTV 13E RADIO</description>
+		<url><![CDATA[http://www.topolowa4.pl/guide.xml]]></url>
     </source>
 	
-	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV RADIO PL EPG.xml">
-      <description>[azman] IPTV RADIO PL EPG</description>
-      <url><![CDATA[http://www.topolowa4.pl/guide.xml]]></url>
+	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV 13E.xml">
+		<description>[kodiwpigulce.pl] IPTV 13E</description>
+		<url><![CDATA[https://epg.ovh/plar.xml]]></url>
     </source>
-	
-	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV MUZYCZNE EPG.xml">
-		  <description>[azman] IPTV MUZYCZNE</description>
-		  <url>http://runigma.com.ua/EPG/IPTV/epg-iptv.xml.gz</url>
-	</source>
+		  
+	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV 13E RADIO.xml">
+		<description>[azman] IPTV VIVA</description>
+        <url><![CDATA[https://viva-russia.ru/scheduler/epg/epg.xml]]></url>
+    </source>
   </sourcecat>
 </sources>
