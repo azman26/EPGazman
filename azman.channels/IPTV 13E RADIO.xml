@@ -3,7 +3,7 @@
 <!-- RADIO 19E --><channel id="Radio Maryja">1:0:2:1091:3EE:1:C00000:0:0:0:http%3a//azman.com</channel><!-- Radio Maryja -->
 <!-- RADIO 13E --><channel id="Jedynka">1:0:2:1C9B:1CE8:71:820000:0:0:0:http%3a//azman.com</channel><!-- POLSKIE RADIO PROGRAM 1 -->
 <!-- RADIO 13E --><channel id="Trójka">1:0:2:1C9C:1CE8:71:820000:0:0:0:http%3a//azman.com</channel><!-- POLSKIE RADIO PROGRAM 3 -->
-<!-- RADIO 13E --><channel id="Radio Złote Przeboje">1:0:2:1CA0:1CE8:71:820000:0:0:0:http%3a//azman.com</channel><!-- RADIO ZŁOTE PRZEBOJE -->
+<!-- RADIO 13E --><channel id="RADIO ZŁOTE PRZEBOJE">1:0:2:1CA0:1CE8:71:820000:0:0:0:http%3a//azman.com</channel><!-- RADIO ZŁOTE PRZEBOJE -->
 <!-- RADIO 13E --><channel id="Radio Zet">1:0:2:1410:5DC:13E:820000:0:0:0:http%3a//azman.com</channel><!-- RADIO ZET -->
 <!-- RADIO 13E --><channel id="RMF Classic">1:0:2:1C9A:1CE8:71:820000:0:0:0:http%3a//azman.com</channel><!-- RMF CLASSIC -->
 <!-- RADIO 13E --><channel id="RMF FM">1:0:2:1C98:1CE8:71:820000:0:0:0:http%3a//azman.com</channel><!-- RMF FM -->
@@ -56,6 +56,16 @@
 <!-- RADIO IP --><channel id="RADIO FTB">1:0:2:0:187:0:0:0:0:0:http%3a//azman.com</channel><!-- RADIO FTB -->
 <!-- WP PILOT --><channel id="RADIO NOWY ŚWIAT">1:0:1:513D:DFC5:EC:0:0:0:0:http%3a//azman.com</channel><!-- RADIO NOWY ŚWIAT -->
 <!-- WP PILOT --><channel id="RADIO 357">1:0:1:3C02:3AF2:EC:0:0:0:0:http%3a//azman.com</channel><!-- RADIO 357 -->
+<!-- WP PILOT FULL --><channel id="FILMAX">1:0:1:5B80:3C08:EC:0:0:0:0:http%3a//azman.com</channel><!-- FILMAX HD -->
 <!-- IPTV PL --><channel id="Echo 24">1:0:1:65:1:48:0:0:0:0:http%3a//azman.com</channel><!-- Echo 24 -->
 <!-- IPTV PL --><channel id="E-SPORT">1:0:1:6745:7F4A:EC:0:0:0:0:http%3a//azman.com</channel><!-- E-SPORT -->
+<!-- IPTV PL --><channel id="Red Top TV">1:0:1:754:1362:EC:0:0:0:0:http%3a//azman.com</channel><!-- Red Top TV -->
+<!-- IPTV PL --><channel id="Dizi">1:0:1:755:1362:EC:0:0:0:0:http%3a//azman.com</channel><!-- DIZI -->
+<!-- IPTV PL --><channel id="Bollywood HD">1:0:1:756:1362:EC:0:0:0:0:http%3a//azman.com</channel><!-- Bollywood HD -->
+<!-- 13E --><channel id="UATV">1:0:16:421C:2F44:13E:820000:0:0:0:http%3a//azman.com</channel><!-- UATV -->
+<!-- 13E --><channel id="Bloomberg European TV">1:0:1:1C86:332C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- Bloomberg European TV -->
+<!-- 13E --><channel id="Eurosport 4K">1:0:19:3B69:12C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- EUROSPORT 4K -->
+<!-- 13E --><channel id="Eurosport 3">1:0:19:3B66:12C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- EUROSPORT 3 HD -->
+<!-- 13E --><channel id="Eurosport 4">1:0:19:3B67:12C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- EUROSPORT 4 HD -->
+<!-- 13E --><channel id="Eurosport 5">1:0:19:3B68:12C:13E:820000:0:0:0:http%3a//azman.com</channel><!-- EUROSPORT 5 HD -->
 </channels>
