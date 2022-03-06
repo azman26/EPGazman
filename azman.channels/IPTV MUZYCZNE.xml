@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+<!-- IPTV muzyczne --><channel id="muz-tv">1:0:1:A14:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- MUZ TV-->
+<!-- IPTV muzyczne --><channel id="clubbing-TV">1:0:1:F302:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- CLUBBING TV-->
+<!-- IPTV muzyczne --><channel id="vostok-tv">1:0:1:F178:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- VOSTOK TV-->
+<!-- IPTV muzyczne --><channel id="musicbox-ru">1:0:1:F413:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- MUSIC BOX RUSSIA-->
+<!-- IPTV muzyczne --><channel id="tnt-music">1:0:1:E50:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- ТNТ MUSIC-->
+<!-- IPTV muzyczne --><channel id="ru-tv-by">1:0:1:B158:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- RU.TV-->
+<!-- IPTV muzyczne --><channel id="europa-plus-tv">1:0:1:57:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- EUROPA PLUS TV-->
+<!-- IPTV muzyczne --><channel id="o2-tv">1:0:1:B312:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- O2TV-->
+<!-- IPTV muzyczne --><channel id="zhara">1:0:1:A11:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- ЖАРА-->
+<!-- IPTV muzyczne --><channel id="bridge-tv">1:0:1:A39:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- BRIDGE TV-->
+<!-- IPTV muzyczne --><channel id="bridge-tv-dance">1:0:1:A101:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- BRIDGE TV HITS-->
+<!-- IPTV muzyczne --><channel id="bridge-tv-classic">1:0:1:B206:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- BRIDGE TV CLASSIC-->
+<!-- IPTV muzyczne --><channel id="bridge-tv-ruxit">1:0:1:A13:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- BRIDGE TV RUSSIAN HIT-->
+<!-- IPTV muzyczne --><channel id="songtv-ru">1:0:1:F240:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- SONGTV Russia-->
+<!-- IPTV muzyczne --><channel id="strana-fm">1:0:1:F308:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- STRANA FM-->
+<!-- IPTV muzyczne --><channel id="maidan-tv">1:0:1:F377:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- МАЙДАН-->
+<!-- IPTV muzyczne --><channel id="shanson-tv">1:0:1:50:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- SHANSON TV-->
+<!-- IPTV muzyczne --><channel id="vf-muzsouz">1:0:1:D226:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- МUZ SOUZ-->
+<!-- IPTV muzyczne --><channel id="1-music-hungary">1:0:1:F063:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- 1 Music Channel Hungary-->
+<!-- IPTV muzyczne --><channel id="1hd-music">1:0:1:2AB:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- 1HD Music Television-->
+<!-- IPTV muzyczne --><channel id="aiva-tv">1:0:1:F189:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- AIVA HD-->
+<!-- IPTV muzyczne --><channel id="deejay-tv">1:0:1:F226:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- Deejay TV-->
+<!-- IPTV muzyczne --><channel id="deluxe-music-HD">1:0:1:F175:521:D:0:0:0:0:http%3a//azman.com</channel> <!-- DELUXE MUSIC-->
+</channels>
