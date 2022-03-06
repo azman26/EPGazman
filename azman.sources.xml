@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
-  <sourcecat sourcecatname="[azman] IPTV 13E RADIO PL EPG">
+  <sourcecat sourcecatname="Z[azman] IPTV 13E RADIO PL EPG">
     <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV 13E RADIO.xml">
 		<description>[azman] IPTV 13E RADIO</description>
 		<url><![CDATA[http://www.topolowa4.pl/guide.xml]]></url>
@@ -10,5 +10,10 @@
 		<description>[kodiwpigulce.pl] IPTV 13E</description>
 		<url><![CDATA[https://epg.ovh/pl.xml]]></url>
     </source>
+		
+	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV MUZYCZNE.xml">
+		  <description>[azman] IPTV MUZYCZNE</description>
+		  <url><![CDATA[http://runigma.com.ua/EPG/IPTV/epg-iptv.xml.gz]]></url>
+	</source>
   </sourcecat>
 </sources>
