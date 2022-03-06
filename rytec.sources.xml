@@ -626,4 +626,24 @@ The description must be unique for each source, and is displayed on the UI.
 		</source>
 	</sourcecat>
 
+	<sourcecat sourcecatname="LatinMunic XMLTV">
+		<source type="gen_xmltv" nocheck="1" channels="http://epg.tododream.com/rytec.channels.xml.gz">
+			<description>LatinMunic XMLTV Astra</description>
+			<url>http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz</url>
+		</source>
+		<source type="gen_xmltv" nocheck="1" channels="http://epg.tododream.com/hispasat.channels.xml.gz">
+			<description>LatinMunic XMLTV Hispasat</description>
+			<url>http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz</url>
+		</source>
+		<source type="gen_xmltv" nocheck="1" channels="http://epg.tododream.com/tdt.channels.xml.gz">
+			<description>LatinMunic XMLTV TDT</description>
+			<url>http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz</url>
+		</source>
+		<source type="gen_xmltv" nocheck="1" channels="http://epg.tododream.com/todo.channels.xml.gz">
+			<description>LatinMunic XMLTV Astra + Hispasat + TDT</description>
+			<url>http://epg.tododream.com/latinmunich_xmltv-movistar-spain_todo.gz</url>
+		</source>
+	</sourcecat>
+
 </sources>
+
