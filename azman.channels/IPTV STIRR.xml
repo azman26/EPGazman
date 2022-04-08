@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+<!-- STIRR --><channel id="externallinearfeed-01-15-2020-201540715-01-15-2020">1:0:1:F5D1:D8D9:EC:0:0:0:0:http%3a//azman.com</channel><!-- CHARGE -->
+<!-- STIRR --><channel id="externallinearfeed-05-21-2019-05-21-2019">1:0:1:29FA:7E5E:EC:0:0:0:0:http%3a//azman.com</channel><!-- COMET -->
+<!-- STIRR --><channel id="stirr-movies-wurl-external-10-06-2018">1:0:1:6C08:2762:EC:0:0:0:0:http%3a//azman.com</channel><!-- STIRR MOVIES -->
+<!-- STIRR --><channel id="stirr-pd">1:0:1:65DA:1427:EC:0:0:0:0:http%3a//azman.com</channel><!-- STIRR P.D. -->
+<!-- STIRR --><channel id="stirr-classic-tv">1:0:1:D92F:2B2A:EC:0:0:0:0:http%3a//azman.com</channel><!-- STIRR CLASSIC TV -->
+<!-- STIRR --><channel id="stirr-horror-movies-09-27-2019">1:0:1:B108:A6BB:EC:0:0:0:0:http%3a//azman.com</channel><!-- STIRR HORROR MOVIES -->
+<!-- STIRR --><channel id="externallinearfeed-07-18-2019-07-18-2019">1:0:1:9D1:D282:EC:0:0:0:0:http%3a//azman.com</channel><!-- FILM DETECTIVE -->
+<!-- STIRR --><channel id="externallinearfeed-12-15-2021-12-15-2021">1:0:1:E473:7E88:EC:0:0:0:0:http%3a//azman.com</channel><!-- THE ARCHIVE -->
+<!-- STIRR --><channel id="externallinearfeed-01-27-2020-01-27-2020">1:0:1:F5CD:D859:EC:0:0:0:0:http%3a//azman.com</channel><!-- CINELIFE -->
+<!-- STIRR --><channel id="stirr-westerns">1:0:1:94F6:C3F3:EC:0:0:0:0:http%3a//azman.com</channel><!-- STIRR WESTERNS -->
+<!-- STIRR --><channel id="externallinearfeed-06-26-2020-193305392-06-26-2020">1:0:1:8F12:4094:EC:0:0:0:0:http%3a//azman.com</channel><!-- MIDNIGHT PULP -->
+<!-- STIRR --><channel id="externallinearfeed-10-21-2019-10-21-2019">1:0:1:FABA:9BC3:EC:0:0:0:0:http%3a//azman.com</channel><!-- ELECTRIC NOW -->
+<!-- STIRR --><channel id="filmrise-free-movies-09-27-2019">1:0:1:DF6A:25F6:EC:0:0:0:0:http%3a//azman.com</channel><!-- FILMRISE FREE MOVIES -->
+<!-- STIRR --><channel id="externallinearfeed-07-02-2020-07-02-2020">1:0:1:8B36:1AD6:EC:0:0:0:0:http%3a//azman.com</channel><!-- CINEHOUSE -->
+<!-- STIRR --><channel id="externallinearfeed-01-28-2021-184530260-01-28-2021">1:0:1:BAE7:8D6C:EC:0:0:0:0:http%3a//azman.com</channel><!-- DOVE -->
+<!-- STIRR --><channel id="filmrise-classic-tv-09-27-2019">1:0:1:6790:51F4:EC:0:0:0:0:http%3a//azman.com</channel><!-- FILMRISE CLASSIC TV -->
+</channels>
