@@ -59,11 +59,13 @@
 <!-- RADIO IP --><channel id="RADIO HEAVEN">1:0:2:0:188:0:0:0:0:0:http%3a//azman.com</channel><!-- RADIO HEAVEN -->
 <!-- RADIO IP --><channel id="RADIO EXPRESS">41:0:2:0:189:0:0:0:0:0:http%3a//azman.com</channel><!-- RADIO EXPRESS -->
 <!-- RADIO IP --><channel id="RDN MAŁOPOLSKA">1:0:2:0:190:0:0:0:0:0:http%3a//azman.com</channel><!-- RDN MAŁOPOLSKA -->
-<!-- RADIO IP --><channel id="Radio Silesia">1:0:2:0:191:0:0:0:0:0:http%3a//azman.com</channel><!-- RADIO SILESIA -->
+<!-- RADIO IP --><channel id="RADIO LODZ">1:0:2:0:191:0:0:0:0:0:http%3a//azman.com</channel><!-- RADIO ŁÓDŹ -->
+<!-- RADIO IP --><channel id="RADIO ESKA ROCK">1:0:2:0:192:0:0:0:0:0:http%3a//azman.com</channel><!-- RADIO ESKA ROCK -->
 <!-- WP PILOT --><channel id="RADIO NOWY ŚWIAT">1:0:1:513D:DFC5:EC:0:0:0:0:http%3a//azman.com</channel><!-- RADIO NOWY ŚWIAT -->
 <!-- WP PILOT --><channel id="RADIO 357">1:0:1:3C02:3AF2:EC:0:0:0:0:http%3a//azman.com</channel><!-- RADIO 357 -->
 <!-- WP PILOT --><channel id="13TV">1:0:1:C6A0:D5D:EC:0:0:0:0:http%3a//azman.com</channel><!-- 13 TV -->
 <!-- WP PILOT --><channel id="News24">1:0:1:F6B3:51BB:EC:0:0:0:0:http%3a//azman.com</channel><!-- News 24 -->
+<!-- WP PILOT --><channel id="Love TV">1:0:1:36:F8:63B2:0:0:0:0:http%3a//azman.com</channel><!-- Love TV -->
 <!-- WP PILOT FULL --><channel id="FILMAX">1:0:1:5B80:3C08:EC:0:0:0:0:http%3a//azman.com</channel><!-- FILMAX HD -->
 <!-- IPTV PL --><channel id="Echo 24">1:0:1:65:1:48:0:0:0:0:http%3a//azman.com</channel><!-- Echo 24 -->
 <!-- IPTV PL --><channel id="E-SPORT">1:0:1:6745:7F4A:EC:0:0:0:0:http%3a//azman.com</channel><!-- E-SPORT -->
