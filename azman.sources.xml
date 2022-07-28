@@ -20,15 +20,5 @@
 		  <description>[azman] IPTV STIRR</description>
 		  <url><![CDATA[https://i.mjh.nz/Stirr/all.xml.gz]]></url>
 	</source>
-	
-	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV SAMSUNG TV PLUS (UK).xml">
-		  <description>[azman] IPTV SAMSUNG TV PLUS (UK)</description>
-		  <url><![CDATA[https://i.mjh.nz/SamsungTVPlus/gb.xml.gz]]></url>
-	</source>
-	
-	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV SAMSUNG TV PLUS (US).xml">
-		  <description>[azman] IPTV SAMSUNG TV PLUS (US)</description>
-		  <url><![CDATA[https://i.mjh.nz/SamsungTVPlus/us.xml.gz]]></url>
-	</source>
   </sourcecat>
 </sources>
