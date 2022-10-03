@@ -67,6 +67,7 @@
 <!-- RADIO IP --><channel id="NASZE RADIO">1:0:2:0:196:0:0:0:0:0:http%3a//azman.com</channel><!-- NASZE RADIO -->
 <!-- RADIO IP --><channel id="RADIO NIEPOKALANÓW">1:0:2:0:197:0:0:0:0:0:http%3a//azman.com</channel><!-- RADIO NIEPOKALANÓW -->
 <!-- RADIO IP --><channel id="RADIO DLA CIEBIE">1:0:2:0:198:0:0:0:0:0:http%3a//azman.com</channel><!-- RADIO DLA CIEBIE -->
+<!-- RADIO IP --><channel id="RADIO DISCOPARTY">1:0:2:0:199:0:0:0:0:0:http%3a//azman.com</channel><!-- RADIO DISCOPARTY -->
 <!-- WP PILOT --><channel id="RADIO NOWY ŚWIAT">1:0:1:513D:DFC5:EC:0:0:0:0:http%3a//azman.com</channel><!-- RADIO NOWY ŚWIAT -->
 <!-- WP PILOT --><channel id="RADIO 357">1:0:1:3C02:3AF2:EC:0:0:0:0:http%3a//azman.com</channel><!-- RADIO 357 -->
 <!-- WP PILOT --><channel id="13TV">1:0:1:C6A0:D5D:EC:0:0:0:0:http%3a//azman.com</channel><!-- 13 TV -->
@@ -81,13 +82,12 @@
 <!-- IPTV PL --><channel id="Bollywood HD">1:0:1:756:1362:EC:0:0:0:0:http%3a//azman.com</channel><!-- Bollywood HD -->
 <!-- IPTV PL --><channel id="TVP ABC 2">1:0:1:28:0:48:0:0:0:0:http%3a//azman.com</channel><!-- TVP ABC 2 -->
 <!-- IPTV PL --><channel id="TVP_World">1:0:1:4:0:48:0:0:0:0:http%3a//azman.com</channel><!-- TVP WORLD -->
+<!-- IPTV PL --><channel id="TVP Nauka">1:0:1:8945:818A:EC:0:0:0:0:http%3a//azman.com</channel><!-- TVP Nauka -->
 <!-- IPTV PL --><channel id="MixTape">1:0:1:C20B:E8B5:EC:0:0:0:0:http%3a//azman.com</channel><!-- MixTape -->
 <!-- IPTV PL --><channel id="360 TuneBox">1:0:1:E87B:27C5:EC:0:0:0:0:http%3a//azman.com</channel><!-- 360 TuneBox -->
 <!-- IPTV PL --><channel id="2x2">1:0:1:F88C:5F52:EC:0:0:0:0:http%3a//azman.com</channel><!-- 2x2 -->
 <!-- 13E --><channel id="MTV Hits">1:0:1:192:1518:13E:820000:0:0:0:http%3a//azman.com</channel><!-- MTV Hits -->
-<!-- 13E --><channel id="OneMusicTelevision.de">1:0:1:E85:3200:13E:820000:0:0:0:http%3a//azman.com</channel><!-- One Music Television -->
-<!-- 13E --><channel id="ZweiMusicTelevision.de">1:0:1:E86:3200:13E:820000:0:0:0:http%3a//azman.com</channel><!-- Zwei Music Television -->
-<!-- 13E --><channel id="FolxMusicTelevision.de">1:0:1:E81:3200:13E:820000:0:0:0:http%3a//azman.com</channel><!-- Folx Music Television -->
 <!-- 13E --><channel id="UATV">1:0:16:421C:2F44:13E:820000:0:0:0:http%3a//azman.com</channel><!-- UATV -->
 <!-- 16E --><channel id="Eurochannel">1:0:1:4:2:16E:A00000:0:0:0:http%3a//azman.com</channel><!-- Eurochannel -->
+
 </channels>
