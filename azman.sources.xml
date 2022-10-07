@@ -9,13 +9,8 @@
 	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV 13E.xml">
 		<description>[kodiwpigulce.pl] IPTV 13E</description>
 		<url><![CDATA[https://epg.ovh/pl.xml]]></url>
-    </source>
-		
-	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV MUZYCZNE.xml">
-		  <description>[azman] IPTV MUZYCZNE</description>
-		  <url><![CDATA[http://runigma.com.ua/EPG/IPTV/epg-iptv.xml.gz]]></url>
 	</source>
-	
+		
 	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV STIRR.xml">
 		  <description>[azman] IPTV STIRR</description>
 		  <url><![CDATA[https://i.mjh.nz/Stirr/all.xml.gz]]></url>
