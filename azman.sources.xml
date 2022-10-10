@@ -1,19 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
-  <sourcecat sourcecatname="[azman] IPTV 13E RADIO PL EPG">
-    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV 13E RADIO.xml">
-		<description>[azman] IPTV 13E RADIO</description>
-		<url><![CDATA[http://www.topolowa4.pl/guide.xml]]></url>
-    </source>
+
+<!--
+Version: 19-03-2021
+-->
+
+<!--
+You can list as many <source> entries in a file as you wish.
+Files or urls for sources and channels ending in '.gz' will be treated as
+gzipped and decompressed while processing.
+Use the "type" attribute to set the python module that handles the file,
+currently type="gen_xmltv" and type="epg.dat" are supported, more will follow once this plugin
+gets more popular.
+The channels property is the local file or URL with channel ID to service ref
+mappings. The default is the same filename but with .channels.xml as extension.
+Each source may use a different channels definition, or multiple sources may use
+the same, whatever is convenient.
+The description must be unique for each source, and is displayed on the UI.
+-->
+
+	<mappings>
+		<channel name="azman.channels.xml">
+			<url>https://www.topolowa4.pl/azman.channels.xml</url>
+		</channel>
+	</mappings>
+
+		<sourcecat sourcecatname="[azman] Polskie IPTV, RADIO, TV">
+			<source type="gen_xmltv" nocheck="1" channels="azman.channels.xml">
+				<description>[azman] IPTV PL, RADIO IP, 13E</description>
+				<url><![CDATA[http://www.topolowa4.pl/azman_guide.xml]]></url>
+		</source>
 	
-	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV 13E.xml">
-		<description>[kodiwpigulce.pl] IPTV 13E</description>
-		<url><![CDATA[https://epg.ovh/pl.xml]]></url>
-	</source>
+		<source type="gen_xmltv" nocheck="1" channels="azman.channels.xml">
+				<description>[EPG.OVH] IPTV PL, 13E</description>
+				<url><![CDATA[https://epg.ovh/pl.xml]]></url>
+		</source>
 		
-	<source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/azman.channels/IPTV STIRR.xml">
-		  <description>[azman] IPTV STIRR</description>
-		  <url><![CDATA[https://i.mjh.nz/Stirr/all.xml.gz]]></url>
-	</source>
-  </sourcecat>
+		<source type="gen_xmltv" nocheck="1" channels="azman.channels.xml">
+				<description>[Matt Huisman] IPTV STIRR EN</description>
+				<url><![CDATA[https://i.mjh.nz/Stirr/all.xml.gz]]></url>
+		</source>
+		</sourcecat>
 </sources>
