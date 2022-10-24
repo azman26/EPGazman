@@ -1,11 +1,10 @@
-# Dodatkowe EPG dla kanałów IPTV poza źródłami RytecTeam pod EPG-Importer dla Enigma2
+# Źródła EPG dla polskich kanałów TV SAT i IPTV a także TV Kablowej i Naziemnej, kanałów radiowych z 13E i 19,2E oraz Radia IP pod plugin EPG-Importer dla E2
 
-Pliki i folder umieścić w /etc/epgimport/
+[azman] Poland XMLTV
 
-- IPTV RADIO PL EPG -- moje prywatne źródło, generowane jest na 7 dni pod warunkiem że na stronach www jest tyle publikowane.
-( EPG dla RADIO ZŁOTE PRZEBOJE, RMF FM, RMF MAXXX, RMF CLASSIC, TOK FM, RADIO ZET, PR 1, 2, 3, 4, POLSKIE RADIO 24, RADIO DZIECIOM, RADIO KIEROWCÓW, RADIO POLAND, POLSKIE RADIO DLA ZAGRANICY, RADIO CHOPIN )
-( EPG dla reszty programów radiowych SAT oraz IP wyszczególnionych poniżej)
+Podstawowy - Zawiera EPG dla wszystkich kanałów SAT PL z 13E i 19,2E oraz TV Kablowej i Naziemnej; ( 196 kanałów )
+Dodatkowy - Pozostałe kanały PL z innych pozycji SAT oraz to co uznałem że chcę mieć z zagranicznych kanałów; ( 13 kanałów )
+IPTV - Zawiera EPG dla niektórych kanałów IPTV PL, przekazów z YT oraz kanałów z WP Pilot i Telewizji Online; ( 62 kanały )
+Radio - Zawiera EPG Radia PL z z 13E i 19,2E oraz niektórych streamów radiowych z sieci; ( 72 kanały )
 
-- IPTV PL KWP EPG -- źródło to https://epg.ovh/ kolegów https://kodiwpigulce.pl/ dla listy WP.PILOT.FULL i do tego czego nie ma z Sat na 13E i 19,2E
-( EPG dla DOCUBOX HD, GINX ESPORTS TV, DUCK TV, ENGLISH CLUB TV, ULTRA TV 4K, TOP KIDS HD, TRAVEL XP, FASHION TV, EURONEWS, CNN, BBC WORLD, TVP KULTURA )
-
+Plik rytec.sources.xml jest zmodowany przeze mnie i zawiera dodatkowe wpisy do źródeł EPG dla kanałów IPTV STIRR oraz SAMSUNG TV PLUS.
