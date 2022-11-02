@@ -355,7 +355,7 @@
 <!-- 0.8W --><channel id="DiscoveryHistoria.pl">1:0:1:514:2:5E:E08B00F:0:0:0:</channel><!-- Historia Poland -->
 <!-- 0.8W --><channel id="TurboXtra.pl">1:0:1:BB8:2:5E:E08B00F:0:0:0:</channel><!-- Turbo Xtra Poland HD -->
 
-<!-- Polska IPTV -->
+<!-- IPTV -->
 
 <!-- IPTV --><channel id="13Tv.pl">4097:0:1:C6A0:D5D:EC:0:0:0:0:http%3a//</channel><!-- 13 TV -->
 <!-- IPTV --><channel id="2x2.pl">4097:0:1:F88C:5F52:EC:0:0:0:0:http%3a//</channel><!-- 2x2 -->
@@ -432,7 +432,7 @@
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:16:8E:B052:2268:EEEE0000:0:0:0:http%3a//</channel><!--Xtreme TV -->
 <!-- IPTV --><channel id="Перший.pl">4097:0:1:1659:42C:1:C00000:0:0:0:http%3a//</channel><!-- UA PERSHYJ -->
 
-<!-- Polska RADIO -->
+<!-- RADIO -->
 
 <!-- RADIO 19E --><channel id="RadioMaryja.pl">1:0:2:1091:3EE:1:C00000:0:0:0:</channel><!-- RADIO MARYJA -->
 <!-- RADIO 13E --><channel id="Antyradio.pl">1:0:2:1413:5DC:13E:820000:0:0:0:</channel><!-- ANTYRADIO -->
@@ -507,7 +507,7 @@
 <!-- RADIO IP --><channel id="WeekendFM.pl">4097:0:2:0:195:0:0:0:0:0:http%3a//</channel><!-- WEEKEND FM -->
 <!-- RADIO IP --><channel id="RadioPolandEast.pl">4097:0:2:0:156:0:0:0:0:0:http%3a//</channel><!-- РАДИО ПОЛЬША -->
 
-<!-- Polska DVB-T -->
+<!-- DVB-T -->
 
 <!-- DVB-T MUX-L2 TVT --><channel id="EskaTvExtra.pl">1:0:1:49:8:0:EEEE0000:0:0:0:</channel><!--Eska TV Extra -->
 <!-- DVB-T MUX-L2 TVT --><channel id="StarsTv.pl">1:0:1:48:8:0:EEEE0000:0:0:0:</channel><!--STARS.TV -->
@@ -517,23 +517,29 @@
 <!-- DVB-T MUX-L2 TVT --><channel id="TvPuls.pl">1:0:1:46:8:0:EEEE0000:0:0:0:</channel><!--TV PULS -->
 <!-- DVB-T MUX-L2 TVT --><channel id="Puls2.pl">1:0:1:47:8:0:EEEE0000:0:0:0:</channel><!--PULS 2 -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1:25:8:0:EEEE0000:0:0:0:</channel><!--TVT -->
-<!-- DVB-T MUX-L4 MWE --><channel id="Echo24.pl">1:0:19:50:B052:2268:EEEE0000:0:0:0:</channel><!--Echo24 HD -->
-<!-- DVB-T MUX-L4 MWE --><channel id="EskaTvExtra.pl">1:0:16:49:B052:2268:EEEE0000:0:0:0:</channel><!--Eska TV Extra -->
-<!-- DVB-T MUX-L4 MWE --><channel id="Filmax.pl">1:0:16:4C:B052:2268:EEEE0000:0:0:0:</channel><!--Filmax -->
-<!-- DVB-T MUX-L4 MWE --><channel id="NutaGold.pl">1:0:16:4D:B052:2268:EEEE0000:0:0:0:</channel><!--Nuta Gold -->
-<!-- DVB-T MUX-L4 MWE --><channel id="NutaTv.pl">1:0:16:4B:B052:2268:EEEE0000:0:0:0:</channel><!--Nuta TV -->
-<!-- DVB-T MUX-L4 MWE --><channel id="Polsat.pl">1:0:19:2E:B052:2268:EEEE0000:0:0:0:</channel><!--Polsat HD -->
-<!-- DVB-T MUX-L4 MWE --><channel id="PowerTv.pl">1:0:16:4A:B052:2268:EEEE0000:0:0:0:</channel><!--Power TV -->
-<!-- DVB-T MUX-L4 MWE --><channel id="StarsTv.pl">1:0:16:51:B052:2268:EEEE0000:0:0:0:</channel><!--Stars TV -->
-<!-- DVB-T MUX-L4 MWE --><channel id="JuniorMusic.pl">1:0:16:4E:B052:2268:EEEE0000:0:0:0:</channel><!--Junior Music -->
-<!-- DVB-T MUX-L4 MWE --><channel id="TVC.pl">1:0:16:26:B052:2268:EEEE0000:0:0:0:</channel><!--TVC -->
-<!-- DVB-T MUX-L4 MWE --><channel id="TVN.pl">1:0:19:2C:B052:2268:EEEE0000:0:0:0:</channel><!--TVN HD -->
-<!-- DVB-T MUX-L4 MWE --><channel id="TvOkazje.pl">1:0:16:52:B052:2268:EEEE0000:0:0:0:</channel><!--TV Okazje -->
-<!-- DVB-T MUX-L4 MWE --><channel id="XtremeTv.pl">1:0:16:8E:B052:2268:EEEE0000:0:0:0:</channel><!--Xtreme TV -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Echo24.pl">1:0:19:50:B052:2268:EEEE0000:0:0:0:</channel><!-- Echo24 HD -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="EskaTvExtra.pl">1:0:16:49:B052:2268:EEEE0000:0:0:0:</channel><!-- Eska TV Extra -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Filmax.pl">1:0:16:4C:B052:2268:EEEE0000:0:0:0:</channel><!-- Filmax -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="NutaGold.pl">1:0:16:4D:B052:2268:EEEE0000:0:0:0:</channel><!-- Nuta Gold -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="NutaTv.pl">1:0:16:4B:B052:2268:EEEE0000:0:0:0:</channel><!-- Nuta TV -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Polsat.pl">1:0:19:2E:B052:2268:EEEE0000:0:0:0:</channel><!-- Polsat HD -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="PowerTv.pl">1:0:16:4A:B052:2268:EEEE0000:0:0:0:</channel><!-- Power TV -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="StarsTv.pl">1:0:16:51:B052:2268:EEEE0000:0:0:0:</channel><!-- Stars TV -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="JuniorMusic.pl">1:0:16:4E:B052:2268:EEEE0000:0:0:0:</channel><!--Junior Music -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TVC.pl">1:0:16:26:B052:2268:EEEE0000:0:0:0:</channel><!-- TVC -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TVN.pl">1:0:19:2C:B052:2268:EEEE0000:0:0:0:</channel><!-- TVN HD -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TvOkazje.pl">1:0:16:52:B052:2268:EEEE0000:0:0:0:</channel><!-- TV Okazje -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="XtremeTv.pl">1:0:16:8E:B052:2268:EEEE0000:0:0:0:</channel><!-- Xtreme TV -->
 <!-- DVB-T MUX-TVS --><channel id="Polsat.pl">1:0:19:4E:15:2268:EEEE0000:0:0:0:</channel><!--Polsat HD -->
 <!-- DVB-T MUX-TVS --><channel id="TvOkazje.pl">1:0:16:4D:15:2268:EEEE0000:0:0:0:</channel><!--TVO TV -->
 <!-- DVB-T MUX-TVS --><channel id="TvRepublika.pl">1:0:16:50:15:2268:EEEE0000:0:0:0:</channel><!--TV Republika -->
 <!-- DVB-T MUX-TVS --><channel id="TVS.pl">1:0:19:4C:15:2268:EEEE0000:0:0:0:</channel><!--TVS -->
+<!-- DVB-T EXP MUX MWE (Katowice) --><channel id="PowerTv.pl">1:0:1F:4B:9192:2268:EEEE0000:0:0:0:</channel><!-- Power TV HD -->
+<!-- DVB-T EXP MUX MWE (Katowice) --><channel id="Filmax.pl">1:0:1F:4C:9192:2268:EEEE0000:0:0:0:</channel><!--Filmax HD -->
+<!-- DVB-T EXP MUX MWE (Katowice) --><channel id="NutaGold.pl">1:0:1F:4D:9192:2268:EEEE0000:0:0:0:</channel><!-- Nuta Gold -->
+<!-- DVB-T EXP MUX MWE (Katowice) --><channel id="JuniorMusic.pl">1:0:1F:4E:9192:2268:EEEE0000:0:0:0:</channel><!--Junior Music -->
+<!-- DVB-T EXP MUX MWE (Katowice) --><channel id="XtremeTv.pl">1:0:1F:4F:9192:2268:EEEE0000:0:0:0:</channel><!-- Xtreme TV -->
+<!-- DVB-T EXP MUX MWE (Katowice) --><channel id="TVC.pl">1:0:1F:26:9192:2268:EEEE0000:0:0:0:</channel><!-- TVC HD -->
 <!-- DVB-T MUX1 --><channel id="Antena.pl">1:0:1F:1E:1:2268:EEEE0000:0:0:0:</channel><!--ANTENA HD -->
 <!-- DVB-T MUX1 --><channel id="EskaTv.pl">1:0:1F:1B:1:2268:EEEE0000:0:0:0:</channel><!--ESKA TV -->
 <!-- DVB-T MUX1 --><channel id="FokusTv.pl">1:0:1F:35:1:2268:EEEE0000:0:0:0:</channel><!--Fokus TV -->
@@ -580,7 +586,7 @@
 <!-- DVB-T MUX8 --><channel id="WP.pl">1:0:16:3C:7001:2268:EEEE0000:0:0:0:</channel><!--WP -->
 <!-- DVB-T MUX8 --><channel id="ZoomTv.pl">1:0:16:3A:7001:2268:EEEE0000:0:0:0:</channel><!--Zoom TV -->
 
-<!-- Polska TV Kablowa -->
+<!-- TV Kablowa -->
 
 <!-- VECTRA --><channel id="13Ulica.pl">1:0:19:6D68:80:64:FFFF0000:0:0:0:</channel><!-- 13 Ulica HD -->
 <!-- VECTRA --><channel id="4FunDance.pl">1:0:1:1F4E:6C:64:FFFF0000:0:0:0:</channel><!-- 4FUN DANCE -->
@@ -818,6 +824,8 @@
 <!-- VECTRA --><channel id="Wydarzenia24.pl">1:0:19:7152:81:64:FFFF0000:0:0:0:</channel><!-- WYDARZENIA24 -->
 <!-- VECTRA --><channel id="ZoomTv.pl">1:0:19:1778:6A:64:FFFF0000:0:0:0:</channel><!-- Zoom TV HD -->
 <!-- VECTRA --><channel id="ZoomTv.pl">1:0:19:714B:81:64:FFFF0000:0:0:0:</channel><!-- Zoom TV HD -->
+
+<!-- TV Kablowa do sprawdzenia -->
 
 <!-- VECTRA --><channel id="MTV80s.eu">1:0:1:2717:6E:64:FFFF0000:0:0:0:</channel><!-- MTV 80s -->
 <!-- VECTRA --><channel id="TV5MondeEurope.fr">1:0:19:BBA:67:64:FFFF0000:0:0:0:</channel><!-- TV5 MONDE -->
