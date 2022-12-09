@@ -18,6 +18,8 @@
 <!-- 13.0E --><channel id="AXNBlack.pl">1:0:1:1C87:1CE8:71:820000:0:0:0:</channel><!-- AXN Black -->
 <!-- 13.0E --><channel id="AXNSpin.pl">1:0:1:DB4:2D50:13E:820000:0:0:0.</channel><!-- AXN SPIN HD -->
 <!-- 13.0E --><channel id="AXNSpin.pl">1:0:1:DE6:2D50:13E:820000:0:0:0:</channel><!-- AXN SPIN HD -->
+<!-- 13.0E --><channel id="AXNSpin.pl">1:0:1:1136:2AF8:13E:820000:0:0:0:</channel><!-- AXN SPIN HD -->
+<!-- 13.0E --><channel id="AXNSpin.pl">1:0:1:1168:2AF8:13E:820000:0:0:0:</channel><!-- AXN SPIN HD -->
 <!-- 13.0E --><channel id="AXNWhite.pl">1:0:1:1C86:1CE8:71:820000:0:0:0:</channel><!-- AXN White -->
 <!-- 13.0E --><channel id="ActiveFamily.pl">1:0:1:32D8:190:13E:820000:0:0:0:</channel><!-- Active Family -->
 <!-- 13.0E --><channel id="Adventure.pl">1:0:1:423A:3DB8:13E:820000:0:0:0:</channel><!-- ADVENTURE HD -->
