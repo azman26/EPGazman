@@ -15,6 +15,8 @@
 <!-- 13.0E --><channel id="AXN Black">1:0:1:1C87:1CE8:71:820000:0:0:0:</channel><!-- AXN Black -->
 <!-- 13.0E --><channel id="AXN Spin">1:0:1:DB4:2D50:13E:820000:0:0:0.</channel><!-- AXN SPIN HD -->
 <!-- 13.0E --><channel id="AXN Spin">1:0:1:DE6:2D50:13E:820000:0:0:0:</channel><!-- AXN SPIN HD -->
+<!-- 13.0E --><channel id="AXN Spin">1:0:1:1136:2AF8:13E:820000:0:0:0:</channel><!-- AXN SPIN HD -->
+<!-- 13.0E --><channel id="AXN Spin">1:0:1:1168:2AF8:13E:820000:0:0:0:</channel><!-- AXN SPIN HD -->
 <!-- 13.0E --><channel id="AXN White">1:0:1:1C86:1CE8:71:820000:0:0:0:</channel><!-- AXN White -->
 <!-- 13.0E --><channel id="Active Family">1:0:1:32D8:190:13E:820000:0:0:0:</channel><!-- Active Family -->
 <!-- 13.0E --><channel id="Adventure">1:0:1:423A:3DB8:13E:820000:0:0:0:</channel><!-- ADVENTURE HD -->
@@ -186,8 +188,11 @@
 <!-- 13.0E --><channel id="Minimini+">1:0:1:32E0:190:13E:820000:0:0:0:</channel><!-- MiniMini+ HD -->
 <!-- 13.0E --><channel id="Minimini+">1:0:1:32FE:190:13E:820000:0:0:0:</channel><!-- MiniMini+ HD -->
 <!-- 13.0E --><channel id="Motowizja">1:0:1:1137:2AF8:13E:820000:0:0:0:</channel><!-- Motowizja HD -->
+<!-- 13.0E --><channel id="Museum UHD">1:0:1:11FC:2B5C:13E:820000:0:0:0:</channel><!-- Museum 4K -->
 <!-- 13.0E --><channel id="MUSIC BOX">1:0:1:DB7:2D50:13E:820000:0:0:0:</channel><!-- Music Box Polska -->
 <!-- 13.0E --><channel id="MYZEN.TV">1:0:1:11FD:2B5C:13E:820000:0:0:0:</channel><!-- MyZen 4K -->
+<!-- 13.0E --><channel id="NASA UHD">1:0:1:11FA:2B5C:13E:820000:0:0:0:</channel><!-- NASA TV UHD -->
+<!-- 13.0E --><channel id="NASA TV">1:0:1:1F8:384:13E:820000:0:0:0:</channel><!-- NASA TV -->
 <!-- 13.0E --><channel id="Nat Geo People">1:0:1:2907:1EDC:71:820000:0:0:0:</channel><!-- Nat Geo People HD -->
 <!-- 13.0E --><channel id="National Geographic Wild">1:0:1:13F6:5DC:13E:820000:0:0:0:</channel><!-- National Geographic Wild HD -->
 <!-- 13.0E --><channel id="National Geographic Wild">1:0:1:1428:5DC:13E:820000:0:0:0:</channel><!-- National Geographic Wild HD -->
@@ -360,6 +365,7 @@
 <!-- 13.0E --><channel id="NASA UHD">1:0:1:11FA:2B5C:13E:820000:0:0:0:</channel><!-- NASA TV UHD -->
 
 <!-- 19.2E --><channel id="TV TRWAM">1:0:1:1090:3EE:1:C00000:0:0:0:</channel><!-- TV Trwam -->
+<!-- 19.2E --><channel id="Ukraina 24">1:0:1:1659:42C:1:C00000:0:0:0:</channel><!-- UA PERSHYJ -->
 
 <!-- 16.0E --><channel id="CLUB MTV">1:0:16:7A:3:40:A00000:0:0:0:</channel><!-- Club MTV -->
 <!-- 16.0E --><channel id="Eurochannel HD">1:0:1:4:2:16E:A00000:0:0:0:</channel><!-- EUROCHANNEL -->
@@ -374,7 +380,6 @@
 
 <!-- do sprawdzenia -->
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:7006:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
-<!-- 19.2E --><channel id="Перший.pl">1:0:1:1659:42C:1:C00000:0:0:0:</channel><!-- UA PERSHYJ -->
 <!-- 13.0E --><channel id="Freedom.pl">1:0:16:421C:2F44:13E:820000:0:0:0:</channel><!-- Freedom -->
 <!-- 13.0E --><channel id="Arte.pl">1:0:1:133:3E1C:13F:820000:0:0:0:</channel><!-- ARTE HD -->
 
