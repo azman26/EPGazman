@@ -368,6 +368,7 @@
 <!-- Polska Dodatkowy -->
 
 <!-- 13.0E --><channel id="ArirangTv.pl">1:0:1:6B3:3138:13E:820000:0:0:0:</channel><!-- ARIRANG WORLD -->
+<!-- 13.0E --><channel id="ArirangTv.pl">1:0:1:3332:1388:13E:820000:0:0:0:</channel><!-- ARIRANG HD -->
 <!-- 13.0E --><channel id="Arte.pl">1:0:1:133:3E1C:13F:820000:0:0:0:</channel><!-- ARTE HD -->
 <!-- 13.0E --><channel id="BBCWorldNews.pl">1:0:1:200C:24B8:13E:820000:0:0:0:</channel><!-- BBC World News -->
 <!-- 13.0E --><channel id="Bloomberg.pl">1:0:1:1C86:332C:13E:820000:0:0:0:</channel><!-- Bloomberg European TV -->
@@ -401,6 +402,7 @@
 <!-- IPTV --><channel id="13Tv.pl">4097:0:1:C6A0:D5D:EC:0:0:0:0:http%3a//</channel><!-- 13 TV -->
 <!-- IPTV --><channel id="2x2.pl">4097:0:1:F88C:5F52:EC:0:0:0:0:http%3a//</channel><!-- 2x2 -->
 <!-- IPTV --><channel id="360TuneBox.pl">4097:0:1:E87B:27C5:EC:0:0:0:0:http%3a//</channel><!-- 360 TuneBox -->
+<!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1:278A:E976:EC:0:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1:3:0:48:0:0:0:0:http%3a//</channel><!-- BELSAT TV -->
 <!-- IPTV --><channel id="Bollywood.pl">4097:0:1:756:1362:EC:0:0:0:0:http%3a//</channel><!-- BOLLYWOOD HD -->
 <!-- IPTV --><channel id="ClubMTV.pl">4097:0:16:7A:3:40:A00000:0:0:0:http%3a//</channel><!-- Club MTV -->
