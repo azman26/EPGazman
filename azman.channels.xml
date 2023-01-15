@@ -387,7 +387,6 @@
 <!-- 16.0E --><channel id="ClubMTV.pl">1:0:16:7A:3:40:A00000:0:0:0:</channel><!-- Club MTV -->
 <!-- 16.0E --><channel id="Eurochannel.pl">1:0:1:4:2:16E:A00000:0:0:0:</channel><!-- EUROCHANNEL -->
 <!-- 9.0E --><channel id="TVPPolonia.pl">1:0:1:5DC:1FA4:9C:5A0000:0:0:0:</channel><!-- TVP Polonia -->
-<!-- 9.0E --><channel id="iTVN.pl">1:0:1:1F7:2134:9C:5A0000:0:0:0:</channel><!-- iTVN Europe -->
 <!-- 9.0E --><channel id="StingrayCMusic.pl">1:0:1:41D:1:AA:5A0000:0:0:0:</channel><!-- Stingray CMusic -->
 <!-- 9.0E --><channel id="StingrayiConcerts.pl">1:0:1:3F5:1:AA:5A0000:0:0:0:</channel><!-- Stingray iConcerts -->
 <!-- 0.8W --><channel id="AnimalPlanet.pl">1:0:1:A29:2:5E:E08B00F:0:0:0:</channel><!-- Animal Planet Poland HD -->
@@ -475,8 +474,10 @@
 <!-- IPTV --><channel id="VIVARussia.pl">4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//</channel><!-- VIVA Russia -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:16:8E:B052:2268:EEEE0000:0:0:0:http%3a//</channel><!--Xtreme TV -->
-<!-- IPTV --><channel id="iTVN.pl">4097:0:1:1F7:2134:9C:5A0000:0:0:0:http%3a//</channel><!-- iTVN -->
-<!-- IPTV --><channel id="iTVNExtra.pl">4097:0:1:1F7:2135:9D:820000:0:0:0:http%3a//</channel><!-- iTVN EXTRA-->
+<!-- IPTV --><channel id="iTVN.pl">4097:0:1:7CA2:3CFC:EC:0:0:0:0:http%3a//</channel><!-- iTVN -->
+<!-- IPTV --><channel id="iTVNExtra.pl">4097:0:1:5B06:8F69:EC:0:0:0:0:http%3a//</channel><!-- iTVN EXTRA-->
+<!-- IPTV --><channel id="iTVN_US.pl">5002:0:1:1F7:2134:9C:5A0000:0:0:0:http%3a//</channel><!-- iTVN US/Central Time -->
+<!-- IPTV --><channel id="iTVNExtraUS.pl">5002:0:1:1F7:2135:9D:820000:0:0:0:http%3a//</channel><!-- iTVN EXTRA US/Central Time -->
 <!-- IPTV --><channel id="Перший.pl">4097:0:1:1659:42C:1:C00000:0:0:0:http%3a//</channel><!-- UA PERSHYJ -->
 
 <!-- RADIO -->
@@ -645,6 +646,9 @@
 <!-- DVB-T MUX3 --><channel id="TVPHistoria.pl">1:0:16:20:3:2268:EEEE0000:0:0:0:</channel><!--TVP Historia -->
 <!-- DVB-T MUX3 --><channel id="TVPInfo.pl">1:0:19:23:3:2268:EEEE0000:0:0:0:</channel><!--TVP Info HD -->
 <!-- DVB-T MUX3 --><channel id="TVPSport.pl">1:0:19:21:3:2268:EEEE0000:0:0:0:</channel><!--TVP Sport HD -->
+<!-- DVB-T MUX3 --><channel id="TVPABC2.pl">1:0:16:5C:3:2268:EEEE0000:0:0:0:</channel><!--TVP ABC 2 -->
+<!-- DVB-T MUX3 --><channel id="TVPHistoria2.pl">1:0:16:5D:3:2268:EEEE0000:0:0:0:</channel><!--TVP Historia 2 -->
+<!-- DVB-T MUX3 --><channel id="TVPKultura2.pl">1:0:16:5E:3:2268:EEEE0000:0:0:0:</channel><!--TVP Kultura 2 -->
 <!-- DVB-T MUX4 --><channel id="Wydarzenia24.pl">1:0:1F:76:F002:2268:EEEE0000:0:0:0:</channel><!--Wydarzenia 24 HD -->
 <!-- DVB-T MUX6 --><channel id="TVPRozrywka.pl">1:0:1F:55:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Rozrywka HD -->
 <!-- DVB-T MUX6 --><channel id="TVPDokument.pl">1:0:1F:56:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Dokument HD -->
@@ -655,11 +659,9 @@
 <!-- DVB-T MUX6 --><channel id="TVPPolonia.pl">1:0:1F:2A:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Polonia HD -->
 <!-- DVB-T MUX8 --><channel id="Metro.pl">1:0:16:39:7001:2268:EEEE0000:0:0:0:</channel><!--Metro -->
 <!-- DVB-T MUX8 --><channel id="NowaTv.pl">1:0:16:3B:7001:2268:EEEE0000:0:0:0:</channel><!--Nowa TV -->
-<!-- DVB-T MUX8 --><channel id="TVPABC2.pl">1:0:16:5C:7001:2268:EEEE0000:0:0:0:</channel><!--TVP ABC 2 -->
-<!-- DVB-T MUX8 --><channel id="TVPHistoria2.pl">1:0:16:5D:7001:2268:EEEE0000:0:0:0:</channel><!--TVP Historia 2 -->
-<!-- DVB-T MUX8 --><channel id="TVPKultura2.pl">1:0:16:5E:7001:2268:EEEE0000:0:0:0:</channel><!--TVP Kultura 2 -->
 <!-- DVB-T MUX8 --><channel id="WP.pl">1:0:16:3C:7001:2268:EEEE0000:0:0:0:</channel><!--WP -->
 <!-- DVB-T MUX8 --><channel id="ZoomTv.pl">1:0:16:3A:7001:2268:EEEE0000:0:0:0:</channel><!--Zoom TV -->
+<!-- DVB-T MUX8 --><channel id="Перший.pl">1:0:16:5F:7001:2268:EEEE0000:0:0:0:</channel><!-- UA Perszyj -->
 
 <!-- TV Kablowa -->
 
