@@ -2,7 +2,7 @@
 <sources>
 
 <!--
-Version: 28-10-2022 mod azman (23-12-1022)
+Version: 28-10-2022 mod azman (15-01-2023)
 -->
 
 <!--
@@ -354,11 +354,15 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>https://epg.ovh/pltv.gz</url>
 		</source>
 		<source type="gen_xmltv" nocheck="1" channels="azman.channels.xml.xz">
+			<description>iTVN US/Central Time</description>
+			<url>http://www.topolowa4.pl/azman_itvn.xml.xz</url>
+		</source>
+		<source type="gen_xmltv" nocheck="1" channels="azman.channels.xml.xz">
 			<description>TESTY</description>
 			<url>http://www.topolowa4.pl/testy.xml.xz</url>
 		</source>
 	</sourcecat>
-
+<!--
 	<sourcecat sourcecatname="Rytec Poland XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Polska - Podstawowy (xz)</description>
@@ -382,7 +386,7 @@ The description must be unique for each source, and is displayed on the UI.
 			<url>http://rytecepg.dyndns.tv/epg_data/rytecPL_SportMovies.xz</url>
 		</source>
 	</sourcecat>
-
+-->
 	<sourcecat sourcecatname="Rytec Portugal XMLTV">
 		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
 			<description>Portugal (xz)</description>
