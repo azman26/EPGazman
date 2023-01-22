@@ -626,7 +626,7 @@
 <!-- DVB-T MUX6 --><channel id="TVPPolonia.pl">1:0:1F:2A:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Polonia HD -->
 <!-- DVB-T MUX6 --><channel id="TVPKobieta.pl">1:0:1F:36:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Kobieta HD -->
 <!-- DVB-T MUX6 --><channel id="TVPKultura.pl">1:0:1F:37:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Kultura HD -->
-<!-- DVB-T MUX6 --><channel id="TVPNauka.pl">1:0:1F:3D:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Nauka HD -->
+<!-- DVB-T MUX6 --><channel id="TVPNauka.pl">1:0:1F:42:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Nauka HD -->
 <!-- DVB-T MUX6 --><channel id="TVPWorld.pl">1:0:1F:53:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP World HD -->
 <!-- DVB-T MUX6 --><channel id="TVPRozrywka.pl">1:0:1F:55:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Rozrywka HD -->
 <!-- DVB-T MUX6 --><channel id="TVPDokument.pl">1:0:1F:56:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Dokument HD -->
