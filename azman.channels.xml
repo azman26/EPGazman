@@ -624,12 +624,15 @@
 <!-- DVB-T MUX4 --><channel id="Wydarzenia24.pl">1:0:1F:76:F002:2268:EEEE0000:0:0:0:</channel><!--Wydarzenia 24 HD -->
 
 <!-- DVB-T MUX6 --><channel id="TVPPolonia.pl">1:0:1F:2A:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Polonia HD -->
+<!-- DVB-T MUX6 --><channel id="BelsatTv.pl">1:0:1F:22:3A2:2268:EEEE0000:0:0:0:</channel><!-- BELSAT TV -->
+<!-- DVB-T MUX6 --><channel id="AlfaTVP.pl">1:0:1F:28:3A2:2268:EEEE0000:0:0:0:</channel><!-- Alfa TVP -->
 <!-- DVB-T MUX6 --><channel id="TVPKobieta.pl">1:0:1F:36:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Kobieta HD -->
 <!-- DVB-T MUX6 --><channel id="TVPKultura.pl">1:0:1F:37:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Kultura HD -->
 <!-- DVB-T MUX6 --><channel id="TVPNauka.pl">1:0:1F:42:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Nauka HD -->
 <!-- DVB-T MUX6 --><channel id="TVPWorld.pl">1:0:1F:53:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP World HD -->
 <!-- DVB-T MUX6 --><channel id="TVPRozrywka.pl">1:0:1F:55:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Rozrywka HD -->
 <!-- DVB-T MUX6 --><channel id="TVPDokument.pl">1:0:1F:56:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Dokument HD -->
+
 
 <!-- DVB-T MUX8 --><channel id="Metro.pl">1:0:16:39:7001:2268:EEEE0000:0:0:0:</channel><!--Metro -->
 <!-- DVB-T MUX8 --><channel id="ZoomTv.pl">1:0:16:3A:7001:2268:EEEE0000:0:0:0:</channel><!--Zoom TV -->
