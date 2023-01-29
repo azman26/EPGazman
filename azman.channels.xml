@@ -614,6 +614,7 @@
 <!-- DVB-T MUX3 --><channel id="TVP3Kielce.pl">1:0:16:C:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Kielce -->
 <!-- DVB-T MUX3 --><channel id="TVP3Lodz.pl">1:0:16:F:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Łódź -->
 <!-- DVB-T MUX3 --><channel id="TVP3Wroclaw.pl">1:0:16:16:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Wrocław -->
+<!-- DVB-T MUX3 --><channel id="TVP3Lublin.pl">1:0:16:E:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Lublin -->
 <!-- DVB-T MUX3 --><channel id="TVPHistoria.pl">1:0:16:20:3:2268:EEEE0000:0:0:0:</channel><!--TVP Historia -->
 <!-- DVB-T MUX3 --><channel id="TVPSport.pl">1:0:19:21:3:2268:EEEE0000:0:0:0:</channel><!--TVP Sport HD -->
 <!-- DVB-T MUX3 --><channel id="TVPInfo.pl">1:0:19:23:3:2268:EEEE0000:0:0:0:</channel><!--TVP Info HD -->
@@ -632,7 +633,6 @@
 <!-- DVB-T MUX6 --><channel id="TVPWorld.pl">1:0:1F:53:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP World HD -->
 <!-- DVB-T MUX6 --><channel id="TVPRozrywka.pl">1:0:1F:55:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Rozrywka HD -->
 <!-- DVB-T MUX6 --><channel id="TVPDokument.pl">1:0:1F:56:3A2:2268:EEEE0000:0:0:0:</channel><!--TVP Dokument HD -->
-
 
 <!-- DVB-T MUX8 --><channel id="Metro.pl">1:0:16:39:7001:2268:EEEE0000:0:0:0:</channel><!--Metro -->
 <!-- DVB-T MUX8 --><channel id="ZoomTv.pl">1:0:16:3A:7001:2268:EEEE0000:0:0:0:</channel><!--Zoom TV -->
