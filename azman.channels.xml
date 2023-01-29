@@ -204,7 +204,7 @@
 <!-- 13.0E --><channel id="Nickelodeon.pl">1:0:1:9:21FC:0:823095:0:0:0:</channel><!-- Nickelodeon -->
 <!-- 13.0E --><channel id="NickelodeonUAPlutoTv.pl">1:0:1:11:1964:13E:820000:0:0:0:</channel><!-- Nickelodeon Ukraine Pluto TV -->
 <!-- 13.0E --><channel id="Nicktoons.pl">1:0:1:E:1964:13E:820000:0:0:0:</channel><!-- Nicktoons HD -->
-<!-- 13.0E --><channel id="Nicktoons.pl">1:0:19:E:1964:13E:820000:0:0:0:</channel><!-- Nicktoons HD -->
+<!-- 13.0E --><channel id="Nicktoons.pl">1:0:1:45:1964:13E:820000:0:0:0:</channel><!-- Nicktoons HD -->
 <!-- 13.0E --><channel id="NovelaTv.pl">1:0:1:423F:3DB8:13E:820000:0:0:0:</channel><!-- Novela TV -->
 <!-- 13.0E --><channel id="NovelaTv.pl">1:0:1:4240:3DB8:13E:820000:0:0:0:</channel><!-- Novela Tv -->
 <!-- 13.0E --><channel id="Novelas+.pl">1:0:1:3A9A:514:13E:820000:0:0:0:</channel><!-- NOVELAS+ -->
@@ -250,6 +250,7 @@
 <!-- 13.0E --><channel id="PolsatNews.pl">1:0:1:33E9:3390:71:820000:0:0:0:</channel><!-- Polsat News HD -->
 <!-- 13.0E --><channel id="PolsatNews.pl">1:0:1:33F9:3390:71:820000:0:0:0:</channel><!-- Polsat News HD -->
 <!-- 13.0E --><channel id="PolsatNews2.pl">1:0:1:3333:3390:71:820000:0:0:0:</channel><!-- Polsat News 2 -->
+<!-- 13.0E --><channel id="PolsatNews2.pl">1:0:1:3343:3390:71:820000:0:0:0:</channel><!-- Polsat News 2 -->
 <!-- 13.0E --><channel id="PolsatNews2.pl">1:0:1:3353:3390:71:820000:0:0:0:</channel><!-- Polsat News 2 -->
 <!-- 13.0E --><channel id="PolsatNews2.pl">1:0:1:3363:3390:71:820000:0:0:0:</channel><!-- Polsat News 2 -->
 <!-- 13.0E --><channel id="PolsatPlay.pl">1:0:1:3392:3390:71:820000:0:0:0:</channel><!-- Polsat Play HD -->
