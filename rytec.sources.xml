@@ -2,7 +2,7 @@
 <sources>
 
 <!--
-Version: 11-02-2023 mod azman (14-02-2023)
+Version: 11-02-2023 mod azman (07-03-2023)
 -->
 
 <!--
@@ -356,7 +356,11 @@ The description must be unique for each source, and is displayed on the UI.
 			<description>Polska - Radio</description>
 			<url>http://www.topolowa4.pl/azman_radio.xml.xz</url>
 		</source>
-		<source type="gen_xmltv" nocheck="1" channels="azman.channels.xml.xz">
+				<source type="gen_xmltv" channels="azman.channels.xml.xz">
+			<description>Rakuten TV PL</description>
+			<url>http://www.topolowa4.pl/azman_rakuten_pl.xml.xz</url>
+		</source>
+		<source type="gen_xmltv" channels="azman.channels.xml.xz">
 			<description>iTVN US/Central Time</description>
 			<url>http://www.topolowa4.pl/azman_itvn.xml.xz</url>
 		</source>
