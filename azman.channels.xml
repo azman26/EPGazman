@@ -525,6 +525,8 @@
 <!-- IPTV --><channel id="BloombergOriginals.rtv.pl">4097:0:1:236:A11A:2268:0:0:0:0:http%3a//</channel><!-- Bloomberg Originals -->
 <!-- IPTV --><channel id="BloombergTV.rtv.pl">4097:0:1:237:A11A:2268:0:0:0:0:http%3a//</channel><!-- Bloomberg TV -->
 <!-- IPTV --><channel id="TheGuardian.rtv.pl">4097:0:1:238:A11A:2268:0:0:0:0:http%3a//</channel><!-- The Guardian -->
+<!-- IPTV --><channel id="BjgTjme.rtv.pl">4097:0:1:239:A11A:2268:0:0:0:0:http%3a//</channel><!-- BjgTjme -->
+<!-- IPTV --><channel id="WorldOfFreeSports.rtv.pl">4097:0:1:23A:A11A:2268:0:0:0:0:http%3a//</channel><!-- World Of Free Sports -->
 
 <!-- RADIO --><!-- 1-200:A22A:2268 -->
 
