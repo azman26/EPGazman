@@ -410,6 +410,7 @@
 <!-- IPTV --><channel id="DuckTv.pl">4097:0:1:7985:ABC6:EC:0:0:0:0:http%3a//</channel><!-- DUCK TV -->
 <!-- IPTV --><channel id="DuckTvPlus.pl">4097:0:1:C1B:240E:EC:0:0:0:0:http%3a//</channel><!-- DUCK TV PLUS-->
 <!-- IPTV --><channel id="E-Sport.pl">4097:0:1:6745:7F4A:EC:0:0:0:0:http%3a//</channel><!-- E-SPORT -->
+<!-- IPTV --><channel id="Echo24.pl">4097:0:19:50:B052:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Echo24 HD -->
 <!-- IPTV --><channel id="EnglishClubTv.pl">4097:0:1:7985:ABCC:EC:0:0:0:0:http%3a//</channel><!-- ENGLISH CLUB TV HD -->
 <!-- IPTV --><channel id="Eurochannel.pl">4097:0:1:4:2:16E:A00000:0:0:0:http%3a//</channel><!-- EUROCHANNEL -->
 <!-- IPTV --><channel id="FanKlubTv.pl">4097:0:19:1776:6A:64:FFFF0000:0:0:0:http%3a//</channel><!-- FANKLUB TV -->
@@ -453,6 +454,26 @@
 <!-- IPTV --><channel id="iTVNExtra.pl">4097:0:1:5B06:8F69:EC:0:0:0:0:http%3a//</channel><!-- iTVN EXTRA-->
 <!-- IPTV --><channel id="iTVNExtraUS.pl">4097:0:1:1F7:2135:9D:820000:0:0:0:http%3a//</channel><!-- iTVN EXTRA US/Central Time -->
 <!-- IPTV --><channel id="iTVN_US.pl">4097:0:1:1F7:2134:9C:5A0000:0:0:0:http%3a//</channel><!-- iTVN US/Central Time -->
+
+
+<!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
+<!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
+<!-- IPTV --><channel id="TVP3Katowice.pl">4097:0:16:B:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Katowice -->
+<!-- IPTV --><channel id="TVP3Kielce.pl">4097:0:16:C:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Kielce -->
+<!-- IPTV --><channel id="TVP3Krakow.pl">4097:0:16:D:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Kraków -->
+<!-- IPTV --><channel id="TVP3Lodz.pl">4097:0:16:F:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Łódź -->
+<!-- IPTV --><channel id="TVP3Lublin.pl">4097:0:16:E:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Lublin -->
+<!-- IPTV --><channel id="TVP3Opole.pl">4097:0:16:11:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Opole -->
+<!-- IPTV --><channel id="TVP3Rzeszow.pl">4097:0:16:13:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Rzeszów -->
+<!-- IPTV --><channel id="TVP3Warszawa.pl">4097:0:16:15:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Warszawa -->
+<!-- IPTV --><channel id="TVP3Wroclaw.pl">4097:0:16:16:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Wrocław -->
+<!-- IPTV --><channel id="TVPABC2.pl">4097:0:16:5C:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP ABC 2 -->
+<!-- IPTV --><channel id="TVPHistoria2.pl">4097:0:16:5D:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Historia 2 -->
+<!-- IPTV --><channel id="TVPKobieta.pl">4097:0:1F:36:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Kobieta -->
+<!-- IPTV --><channel id="TVPKultura2.pl">4097:0:16:5E:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Kultura 2 -->
+<!-- IPTV --><channel id="TVPNauka.pl">4097:0:1F:42:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Nauka -->
+<!-- IPTV --><channel id="TVPWorld.pl">4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP World -->
+<!-- IPTV --><channel id="Перший.pl">4097:0:16:5F:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!-- UA Perszyj -->
 
 <!-- Rakuten TV --><!-- 500-700:A11A:2268 -->
 
@@ -655,19 +676,21 @@
 
 <!-- DVB-T MUX3 --><channel id="TVP1.pl">1:0:19:1:3:2268:EEEE0000:0:0:0:</channel><!--TVP1 HD -->
 <!-- DVB-T MUX3 --><channel id="TVP2.pl">1:0:19:2:3:2268:EEEE0000:0:0:0:</channel><!--TVP2 HD -->
-<!-- DVB-T MUX3 --><channel id="TVP3Warszawa.pl">1:0:16:15:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Warszawa -->
 <!-- DVB-T MUX3 --><channel id="TVP3Katowice.pl">1:0:16:B:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Katowice -->
 <!-- DVB-T MUX3 --><channel id="TVP3Kielce.pl">1:0:16:C:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Kielce -->
+<!-- DVB-T MUX3 --><channel id="TVP3Krakow.pl">1:0:16:D:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Kraków -->
 <!-- DVB-T MUX3 --><channel id="TVP3Lodz.pl">1:0:16:F:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Łódź -->
-<!-- DVB-T MUX3 --><channel id="TVP3Wroclaw.pl">1:0:16:16:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Wrocław -->
 <!-- DVB-T MUX3 --><channel id="TVP3Lublin.pl">1:0:16:E:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Lublin -->
 <!-- DVB-T MUX3 --><channel id="TVP3Opole.pl">1:0:16:11:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Opole -->
-<!-- DVB-T MUX3 --><channel id="TVPHistoria.pl">1:0:16:20:3:2268:EEEE0000:0:0:0:</channel><!--TVP Historia -->
-<!-- DVB-T MUX3 --><channel id="TVPSport.pl">1:0:19:21:3:2268:EEEE0000:0:0:0:</channel><!--TVP Sport HD -->
-<!-- DVB-T MUX3 --><channel id="TVPInfo.pl">1:0:19:23:3:2268:EEEE0000:0:0:0:</channel><!--TVP Info HD -->
+<!-- DVB-T MUX3 --><channel id="TVP3Rzeszow.pl">1:0:16:13:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Rzeszów -->
+<!-- DVB-T MUX3 --><channel id="TVP3Warszawa.pl">1:0:16:15:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Warszawa -->
+<!-- DVB-T MUX3 --><channel id="TVP3Wroclaw.pl">1:0:16:16:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Wrocław -->
 <!-- DVB-T MUX3 --><channel id="TVPABC2.pl">1:0:16:5C:3:2268:EEEE0000:0:0:0:</channel><!--TVP ABC 2 -->
+<!-- DVB-T MUX3 --><channel id="TVPHistoria.pl">1:0:16:20:3:2268:EEEE0000:0:0:0:</channel><!--TVP Historia -->
 <!-- DVB-T MUX3 --><channel id="TVPHistoria2.pl">1:0:16:5D:3:2268:EEEE0000:0:0:0:</channel><!--TVP Historia 2 -->
+<!-- DVB-T MUX3 --><channel id="TVPInfo.pl">1:0:19:23:3:2268:EEEE0000:0:0:0:</channel><!--TVP Info HD -->
 <!-- DVB-T MUX3 --><channel id="TVPKultura2.pl">1:0:16:5E:3:2268:EEEE0000:0:0:0:</channel><!--TVP Kultura 2 -->
+<!-- DVB-T MUX3 --><channel id="TVPSport.pl">1:0:19:21:3:2268:EEEE0000:0:0:0:</channel><!--TVP Sport HD -->
 
 <!-- DVB-T MUX4 --><channel id="PolsatSport.pl">1:0:1F:6E:F002:2268:EEEE0000:0:0:0:</channel><!-- Polsat Sport HD -->
 <!-- DVB-T MUX4 --><channel id="PolsatSportExtra.pl">1:0:1F:6F:F002:2268:EEEE0000:0:0:0:</channel><!-- Polsat Sport Extra HD -->
@@ -745,10 +768,10 @@
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Polsat.pl">1:0:19:2E:B052:2268:EEEE0000:0:0:0:</channel><!-- Polsat HD -->
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Echo24.pl">1:0:19:50:B052:2268:EEEE0000:0:0:0:</channel><!-- Echo24 HD -->
 
-<!-- DVB-T MUX-TVS --><channel id="Polsat.pl">1:0:19:4E:15:2268:EEEE0000:0:0:0:</channel><!--Polsat HD -->
-<!-- DVB-T MUX-TVS --><channel id="TVS.pl">1:0:19:4C:15:2268:EEEE0000:0:0:0:</channel><!--TVS -->
-<!-- DVB-T MUX-TVS --><channel id="TvOkazje.pl">1:0:16:4D:15:2268:EEEE0000:0:0:0:</channel><!--TVO TV -->
-<!-- DVB-T MUX-TVS --><channel id="TvRepublika.pl">1:0:16:50:15:2268:EEEE0000:0:0:0:</channel><!--TV Republika -->
+<!-- DVB-T MUX-TVS --><channel id="Polsat.pl">1:0:1F:4E:15:2268:EEEE0000:0:0:0:</channel><!--Polsat HD -->
+<!-- DVB-T MUX-TVS --><channel id="TVS.pl">1:0:1F:4C:15:2268:EEEE0000:0:0:0:</channel><!--TVS -->
+<!-- DVB-T MUX-TVS --><channel id="TvOkazje.pl">1:0:1F:4D:15:2268:EEEE0000:0:0:0:</channel><!--TVO TV -->
+<!-- DVB-T MUX-TVS --><channel id="TvRepublika.pl">1:0:1F:50:15:2268:EEEE0000:0:0:0:</channel><!--TV Republika -->
 <!-- DVB-T MUX-TVS --><channel id="RadioSilesia.pl">1:0:2:101B:15:2268:EEEE0000:0:0:0:</channel><!--Radio Silesia -->
 
 <!-- DVB-T EXP MUX MWE (Katowice) --><channel id="Filmax.pl">1:0:1F:4C:9192:2268:EEEE0000:0:0:0:</channel><!--Filmax HD -->
