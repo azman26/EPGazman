@@ -3,7 +3,6 @@
 <!-- Polska Podstawowy -->
 
 <!-- 19.2E --><channel id="TvTrwam.pl">1:0:1:1090:3EE:1:C00000:0:0:0:</channel><!-- TV Trwam -->
-<!-- 19.2E --><channel id="Перший.pl">1:0:1:1659:42C:1:C00000:0:0:0:</channel><!-- UA PERSHYJ -->
 
 <!-- 13.0E --><channel id="13Ulica.pl">1:0:1:3E26:2EE0:13E:820000:0:0:0:</channel><!-- 13 Ulica HD -->
 <!-- 13.0E --><channel id="13Ulica.pl">1:0:1:3E44:2EE0:13E:820000:0:0:0:</channel><!-- 13 Ulica HD -->
@@ -356,6 +355,12 @@
 <!-- 0.8W --><channel id="DiscoveryHistoria.pl">1:0:1:514:2:5E:E08B00F:0:0:0:</channel><!-- Historia Poland -->
 <!-- 0.8W --><channel id="TurboXtra.pl">1:0:1:BB8:2:5E:E08B00F:0:0:0:</channel><!-- Turbo Xtra Poland HD -->
 
+<!-- 13.0E --><channel id="VOD205.pl">1:0:1:3F:1964:13E:820000:0:0:0:</channel><!-- VOD 5 -->
+<!-- 13.0E --><channel id="VOD206.pl">1:0:1:40:1964:13E:820000:0:0:0:</channel><!-- VOD 6 -->
+<!-- 13.0E --><channel id="VOD207.pl">1:0:1:41:1964:13E:820000:0:0:0:</channel><!-- VOD 7 -->
+<!-- 13.0E --><channel id="VOD208.pl">1:0:1:42:1964:13E:820000:0:0:0:</channel><!-- VOD 8 -->
+
+
 <!-- Polska Dodatkowy -->
 
 <!-- 13.0E --><channel id="AlJazeera.pl">1:0:19:1C8A:332C:13E:820000:0:0:0:</channel><!-- Al Jazeera English HD -->
@@ -390,6 +395,7 @@
 <!-- 19.2E --><channel id="SkyNews.pl">1:0:1:1C7A:457:1:C00000:0:0:0:</channel><!-- Sky News -->
 <!-- 19.2E --><channel id="StingrayDJazz.pl">1:0:19:22CB:434:1:C00000:0:0:0:</channel><!-- Stingray DJAZZ HD -->
 <!-- 19.2E --><channel id="StingrayClassica.pl">1:0:19:200D:430:1:C00000:0:0:0:</channel><!-- Stingray Classica HD -->
+<!-- 19.2E --><channel id="Перший.pl">1:0:1:1659:42C:1:C00000:0:0:0:</channel><!-- UA PERSHYJ -->
 <!-- 16.0E --><channel id="ClubMTV.pl">1:0:16:7A:3:40:A00000:0:0:0:</channel><!-- Club MTV -->
 <!-- 16.0E --><channel id="Eurochannel.pl">1:0:1:4:2:16E:A00000:0:0:0:</channel><!-- EUROCHANNEL -->
 <!-- 9.0E --><channel id="StingrayCMusic.pl">1:0:1:41D:1:AA:5A0000:0:0:0:</channel><!-- Stingray CMusic -->
@@ -459,21 +465,37 @@
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
 <!-- IPTV --><channel id="TVP3Bialystok.pl">4097:0:16:7:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Białystok -->
+<!-- IPTV --><channel id="TVP3Bialystok.pl">4097:0:1:7:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Białystok -->
 <!-- IPTV --><channel id="TVP3Bydgoszcz.pl">4097:0:16:8:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Bydgoszcz -->
+<!-- IPTV --><channel id="TVP3Bydgoszcz.pl">4097:0:1:8:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Bydgoszcz -->
 <!-- IPTV --><channel id="TVP3Gdansk.pl">4097:0:16:9:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Gdańsk -->
+<!-- IPTV --><channel id="TVP3Gdansk.pl">4097:0:1:9:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Gdańsk -->
 <!-- IPTV --><channel id="TVP3GorzowWlkp.pl">4097:0:16:A:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP 3 Gorzów Wielkopolski -->
+<!-- IPTV --><channel id="TVP3GorzowWlkp.pl">4097:0:1:10:0:48:0:0:0:0:http%3a//</channel><!--TVP 3 Gorzów Wielkopolski -->
 <!-- IPTV --><channel id="TVP3Katowice.pl">4097:0:16:B:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Katowice -->
+<!-- IPTV --><channel id="TVP3Katowice.pl">4097:0:1:11:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Katowice -->
 <!-- IPTV --><channel id="TVP3Kielce.pl">4097:0:16:C:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Kielce -->
+<!-- IPTV --><channel id="TVP3Kielce.pl">4097:0:1:12:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Kielce -->
 <!-- IPTV --><channel id="TVP3Krakow.pl">4097:0:16:D:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Kraków -->
+<!-- IPTV --><channel id="TVP3Krakow.pl">4097:0:1:13:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Kraków -->
 <!-- IPTV --><channel id="TVP3Lublin.pl">4097:0:16:E:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Lublin -->
+<!-- IPTV --><channel id="TVP3Lublin.pl">4097:0:1:14:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Lublin -->
 <!-- IPTV --><channel id="TVP3Lodz.pl">4097:0:16:F:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Łódź -->
+<!-- IPTV --><channel id="TVP3Lodz.pl">4097:0:1:15:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Łódź -->
 <!-- IPTV --><channel id="TVP3Olsztyn.pl">4097:0:16:10:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP 3 Olsztyn -->
+<!-- IPTV --><channel id="TVP3Olsztyn.pl">4097:0:1:16:0:48:0:0:0:0:http%3a//</channel><!--TVP 3 Olsztyn -->
 <!-- IPTV --><channel id="TVP3Opole.pl">4097:0:16:11:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Opole -->
+<!-- IPTV --><channel id="TVP3Opole.pl">4097:0:1:17:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Opole -->
 <!-- IPTV --><channel id="TVP3Poznan.pl">4097:0:16:12:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP 3 Poznań -->
+<!-- IPTV --><channel id="TVP3Poznan.pl">4097:0:1:18:0:48:0:0:0:0:http%3a//</channel><!--TVP 3 Poznań -->
 <!-- IPTV --><channel id="TVP3Rzeszow.pl">4097:0:16:13:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Rzeszów -->
+<!-- IPTV --><channel id="TVP3Rzeszow.pl">4097:0:1:19:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Rzeszów -->
 <!-- IPTV --><channel id="TVP3Szczecin.pl">4097:0:16:14:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP 3 Szczecin -->
+<!-- IPTV --><channel id="TVP3Szczecin.pl">4097:0:1:20:0:48:0:0:0:0:http%3a//</channel><!--TVP 3 Szczecin -->
 <!-- IPTV --><channel id="TVP3Warszawa.pl">4097:0:16:15:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Warszawa -->
+<!-- IPTV --><channel id="TVP3Warszawa.pl">4097:0:1:21:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Warszawa -->
 <!-- IPTV --><channel id="TVP3Wroclaw.pl">4097:0:16:16:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Wrocław -->
+<!-- IPTV --><channel id="TVP3Wroclaw.pl">4097:0:1:22:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Wrocław -->
 <!-- IPTV --><channel id="TVPABC2.pl">4097:0:16:5C:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP ABC 2 -->
 <!-- IPTV --><channel id="TVPHistoria2.pl">4097:0:16:5D:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Historia 2 -->
 <!-- IPTV --><channel id="TVPKobieta.pl">4097:0:1F:36:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Kobieta -->
