@@ -778,6 +778,19 @@
 <!-- DVB-T MUX BCAST --><channel id="TvOkazje.pl">1:0:19:4F:E1:D58:EEEE0000:0:0:0:</channel><!--TV Okazje -->
 <!-- DVB-T MUX BCAST --><channel id="StarsTv.pl">1:0:1:54:E1:D58:EEEE0000:0:0:0:</channel><!--STARS.TV -->
 <!-- DVB-T MUX BCAST --><channel id="EWTNPolska.pl">1:0:1:5A:E1:D58:EEEE0000:0:0:0:</channel><!-- EWTN HD-->
+  
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="Echo24.pl">1:0:19:50:14:2268:EEEE0000:0:0:0:</channel><!-- Echo24 HD -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TVC.pl">1:0:1F:26:14:2268:EEEE0000:0:0:0:</channel><!-- TVC HD -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="PowerTv.pl">1:0:1F:4A:14:2268:EEEE0000:0:0:0:</channel><!-- Power TV -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="NutaTv.pl">1:0:1F:4B:14:2268:EEEE0000:0:0:0:</channel><!-- Nuta TV -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="Filmax.pl">1:0:1F:4C:14:2268:EEEE0000:0:0:0:</channel><!-- Filmax -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="NutaGold.pl">1:0:1F:4D:14:2268:EEEE0000:0:0:0:</channel><!-- Nuta Gold -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="JuniorMusic.pl">1:0:1F:4E:14:2268:EEEE0000:0:0:0:</channel><!-- Junior Music -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="StarsTv.pl">1:0:1F:51:14:2268:EEEE0000:0:0:0:</channel><!-- Stars TV -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TvOkazje.pl">1:0:1F:52:14:2268:EEEE0000:0:0:0:</channel><!-- TV Okazje -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TvDamiTvBoleslawiec.pl">1:0:1F:8D:14:2268:EEEE0000:0:0:0:</channel><!-- TV Dami / TV Boleslawiec -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="XtremeTv.pl">1:0:1F:8E:14:2268:EEEE0000:0:0:0:</channel><!-- Xtreme TV -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="HomeTv.pl">1:0:1F:8F:14:2268:EEEE0000:0:0:0:</channel><!-- HOME TV -->
 
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1:25:8:0:EEEE0000:0:0:0:</channel><!--TVT -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TVN.pl">1:0:1:2F:8:0:EEEE0000:0:0:0:</channel><!--TVN HD -->
