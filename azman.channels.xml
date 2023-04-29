@@ -41,7 +41,9 @@
 <!-- 13.0E --><channel id="BBCLifestyle.pl">1:0:1:7E5:22C4:13E:820000:0:0:0:</channel><!-- BBC Lifestyle HD -->
 <!-- 13.0E --><channel id="BabyTv.pl">1:0:1:421D:2F44:13E:820000:0:0:0:</channel><!-- Baby TV -->
 <!-- 13.0E --><channel id="Biznes24.pl">1:0:1:3D57:2C88:13E:820000:0:0:0:</channel><!-- BIZNES24 HD -->
+<!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:4221:2F44:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="Boomerang.pl">1:0:1:4295:2BC0:13E:820000:0:0:0:</channel><!-- Boomerang HD -->
+<!-- 13.0E --><channel id="BrazzersTvEurope.pl">1:0:1:4207:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV Europe -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:13ED:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
 <!-- 13.0E --><channel id="C+4KUltra.pl">1:0:1:1170:2AF8:13E:820000:0:0:0:</channel><!-- CANAL+ 4K ULTRA HD -->
 <!-- 13.0E --><channel id="C+4KUltra.pl">1:0:1:1171:2AF8:13E:820000:0:0:0:</channel><!-- CANAL+ 4K ULTRA HD -->
@@ -102,6 +104,7 @@
 <!-- 13.0E --><channel id="DisneyChannel.pl">1:0:1:1CC5:1CE8:71:820000:0:0:0:</channel><!-- Disney Channel HD -->
 <!-- 13.0E --><channel id="DisneyJr.pl">1:0:1:2938:1EDC:71:820000:0:0:0:</channel><!-- Disney Junior -->
 <!-- 13.0E --><channel id="DisneyXD.pl">1:0:1:1CB5:1CE8:71:820000:0:0:0:</channel><!-- Disney XD -->
+<!-- 13.0E --><channel id="DorcelTv.pl">1:0:1:4205:2F44:13E:820000:0:0:0:</channel><!-- Dorcel TV -->
 <!-- 13.0E --><channel id="E!.pl">1:0:1:3E1E:2EE0:13E:820000:0:0:0:</channel><!-- E! Entertainment -->
 <!-- 13.0E --><channel id="ElevenSports1.pl">1:0:1:13F3:5DC:13E:820000:0:0:0:</channel><!-- Eleven Sports 1 HD -->
 <!-- 13.0E --><channel id="ElevenSports1.pl">1:0:1:1425:5DC:13E:820000:0:0:0:</channel><!-- Eleven Sports 1 HD -->
@@ -155,14 +158,15 @@
 <!-- 13.0E --><channel id="HBO2.pl">1:0:1:143A:5DC:13E:820000:0:0:0:</channel><!-- HBO2 HD -->
 <!-- 13.0E --><channel id="HBO2.pl">1:0:1:1444:5DC:13E:820000:0:0:0:</channel><!-- HBO2 HD -->
 <!-- 13.0E --><channel id="HBO3.pl">1:0:1:13F9:5DC:13E:820000:0:0:0:</channel><!-- HBO3 HD -->
-<!-- 13.0E --><channel id="HBO3.pl">1:0:1:143F:5DC:13E:820000:0:0:0:</channel><!-- HBO3 HD -->
 <!-- 13.0E --><channel id="HBO3.pl">1:0:1:142B:5DC:13E:820000:0:0:0:</channel><!-- HBO3 HD -->
+<!-- 13.0E --><channel id="HBO3.pl">1:0:1:143F:5DC:13E:820000:0:0:0:</channel><!-- HBO3 HD -->
 <!-- 13.0E --><channel id="HBO3.pl">1:0:1:1449:5DC:13E:820000:0:0:0:</channel><!-- HBO3 HD -->
 <!-- 13.0E --><channel id="HGTV.pl">1:0:19:10EB:3E8:13E:820000:0:0:0:</channel><!-- HGTV HD -->
 <!-- 13.0E --><channel id="History.pl">1:0:1:C2F:1E78:71:820000:0:0:0:</channel><!-- History HD -->
 <!-- 13.0E --><channel id="History.pl">1:0:1:C32:1E78:71:820000:0:0:0:</channel><!-- History HD -->
 <!-- 13.0E --><channel id="History2.pl">1:0:1:3E22:2EE0:13E:820000:0:0:0:</channel><!-- History 2 HD -->
 <!-- 13.0E --><channel id="HomeTv.pl">1:0:1:32D0:190:13E:820000:0:0:0:</channel><!-- HOME TV -->
+<!-- 13.0E --><channel id="Hustler.pl">1:0:19:4220:2F44:13E:820000:0:0:0:</channel><!-- Hustler HD -->
 <!-- 13.0E --><channel id="ID.pl">1:0:19:3B69:12C:13E:820000:0:0:0:</channel><!-- ID Poland HD -->
 <!-- 13.0E --><channel id="InUltra.pl">1:0:11:BEA:20D0:13E:820000:0:0:0:</channel><!-- InUltra -->
 <!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:13F2:5DC:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
@@ -173,11 +177,11 @@
 <!-- 13.0E --><channel id="LoveNature4K.pl">1:0:1:BC5:20D0:13E:820000:0:0:0:</channel><!-- Love Nature 4K -->
 <!-- 13.0E --><channel id="MTV.pl">1:0:19:F:1964:13E:820000:0:0:0:</channel><!-- MTV Polska HD -->
 <!-- 13.0E --><channel id="MTV.pl">1:0:1:F:1964:13E:820000:0:0:0:</channel><!-- MTV Polska HD -->
-<!-- 13.0E --><channel id="MTV00s.pl">1:0:1:8:1964:13E:820000:0:0:0:</channel><!-- MTV 00s -->
 <!-- 13.0E --><channel id="MTV00s.pl">1:0:19:8:1964:13E:820000:0:0:0:</channel><!-- MTV 00s -->
+<!-- 13.0E --><channel id="MTV00s.pl">1:0:1:8:1964:13E:820000:0:0:0:</channel><!-- MTV 00s -->
 <!-- 13.0E --><channel id="MTV90s.pl">1:0:1:1CB9:1CE8:71:820000:0:0:0:</channel><!-- MTV 90s -->
-<!-- 13.0E --><channel id="MTVLive.pl">1:0:1:1:1964:13E:820000:0:0:0:</channel><!-- MTV Live HD -->
 <!-- 13.0E --><channel id="MTVLive.pl">1:0:19:1:1964:13E:820000:0:0:0:</channel><!-- MTV Live HD -->
+<!-- 13.0E --><channel id="MTVLive.pl">1:0:1:1:1964:13E:820000:0:0:0:</channel><!-- MTV Live HD -->
 <!-- 13.0E --><channel id="Metro.pl">1:0:1:3DD4:640:13E:820000:0:0:0:</channel><!-- Metro HD -->
 <!-- 13.0E --><channel id="Metro.pl">1:0:1:4287:2BC0:13E:820000:0:0:0:</channel><!-- Metro HD -->
 <!-- 13.0E --><channel id="MiniMini.pl">1:0:1:32E0:190:13E:820000:0:0:0:</channel><!-- MiniMini+ HD -->
@@ -185,8 +189,8 @@
 <!-- 13.0E --><channel id="Motowizja.pl">1:0:1:1137:2AF8:13E:820000:0:0:0:</channel><!-- Motowizja HD -->
 <!-- 13.0E --><channel id="Museum4K.pl">1:0:1:11FC:2B5C:13E:820000:0:0:0:</channel><!-- Museum 4K -->
 <!-- 13.0E --><channel id="MyZen4K.pl">1:0:1:11FD:2B5C:13E:820000:0:0:0:</channel><!-- MyZen 4K -->
-<!-- 13.0E --><channel id="NasaTvUHD.pl">1:0:1:11FA:2B5C:13E:820000:0:0:0:</channel><!-- NASA TV UHD -->
 <!-- 13.0E --><channel id="NasaTv.pl">1:0:1:1F8:384:13E:820000:0:0:0:</channel><!-- NASA TV -->
+<!-- 13.0E --><channel id="NasaTvUHD.pl">1:0:1:11FA:2B5C:13E:820000:0:0:0:</channel><!-- NASA TV UHD -->
 <!-- 13.0E --><channel id="NatGeoPeople.pl">1:0:1:2907:1EDC:71:820000:0:0:0:</channel><!-- Nat Geo People HD -->
 <!-- 13.0E --><channel id="NatGeoWild.pl">1:0:1:13F6:5DC:13E:820000:0:0:0:</channel><!-- National Geographic Wild HD -->
 <!-- 13.0E --><channel id="NatGeoWild.pl">1:0:1:1428:5DC:13E:820000:0:0:0:</channel><!-- National Geographic Wild HD -->
@@ -194,15 +198,15 @@
 <!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:32DF:190:13E:820000:0:0:0:</channel><!-- NATIONAL GEO HD -->
 <!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:32FD:190:13E:820000:0:0:0:</channel><!-- NATIONAL GEO HD -->
 <!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:331B:190:13E:820000:0:0:0:</channel><!-- NATIONAL GEO HD -->
-<!-- 13.0E --><channel id="NickJr.pl">1:0:1:3:1964:13E:820000:0:0:0:</channel><!-- Nick Jr -->
 <!-- 13.0E --><channel id="NickJr.pl">1:0:19:3:1964:13E:820000:0:0:0:</channel><!-- Nick Jr -->
-<!-- 13.0E --><channel id="NickMusic.pl">1:0:1:2:1964:13E:820000:0:0:0:</channel><!-- Nick Music -->
+<!-- 13.0E --><channel id="NickJr.pl">1:0:1:3:1964:13E:820000:0:0:0:</channel><!-- Nick Jr -->
 <!-- 13.0E --><channel id="NickMusic.pl">1:0:19:2:1964:13E:820000:0:0:0:</channel><!-- Nick Music -->
+<!-- 13.0E --><channel id="NickMusic.pl">1:0:1:2:1964:13E:820000:0:0:0:</channel><!-- Nick Music -->
 <!-- 13.0E --><channel id="Nickelodeon.pl">1:0:19:9:1964:13E:820000:0:0:0:</channel><!-- Nickelodeon -->
 <!-- 13.0E --><channel id="Nickelodeon.pl">1:0:1:9:21FC:0:823095:0:0:0:</channel><!-- Nickelodeon -->
 <!-- 13.0E --><channel id="NickelodeonUAPlutoTv.pl">1:0:1:11:1964:13E:820000:0:0:0:</channel><!-- Nickelodeon Ukraine Pluto TV -->
-<!-- 13.0E --><channel id="Nicktoons.pl">1:0:1:E:1964:13E:820000:0:0:0:</channel><!-- Nicktoons HD -->
 <!-- 13.0E --><channel id="Nicktoons.pl">1:0:1:45:1964:13E:820000:0:0:0:</channel><!-- Nicktoons HD -->
+<!-- 13.0E --><channel id="Nicktoons.pl">1:0:1:E:1964:13E:820000:0:0:0:</channel><!-- Nicktoons HD -->
 <!-- 13.0E --><channel id="NovelaTv.pl">1:0:1:423F:3DB8:13E:820000:0:0:0:</channel><!-- Novela TV -->
 <!-- 13.0E --><channel id="NovelaTv.pl">1:0:1:4240:3DB8:13E:820000:0:0:0:</channel><!-- Novela Tv -->
 <!-- 13.0E --><channel id="Novelas+.pl">1:0:1:3A9A:514:13E:820000:0:0:0:</channel><!-- NOVELAS+ -->
@@ -275,8 +279,10 @@
 <!-- 13.0E --><channel id="PolsatViasatHistory.pl">1:0:1:C20:1E78:71:820000:0:0:0:</channel><!-- Polsat Viasat History HD -->
 <!-- 13.0E --><channel id="PolsatViasatNature.pl">1:0:1:2908:1EDC:71:820000:0:0:0:</channel><!-- Polsat Viasat Nature HD -->
 <!-- 13.0E --><channel id="PowerTv.pl">1:0:1:32D1:190:13E:820000:0:0:0:</channel><!-- POWER TV -->
+<!-- 13.0E --><channel id="PrivateTv.pl">1:0:19:4222:2F44:13E:820000:0:0:0:</channel><!-- Private TV HD -->
 <!-- 13.0E --><channel id="Puls2.pl">1:0:1:3D5E:2C88:13E:820000:0:0:0:</channel><!-- Puls 2 HD -->
 <!-- 13.0E --><channel id="RedCarpetTv.pl">1:0:1:32D6:190:13E:820000:0:0:0:</channel><!-- Red Carpet TV -->
+<!-- 13.0E --><channel id="Redlight.pl">1:0:1:4224:3DB8:13E:820000:0:0:0:</channel><!-- Redlight -->
 <!-- 13.0E --><channel id="RomanceTv.pl">1:0:1:3ABE:514:13E:820000:0:0:0:</channel><!-- Romance TV -->
 <!-- 13.0E --><channel id="RomanceTv.pl">1:0:1:3ADC:514:13E:820000:0:0:0:</channel><!-- Romance TV -->
 <!-- 13.0E --><channel id="SciFi.pl">1:0:1:3E20:2EE0:13E:820000:0:0:0:</channel><!-- SciFi HD -->
@@ -339,6 +345,8 @@
 <!-- 13.0E --><channel id="TvOkazje.pl">1:0:1:1C97:1CE8:71:820000:0:0:0:</channel><!-- TV Okazje -->
 <!-- 13.0E --><channel id="TvPuls.pl">1:0:1:3D66:2C88:13E:820000:0:0:0:</channel><!-- TV Puls HD -->
 <!-- 13.0E --><channel id="TvRepublika.pl">1:0:1:4289:2BC0:13E:820000:0:0:0:</channel><!-- TV Republika -->
+<!-- 13.0E --><channel id="VividRed.pl">1:0:1:4267:3DB8:13E:820000:0:0:0:</channel><!-- Vivid RED HD -->
+<!-- 13.0E --><channel id="VividTouch.pl">1:0:1:1CBB:1CE8:71:820000:0:0:0:</channel><!-- Vivid Touch -->
 <!-- 13.0E --><channel id="VoxMusicTv.pl">1:0:1:4298:2BC0:13E:820000:0:0:0:</channel><!-- VOX Music TV -->
 <!-- 13.0E --><channel id="WP.pl">1:0:1:3D5A:2C88:13E:820000:0:0:0:</channel><!-- WP -->
 <!-- 13.0E --><channel id="WarnerTv.pl">1:0:1:2905:1EDC:71:820000:0:0:0:</channel><!-- Warner TV -->
@@ -364,7 +372,6 @@
 <!-- Polska Dodatkowy -->
 
 <!-- 13.0E --><channel id="AlJazeera.pl">1:0:19:1C8A:332C:13E:820000:0:0:0:</channel><!-- Al Jazeera English HD -->
-<!-- 13.0E --><channel id="ArirangTv.pl">1:0:1:6B3:3138:13E:820000:0:0:0:</channel><!-- ARIRANG WORLD -->
 <!-- 13.0E --><channel id="ArirangTv.pl">1:0:1:3332:1388:13E:820000:0:0:0:</channel><!-- ARIRANG HD -->
 <!-- 13.0E --><channel id="Arte.pl">1:0:1:133:3E1C:13F:820000:0:0:0:</channel><!-- ARTE HD -->
 <!-- 13.0E --><channel id="BBCWorldNews.pl">1:0:1:200C:24B8:13E:820000:0:0:0:</channel><!-- BBC World News -->
@@ -406,7 +413,6 @@
 <!-- IPTV --><channel id="13Tv.pl">4097:0:1:C6A0:D5D:EC:0:0:0:0:http%3a//</channel><!-- 13 TV -->
 <!-- IPTV --><channel id="2x2.pl">4097:0:1:F88C:5F52:EC:0:0:0:0:http%3a//</channel><!-- 2x2 -->
 <!-- IPTV --><channel id="360TuneBox.pl">4097:0:1:E87B:27C5:EC:0:0:0:0:http%3a//</channel><!-- 360 TuneBox -->
-<!-- IPTV --><channel id="BabyFirstTv.pl">4097:0:19:1FE:5:601:FFFF0000:0:0:0:http%3a//</channel><!-- Baby First TV -->
 <!-- IPTV --><channel id="Bollywood.pl">4097:0:1:756:1362:EC:0:0:0:0:http%3a//</channel><!-- BOLLYWOOD HD -->
 <!-- IPTV --><channel id="ClubMTV.pl">4097:0:16:7A:3:40:A00000:0:0:0:http%3a//</channel><!-- Club MTV -->
 <!-- IPTV --><channel id="DamiTv.pl">4097:0:1:58:1:48:0:0:0:0:http%3a//</channel><!-- DAMI TV -->
@@ -422,6 +428,7 @@
 <!-- IPTV --><channel id="FanKlubTv.pl">4097:0:19:1776:6A:64:FFFF0000:0:0:0:http%3a//</channel><!-- FANKLUB TV -->
 <!-- IPTV --><channel id="FashionBox.pl">4097:0:1:CFD7:D8C:EC:0:0:0:0:http%3a//</channel><!-- FashionBox -->
 <!-- IPTV --><channel id="FastAndFunBox.pl">4097:0:1:A250:BF6E:EC:0:0:0:0:http%3a//</channel><!-- Fast And FunBox -->
+<!-- IPTV --><channel id="Filmax.pl">4097:0:1F:4C:14:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Filmax -->
 <!-- IPTV --><channel id="FunBox4K.pl">4097:0:1F:138A:69:64:FFFF0000:0:0:0:http%3a//</channel><!-- FunBox UHD -->
 <!-- IPTV --><channel id="Gametoon.pl">4097:0:1:38:16:A4A:0:0:0:0:http%3a//</channel><!-- GAMETOON -->
 <!-- IPTV --><channel id="GinxEsportsTv.pl">4097:0:1:5E1:F:601:FFFF0000:0:0:0:http%3a//</channel><!-- GINX ESPORTS TV HD -->
@@ -577,6 +584,7 @@
 <!-- IPTV --><channel id="TheGuardian.rtv.pl">4097:0:1:238:A11A:2268:0:0:0:0:http%3a//</channel><!-- The Guardian -->
 <!-- IPTV --><channel id="BjgTjme.rtv.pl">4097:0:1:239:A11A:2268:0:0:0:0:http%3a//</channel><!-- BjgTjme -->
 <!-- IPTV --><channel id="WorldOfFreeSports.rtv.pl">4097:0:1:23A:A11A:2268:0:0:0:0:http%3a//</channel><!-- World Of Free Sports -->
+<!-- IPTV --><channel id="MotorsportTV.rtv.pl">4097:0:1:23B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Motorsport TV -->
 
 <!-- RADIO --><!-- 1-200:A22A:2268 -->
 
