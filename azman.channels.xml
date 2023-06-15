@@ -596,6 +596,10 @@
 <!-- IPTV --><channel id="WorldOfFreeSports.rtv.pl">4097:0:1:23A:A11A:2268:0:0:0:0:http%3a//</channel><!-- World Of Free Sports -->
 <!-- IPTV --><channel id="MotorsportTV.rtv.pl">4097:0:1:23B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Motorsport TV -->
 <!-- IPTV --><channel id="GustoTV.rtv.pl">4097:0:1:23C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Gusto TV -->
+<!-- IPTV --><channel id="QwestTV.rtv.pl">4097:0:1:23D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Qwest TV -->
+<!-- IPTV --><channel id="StingrayRememberThe80s.rtv.pl">4097:0:1:23E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Stingray Remember the 80’s -->
+<!-- IPTV --><channel id="GloryKickboxing.rtv.pl">4097:0:1:240:A11A:2268:0:0:0:0:http%3a//</channel><!-- GLORY Kickboxing -->
+
 <!-- RADIO --><!-- 1-200:A22A:2268 -->
 
 <!-- RADIO 13E --><channel id="Antyradio.pl">1:0:2:1413:5DC:13E:820000:0:0:0:</channel><!-- ANTYRADIO -->
