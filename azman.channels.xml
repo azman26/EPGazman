@@ -197,6 +197,7 @@
 <!-- 13.0E --><channel id="MiniMini.pl">1:0:1:32E0:190:13E:820000:0:0:0:</channel><!-- MiniMini+ HD -->
 <!-- 13.0E --><channel id="MiniMini.pl">1:0:1:32FE:190:13E:820000:0:0:0:</channel><!-- MiniMini+ HD -->
 <!-- 13.0E --><channel id="Motowizja.pl">1:0:1:1137:2AF8:13E:820000:0:0:0:</channel><!-- Motowizja HD -->
+<!-- 13.0E --><channel id="Motowizja.pl">1:0:1:3D56:2C88:13E:820000:0:0:0:</channel><!-- Motowizja HD -->
 <!-- 13.0E --><channel id="Museum4K.pl">1:0:1:11FC:2B5C:13E:820000:0:0:0:</channel><!-- Museum 4K -->
 <!-- 13.0E --><channel id="MyZen4K.pl">1:0:1:11FD:2B5C:13E:820000:0:0:0:</channel><!-- MyZen 4K -->
 <!-- 13.0E --><channel id="NasaTv.pl">1:0:1:1F8:384:13E:820000:0:0:0:</channel><!-- NASA TV -->
@@ -477,7 +478,7 @@
 <!-- IPTV --><channel id="iTVNExtra.pl">4097:0:1:5B06:8F69:EC:0:0:0:0:http%3a//</channel><!-- iTVN EXTRA-->
 <!-- IPTV --><channel id="iTVNExtraUS.pl">4097:0:1:1F7:2135:9D:820000:0:0:0:http%3a//</channel><!-- iTVN EXTRA US/Central Time -->
 <!-- IPTV --><channel id="iTVN_US.pl">4097:0:1:1F7:2134:9C:5A0000:0:0:0:http%3a//</channel><!-- iTVN US/Central Time -->
-
+<!-- IPTV --><channel id="PrimeFight.pl">4097:0:1:6AC8:5E32:EC:0:0:0:0:http%3a//</channel><!-- Prime Fight HD -->
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
@@ -616,7 +617,6 @@
 <!-- RADIO 13E --><channel id="TOKFM.pl">1:0:2:142A:5DC:13E:820000:0:0:0:</channel><!-- TOK FM -->
 <!-- RADIO 13E --><channel id="Trojka.pl">1:0:2:1C9C:1CE8:71:820000:0:0:0:</channel><!-- POLSKIE RADIO PROGRAM 3 -->
 <!-- RADIO 19E --><channel id="RadioMaryja.pl">1:0:2:1091:3EE:1:C00000:0:0:0:</channel><!-- RADIO MARYJA -->
-
 
 <!-- RADIO IP --><channel id="Antyradio.pl">4097:0:2:1413:5DC:13E:820000:0:0:0:http%3a//</channel><!-- ANTYRADIO -->
 <!-- RADIO IP --><channel id="Chillizet.pl">4097:0:2:1412:5DC:13E:820000:0:0:0:http%3a//</channel><!-- CHILLIZET -->
