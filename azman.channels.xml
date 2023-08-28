@@ -426,6 +426,7 @@
 <!-- IPTV --><channel id="360TuneBox.pl">4097:0:1:E87B:27C5:EC:0:0:0:0:http%3a//</channel><!-- 360 TuneBox -->
 <!-- IPTV --><channel id="Bollywood.pl">4097:0:1:756:1362:EC:0:0:0:0:http%3a//</channel><!-- BOLLYWOOD HD -->
 <!-- IPTV --><channel id="ClubMTV.pl">4097:0:16:7A:3:40:A00000:0:0:0:http%3a//</channel><!-- Club MTV -->
+<!-- IPTV --><channel id="DWDeutsch.pl">4097:0:1:646E:A543:EC:0:0:0:0:http%3a//</channel><!-- DW Deutsch -->
 <!-- IPTV --><channel id="DamiTv.pl">4097:0:1:58:1:48:0:0:0:0:http%3a//</channel><!-- DAMI TV -->
 <!-- IPTV --><channel id="Dizi.pl">4097:0:1:755:1362:EC:0:0:0:0:http%3a//</channel><!-- DIZI -->
 <!-- IPTV --><channel id="DlaCiebieTv.pl">4097:0:1:13:1:48:0:0:0:0:http%3a//</channel><!-- DLA CIEBIE TV -->
@@ -445,13 +446,16 @@
 <!-- IPTV --><channel id="GinxEsportsTv.pl">4097:0:1:5E1:F:601:FFFF0000:0:0:0:http%3a//</channel><!-- GINX ESPORTS TV HD -->
 <!-- IPTV --><channel id="Home4K.pl">4097:0:1:1F7:2137:9F:820000:0:0:0:http%3a//</channel><!-- HOME 4K -->
 <!-- IPTV --><channel id="Jazz.pl">4097:0:1:540B:DD1E:EC:0:0:0:0:http%3a//</channel><!-- JAZZ HD-->
+<!-- IPTV --><channel id="JuniorMusic.pl">4097:0:1F:4E:14:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Music -->
 <!-- IPTV --><channel id="KabaretTv.pl">4097:0:1:995A:C656:EC:0:0:0:0:http%3a//</channel><!--Kabaret TV -->
 <!-- IPTV --><channel id="MixTape.pl">4097:0:1:C20B:E8B5:EC:0:0:0:0:http%3a//</channel><!-- MIX TAPE -->
 <!-- IPTV --><channel id="MusicBox.pl">4097:0:1:DB7:2D50:13E:820000:0:0:0:http%3a//</channel><!-- Music Box Polska -->
 <!-- IPTV --><channel id="NauticalChannel.pl">4097:0:1:1C2:1091:EC:0:0:0:0:http%3a//</channel><!-- Nautical Channel -->
 <!-- IPTV --><channel id="NewTv.pl">4097:0:1:59:1:48:0:0:0:0:http%3a//</channel><!-- NEW TV -->
 <!-- IPTV --><channel id="News24.pl">4097:0:1:F6B3:51BB:EC:0:0:0:0:http%3a//</channel><!-- NEWS 24 -->
+<!-- IPTV --><channel id="PatronitePodróże.pl">4097:0:1:DFDD:F56A:EC:0:0:0:0:http%3a//</channel><!--Patronite Podróże -->
 <!-- IPTV --><channel id="Polsat1.pl">4097:0:1:428B:2BC0:13E:820000:0:0:0:http%3a//</channel><!-- Polsat 1 -->
+<!-- IPTV --><channel id="PrimeFight.pl">4097:0:1:6AC8:5E32:EC:0:0:0:0:http%3a//</channel><!-- Prime Fight HD -->
 <!-- IPTV --><channel id="Radio357.pl">4097:0:1:3C02:3AF2:EC:0:0:0:0:http%3a//</channel><!-- RADIO 357 --><!-- WP PILOT -->
 <!-- IPTV --><channel id="RadioNowySwiat.pl">4097:0:1:513D:DFC5:EC:0:0:0:0:http%3a//</channel><!-- RADIO NOWY ŚWIAT --><!-- WP PILOT -->
 <!-- IPTV --><channel id="RadioRam.pl">4097:0:1:AC96:C97C:EC:0:0:0:0:http%3a//</channel><!-- RADIO RAM --><!-- VISUAL RADIO -->
@@ -474,8 +478,7 @@
 <!-- IPTV --><channel id="VIVARussia.pl">4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//</channel><!-- VIVA Russia -->
 <!-- IPTV --><channel id="Viaplay.pl">4097:0:1:764A:564:EC:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
-<!-- IPTV --><channel id="PrimeFight.pl">4097:0:1:6AC8:5E32:EC:0:0:0:0:http%3a//</channel><!-- Prime Fight HD -->
-<!-- IPTV --><channel id="DWDeutsch.pl">4097:0:1:646E:A543:EC:0:0:0:0:http%3a//</channel><!-- DW Deutsch -->
+
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
