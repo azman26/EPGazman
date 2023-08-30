@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channels>
 <!-- Polska Podstawowy -->
-
-<!-- 19.2E --><channel id="TvTrwam.pl">1:0:1:1090:3EE:1:C00000:0:0:0:</channel><!-- TV Trwam -->
-
 <!-- 13.0E --><channel id="13Ulica.pl">1:0:1:3E26:2EE0:13E:820000:0:0:0:</channel><!-- 13 Ulica HD -->
 <!-- 13.0E --><channel id="13Ulica.pl">1:0:1:3E44:2EE0:13E:820000:0:0:0:</channel><!-- 13 Ulica HD -->
 <!-- 13.0E --><channel id="4FunDance.pl">1:0:1:428F:2BC0:13E:820000:0:0:0:</channel><!-- 4Fun Dance -->
@@ -367,6 +364,8 @@
 <!-- 13.0E --><channel id="ZoomTv.pl">1:0:1:4291:2BC0:13E:820000:0:0:0:</channel><!-- Zoom TV -->
 <!-- 13.0E --><channel id="wPolsce.pl">1:0:1:4279:2BC0:13E:820000:0:0:0:</channel><!-- wPolsce.pl -->
 
+<!-- 19.2E --><channel id="TvTrwam.pl">1:0:1:1090:3EE:1:C00000:0:0:0:</channel><!-- TV Trwam -->
+
 <!-- 9.0E --><channel id="TVPPolonia.pl">1:0:1:5DC:1FA4:9C:5A0000:0:0:0:</channel><!-- TVP Polonia -->
 
 <!-- 0.8W --><channel id="AnimalPlanet.pl">1:0:1:A29:2:5E:E08B00F:0:0:0:</channel><!-- Animal Planet Poland HD -->
@@ -374,10 +373,15 @@
 <!-- 0.8W --><channel id="DiscoveryHistoria.pl">1:0:1:514:2:5E:E08B00F:0:0:0:</channel><!-- Historia Poland -->
 <!-- 0.8W --><channel id="TurboXtra.pl">1:0:1:BB8:2:5E:E08B00F:0:0:0:</channel><!-- Turbo Xtra Poland HD -->
 
+<!-- 13.0E --><channel id="VOD202.pl">1:0:1:3C:1964:13E:820000:0:0:0:</channel><!-- VOD 2 -->
+<!-- 13.0E --><channel id="VOD203.pl">1:0:1:3D:1964:13E:820000:0:0:0:</channel><!-- VOD 3 -->
+<!-- 13.0E --><channel id="VOD204.pl">1:0:1:3E:1964:13E:820000:0:0:0:</channel><!-- VOD 4 -->
 <!-- 13.0E --><channel id="VOD205.pl">1:0:1:3F:1964:13E:820000:0:0:0:</channel><!-- VOD 5 -->
 <!-- 13.0E --><channel id="VOD206.pl">1:0:1:40:1964:13E:820000:0:0:0:</channel><!-- VOD 6 -->
 <!-- 13.0E --><channel id="VOD207.pl">1:0:1:41:1964:13E:820000:0:0:0:</channel><!-- VOD 7 -->
 <!-- 13.0E --><channel id="VOD208.pl">1:0:1:42:1964:13E:820000:0:0:0:</channel><!-- VOD 8 -->
+<!-- 13.0E --><channel id="xxxVOD1.pl">1:0:1:43:1964:13E:820000:0:0:0:</channel><!-- xxxVOD 1 -->
+<!-- 13.0E --><channel id="xxxVOD2.pl">1:0:1:44:1964:13E:820000:0:0:0:</channel><!-- xxxVOD 2 -->
 
 <!-- Polska Dodatkowy -->
 
@@ -533,7 +537,6 @@
 <!-- IPTV --><channel id="iTVNExtra.pl">4097:0:1:5B06:8F69:EC:0:0:0:0:http%3a//</channel><!-- iTVN EXTRA-->
 <!-- IPTV --><channel id="iTVNExtra_NewYork.pl">4097:0:1:1F7:2135:9D:820000:0:0:0:http%3a//</channel><!-- iTVN EXTRA NewYork -->
 <!-- IPTV --><channel id="iTVNExtra_Chicago.pl">4097:0:1:5E22:3431:EC:0:0:0:0:http%3a//</channel><!-- iTVN EXTRA Chicago-->
-
 
 <!-- Rakuten TV --><!-- 500-700:A11A:2268 -->
 
