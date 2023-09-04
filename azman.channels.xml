@@ -195,6 +195,7 @@
 <!-- 13.0E --><channel id="MiniMini.pl">1:0:1:32FE:190:13E:820000:0:0:0:</channel><!-- MiniMini+ HD -->
 <!-- 13.0E --><channel id="Motowizja.pl">1:0:1:3D56:2C88:13E:820000:0:0:0:</channel><!-- Motowizja HD -->
 <!-- 13.0E --><channel id="Museum4K.pl">1:0:1:11FC:2B5C:13E:820000:0:0:0:</channel><!-- Museum 4K -->
+<!-- 13.0E --><channel id="MusicBox.pl">1:0:1:2341:2328:13E:820000:0:0:0:</channel><!-- Music Box Polska -->
 <!-- 13.0E --><channel id="MyZen4K.pl">1:0:1:11FD:2B5C:13E:820000:0:0:0:</channel><!-- MyZen 4K -->
 <!-- 13.0E --><channel id="NasaTv.pl">1:0:1:1F8:384:13E:820000:0:0:0:</channel><!-- NASA TV -->
 <!-- 13.0E --><channel id="NasaTvUHD.pl">1:0:1:11FA:2B5C:13E:820000:0:0:0:</channel><!-- NASA TV UHD -->
@@ -453,7 +454,7 @@
 <!-- IPTV --><channel id="JuniorMusic.pl">4097:0:1F:4E:14:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Music -->
 <!-- IPTV --><channel id="KabaretTv.pl">4097:0:1:995A:C656:EC:0:0:0:0:http%3a//</channel><!--Kabaret TV -->
 <!-- IPTV --><channel id="MixTape.pl">4097:0:1:C20B:E8B5:EC:0:0:0:0:http%3a//</channel><!-- MIX TAPE -->
-<!-- IPTV --><channel id="MusicBox.pl">4097:0:1:DB7:2D50:13E:820000:0:0:0:http%3a//</channel><!-- Music Box Polska -->
+<!-- IPTV --><channel id="MusicBox.pl">4097:0:1:2341:2328:13E:820000:0:0:0:http%3a//</channel><!-- Music Box Polska -->
 <!-- IPTV --><channel id="NauticalChannel.pl">4097:0:1:1C2:1091:EC:0:0:0:0:http%3a//</channel><!-- Nautical Channel -->
 <!-- IPTV --><channel id="NewTv.pl">4097:0:1:59:1:48:0:0:0:0:http%3a//</channel><!-- NEW TV -->
 <!-- IPTV --><channel id="News24.pl">4097:0:1:F6B3:51BB:EC:0:0:0:0:http%3a//</channel><!-- NEWS 24 -->
