@@ -364,16 +364,6 @@
 <!-- 13.0E --><channel id="Wydarzenia24.pl">1:0:1:1CBF:1CE8:71:820000:0:0:0:</channel><!-- Wydarzenia 24 -->
 <!-- 13.0E --><channel id="ZoomTv.pl">1:0:1:4291:2BC0:13E:820000:0:0:0:</channel><!-- Zoom TV -->
 <!-- 13.0E --><channel id="wPolsce.pl">1:0:1:4279:2BC0:13E:820000:0:0:0:</channel><!-- wPolsce.pl -->
-
-<!-- 19.2E --><channel id="TvTrwam.pl">1:0:1:1090:3EE:1:C00000:0:0:0:</channel><!-- TV Trwam -->
-
-<!-- 9.0E --><channel id="TVPPolonia.pl">1:0:1:5DC:1FA4:9C:5A0000:0:0:0:</channel><!-- TVP Polonia -->
-
-<!-- 0.8W --><channel id="AnimalPlanet.pl">1:0:1:A29:2:5E:E08B00F:0:0:0:</channel><!-- Animal Planet Poland HD -->
-<!-- 0.8W --><channel id="Discovery.pl">1:0:1:AF0:2:5E:E08B00F:0:0:0:</channel><!-- Discovery Poland HD -->
-<!-- 0.8W --><channel id="DiscoveryHistoria.pl">1:0:1:514:2:5E:E08B00F:0:0:0:</channel><!-- Historia Poland -->
-<!-- 0.8W --><channel id="TurboXtra.pl">1:0:1:BB8:2:5E:E08B00F:0:0:0:</channel><!-- Turbo Xtra Poland HD -->
-
 <!-- 13.0E --><channel id="VOD202.pl">1:0:1:3C:1964:13E:820000:0:0:0:</channel><!-- VOD 2 -->
 <!-- 13.0E --><channel id="VOD203.pl">1:0:1:3D:1964:13E:820000:0:0:0:</channel><!-- VOD 3 -->
 <!-- 13.0E --><channel id="VOD204.pl">1:0:1:3E:1964:13E:820000:0:0:0:</channel><!-- VOD 4 -->
@@ -383,6 +373,15 @@
 <!-- 13.0E --><channel id="VOD208.pl">1:0:1:42:1964:13E:820000:0:0:0:</channel><!-- VOD 8 -->
 <!-- 13.0E --><channel id="xxxVOD1.pl">1:0:1:43:1964:13E:820000:0:0:0:</channel><!-- xxxVOD 1 -->
 <!-- 13.0E --><channel id="xxxVOD2.pl">1:0:1:44:1964:13E:820000:0:0:0:</channel><!-- xxxVOD 2 -->
+
+<!-- 19.2E --><channel id="TvTrwam.pl">1:0:1:1090:3EE:1:C00000:0:0:0:</channel><!-- TV Trwam -->
+
+<!-- 9.0E --><channel id="TVPPolonia.pl">1:0:1:5DC:1FA4:9C:5A0000:0:0:0:</channel><!-- TVP Polonia -->
+
+<!-- 0.8W --><channel id="AnimalPlanet.pl">1:0:1:A29:2:5E:E08B00F:0:0:0:</channel><!-- Animal Planet Poland HD -->
+<!-- 0.8W --><channel id="Discovery.pl">1:0:1:AF0:2:5E:E08B00F:0:0:0:</channel><!-- Discovery Poland HD -->
+<!-- 0.8W --><channel id="DiscoveryHistoria.pl">1:0:1:514:2:5E:E08B00F:0:0:0:</channel><!-- Historia Poland -->
+<!-- 0.8W --><channel id="TurboXtra.pl">1:0:1:BB8:2:5E:E08B00F:0:0:0:</channel><!-- Turbo Xtra Poland HD -->
 
 <!-- Polska Dodatkowy -->
 
@@ -483,7 +482,17 @@
 <!-- IPTV --><channel id="VIVARussia.pl">4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//</channel><!-- VIVA Russia -->
 <!-- IPTV --><channel id="Viaplay.pl">4097:0:1:764A:564:EC:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
-
+<!-- IPTV --><channel id="C+Program1.pl">4097:0:1:CED4:E9A8:EC:0:0:0:0:http%3a//</channel><!-- Program 1 -->
+<!-- IPTV --><channel id="C+Program2.pl">4097:0:1:B6CB:4779:EC:0:0:0:0:http%3a//</channel><!-- Program 2 -->
+<!-- IPTV --><channel id="C+Program3.pl">4097:0:1:1423:D2DE:EC:0:0:0:0:http%3a//</channel><!-- Program 3 -->
+<!-- IPTV --><channel id="C+Program4.pl">4097:0:1:E6DE:8BD7:EC:0:0:0:0:http%3a//</channel><!-- Program 4 -->
+<!-- IPTV --><channel id="C+Program5.pl">4097:0:1:4437:173C:EC:0:0:0:0:http%3a//</channel><!-- Program 5 -->
+<!-- IPTV --><channel id="C+Program6.pl">4097:0:1:2C2D:750D:EC:0:0:0:0:http%3a//</channel><!-- Program 6 -->
+<!-- IPTV --><channel id="C+Live1.pl">4097:0:1:F88C:5F52:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 1 -->
+<!-- IPTV --><channel id="C+Live2.pl">4097:0:1:F87C:BADF:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 2 -->
+<!-- IPTV --><channel id="C+Live3.pl">4097:0:1:F87C:BADD:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 3 -->
+<!-- IPTV --><channel id="C+Live4.pl">4097:0:1:B0:BB4:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 4 -->
+<!-- IPTV --><channel id="C+Live5.pl">4097:0:1:F87C:BADE:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 5 -->
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
