@@ -41,6 +41,7 @@
 <!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:4221:2F44:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="Boomerang.pl">1:0:1:4295:2BC0:13E:820000:0:0:0:</channel><!-- Boomerang HD -->
 <!-- 13.0E --><channel id="BrazzersTvEurope.pl">1:0:1:4207:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV Europe -->
+<!-- 13.0E --><channel id="BrazzersTvEurope.pl">1:0:19:422C:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV Europe -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:13ED:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:141F:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
 <!-- 13.0E --><channel id="C+4KUltra.pl">1:0:1:1170:2AF8:13E:820000:0:0:0:</channel><!-- CANAL+ 4K ULTRA HD -->
@@ -407,6 +408,7 @@
 <!-- 13.0E --><channel id="NHKWorldTv.pl">1:0:19:215:384:13E:820000:0:0:0:</channel><!-- NHK WORLD-JAPAN -->
 <!-- 13.0E --><channel id="TV5Monde.pl">1:0:1:3331:1388:13E:820000:0:0:0:</channel><!-- TV5 MONDE EUROPE -->
 <!-- 19.2E --><channel id="Mezzo.pl">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- MEZZO -->
+<!-- 19.2E --><channel id="Mezzo.pl">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- MEZZO -->
 <!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:7823:428:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
 <!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:1F4C:42E:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
 <!-- 19.2E --><channel id="MTV80s.pl">1:0:1:6FF1:436:1:C00000:0:0:0:</channel><!-- MTV 80s -->
@@ -488,7 +490,7 @@
 <!-- IPTV --><channel id="C+Program4.pl">4097:0:1:E6DE:8BD7:EC:0:0:0:0:http%3a//</channel><!-- Program 4 -->
 <!-- IPTV --><channel id="C+Program5.pl">4097:0:1:4437:173C:EC:0:0:0:0:http%3a//</channel><!-- Program 5 -->
 <!-- IPTV --><channel id="C+Program6.pl">4097:0:1:2C2D:750D:EC:0:0:0:0:http%3a//</channel><!-- Program 6 -->
-<!-- IPTV --><channel id="C+Live1.pl">4097:0:1:F88C:5F52:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 1 -->
+<!-- IPTV --><channel id="C+Live1.pl">4097:0:1:1814:ADE3:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 1 -->
 <!-- IPTV --><channel id="C+Live2.pl">4097:0:1:F87C:BADF:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 2 -->
 <!-- IPTV --><channel id="C+Live3.pl">4097:0:1:F87C:BADD:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 3 -->
 <!-- IPTV --><channel id="C+Live4.pl">4097:0:1:B0:BB4:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 4 -->
