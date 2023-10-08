@@ -40,8 +40,8 @@
 <!-- 13.0E --><channel id="Biznes24.pl">1:0:1:3D57:2C88:13E:820000:0:0:0:</channel><!-- BIZNES24 HD -->
 <!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:4221:2F44:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="Boomerang.pl">1:0:1:4295:2BC0:13E:820000:0:0:0:</channel><!-- Boomerang HD -->
-<!-- 13.0E --><channel id="BrazzersTvEurope.pl">1:0:1:4207:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV Europe -->
-<!-- 13.0E --><channel id="BrazzersTvEurope.pl">1:0:19:422C:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV Europe -->
+<!-- 13.0E --><channel id="BrazzersTv.pl">1:0:19:422C:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV -->
+<!-- 13.0E --><channel id="BrazzersTv.pl">1:0:1:4207:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:13ED:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:141F:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
 <!-- 13.0E --><channel id="C+4KUltra.pl">1:0:1:1170:2AF8:13E:820000:0:0:0:</channel><!-- CANAL+ 4K ULTRA HD -->
@@ -84,9 +84,9 @@
 <!-- 13.0E --><channel id="C+Sport4.pl">1:0:1:3AA1:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 4 HD -->
 <!-- 13.0E --><channel id="C+Sport4.pl">1:0:1:3AD3:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 4 HD -->
 <!-- 13.0E --><channel id="C+Sport4.pl">1:0:1:3AF1:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 4 HD -->
+<!-- 13.0E --><channel id="C+Sport5.pl">1:0:1:3AA5:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 5 HD -->
 <!-- 13.0E --><channel id="C+Sport5.pl">1:0:1:3AB9:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 5 HD -->
 <!-- 13.0E --><channel id="C+Sport5.pl">1:0:1:3AE1:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 5 HD -->
-<!-- 13.0E --><channel id="C+Sport5.pl">1:0:1:3AA5:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 5 HD -->
 <!-- 13.0E --><channel id="CBSEuropa.pl">1:0:1:290B:1EDC:71:820000:0:0:0:</channel><!-- CBS Europa HD -->
 <!-- 13.0E --><channel id="CBSReality.pl">1:0:1:3D5B:2C88:13E:820000:0:0:0:</channel><!-- CBS Reality HD -->
 <!-- 13.0E --><channel id="CBSReality.pl">1:0:1:3D8D:2C88:13E:820000:0:0:0:</channel><!-- CBS Reality HD -->
@@ -100,8 +100,8 @@
 <!-- 13.0E --><channel id="Cinemax2.pl">1:0:1:C26:1E78:71:820000:0:0:0:</channel><!-- Cinemax 2 HD -->
 <!-- 13.0E --><channel id="Cinemax2.pl">1:0:1:C29:1E78:71:820000:0:0:0:</channel><!-- Cinemax 2 HD -->
 <!-- 13.0E --><channel id="ComedyCentral.pl">1:0:16:C:1964:13E:820000:0:0:0:</channel><!-- Comedy Central HD -->
-<!-- 13.0E --><channel id="ComedyCentral.pl">1:0:1:C:1964:13E:820000:0:0:0:</channel><!-- Comedy Central HD -->
 <!-- 13.0E --><channel id="ComedyCentral.pl">1:0:1:20:1964:13E:820000:0:0:0:</channel><!-- Comedy Central HD -->
+<!-- 13.0E --><channel id="ComedyCentral.pl">1:0:1:C:1964:13E:820000:0:0:0:</channel><!-- Comedy Central HD -->
 <!-- 13.0E --><channel id="DaVinci.pl">1:0:1:4280:2BC0:13E:820000:0:0:0:</channel><!-- Da Vinci -->
 <!-- 13.0E --><channel id="DiscoPoloMusic.pl">1:0:1:1C8C:1CE8:71:820000:0:0:0:</channel><!-- Disco Polo Music -->
 <!-- 13.0E --><channel id="DiscoPoloMusic.pl">1:0:1:1C8E:1CE8:71:820000:0:0:0:</channel><!-- Disco Polo Music -->
@@ -353,6 +353,13 @@
 <!-- 13.0E --><channel id="TvOkazje.pl">1:0:1:1C97:1CE8:71:820000:0:0:0:</channel><!-- TV Okazje -->
 <!-- 13.0E --><channel id="TvPuls.pl">1:0:1:3D66:2C88:13E:820000:0:0:0:</channel><!-- TV Puls HD -->
 <!-- 13.0E --><channel id="TvRepublika.pl">1:0:1:4289:2BC0:13E:820000:0:0:0:</channel><!-- TV Republika -->
+<!-- 13.0E --><channel id="VOD202.pl">1:0:1:3C:1964:13E:820000:0:0:0:</channel><!-- VOD 2 -->
+<!-- 13.0E --><channel id="VOD203.pl">1:0:1:3D:1964:13E:820000:0:0:0:</channel><!-- VOD 3 -->
+<!-- 13.0E --><channel id="VOD204.pl">1:0:1:3E:1964:13E:820000:0:0:0:</channel><!-- VOD 4 -->
+<!-- 13.0E --><channel id="VOD205.pl">1:0:1:3F:1964:13E:820000:0:0:0:</channel><!-- VOD 5 -->
+<!-- 13.0E --><channel id="VOD206.pl">1:0:1:40:1964:13E:820000:0:0:0:</channel><!-- VOD 6 -->
+<!-- 13.0E --><channel id="VOD207.pl">1:0:1:41:1964:13E:820000:0:0:0:</channel><!-- VOD 7 -->
+<!-- 13.0E --><channel id="VOD208.pl">1:0:1:42:1964:13E:820000:0:0:0:</channel><!-- VOD 8 -->
 <!-- 13.0E --><channel id="VividRed.pl">1:0:1:4267:3DB8:13E:820000:0:0:0:</channel><!-- Vivid RED HD -->
 <!-- 13.0E --><channel id="VividTouch.pl">1:0:1:1CBB:1CE8:71:820000:0:0:0:</channel><!-- Vivid Touch -->
 <!-- 13.0E --><channel id="VoxMusicTv.pl">1:0:1:4298:2BC0:13E:820000:0:0:0:</channel><!-- VOX Music TV -->
@@ -365,13 +372,6 @@
 <!-- 13.0E --><channel id="Wydarzenia24.pl">1:0:1:1CBF:1CE8:71:820000:0:0:0:</channel><!-- Wydarzenia 24 -->
 <!-- 13.0E --><channel id="ZoomTv.pl">1:0:1:4291:2BC0:13E:820000:0:0:0:</channel><!-- Zoom TV -->
 <!-- 13.0E --><channel id="wPolsce.pl">1:0:1:4279:2BC0:13E:820000:0:0:0:</channel><!-- wPolsce.pl -->
-<!-- 13.0E --><channel id="VOD202.pl">1:0:1:3C:1964:13E:820000:0:0:0:</channel><!-- VOD 2 -->
-<!-- 13.0E --><channel id="VOD203.pl">1:0:1:3D:1964:13E:820000:0:0:0:</channel><!-- VOD 3 -->
-<!-- 13.0E --><channel id="VOD204.pl">1:0:1:3E:1964:13E:820000:0:0:0:</channel><!-- VOD 4 -->
-<!-- 13.0E --><channel id="VOD205.pl">1:0:1:3F:1964:13E:820000:0:0:0:</channel><!-- VOD 5 -->
-<!-- 13.0E --><channel id="VOD206.pl">1:0:1:40:1964:13E:820000:0:0:0:</channel><!-- VOD 6 -->
-<!-- 13.0E --><channel id="VOD207.pl">1:0:1:41:1964:13E:820000:0:0:0:</channel><!-- VOD 7 -->
-<!-- 13.0E --><channel id="VOD208.pl">1:0:1:42:1964:13E:820000:0:0:0:</channel><!-- VOD 8 -->
 <!-- 13.0E --><channel id="xxxVOD1.pl">1:0:1:43:1964:13E:820000:0:0:0:</channel><!-- xxxVOD 1 -->
 <!-- 13.0E --><channel id="xxxVOD2.pl">1:0:1:44:1964:13E:820000:0:0:0:</channel><!-- xxxVOD 2 -->
 
@@ -391,34 +391,39 @@
 <!-- 13.0E --><channel id="Arte.pl">1:0:1:133:3E1C:13F:820000:0:0:0:</channel><!-- ARTE HD -->
 <!-- 13.0E --><channel id="BBCNews.pl">1:0:1:200C:24B8:13E:820000:0:0:0:</channel><!-- BBC News -->
 <!-- 13.0E --><channel id="Bloomberg.pl">1:0:1:1C86:332C:13E:820000:0:0:0:</channel><!-- Bloomberg European TV -->
-<!-- 13.0E --><channel id="CurrentTime.pl">1:0:1:E6:65:1:820000:0:0:0:</channel><!-- Current Time (RFE/RL Russian HD) -->
 <!-- 13.0E --><channel id="CNBC.pl">1:0:19:1C4D:1A2C:FBFF:820000:0:0:0:</channel><!-- CNBC HD -->
 <!-- 13.0E --><channel id="CNN.pl">1:0:1:1C8A:1CE8:71:820000:0:0:0:</channel><!-- CNN Europe HD -->
+<!-- 13.0E --><channel id="CurrentTime.pl">1:0:1:E6:65:1:820000:0:0:0:</channel><!-- Current Time (RFE/RL Russian HD) -->
 <!-- 13.0E --><channel id="DWEnglish.pl">1:0:1:332D:1388:13E:820000:0:0:0:</channel><!-- DW English HD -->
+<!-- 13.0E --><channel id="EspressoTv.pl">1:0:1:4235:2F44:13E:820000:0:0:0:</channel><!-- Espresso TV -->
 <!-- 13.0E --><channel id="Euronews.pl">1:0:1:321:3BC4:13E:820000:0:0:0:</channel><!-- Euronews English HD -->
-<!-- 13.0E --><channel id="FashionTv.pl">1:0:19:BC3:20D0:13E:820000:0:0:0:</channel><!-- Fashion TV HD -->
 <!-- 13.0E --><channel id="FashionTv.pl">1:0:16:BC2:20D0:13E:820000:0:0:0:</channel><!-- Fashion TV -->
+<!-- 13.0E --><channel id="FashionTv.pl">1:0:19:BC3:20D0:13E:820000:0:0:0:</channel><!-- Fashion TV HD -->
+<!-- 13.0E --><channel id="France2.pl">1:0:1:12E:3E1C:13F:820000:0:0:0:</channel><!-- France 2 -->
 <!-- 13.0E --><channel id="France24_EN.pl">1:0:1:328:3BC4:13E:820000:0:0:0:</channel><!-- France 24 HD (in English) -->
 <!-- 13.0E --><channel id="France24_FR.pl">1:0:1:327:3BC4:13E:820000:0:0:0:</channel><!-- France 24 HD (en Francais) -->
 <!-- 13.0E --><channel id="Freedom.pl">1:0:16:421C:2F44:13E:820000:0:0:0:</channel><!-- Freedom -->
-<!-- 13.0E --><channel id="RaiNews24.pl">1:0:19:452F:30D4:13E:820000:0:0:0:</channel><!-- RAI News 24 -->
 <!-- 13.0E --><channel id="KBSWorld.pl">1:0:1:3330:1388:13E:820000:0:0:0:</channel><!-- KBS WORLD HD -->
 <!-- 13.0E --><channel id="MTVHits.pl">1:0:1:192:1518:13E:820000:0:0:0:</channel><!-- MTV Hits -->
 <!-- 13.0E --><channel id="Mezzo.pl">1:0:1:29E5:1C20:13E:820000:0:0:0:</channel><!-- MEZZO -->
 <!-- 13.0E --><channel id="NHKWorldTv.pl">1:0:19:215:384:13E:820000:0:0:0:</channel><!-- NHK WORLD-JAPAN -->
+<!-- 13.0E --><channel id="Rai1.pl">1:0:19:D49:1450:13E:820000:0:0:0:</channel><!-- RAI 1 -->
+<!-- 13.0E --><channel id="Rai2.pl">1:0:19:D4A:1450:13E:820000:0:0:0:</channel><!-- RAI 2 -->
+<!-- 13.0E --><channel id="RaiNews24.pl">1:0:19:452F:30D4:13E:820000:0:0:0:</channel><!-- RAI News 24 -->
 <!-- 13.0E --><channel id="TV5Monde.pl">1:0:1:3331:1388:13E:820000:0:0:0:</channel><!-- TV5 MONDE EUROPE -->
-<!-- 19.2E --><channel id="Mezzo.pl">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- MEZZO -->
-<!-- 19.2E --><channel id="Mezzo.pl">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- MEZZO -->
-<!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:7823:428:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
-<!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:1F4C:42E:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
 <!-- 19.2E --><channel id="MTV80s.pl">1:0:1:6FF1:436:1:C00000:0:0:0:</channel><!-- MTV 80s -->
-<!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:7006:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
-<!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:6FFF:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:19:2777:409:1:C00000:0:0:0:</channel><!-- MTV Germany -->
-<!-- 19.2E --><channel id="TV5Monde.pl">1:0:1:1B03:3FE:1:C00000:0:0:0:</channel><!-- TV5 MONDE EUROPE HD -->
+<!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:6FFF:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
+<!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:7006:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
+<!-- 19.2E --><channel id="Mezzo.pl">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- MEZZO -->
+<!-- 19.2E --><channel id="Mezzo.pl">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- MEZZO -->
+<!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:1F4C:42E:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
+<!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:7823:428:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
 <!-- 19.2E --><channel id="SkyNews.pl">1:0:1:1C7A:457:1:C00000:0:0:0:</channel><!-- Sky News -->
-<!-- 19.2E --><channel id="StingrayDJazz.pl">1:0:19:22CB:434:1:C00000:0:0:0:</channel><!-- Stingray DJAZZ HD -->
 <!-- 19.2E --><channel id="StingrayClassica.pl">1:0:19:200D:430:1:C00000:0:0:0:</channel><!-- Stingray Classica HD -->
+<!-- 19.2E --><channel id="StingrayDJazz.pl">1:0:19:22CB:434:1:C00000:0:0:0:</channel><!-- Stingray DJAZZ HD -->
+<!-- 19.2E --><channel id="TV5Monde.pl">1:0:1:1B03:3FE:1:C00000:0:0:0:</channel><!-- TV5 MONDE EUROPE HD -->
+<!-- 19.2E --><channel id="SBN.pl">1:0:1:2F9A:454:1:C00000:0:0:0:</channel><!-- SBN International -->
 <!-- 19.2E --><channel id="Перший.pl">1:0:1:1659:42C:1:C00000:0:0:0:</channel><!-- UA PERSHYJ -->
 <!-- 16.0E --><channel id="ClubMTV.pl">1:0:16:7A:3:40:A00000:0:0:0:</channel><!-- Club MTV -->
 <!-- 16.0E --><channel id="Eurochannel.pl">1:0:1:4:2:16E:A00000:0:0:0:</channel><!-- EUROCHANNEL -->
@@ -431,6 +436,17 @@
 <!-- IPTV --><channel id="2x2.pl">4097:0:1:F88C:5F52:EC:0:0:0:0:http%3a//</channel><!-- 2x2 -->
 <!-- IPTV --><channel id="360TuneBox.pl">4097:0:1:E87B:27C5:EC:0:0:0:0:http%3a//</channel><!-- 360 TuneBox -->
 <!-- IPTV --><channel id="Bollywood.pl">4097:0:1:756:1362:EC:0:0:0:0:http%3a//</channel><!-- BOLLYWOOD HD -->
+<!-- IPTV --><channel id="C+Live1.pl">4097:0:1:1814:ADE3:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 1 -->
+<!-- IPTV --><channel id="C+Live2.pl">4097:0:1:F87C:BADF:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 2 -->
+<!-- IPTV --><channel id="C+Live3.pl">4097:0:1:F87C:BADD:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 3 -->
+<!-- IPTV --><channel id="C+Live4.pl">4097:0:1:B0:BB4:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 4 -->
+<!-- IPTV --><channel id="C+Live5.pl">4097:0:1:F87C:BADE:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 5 -->
+<!-- IPTV --><channel id="C+Program1.pl">4097:0:1:CED4:E9A8:EC:0:0:0:0:http%3a//</channel><!-- Program 1 -->
+<!-- IPTV --><channel id="C+Program2.pl">4097:0:1:B6CB:4779:EC:0:0:0:0:http%3a//</channel><!-- Program 2 -->
+<!-- IPTV --><channel id="C+Program3.pl">4097:0:1:1423:D2DE:EC:0:0:0:0:http%3a//</channel><!-- Program 3 -->
+<!-- IPTV --><channel id="C+Program4.pl">4097:0:1:E6DE:8BD7:EC:0:0:0:0:http%3a//</channel><!-- Program 4 -->
+<!-- IPTV --><channel id="C+Program5.pl">4097:0:1:4437:173C:EC:0:0:0:0:http%3a//</channel><!-- Program 5 -->
+<!-- IPTV --><channel id="C+Program6.pl">4097:0:1:2C2D:750D:EC:0:0:0:0:http%3a//</channel><!-- Program 6 -->
 <!-- IPTV --><channel id="ClubMTV.pl">4097:0:16:7A:3:40:A00000:0:0:0:http%3a//</channel><!-- Club MTV -->
 <!-- IPTV --><channel id="DWDeutsch.pl">4097:0:1:646E:A543:EC:0:0:0:0:http%3a//</channel><!-- DW Deutsch -->
 <!-- IPTV --><channel id="DamiTv.pl">4097:0:1:58:1:48:0:0:0:0:http%3a//</channel><!-- DAMI TV -->
@@ -450,10 +466,12 @@
 <!-- IPTV --><channel id="FunBox4K.pl">4097:0:1F:138A:69:64:FFFF0000:0:0:0:http%3a//</channel><!-- FunBox UHD -->
 <!-- IPTV --><channel id="Gametoon.pl">4097:0:1:38:16:A4A:0:0:0:0:http%3a//</channel><!-- GAMETOON -->
 <!-- IPTV --><channel id="GinxEsportsTv.pl">4097:0:1:5E1:F:601:FFFF0000:0:0:0:http%3a//</channel><!-- GINX ESPORTS TV HD -->
+<!-- IPTV --><channel id="GodTv.pl">4097:0:1:B0CA:6549:EC:0:0:0:0:http%3a//</channel><!-- GOD TV -->
 <!-- IPTV --><channel id="Home4K.pl">4097:0:1:1F7:2137:9F:820000:0:0:0:http%3a//</channel><!-- HOME 4K -->
 <!-- IPTV --><channel id="Jazz.pl">4097:0:1:540B:DD1E:EC:0:0:0:0:http%3a//</channel><!-- JAZZ HD-->
 <!-- IPTV --><channel id="JuniorMusic.pl">4097:0:1F:4E:14:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Music -->
 <!-- IPTV --><channel id="KabaretTv.pl">4097:0:1:995A:C656:EC:0:0:0:0:http%3a//</channel><!--Kabaret TV -->
+<!-- IPTV --><channel id="LRTLituanica.pl">4097:0:1:3F8:65:64:FFFF0000:0:0:0:http%3a//</channel><!-- LRT Lituanica -->
 <!-- IPTV --><channel id="MixTape.pl">4097:0:1:C20B:E8B5:EC:0:0:0:0:http%3a//</channel><!-- MIX TAPE -->
 <!-- IPTV --><channel id="MusicBox.pl">4097:0:1:2341:2328:13E:820000:0:0:0:http%3a//</channel><!-- Music Box Polska -->
 <!-- IPTV --><channel id="NauticalChannel.pl">4097:0:1:1C2:1091:EC:0:0:0:0:http%3a//</channel><!-- Nautical Channel -->
@@ -468,6 +486,10 @@
 <!-- IPTV --><channel id="RedTopTv.pl">4097:0:1:754:1362:EC:0:0:0:0:http%3a//</channel><!-- RED TOP TV -->
 <!-- IPTV --><channel id="SferaTv.pl">4097:0:1:6:1:48:0:0:0:0:http%3a//</channel><!-- Sfera TV -->
 <!-- IPTV --><channel id="SportowaTv.pl">4097:0:1:391F:42F:EC:0:0:0:0:http%3a//</channel><!--Sportowa TV -->
+<!-- IPTV --><channel id="StingrayCMusic.pl">4097:0:1:41D:1:AA:5A0000:0:0:0:http%3a//</channel><!-- Stingray CMusic -->
+<!-- IPTV --><channel id="StingrayClassica.pl">4097:0:19:200D:430:1:C00000:0:0:0:http%3a//</channel><!-- Stingray Classica HD -->
+<!-- IPTV --><channel id="StingrayDJazz.pl">4097:0:19:22CB:434:1:C00000:0:0:0:http%3a//</channel><!-- Stingray DJAZZ HD -->
+<!-- IPTV --><channel id="StingrayiConcerts.pl">4097:0:1:3F5:1:AA:5A0000:0:0:0:http%3a//</channel><!-- Stingray iConcerts -->
 <!-- IPTV --><channel id="TVPWilno.pl">4097:0:1:64:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP WILNO -->
 <!-- IPTV --><channel id="TVRegio.pl">4097:0:1:4121:91DD:EC:0:0:0:0:http%3a//</channel><!-- TV REGIO -->
 <!-- IPTV --><channel id="TVRelax.pl">4097:0:1:60:1:48:0:0:0:0:http%3a//</channel><!-- TV RELAX -->
@@ -484,19 +506,7 @@
 <!-- IPTV --><channel id="VIVARussia.pl">4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//</channel><!-- VIVA Russia -->
 <!-- IPTV --><channel id="Viaplay.pl">4097:0:1:764A:564:EC:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
-<!-- IPTV --><channel id="C+Program1.pl">4097:0:1:CED4:E9A8:EC:0:0:0:0:http%3a//</channel><!-- Program 1 -->
-<!-- IPTV --><channel id="C+Program2.pl">4097:0:1:B6CB:4779:EC:0:0:0:0:http%3a//</channel><!-- Program 2 -->
-<!-- IPTV --><channel id="C+Program3.pl">4097:0:1:1423:D2DE:EC:0:0:0:0:http%3a//</channel><!-- Program 3 -->
-<!-- IPTV --><channel id="C+Program4.pl">4097:0:1:E6DE:8BD7:EC:0:0:0:0:http%3a//</channel><!-- Program 4 -->
-<!-- IPTV --><channel id="C+Program5.pl">4097:0:1:4437:173C:EC:0:0:0:0:http%3a//</channel><!-- Program 5 -->
-<!-- IPTV --><channel id="C+Program6.pl">4097:0:1:2C2D:750D:EC:0:0:0:0:http%3a//</channel><!-- Program 6 -->
-<!-- IPTV --><channel id="C+Live1.pl">4097:0:1:1814:ADE3:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 1 -->
-<!-- IPTV --><channel id="C+Live2.pl">4097:0:1:F87C:BADF:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 2 -->
-<!-- IPTV --><channel id="C+Live3.pl">4097:0:1:F87C:BADD:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 3 -->
-<!-- IPTV --><channel id="C+Live4.pl">4097:0:1:B0:BB4:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 4 -->
-<!-- IPTV --><channel id="C+Live5.pl">4097:0:1:F87C:BADE:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 5 -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
-
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
@@ -514,10 +524,10 @@
 <!-- IPTV --><channel id="TVP3Kielce.pl">4097:0:1:12:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Kielce -->
 <!-- IPTV --><channel id="TVP3Krakow.pl">4097:0:16:D:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Kraków -->
 <!-- IPTV --><channel id="TVP3Krakow.pl">4097:0:1:13:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Kraków -->
-<!-- IPTV --><channel id="TVP3Lublin.pl">4097:0:16:E:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Lublin -->
-<!-- IPTV --><channel id="TVP3Lublin.pl">4097:0:1:14:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Lublin -->
 <!-- IPTV --><channel id="TVP3Lodz.pl">4097:0:16:F:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Łódź -->
 <!-- IPTV --><channel id="TVP3Lodz.pl">4097:0:1:15:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Łódź -->
+<!-- IPTV --><channel id="TVP3Lublin.pl">4097:0:16:E:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Lublin -->
+<!-- IPTV --><channel id="TVP3Lublin.pl">4097:0:1:14:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Lublin -->
 <!-- IPTV --><channel id="TVP3Olsztyn.pl">4097:0:16:10:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP 3 Olsztyn -->
 <!-- IPTV --><channel id="TVP3Olsztyn.pl">4097:0:1:16:0:48:0:0:0:0:http%3a//</channel><!--TVP 3 Olsztyn -->
 <!-- IPTV --><channel id="TVP3Opole.pl">4097:0:16:11:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Opole -->
@@ -554,22 +564,22 @@
 
 <!-- Rakuten TV --><!-- 500-700:A11A:2268 -->
 
-<!-- IPTV --><channel id="TopMovies.rtv.pl">4097:0:1:1E7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Top Movies Polska -->
-<!-- IPTV --><channel id="GrjngoWesterny.rtv.pl">4097:0:1:1F7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Grjngo Westerny -->
 <!-- IPTV --><channel id="BjgTjme.rtv.pl">4097:0:1:239:A11A:2268:0:0:0:0:http%3a//</channel><!-- BjgTjme -->
+<!-- IPTV --><channel id="GrjngoWesterny.rtv.pl">4097:0:1:1F7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Grjngo Westerny -->
 <!-- IPTV --><channel id="Moconomy.rtv.pl">4097:0:1:240:A11A:2268:0:0:0:0:http%3a//</channel><!-- Moconomy -->
+<!-- IPTV --><channel id="TopMovies.rtv.pl">4097:0:1:1E7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Top Movies Polska -->
 
 <!-- RADIO --><!-- 1-200:A22A:2268 -->
 
 <!-- RADIO 13E --><channel id="Antyradio.pl">1:0:2:1413:5DC:13E:820000:0:0:0:</channel><!-- ANTYRADIO -->
 <!-- RADIO 13E --><channel id="Chillizet.pl">1:0:2:1412:5DC:13E:820000:0:0:0:</channel><!-- CHILLIZET -->
-<!-- RADIO 13E --><channel id="RadioJasnaGora.pl">1:0:2:1419:5DC:13E:820000:0:0:0:</channel><!-- RADIO JASNA GÓRA -->
 <!-- RADIO 13E --><channel id="Jedynka.pl">1:0:2:1C9B:1CE8:71:820000:0:0:0:</channel><!-- POLSKIE RADIO PROGRAM 1 -->
 <!-- RADIO 13E --><channel id="Meloradio.pl">1:0:2:1411:5DC:13E:820000:0:0:0:</channel><!-- MELORADIO -->
 <!-- RADIO 13E --><channel id="MuzoFM.pl">1:0:2:1414:5DC:13E:820000:0:0:0:</channel><!-- MUZO FM -->
 <!-- RADIO 13E --><channel id="RMFClassic.pl">1:0:2:1C9A:1CE8:71:820000:0:0:0:</channel><!-- RMF CLASSIC -->
 <!-- RADIO 13E --><channel id="RMFFM.pl">1:0:2:1C98:1CE8:71:820000:0:0:0:</channel><!-- RMF FM -->
 <!-- RADIO 13E --><channel id="RMFMaxx.pl">1:0:2:1C9E:1CE8:71:820000:0:0:0:</channel><!-- RMF MAXX -->
+<!-- RADIO 13E --><channel id="RadioJasnaGora.pl">1:0:2:1419:5DC:13E:820000:0:0:0:</channel><!-- RADIO JASNA GÓRA -->
 <!-- RADIO 13E --><channel id="RadioZet.pl">1:0:2:1410:5DC:13E:820000:0:0:0:</channel><!-- RADIO ZET -->
 <!-- RADIO 13E --><channel id="RadioZlotePrzeboje.pl">1:0:2:1CA0:1CE8:71:820000:0:0:0:</channel><!-- RADIO ZŁOTE PRZEBOJE -->
 <!-- RADIO 13E --><channel id="TOKFM.pl">1:0:2:142A:5DC:13E:820000:0:0:0:</channel><!-- TOK FM -->
@@ -603,17 +613,12 @@
 <!-- RADIO IP --><channel id="Trojka.pl">4097:0:2:1C9C:1CE8:71:820000:0:0:0:http%3a//</channel><!-- POLSKIE RADIO PROGRAM 3 -->
 <!-- RADIO IP --><channel id="VOXFM.pl">4097:0:2:1007:F002:2268:EEEE0000:0:0:0:http%3a//</channel><!-- VOX FM -->
 
-<!-- RADIO IP --><channel id="Dwojka.pl">4097:0:2:1:A22A:2268:0:0:0:0:http%3a//</channel><!-- POLSKIE RADIO PROGRAM 2 -->
 <!-- RADIO IP --><channel id="Czworka.pl">4097:0:2:2:A22A:2268:0:0:0:0:http%3a//</channel><!-- POLSKIE RADIO PROGRAM 4 -->
-<!-- RADIO IP --><channel id="PolskieRadio24.pl">4097:0:2:3:A22A:2268:0:0:0:0:http%3a//</channel><!-- POLSKIE RADIO 24 -->
-<!-- RADIO IP --><channel id="PolskieRadioKierowcow.pl">4097:0:2:4:A22A:2268:0:0:0:0:http%3a//</channel><!-- POLSKIE RADIO KIEROWCÓW -->
-<!-- RADIO IP --><channel id="RadioChopin.pl">4097:0:2:5:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO CHOPIN -->
-<!-- RADIO IP --><channel id="RadioDzieciom.pl">4097:0:2:6:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO DZIECIOM -->
-<!-- RADIO IP --><channel id="RadioPoland.pl">4097:0:2:7:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO POLAND -->
-<!-- RADIO IP --><channel id="RadioPolandDAB.pl">4097:0:2:8:A22A:2268:0:0:0:0:http%3a//</channel><!-- POLISH RADIO EXTERNAL SERVICE DAB+-->
-<!-- RADIO IP --><channel id="RadioPolandEast.pl">4097:0:2:9:A22A:2268:0:0:0:0:http%3a//</channel><!-- РАДИО ПОЛЬША -->
+<!-- RADIO IP --><channel id="Dwojka.pl">4097:0:2:1:A22A:2268:0:0:0:0:http%3a//</channel><!-- POLSKIE RADIO PROGRAM 2 -->
 <!-- RADIO IP --><channel id="MuzyczneRadio.pl">4097:0:2:A:A22A:2268:0:0:0:0:http%3a//</channel><!-- MUZYCZNE RADIO -->
 <!-- RADIO IP --><channel id="NaszeRadio.pl">4097:0:2:B:A22A:2268:0:0:0:0:http%3a//</channel><!-- NASZE RADIO -->
+<!-- RADIO IP --><channel id="PolskieRadio24.pl">4097:0:2:3:A22A:2268:0:0:0:0:http%3a//</channel><!-- POLSKIE RADIO 24 -->
+<!-- RADIO IP --><channel id="PolskieRadioKierowcow.pl">4097:0:2:4:A22A:2268:0:0:0:0:http%3a//</channel><!-- POLSKIE RADIO KIEROWCÓW -->
 <!-- RADIO IP --><channel id="PolskieRadioKoszalin.pl">4097:0:2:C:A22A:2268:0:0:0:0:http%3a//</channel><!-- POLSKIE RADIO KOSZALIN -->
 <!-- RADIO IP --><channel id="RDNMalopolska.pl">4097:0:2:D:A22A:2268:0:0:0:0:http%3a//</channel><!-- RDN MAŁOPOLSKA -->
 <!-- RADIO IP --><channel id="Radio357.pl">4097:0:2:E:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO 357 -->
@@ -622,8 +627,10 @@
 <!-- RADIO IP --><channel id="RadioAskFM.pl">4097:0:2:11:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio AskFM -->
 <!-- RADIO IP --><channel id="RadioBialystok.pl">4097:0:2:12:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio Białystok -->
 <!-- RADIO IP --><channel id="RadioBielsko.pl">4097:0:2:13:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO BIELSKO -->
+<!-- RADIO IP --><channel id="RadioChopin.pl">4097:0:2:5:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO CHOPIN -->
 <!-- RADIO IP --><channel id="RadioDiscoparty.pl">4097:0:2:14:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO DISCOPARTY -->
 <!-- RADIO IP --><channel id="RadioDlaCiebie.pl">4097:0:2:15:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO DLA CIEBIE -->
+<!-- RADIO IP --><channel id="RadioDzieciom.pl">4097:0:2:6:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO DZIECIOM -->
 <!-- RADIO IP --><channel id="RadioEska.pl">4097:0:2:16:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO ESKA -->
 <!-- RADIO IP --><channel id="RadioExpress.pl">4097:0:2:17:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO EXPRESS -->
 <!-- RADIO IP --><channel id="RadioFTB.pl">4097:0:2:18:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO FTB -->
@@ -647,6 +654,9 @@
 <!-- RADIO IP --><channel id="RadioParada.pl">4097:0:2:2A:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO PARADA -->
 <!-- RADIO IP --><channel id="RadioParty.pl">4097:0:2:2B:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO PARTY -->
 <!-- RADIO IP --><channel id="RadioPogoda.pl">4097:0:2:2C:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO POGODA -->
+<!-- RADIO IP --><channel id="RadioPoland.pl">4097:0:2:7:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO POLAND -->
+<!-- RADIO IP --><channel id="RadioPolandDAB.pl">4097:0:2:8:A22A:2268:0:0:0:0:http%3a//</channel><!-- POLISH RADIO EXTERNAL SERVICE DAB+-->
+<!-- RADIO IP --><channel id="RadioPolandEast.pl">4097:0:2:9:A22A:2268:0:0:0:0:http%3a//</channel><!-- РАДИО ПОЛЬША -->
 <!-- RADIO IP --><channel id="RadioPoznan.pl">4097:0:2:2D:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO POZNAŃ -->
 <!-- RADIO IP --><channel id="RadioRam.pl">4097:0:2:2E:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO RAM -->
 <!-- RADIO IP --><channel id="RadioSudety24.pl">4097:0:2:2F:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO SUDETY 24 -->
