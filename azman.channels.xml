@@ -410,6 +410,7 @@
 <!-- 13.0E --><channel id="Rai1.pl">1:0:19:D49:1450:13E:820000:0:0:0:</channel><!-- RAI 1 -->
 <!-- 13.0E --><channel id="Rai2.pl">1:0:19:D4A:1450:13E:820000:0:0:0:</channel><!-- RAI 2 -->
 <!-- 13.0E --><channel id="RaiNews24.pl">1:0:19:452F:30D4:13E:820000:0:0:0:</channel><!-- RAI News 24 -->
+<!-- 13.0E --><channel id="TRTWorld.pl">1:0:1:323:3BC4:13E:820000:0:0:0:</channel><!-- TRT World HD -->
 <!-- 13.0E --><channel id="TV5Monde.pl">1:0:1:3331:1388:13E:820000:0:0:0:</channel><!-- TV5 MONDE EUROPE -->
 <!-- 19.2E --><channel id="MTV80s.pl">1:0:1:6FF1:436:1:C00000:0:0:0:</channel><!-- MTV 80s -->
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:19:2777:409:1:C00000:0:0:0:</channel><!-- MTV Germany -->
@@ -419,6 +420,8 @@
 <!-- 19.2E --><channel id="Mezzo.pl">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- MEZZO -->
 <!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:1F4C:42E:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
 <!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:7823:428:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
+<!-- 19.2E --><channel id="PlayboyTv.pl">1:0:1:778B:424:1:C00000:0:0:0:</channel><!-- Playboy TV -->
+<!-- 19.2E --><channel id="DorcelXXX.pl">1:0:19:2204:44C:1:C00000:0:0:0:</channel><!-- Dorcel XXX -->
 <!-- 19.2E --><channel id="SkyNews.pl">1:0:1:1C7A:457:1:C00000:0:0:0:</channel><!-- Sky News -->
 <!-- 19.2E --><channel id="StingrayClassica.pl">1:0:19:200D:430:1:C00000:0:0:0:</channel><!-- Stingray Classica HD -->
 <!-- 19.2E --><channel id="StingrayDJazz.pl">1:0:19:22CB:434:1:C00000:0:0:0:</channel><!-- Stingray DJAZZ HD -->
@@ -490,6 +493,9 @@
 <!-- IPTV --><channel id="StingrayClassica.pl">4097:0:19:200D:430:1:C00000:0:0:0:http%3a//</channel><!-- Stingray Classica HD -->
 <!-- IPTV --><channel id="StingrayDJazz.pl">4097:0:19:22CB:434:1:C00000:0:0:0:http%3a//</channel><!-- Stingray DJAZZ HD -->
 <!-- IPTV --><channel id="StingrayiConcerts.pl">4097:0:1:3F5:1:AA:5A0000:0:0:0:http%3a//</channel><!-- Stingray iConcerts -->
+<!-- IPTV --><channel id="StingrayRetro.pl">4097:0:1:B8BB:FAE9:EC:0:0:0:0:http%3a//</channel><!-- Stingray Retro -->
+<!-- IPTV --><channel id="StingrayLoud.pl">4097:0:1:EAEB:99CD:EC:0:0:0:0:http%3a//</channel><!-- Stingray Loud -->
+<!-- IPTV --><channel id="StingrayJuicebox.pl">4097:0:1:9FDF:9015:EC:0:0:0:0:http%3a//</channel><!-- Stingray Juicebox -->
 <!-- IPTV --><channel id="TVPWilno.pl">4097:0:1:64:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP WILNO -->
 <!-- IPTV --><channel id="TVRegio.pl">4097:0:1:4121:91DD:EC:0:0:0:0:http%3a//</channel><!-- TV REGIO -->
 <!-- IPTV --><channel id="TVRelax.pl">4097:0:1:60:1:48:0:0:0:0:http%3a//</channel><!-- TV RELAX -->
@@ -507,6 +513,9 @@
 <!-- IPTV --><channel id="Viaplay.pl">4097:0:1:764A:564:EC:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
+<!-- IPTV --><channel id="AdultChannel.pl">4097:0:1:2830:11F8:EC:0:0:0:0:http%3a//</channel><!-- Adult Channel -->
+<!-- IPTV --><channel id="DeluxeMusic.pl">4097:0:1:C55:ECD9:EC:0:0:0:0:http%3a//</channel><!-- Deluxe Music -->
+
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
