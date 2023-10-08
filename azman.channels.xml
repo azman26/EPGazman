@@ -495,6 +495,8 @@
 <!-- IPTV --><channel id="C+Live3.pl">4097:0:1:F87C:BADD:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 3 -->
 <!-- IPTV --><channel id="C+Live4.pl">4097:0:1:B0:BB4:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 4 -->
 <!-- IPTV --><channel id="C+Live5.pl">4097:0:1:F87C:BADE:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 5 -->
+<!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
+
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
