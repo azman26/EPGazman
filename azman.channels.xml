@@ -516,7 +516,6 @@
 <!-- IPTV --><channel id="AdultChannel.pl">4097:0:1:2830:11F8:EC:0:0:0:0:http%3a//</channel><!-- Adult Channel -->
 <!-- IPTV --><channel id="DeluxeMusic.pl">4097:0:1:C55:ECD9:EC:0:0:0:0:http%3a//</channel><!-- Deluxe Music -->
 
-
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
 <!-- IPTV --><channel id="TVP3Bialystok.pl">4097:0:16:7:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Białystok -->
