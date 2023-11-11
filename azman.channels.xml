@@ -42,7 +42,6 @@
 <!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:1145:2AF8:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="Boomerang.pl">1:0:1:4295:2BC0:13E:820000:0:0:0:</channel><!-- Boomerang HD -->
 <!-- 13.0E --><channel id="BrazzersTv.pl">1:0:19:422C:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV -->
-<!-- 13.0E --><channel id="BrazzersTv.pl">1:0:1:4207:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:13ED:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:141F:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
 <!-- 13.0E --><channel id="C+4KUltra.pl">1:0:1:1170:2AF8:13E:820000:0:0:0:</channel><!-- CANAL+ 4K ULTRA HD -->
@@ -408,7 +407,7 @@
 <!-- 13.0E --><channel id="Freedom.pl">1:0:16:421C:2F44:13E:820000:0:0:0:</channel><!-- Freedom -->
 <!-- 13.0E --><channel id="KBSWorld.pl">1:0:1:3330:1388:13E:820000:0:0:0:</channel><!-- KBS WORLD HD -->
 <!-- 13.0E --><channel id="MTVHits.pl">1:0:1:192:1518:13E:820000:0:0:0:</channel><!-- MTV Hits -->
-<!-- 13.0E --><channel id="Mezzo.pl">1:0:1:29E5:1C20:13E:820000:0:0:0:</channel><!-- MEZZO -->
+<!-- 13.0E --><channel id="Mezzo.pl">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- MEZZO -->
 <!-- 13.0E --><channel id="NHKWorldTv.pl">1:0:19:215:384:13E:820000:0:0:0:</channel><!-- NHK WORLD-JAPAN -->
 <!-- 13.0E --><channel id="Rai1.pl">1:0:19:D49:1450:13E:820000:0:0:0:</channel><!-- RAI 1 -->
 <!-- 13.0E --><channel id="Rai2.pl">1:0:19:D4A:1450:13E:820000:0:0:0:</channel><!-- RAI 2 -->
@@ -683,6 +682,21 @@
 <!-- RADIO IP --><channel id="Rockreactor.pl">4097:0:2:39:A22A:2268:0:0:0:0:http%3a//</channel><!-- ROCKREACTOR -->
 <!-- RADIO IP --><channel id="SmoothJazzRadio.pl">4097:0:2:3A:A22A:2268:0:0:0:0:http%3a//</channel><!-- SMOOTHJAZZ RADIO -->
 <!-- RADIO IP --><channel id="WeekendFM.pl">4097:0:2:3B:A22A:2268:0:0:0:0:http%3a//</channel><!-- WEEKEND FM -->
+<!-- RADIO IP --><channel id="RadioCCM.pl">4097:0:2:3C:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO CCM -->
+<!-- RADIO IP --><channel id="RadioSafira.pl">4097:0:2:3D:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO SAFIRA -->
+<!-- RADIO IP --><channel id="RadioEM.pl">4097:0:2:3E:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO EM -->
+<!-- RADIO IP --><channel id="RadioJura.pl">4097:0:2:3F:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO JURA -->
+<!-- RADIO IP --><channel id="RadioVia.pl">4097:0:2:40:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO VIA -->
+<!-- RADIO IP --><channel id="AkademickieRadioCentrum.pl">4097:0:2:41:A22A:2268:0:0:0:0:http%3a//</channel><!-- AKADEMICKIE RADIO CENTRUM -->
+<!-- RADIO IP --><channel id="RadioOstrowiec.pl">4097:0:2:42:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO OSTROWIEC -->
+<!-- RADIO IP --><channel id="RadioPlonsk.pl">4097:0:2:43:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO PŁOŃSK -->
+<!-- RADIO IP --><channel id="RadioPiK.pl">4097:0:2:44:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO PIK -->
+<!-- RADIO IP --><channel id="RadioYanosik.pl">4097:0:2:45:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO YANOSIK -->
+<!-- RADIO IP --><channel id="RadioRzeszow.pl">4097:0:2:46:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO RZESZÓW -->
+<!-- RADIO IP --><channel id="RadioWielkopolska.pl">4097:0:2:47:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO WIELKOPOLSKA -->
+<!-- RADIO IP --><channel id="RadioRekord.pl">4097:0:2:48:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO REKORD -->
+<!-- RADIO IP --><channel id="RadioPark.pl">4097:0:2:49:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO PARK -->
+<!-- RADIO IP --><channel id="RockserwisFM.pl">4097:0:2:4A:A22A:2268:0:0:0:0:http%3a//</channel><!-- ROCKSERWIS FM -->
 
 <!-- DVB-T -->
 
