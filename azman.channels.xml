@@ -687,7 +687,7 @@
 <!-- RADIO IP --><channel id="RadioEM.pl">4097:0:2:3E:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO EM -->
 <!-- RADIO IP --><channel id="RadioJura.pl">4097:0:2:3F:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO JURA -->
 <!-- RADIO IP --><channel id="RadioVia.pl">4097:0:2:40:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO VIA -->
-<!-- RADIO IP --><channel id="AkademickieRadioCentrum.pl">4097:0:2:41:A22A:2268:0:0:0:0:http%3a//</channel><!-- AKADEMICKIE RADIO CENTRUM -->
+<!-- RADIO IP --><channel id="RadioCentrum.pl">4097:0:2:41:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO CENTRUM -->
 <!-- RADIO IP --><channel id="RadioOstrowiec.pl">4097:0:2:42:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO OSTROWIEC -->
 <!-- RADIO IP --><channel id="RadioPlonsk.pl">4097:0:2:43:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO PŁOŃSK -->
 <!-- RADIO IP --><channel id="RadioPiK.pl">4097:0:2:44:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO PIK -->
