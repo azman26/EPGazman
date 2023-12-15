@@ -40,6 +40,7 @@
 <!-- 13.0E --><channel id="Biznes24.pl">1:0:1:3D57:2C88:13E:820000:0:0:0:</channel><!-- BIZNES24 HD -->
 <!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:4221:2F44:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:1145:2AF8:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
+<!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:1140:2AF8:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="Boomerang.pl">1:0:1:4295:2BC0:13E:820000:0:0:0:</channel><!-- Boomerang HD -->
 <!-- 13.0E --><channel id="BrazzersTv.pl">1:0:19:422C:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:13ED:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
@@ -177,6 +178,7 @@
 <!-- 13.0E --><channel id="HomeTv.pl">1:0:1:32D0:190:13E:820000:0:0:0:</channel><!-- HOME TV -->
 <!-- 13.0E --><channel id="Hustler.pl">1:0:19:4220:2F44:13E:820000:0:0:0:</channel><!-- Hustler HD -->
 <!-- 13.0E --><channel id="Hustler.pl">1:0:19:1144:2AF8:13E:820000:0:0:0:</channel><!-- Hustler HD -->
+<!-- 13.0E --><channel id="Hustler.pl">1:0:19:113F:2AF8:13E:820000:0:0:0:</channel><!-- Hustler HD -->
 <!-- 13.0E --><channel id="ID.pl">1:0:19:3B69:12C:13E:820000:0:0:0:</channel><!-- ID Poland HD -->
 <!-- 13.0E --><channel id="InUltra.pl">1:0:11:BEA:20D0:13E:820000:0:0:0:</channel><!-- InUltra -->
 <!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:13F2:5DC:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
@@ -290,6 +292,7 @@
 <!-- 13.0E --><channel id="PolsatViasatNature.pl">1:0:1:2908:1EDC:71:820000:0:0:0:</channel><!-- Polsat Viasat Nature HD -->
 <!-- 13.0E --><channel id="PowerTv.pl">1:0:1:32D1:190:13E:820000:0:0:0:</channel><!-- POWER TV -->
 <!-- 13.0E --><channel id="PrivateTv.pl">1:0:19:4222:2F44:13E:820000:0:0:0:</channel><!-- Private TV HD -->
+<!-- 13.0E --><channel id="PrivateTv.pl">1:0:19:1141:2AF8:13E:820000:0:0:0:</channel><!-- Private TV HD -->
 <!-- 13.0E --><channel id="Puls2.pl">1:0:1:3D5E:2C88:13E:820000:0:0:0:</channel><!-- Puls 2 HD -->
 <!-- 13.0E --><channel id="RedCarpetTv.pl">1:0:1:3D63:2C88:13E:820000:0:0:0:</channel><!-- Red Carpet TV -->
 <!-- 13.0E --><channel id="Redlight.pl">1:0:1:4224:3DB8:13E:820000:0:0:0:</channel><!-- Redlight -->
