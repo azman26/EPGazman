@@ -521,6 +521,10 @@
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
 <!-- IPTV --><channel id="AdultChannel.pl">4097:0:1:2830:11F8:EC:0:0:0:0:http%3a//</channel><!-- Adult Channel -->
 <!-- IPTV --><channel id="DeluxeMusic.pl">4097:0:1:C55:ECD9:EC:0:0:0:0:http%3a//</channel><!-- Deluxe Music -->
+<!-- IPTV --><channel id="GlinaTv.pl">4097:0:1:C7D4:533B:EC:0:0:0:0:http%3a//</channel><!-- Glina TV -->
+<!-- IPTV --><channel id="PilotwDomu.pl">4097:0:1:9A8F:C32:EC:0:0:0:0:http%3a//</channel><!-- Pilot w Domu -->
+<!-- IPTV --><channel id="AutoPilot.pl">4097:0:1:3D36:80CD:EC:0:0:0:0:http%3a//</channel><!-- Auto Pilot -->
+<!-- IPTV --><channel id="SejmRP.pl">4097:0:1:8285:6A03:EC:0:0:0:0:http%3a//</channel><!-- Sejm RP -->
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
