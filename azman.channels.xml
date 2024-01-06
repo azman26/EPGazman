@@ -38,7 +38,6 @@
 <!-- 13.0E --><channel id="BBCLifestyle.pl">1:0:1:7E5:22C4:13E:820000:0:0:0:</channel><!-- BBC Lifestyle HD -->
 <!-- 13.0E --><channel id="BabyTv.pl">1:0:1:421D:2F44:13E:820000:0:0:0:</channel><!-- Baby TV -->
 <!-- 13.0E --><channel id="Biznes24.pl">1:0:1:3D57:2C88:13E:820000:0:0:0:</channel><!-- BIZNES24 HD -->
-<!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:4221:2F44:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:1145:2AF8:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:1140:2AF8:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="Boomerang.pl">1:0:1:4295:2BC0:13E:820000:0:0:0:</channel><!-- Boomerang HD -->
@@ -119,7 +118,7 @@
 <!-- 13.0E --><channel id="ElevenSports1.pl">1:0:1:13F3:5DC:13E:820000:0:0:0:</channel><!-- Eleven Sports 1 HD -->
 <!-- 13.0E --><channel id="ElevenSports1.pl">1:0:1:1425:5DC:13E:820000:0:0:0:</channel><!-- Eleven Sports 1 HD -->
 <!-- 13.0E --><channel id="ElevenSports1.pl">1:0:1:144D:5DC:13E:820000:0:0:0:</channel><!-- Eleven Sports 1 HD -->
-<!-- 13.0E --><channel id="ElevenSports1_4K.pl">1:0:1:70F:32C8:13E:820000:0:0:0:</channel><!-- Eleven Sports 1 4K -->
+<!-- 13.0E --><channel id="ElevenSports1_4K.pl">1:0:1F:70F:32C8:13E:820000:0:0:0:</channel><!-- Eleven Sports 1 4K -->
 <!-- 13.0E --><channel id="ElevenSports2.pl">1:0:1:13F5:5DC:13E:820000:0:0:0:</channel><!-- Eleven Sports 2 HD -->
 <!-- 13.0E --><channel id="ElevenSports2.pl">1:0:1:1427:5DC:13E:820000:0:0:0:</channel><!-- Eleven Sports 2 HD -->
 <!-- 13.0E --><channel id="ElevenSports2.pl">1:0:1:144F:5DC:13E:820000:0:0:0:</channel><!-- Eleven Sports 2 HD -->
@@ -176,7 +175,6 @@
 <!-- 13.0E --><channel id="History.pl">1:0:1:C32:1E78:71:820000:0:0:0:</channel><!-- History HD -->
 <!-- 13.0E --><channel id="History2.pl">1:0:1:3E22:2EE0:13E:820000:0:0:0:</channel><!-- History 2 HD -->
 <!-- 13.0E --><channel id="HomeTv.pl">1:0:1:32D0:190:13E:820000:0:0:0:</channel><!-- HOME TV -->
-<!-- 13.0E --><channel id="Hustler.pl">1:0:19:4220:2F44:13E:820000:0:0:0:</channel><!-- Hustler HD -->
 <!-- 13.0E --><channel id="Hustler.pl">1:0:19:1144:2AF8:13E:820000:0:0:0:</channel><!-- Hustler HD -->
 <!-- 13.0E --><channel id="Hustler.pl">1:0:19:113F:2AF8:13E:820000:0:0:0:</channel><!-- Hustler HD -->
 <!-- 13.0E --><channel id="ID.pl">1:0:19:3B69:12C:13E:820000:0:0:0:</channel><!-- ID Poland HD -->
@@ -186,7 +184,7 @@
 <!-- 13.0E --><channel id="KinoPolskaMuzyka.pl">1:0:1:3D60:2C88:13E:820000:0:0:0:</channel><!-- Kino Polska Muzyka -->
 <!-- 13.0E --><channel id="KinoTv.pl">1:0:1:3D61:2C88:13E:820000:0:0:0:</channel><!-- Kino TV HD -->
 <!-- 13.0E --><channel id="KinoTv.pl">1:0:1:3D93:2C88:13E:820000:0:0:0:</channel><!-- Kino TV HD -->
-<!-- 13.0E --><channel id="LoveNature4K.pl">1:0:1:BC5:20D0:13E:820000:0:0:0:</channel><!-- Love Nature 4K -->
+<!-- 13.0E --><channel id="LoveNature4K.pl">1:0:20:BC5:20D0:13E:820000:0:0:0:</channel><!-- Love Nature 4K -->
 <!-- 13.0E --><channel id="MTV.pl">1:0:19:F:1964:13E:820000:0:0:0:</channel><!-- MTV Polska HD -->
 <!-- 13.0E --><channel id="MTV.pl">1:0:1:F:1964:13E:820000:0:0:0:</channel><!-- MTV Polska HD -->
 <!-- 13.0E --><channel id="MTV00s.pl">1:0:19:8:1964:13E:820000:0:0:0:</channel><!-- MTV 00s -->
@@ -291,7 +289,6 @@
 <!-- 13.0E --><channel id="PolsatViasatHistory.pl">1:0:1:C20:1E78:71:820000:0:0:0:</channel><!-- Polsat Viasat History HD -->
 <!-- 13.0E --><channel id="PolsatViasatNature.pl">1:0:1:2908:1EDC:71:820000:0:0:0:</channel><!-- Polsat Viasat Nature HD -->
 <!-- 13.0E --><channel id="PowerTv.pl">1:0:1:32D1:190:13E:820000:0:0:0:</channel><!-- POWER TV -->
-<!-- 13.0E --><channel id="PrivateTv.pl">1:0:19:4222:2F44:13E:820000:0:0:0:</channel><!-- Private TV HD -->
 <!-- 13.0E --><channel id="PrivateTv.pl">1:0:19:1141:2AF8:13E:820000:0:0:0:</channel><!-- Private TV HD -->
 <!-- 13.0E --><channel id="Puls2.pl">1:0:1:3D5E:2C88:13E:820000:0:0:0:</channel><!-- Puls 2 HD -->
 <!-- 13.0E --><channel id="RedCarpetTv.pl">1:0:1:3D63:2C88:13E:820000:0:0:0:</channel><!-- Red Carpet TV -->
@@ -409,7 +406,7 @@
 <!-- 13.0E --><channel id="France24_EN.pl">1:0:1:328:3BC4:13E:820000:0:0:0:</channel><!-- France 24 HD (in English) -->
 <!-- 13.0E --><channel id="France24_FR.pl">1:0:1:327:3BC4:13E:820000:0:0:0:</channel><!-- France 24 HD (en Francais) -->
 <!-- 13.0E --><channel id="Freedom.pl">1:0:16:421C:2F44:13E:820000:0:0:0:</channel><!-- Freedom -->
-<!-- 13.0E --><channel id="KBSWorld.pl">1:0:1:3330:1388:13E:820000:0:0:0:</channel><!-- KBS WORLD HD -->
+<!-- 13.0E --><channel id="KBSWorld.pl">1:0:1:1325:33F4:13E:820000:0:0:0:</channel><!-- KBS WORLD HD -->
 <!-- 13.0E --><channel id="MTVHits.pl">1:0:1:192:1518:13E:820000:0:0:0:</channel><!-- MTV Hits -->
 <!-- 13.0E --><channel id="Mezzo.pl">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- MEZZO -->
 <!-- 13.0E --><channel id="NHKWorldTv.pl">1:0:19:215:384:13E:820000:0:0:0:</channel><!-- NHK WORLD-JAPAN -->
