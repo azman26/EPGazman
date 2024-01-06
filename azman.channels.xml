@@ -522,6 +522,10 @@
 <!-- IPTV --><channel id="PilotwDomu.pl">4097:0:1:9A8F:C32:EC:0:0:0:0:http%3a//</channel><!-- Pilot w Domu -->
 <!-- IPTV --><channel id="AutoPilot.pl">4097:0:1:3D36:80CD:EC:0:0:0:0:http%3a//</channel><!-- Auto Pilot -->
 <!-- IPTV --><channel id="SejmRP.pl">4097:0:1:8285:6A03:EC:0:0:0:0:http%3a//</channel><!-- Sejm RP -->
+<!-- IPTV --><channel id="TvKlodzka.pl">4097:0:1:D3F0:668B:EC:0:0:0:0:http%3a//</channel><!-- Telewizja Kłodzka -->
+<!-- IPTV --><channel id="TvPomerania.pl">4097:0:1:FFD4:9CF5:EC:0:0:0:0:http%3a//</channel><!-- Telewizja Pomerania -->
+<!-- IPTV --><channel id="TwojaTelewizjaMorska.pl">4097:0:1:1F22:1D76:EC:0:0:0:0:http%3a//</channel><!-- Twoja Telewizja Morska -->
+<!-- IPTV --><channel id="ProartHD.pl">4097:0:1:DFC5:FFB3:EC:0:0:0:0:http%3a//</channel><!-- Proart HD -->
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
