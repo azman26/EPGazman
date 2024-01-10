@@ -370,8 +370,8 @@
 <!-- 13.0E --><channel id="WarnerTv.pl">1:0:1:292D:1EDC:71:820000:0:0:0:</channel><!-- Warner TV -->
 <!-- 13.0E --><channel id="WaterPlanet.pl">1:0:1:423D:3DB8:13E:820000:0:0:0:</channel><!-- Water Planet -->
 <!-- 13.0E --><channel id="WaterPlanet.pl">1:0:1:423E:3DB8:13E:820000:0:0:0:</channel><!-- Water Planet -->
-<!-- 13.0E --><channel id="Wydarzenia24.pl">1:0:1:1CBE:1CE8:71:820000:0:0:0:</channel><!-- Wydarzenia 24 -->
-<!-- 13.0E --><channel id="Wydarzenia24.pl">1:0:1:1CBF:1CE8:71:820000:0:0:0:</channel><!-- Wydarzenia 24 -->
+<!-- 13.0E --><channel id="Wydarzenia24.pl">1:0:1:290C:1EDC:71:820000:0:0:0:</channel><!-- Wydarzenia 24 -->
+<!-- 13.0E --><channel id="PolsatNewsPolityka.pl">1:0:1:1CBE:1CE8:71:820000:0:0:0:</channel><!-- Polsat News Polityka -->
 <!-- 13.0E --><channel id="ZoomTv.pl">1:0:1:4291:2BC0:13E:820000:0:0:0:</channel><!-- Zoom TV -->
 <!-- 13.0E --><channel id="wPolsce.pl">1:0:1:4279:2BC0:13E:820000:0:0:0:</channel><!-- wPolsce.pl -->
 <!-- 13.0E --><channel id="xxxVOD1.pl">1:0:1:43:1964:13E:820000:0:0:0:</channel><!-- xxxVOD 1 -->
@@ -679,7 +679,7 @@
 <!-- RADIO IP --><channel id="RadioPoznan.pl">4097:0:2:2D:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO POZNAŃ -->
 <!-- RADIO IP --><channel id="RadioRam.pl">4097:0:2:2E:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO RAM -->
 <!-- RADIO IP --><channel id="RadioSudety24.pl">4097:0:2:2F:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO SUDETY 24 -->
-<!-- RADIO IP --><channel id="RadioSupernova.pl">4097:0:2:30:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO SUPERNOVA -->
+<!-- RADIO IP --><channel id="RadioEska2.pl">4097:0:2:30:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO Eska 2 -->
 <!-- RADIO IP --><channel id="RadioSzczecin.pl">4097:0:2:31:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO SZCZECIN -->
 <!-- RADIO IP --><channel id="RadioUltraMax.pl">4097:0:2:32:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO ULTRA MAX -->
 <!-- RADIO IP --><channel id="RadioVictoria.pl">4097:0:2:33:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO VICTORIA -->
