@@ -581,12 +581,30 @@
 <!-- IPTV --><channel id="iTVNExtra_NewYork.pl">4097:0:1:1F7:2135:9D:820000:0:0:0:http%3a//</channel><!-- iTVN EXTRA NewYork -->
 <!-- IPTV --><channel id="iTVNExtra_Chicago.pl">4097:0:1:5E22:3431:EC:0:0:0:0:http%3a//</channel><!-- iTVN EXTRA Chicago-->
 
-<!-- Rakuten TV --><!-- 500-700:A11A:2268 -->
+<!-- Rakuten TV --><!-- 500-699:A11A:2268 -->
 
 <!-- IPTV --><channel id="BjgTjme.rtv.pl">4097:0:1:239:A11A:2268:0:0:0:0:http%3a//</channel><!-- BjgTjme -->
 <!-- IPTV --><channel id="GrjngoWesterny.rtv.pl">4097:0:1:1F7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Grjngo Westerny -->
 <!-- IPTV --><channel id="Moconomy.rtv.pl">4097:0:1:240:A11A:2268:0:0:0:0:http%3a//</channel><!-- Moconomy -->
 <!-- IPTV --><channel id="TopMovies.rtv.pl">4097:0:1:1E7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Top Movies Polska -->
+
+<!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
+
+<!-- IPTV --><channel id="tvnKultoweSeriale.pl">4097:0:1:2BC:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Kultowe Seriale -->
+<!-- IPTV --><channel id="tvnKryminalnie.pl">4097:0:1:2BD:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Kryminalnie -->
+<!-- IPTV --><channel id="tvnMoto.pl">4097:0:1:2BE:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Moto -->
+<!-- IPTV --><channel id="tvnTelenowele.pl">4097:0:1:2BF:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Telenowele -->
+<!-- IPTV --><channel id="tvnRewolucjewKuchni.pl">4097:0:1:2C0:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Rewolucje w Kuchni -->
+<!-- IPTV --><channel id="tvnRajskaMiłość.pl">4097:0:1:2C1:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Rajska Miłość -->
+<!-- IPTV --><channel id="tvnTalkShow.pl">4097:0:1:2C2:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Talk Show -->
+<!-- IPTV --><channel id="tvnMomentyPrawdy.pl">4097:0:1:2C3:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Momenty Prawdy -->
+<!-- IPTV --><channel id="tvnZycieJakwBajce.pl">4097:0:1:2C4:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Życie Jak w Bajce -->
+<!-- IPTV --><channel id="tvnSzpitalneHistorie.pl">4097:0:1:2C5:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Szpitalne Historie -->
+<!-- IPTV --><channel id="tvnSerialeoKobietach.pl">4097:0:1:2C6:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Seriale o Kobietach -->
+<!-- IPTV --><channel id="tvnSzkolaZycia.pl">4097:0:1:2C7:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Szkoła Życia -->
+<!-- IPTV --><channel id="tvnWDomu.pl">4097:0:1:2C8:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn W Domu -->
+<!-- IPTV --><channel id="tvnUsterka.pl">4097:0:1:2C9:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Usterka -->
+<!-- IPTV --><channel id="tvnPrawoiZycie.pl">4097:0:1:2CA:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Prawo i Życie -->
 
 <!-- RADIO --><!-- 1-200:A22A:2268 -->
 
