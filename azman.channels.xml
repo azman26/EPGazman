@@ -1167,10 +1167,13 @@
 <!-- UPC --><channel id="C+Film.pl">1:0:19:AF5:1C:601:FFFF0000:0:0:0:</channel><!-- CANAL+ FILM HD -->
 <!-- UPC --><channel id="C+Kuchnia.pl">1:0:19:A2B:1A:601:FFFF0000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
 <!-- UPC --><channel id="C+Kuchnia.pl">1:0:19:A31:1A:601:FFFF0000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
+<!-- UPC --><channel id="C+Now.pl">1:0:19:DB7:23:601:FFFF0000:0:0:0:</channel><!-- CANAL+ NOW -->
 <!-- UPC --><channel id="C+Premium.pl">1:0:19:AF1:1C:601:FFFF0000:0:0:0:</channel><!-- CANAL+ PREMIUM -->
 <!-- UPC --><channel id="C+Seriale.pl">1:0:19:A2E:1A:601:FFFF0000:0:0:0:</channel><!-- CANAL+ SERIALE HD -->
 <!-- UPC --><channel id="C+Sport.pl">1:0:19:BBA:1E:601:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT HD -->
 <!-- UPC --><channel id="C+Sport2.pl">1:0:19:B5B:1D:601:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 2 HD -->
+<!-- UPC --><channel id="C+Sport3.pl">1:0:19:200:5:601:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 3 HD -->
+<!-- UPC --><channel id="C+Sport4.pl">1:0:19:BC5:1E:601:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 4 HD -->
 <!-- UPC --><channel id="C+Sport5.pl">1:0:19:385:9:601:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 5 -->
 <!-- UPC --><channel id="C+Sport5.pl">1:0:19:38B:9:601:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 5 -->
 <!-- UPC --><channel id="CBSEuropa.pl">1:0:19:1F5:5:601:FFFF0000:0:0:0:</channel><!-- CBS EUROPA HD -->
@@ -1318,6 +1321,7 @@
 <!-- UPC --><channel id="PolsatNews.pl">1:0:19:57B:E:601:FFFF0000:0:0:0:</channel><!-- Polsat News HD -->
 <!-- UPC --><channel id="PolsatNews.pl">1:0:19:581:E:601:FFFF0000:0:0:0:</channel><!-- Polsat News HD -->
 <!-- UPC --><channel id="PolsatNews2.pl">1:0:1:CE:2:601:FFFF0000:0:0:0:</channel><!-- Polsat News 2 -->
+<!-- UPC --><channel id="PolsatNewsPolityka.pl">1:0:19:DB8:23:601:FFFF0000:0:0:0:</channel><!-- Polsat News Polityka -->
 <!-- UPC --><channel id="PolsatPlay.pl">1:0:19:D4C:22:601:FFFF0000:0:0:0:</channel><!-- Polsat Play HD -->
 <!-- UPC --><channel id="PolsatPlay.pl">1:0:19:D50:22:601:FFFF0000:0:0:0:</channel><!-- Polsat Play HD -->
 <!-- UPC --><channel id="PolsatRodzina.pl">1:0:19:392:9:601:FFFF0000:0:0:0:</channel><!-- Polsat Rodzina -->
@@ -1387,6 +1391,7 @@
 <!-- UPC --><channel id="TVPInfo.pl">1:0:19:13D:3:601:FFFF0000:0:0:0:</channel><!-- TVP Info HD -->
 <!-- UPC --><channel id="TVPKobieta.pl">1:0:19:781:13:601:FFFF0000:0:0:0:</channel><!-- TVP KOBIETA -->
 <!-- UPC --><channel id="TVPKultura.pl">1:0:19:12F:3:601:FFFF0000:0:0:0:</channel><!-- TVP Kultura HD -->
+<!-- UPC --><channel id="TVPNauka.pl">1:0:19:DB6:23:601:FFFF0000:0:0:0:</channel><!-- TVP Nauka -->
 <!-- UPC --><channel id="TVPPolonia.pl">1:0:19:13F0:33:601:FFFF0000:0:0:0:</channel><!-- TVP Polonia -->
 <!-- UPC --><channel id="TVPPolonia.pl">1:0:1:13F0:33:601:FFFF0000:0:0:0:</channel><!-- TVP Polonia -->
 <!-- UPC --><channel id="TVPRozrywka.pl">1:0:19:966:18:601:FFFF0000:0:0:0:</channel><!-- TVP Rozrywka -->
