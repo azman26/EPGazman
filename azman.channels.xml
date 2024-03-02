@@ -446,7 +446,7 @@
 <!-- IPTV --><channel id="DWDeutsch.pl">4097:0:1:646E:A543:EC:0:0:0:0:http%3a//</channel><!-- DW Deutsch -->
 <!-- IPTV --><channel id="DamiTv.pl">4097:0:1:58:1:48:0:0:0:0:http%3a//</channel><!-- DAMI TV -->
 <!-- IPTV --><channel id="DeluxeMusic.pl">4097:0:1:C55:ECD9:EC:0:0:0:0:http%3a//</channel><!-- Deluxe Music -->
-<!-- IPTV --><channel id="Dizi.pl">4097:0:1:755:1362:EC:0:0:0:0:http%3a//</channel><!-- DIZI -->
+<!-- IPTV --><channel id="Novelas+1.pl">4097:0:1:755:1362:EC:0:0:0:0:http%3a//</channel><!-- Novelas+1 -->
 <!-- IPTV --><channel id="DlaCiebieTv.pl">4097:0:1:13:1:48:0:0:0:0:http%3a//</channel><!-- DLA CIEBIE TV -->
 <!-- IPTV --><channel id="Docubox.pl">4097:0:1:1B4:A:2:1330A8:0:0:0:http%3a//</channel><!-- DOCUBOX HD -->
 <!-- IPTV --><channel id="DuckTv.pl">4097:0:1:7985:ABC6:EC:0:0:0:0:http%3a//</channel><!-- DUCK TV -->
@@ -467,7 +467,7 @@
 <!-- IPTV --><channel id="Home4K.pl">4097:0:1:1F7:2137:9F:820000:0:0:0:http%3a//</channel><!-- HOME 4K -->
 <!-- IPTV --><channel id="Jazz.pl">4097:0:1:540B:DD1E:EC:0:0:0:0:http%3a//</channel><!-- JAZZ HD-->
 <!-- IPTV --><channel id="JuniorMusic.pl">4097:0:1F:4E:14:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Music -->
-<!-- IPTV --><channel id="KabaretTv.pl">4097:0:1:995A:C656:EC:0:0:0:0:http%3a//</channel><!--Kabaret TV -->
+<!-- IPTV --><channel id="KaruzelaSmiechu.pl">4097:0:1:995A:C656:EC:0:0:0:0:http%3a//</channel><!--Karuzela Śmiechu -->
 <!-- IPTV --><channel id="LRTLituanica.pl">4097:0:1:3F8:65:64:FFFF0000:0:0:0:http%3a//</channel><!-- LRT Lituanica -->
 <!-- IPTV --><channel id="MixTape.pl">4097:0:1:C20B:E8B5:EC:0:0:0:0:http%3a//</channel><!-- MIX TAPE -->
 <!-- IPTV --><channel id="MusicBox.pl">4097:0:1:2341:2328:13E:820000:0:0:0:http%3a//</channel><!-- Music Box Polska -->
@@ -927,7 +927,7 @@
 <!-- VECTRA --><channel id="DisneyChannel.pl">1:0:1:3F5:65:64:FFFF0000:0:0:0:</channel><!-- Disney Channel -->
 <!-- VECTRA --><channel id="DisneyJr.pl">1:0:1:7DD:66:64:FFFF0000:0:0:0:</channel><!-- Disney Junior -->
 <!-- VECTRA --><channel id="DisneyXD.pl">1:0:1:3F7:65:64:FFFF0000:0:0:0:</channel><!-- Disney XD -->
-<!-- VECTRA --><channel id="Dizi.pl">1:0:19:2333:6D:64:FFFF0000:0:0:0:</channel><!-- DIZI -->
+<!-- VECTRA --><channel id="Novelas+1.pl">1:0:19:2333:6D:64:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
 <!-- VECTRA --><channel id="Docubox.pl">1:0:19:1779:6A:64:FFFF0000:0:0:0:</channel><!-- DOCUBOX -->
 <!-- VECTRA --><channel id="DuckTv.pl">1:0:1:CF12:99:64:FFFF0000:0:0:0:</channel><!-- DUCK TV -->
 <!-- VECTRA --><channel id="E!.pl">1:0:19:908C:89:64:FFFF0000:0:0:0:</channel><!-- E! Entertainment -->
@@ -1185,9 +1185,9 @@
 <!-- UPC --><channel id="DisneyChannel.pl">1:0:19:C27:1F:601:FFFF0000:0:0:0:</channel><!-- Disney Channel HD -->
 <!-- UPC --><channel id="DisneyJr.pl">1:0:1:45F:B:601:FFFF0000:0:0:0:</channel><!-- Disney Junior -->
 <!-- UPC --><channel id="DisneyXD.pl">1:0:1:D5:2:601:FFFF0000:0:0:0:</channel><!-- Disney XD -->
-<!-- UPC --><channel id="Dizi.pl">1:0:19:200:5:601:FFFF0000:0:0:0:</channel><!-- DIZI -->
-<!-- UPC --><channel id="Dizi.pl">1:0:19:EDA:26:601:FFFF0000:0:0:0:</channel><!-- DIZI -->
-<!-- UPC --><channel id="Dizi.pl">1:0:19:EDB:26:601:FFFF0000:0:0:0:</channel><!-- DIZI -->
+<!-- UPC --><channel id="Novelas+1.pl">1:0:19:200:5:601:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
+<!-- UPC --><channel id="Novelas+1.pl">1:0:19:EDA:26:601:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
+<!-- UPC --><channel id="Novelas+1.pl">1:0:19:EDB:26:601:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
 <!-- UPC --><channel id="DlaCiebieTv.pl">1:0:1:13F5:33:601:FFFF0000:0:0:0:</channel><!-- DLA CIEBIE TV -->
 <!-- UPC --><channel id="Docubox.pl">1:0:19:E77:25:601:FFFF0000:0:0:0:</channel><!-- DOCUBOX HD -->
 <!-- UPC --><channel id="ElevenSports1.pl">1:0:19:32D:8:601:FFFF0000:0:0:0:</channel><!-- Eleven Sports 1 -->
