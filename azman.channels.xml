@@ -476,7 +476,7 @@
 <!-- IPTV --><channel id="News24.pl">4097:0:1:F6B3:51BB:EC:0:0:0:0:http%3a//</channel><!-- NEWS 24 -->
 <!-- IPTV --><channel id="PatronitePodróże.pl">4097:0:1:DFDD:F56A:EC:0:0:0:0:http%3a//</channel><!--Patronite Podróże -->
 <!-- IPTV --><channel id="PilotwDomu.pl">4097:0:1:9A8F:C32:EC:0:0:0:0:http%3a//</channel><!-- Pilot w Domu -->
-<!-- IPTV --><channel id="Polsat1.pl">4097:0:1:943A:2C7F:EC:0:0:0:0:http%3a//</channel><!-- Pilot w Domu -->
+<!-- IPTV --><channel id="Polsat1.pl">4097:0:1:943A:2C7F:EC:0:0:0:0:http%3a//</channel><!-- Polsat 1 -->
 <!-- IPTV --><channel id="PrimeFight.pl">4097:0:1:6AC8:5E32:EC:0:0:0:0:http%3a//</channel><!-- Prime Fight HD -->
 <!-- IPTV --><channel id="ProartHD.pl">4097:0:1:DFC5:FFB3:EC:0:0:0:0:http%3a//</channel><!-- Proart HD -->
 <!-- IPTV --><channel id="Radio357.pl">4097:0:1:3C02:3AF2:EC:0:0:0:0:http%3a//</channel><!-- RADIO 357 --><!-- WP PILOT -->
@@ -514,6 +514,7 @@
 <!-- IPTV --><channel id="Viaplay.pl">4097:0:1:764A:564:EC:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
+<!-- IPTV --><channel id="JuniorChannel.pl">4097:0:1F:4B:16:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Channel -->
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
@@ -837,6 +838,8 @@
 <!-- DVB-T MUX-L2 TVT --><channel id="TVN.pl">1:0:1F:B5:15:2268:EEEE02AA:0:0:0:</channel><!-- TVN HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TVS.pl">1:0:1F:B4:15:2268:EEEE02AA:0:0:0:</channel><!-- TVS HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1F:25:15:2268:EEEE02AA:0:0:0:</channel><!-- TVT HD -->
+
+<!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="JuniorChannel.pl">1:0:1F:4B:16:2268:EEEE0000:0:0:0:</channel><!-- Junior Channel -->
 
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TVC.pl">1:0:19:26:B052:2268:EEEE0000:0:0:0:</channel><!-- TVC -->
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TVN.pl">1:0:19:2C:B052:2268:EEEE0000:0:0:0:</channel><!-- TVN HD -->
