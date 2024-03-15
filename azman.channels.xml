@@ -515,6 +515,8 @@
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
 <!-- IPTV --><channel id="JuniorChannel.pl">4097:0:1F:4B:16:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Channel -->
+<!-- IPTV --><channel id="CTV9.pl">4097:0:16:47:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!--CTV 9 -->
+
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
@@ -804,6 +806,7 @@
 <!-- DVB-T MUX6 --><channel id="TVPWorld.pl">1:0:1F:53:3A2:2268:EEEE0000:0:0:0:</channel><!-- TVP World -->
 
 <!-- DVB-T MUX8 --><channel id="Metro.pl">1:0:16:39:7001:2268:EEEE0000:0:0:0:</channel><!--Metro -->
+<!-- DVB-T MUX8 --><channel id="CTV9.pl">1:0:16:47:7001:2268:EEEE0000:0:0:0:</channel><!--CTV 9 -->
 <!-- DVB-T MUX8 --><channel id="ZoomTv.pl">1:0:16:3A:7001:2268:EEEE0000:0:0:0:</channel><!--Zoom TV -->
 <!-- DVB-T MUX8 --><channel id="NowaTv.pl">1:0:16:3B:7001:2268:EEEE0000:0:0:0:</channel><!--Nowa TV -->
 <!-- DVB-T MUX8 --><channel id="WP.pl">1:0:16:3C:7001:2268:EEEE0000:0:0:0:</channel><!--WP -->
