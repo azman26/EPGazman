@@ -517,7 +517,6 @@
 <!-- IPTV --><channel id="JuniorChannel.pl">4097:0:1F:4B:16:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Channel -->
 <!-- IPTV --><channel id="CTV9.pl">4097:0:16:47:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!--CTV 9 -->
 
-
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
 <!-- IPTV --><channel id="TVP3Bialystok.pl">4097:0:16:7:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Białystok -->
@@ -596,6 +595,7 @@
 <!-- IPTV --><channel id="tvnWDomu.pl">4097:0:1:2C8:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn W Domu -->
 <!-- IPTV --><channel id="tvnUsterka.pl">4097:0:1:2C9:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Usterka -->
 <!-- IPTV --><channel id="tvnPrawoiZycie.pl">4097:0:1:2CA:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Prawo i Życie -->
+<!-- IPTV --><channel id="tvnMilionerzy.pl">4097:0:1:2CB:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Milionerzy -->
 
 <!-- RADIO --><!-- 1-200:A22A:2268 -->
 
