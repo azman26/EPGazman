@@ -444,7 +444,6 @@
 <!-- IPTV --><channel id="C+Program4.pl">4097:0:1:E6DE:8BD7:EC:0:0:0:0:http%3a//</channel><!-- Program 4 -->
 <!-- IPTV --><channel id="C+Program5.pl">4097:0:1:4437:173C:EC:0:0:0:0:http%3a//</channel><!-- Program 5 -->
 <!-- IPTV --><channel id="C+Program6.pl">4097:0:1:2C2D:750D:EC:0:0:0:0:http%3a//</channel><!-- Program 6 -->
-<!-- IPTV --><channel id="ViDocTv.pl">4097:0:16:47:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!--ViDoc TV -->
 <!-- IPTV --><channel id="ClubMTV.pl">4097:0:16:7A:3:40:A00000:0:0:0:http%3a//</channel><!-- Club MTV -->
 <!-- IPTV --><channel id="DWDeutsch.pl">4097:0:1:646E:A543:EC:0:0:0:0:http%3a//</channel><!-- DW Deutsch -->
 <!-- IPTV --><channel id="DamiTv.pl">4097:0:1:58:1:48:0:0:0:0:http%3a//</channel><!-- DAMI TV -->
@@ -517,6 +516,7 @@
 <!-- IPTV --><channel id="Ukraine1.pl">4097:0:1:AE96:6B2A:EC:0:0:0:0:http%3a//</channel><!-- UKRAINE 1 -->
 <!-- IPTV --><channel id="UltraTv4K.pl">4097:0:1:7389:DE37:EC:0:0:0:0:http%3a//</channel><!-- ULTRA TV 4K -->
 <!-- IPTV --><channel id="VIVARussia.pl">4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//</channel><!-- VIVA Russia -->
+<!-- IPTV --><channel id="ViDocTv.pl">4097:0:16:47:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!--ViDoc TV -->
 <!-- IPTV --><channel id="Viaplay.pl">4097:0:1:764A:564:EC:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
