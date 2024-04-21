@@ -292,12 +292,14 @@
 <!-- 13.0E --><channel id="StudioMedTv.pl">1:0:19:377C:44C:13E:820000:0:0:0:</channel><!-- StudioMed TV HD -->
 <!-- 13.0E --><channel id="SundanceTv.pl">1:0:1:3E1D:2EE0:13E:820000:0:0:0:</channel><!-- Sundance TV -->
 <!-- 13.0E --><channel id="SuperPolsat.pl">1:0:1:339B:3390:71:820000:0:0:0:</channel><!-- Super Polsat -->
+<!-- 13.0E --><channel id="SzlagierTv.pl">1:0:1:32DA:190:13E:820000:0:0:0:</channel><!-- Szlagier TV -->
 <!-- 13.0E --><channel id="TLC.pl">1:0:19:10DE:3E8:13E:820000:0:0:0:</channel><!-- TLC Poland HD -->
 <!-- 13.0E --><channel id="TTV.pl">1:0:19:3DD7:640:13E:820000:0:0:0:</channel><!-- TTV HD -->
 <!-- 13.0E --><channel id="TV4.pl">1:0:1:3393:3390:71:820000:0:0:0:</channel><!-- TV4 HD -->
 <!-- 13.0E --><channel id="TV4.pl">1:0:1:33A3:3390:71:820000:0:0:0:</channel><!-- TV4 HD -->
 <!-- 13.0E --><channel id="TV6.pl">1:0:1:3394:3390:71:820000:0:0:0:</channel><!-- TV6 -->
 <!-- 13.0E --><channel id="TVC.pl">1:0:1:32D4:190:13E:820000:0:0:0:</channel><!-- TVC -->
+<!-- 13.0E --><channel id="TVCSuper.pl">1:0:1:32D9:190:13E:820000:0:0:0:</channel><!-- TVC Super -->
 <!-- 13.0E --><channel id="TVN.pl">1:0:19:3DCD:640:13E:820000:0:0:0:</channel><!-- TVN HD -->
 <!-- 13.0E --><channel id="TVN.pl">1:0:19:3DEA:640:13E:820000:0:0:0:</channel><!-- TVN HD -->
 <!-- 13.0E --><channel id="TVN24.pl">1:0:19:3DD2:640:13E:820000:0:0:0:</channel><!-- TVN 24 HD -->
@@ -442,11 +444,12 @@
 <!-- IPTV --><channel id="C+Program4.pl">4097:0:1:E6DE:8BD7:EC:0:0:0:0:http%3a//</channel><!-- Program 4 -->
 <!-- IPTV --><channel id="C+Program5.pl">4097:0:1:4437:173C:EC:0:0:0:0:http%3a//</channel><!-- Program 5 -->
 <!-- IPTV --><channel id="C+Program6.pl">4097:0:1:2C2D:750D:EC:0:0:0:0:http%3a//</channel><!-- Program 6 -->
+<!-- IPTV --><channel id="CTV9.pl">4097:0:16:47:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!--CTV 9 -->
 <!-- IPTV --><channel id="ClubMTV.pl">4097:0:16:7A:3:40:A00000:0:0:0:http%3a//</channel><!-- Club MTV -->
 <!-- IPTV --><channel id="DWDeutsch.pl">4097:0:1:646E:A543:EC:0:0:0:0:http%3a//</channel><!-- DW Deutsch -->
 <!-- IPTV --><channel id="DamiTv.pl">4097:0:1:58:1:48:0:0:0:0:http%3a//</channel><!-- DAMI TV -->
 <!-- IPTV --><channel id="DeluxeMusic.pl">4097:0:1:C55:ECD9:EC:0:0:0:0:http%3a//</channel><!-- Deluxe Music -->
-<!-- IPTV --><channel id="Novelas+1.pl">4097:0:1:755:1362:EC:0:0:0:0:http%3a//</channel><!-- Novelas+1 -->
+<!-- IPTV --><channel id="DidaskaliaTv.pl">4097:0:1:9A8F:C37:EC:0:0:0:0:http%3a//</channel><!--Didaskalia -->
 <!-- IPTV --><channel id="DlaCiebieTv.pl">4097:0:1:13:1:48:0:0:0:0:http%3a//</channel><!-- DLA CIEBIE TV -->
 <!-- IPTV --><channel id="Docubox.pl">4097:0:1:1B4:A:2:1330A8:0:0:0:http%3a//</channel><!-- DOCUBOX HD -->
 <!-- IPTV --><channel id="DuckTv.pl">4097:0:1:7985:ABC6:EC:0:0:0:0:http%3a//</channel><!-- DUCK TV -->
@@ -466,7 +469,9 @@
 <!-- IPTV --><channel id="GodTv.pl">4097:0:1:B0CA:6549:EC:0:0:0:0:http%3a//</channel><!-- GOD TV -->
 <!-- IPTV --><channel id="Home4K.pl">4097:0:1:1F7:2137:9F:820000:0:0:0:http%3a//</channel><!-- HOME 4K -->
 <!-- IPTV --><channel id="Jazz.pl">4097:0:1:540B:DD1E:EC:0:0:0:0:http%3a//</channel><!-- JAZZ HD-->
+<!-- IPTV --><channel id="JuniorChannel.pl">4097:0:1F:4B:16:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Channel -->
 <!-- IPTV --><channel id="JuniorMusic.pl">4097:0:1F:4E:14:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Music -->
+<!-- IPTV --><channel id="KabaretTV.pl">4097:0:19:90A:17:601:FFFF0000:0:0:0:http%3a//</channel><!--Kabaret TV -->
 <!-- IPTV --><channel id="KaruzelaSmiechu.pl">4097:0:1:995A:C656:EC:0:0:0:0:http%3a//</channel><!--Karuzela Śmiechu -->
 <!-- IPTV --><channel id="LRTLituanica.pl">4097:0:1:3F8:65:64:FFFF0000:0:0:0:http%3a//</channel><!-- LRT Lituanica -->
 <!-- IPTV --><channel id="MixTape.pl">4097:0:1:C20B:E8B5:EC:0:0:0:0:http%3a//</channel><!-- MIX TAPE -->
@@ -474,6 +479,7 @@
 <!-- IPTV --><channel id="NauticalChannel.pl">4097:0:1:1C2:1091:EC:0:0:0:0:http%3a//</channel><!-- Nautical Channel -->
 <!-- IPTV --><channel id="NewTv.pl">4097:0:1:59:1:48:0:0:0:0:http%3a//</channel><!-- NEW TV -->
 <!-- IPTV --><channel id="News24.pl">4097:0:1:F6B3:51BB:EC:0:0:0:0:http%3a//</channel><!-- NEWS 24 -->
+<!-- IPTV --><channel id="Novelas+1.pl">4097:0:1:755:1362:EC:0:0:0:0:http%3a//</channel><!-- Novelas+1 -->
 <!-- IPTV --><channel id="PatronitePodróże.pl">4097:0:1:DFDD:F56A:EC:0:0:0:0:http%3a//</channel><!--Patronite Podróże -->
 <!-- IPTV --><channel id="PilotwDomu.pl">4097:0:1:9A8F:C32:EC:0:0:0:0:http%3a//</channel><!-- Pilot w Domu -->
 <!-- IPTV --><channel id="Polsat1.pl">4097:0:1:943A:2C7F:EC:0:0:0:0:http%3a//</channel><!-- Polsat 1 -->
@@ -514,10 +520,6 @@
 <!-- IPTV --><channel id="Viaplay.pl">4097:0:1:764A:564:EC:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
-<!-- IPTV --><channel id="JuniorChannel.pl">4097:0:1F:4B:16:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Channel -->
-<!-- IPTV --><channel id="CTV9.pl">4097:0:16:47:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!--CTV 9 -->
-<!-- IPTV --><channel id="KabaretTV.pl">4097:0:19:90A:17:601:FFFF0000:0:0:0:http%3a//</channel><!--Kabaret TV -->
-<!-- IPTV --><channel id="DidaskaliaTv.pl">4097:0:1:9A8F:C37:EC:0:0:0:0:http%3a//</channel><!--Didaskalia -->
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
