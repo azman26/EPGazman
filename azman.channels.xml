@@ -601,6 +601,7 @@
 <!-- IPTV --><channel id="tvnUsterka.pl">4097:0:1:2C9:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Usterka -->
 <!-- IPTV --><channel id="tvnPrawoiZycie.pl">4097:0:1:2CA:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Prawo i Życie -->
 <!-- IPTV --><channel id="tvnMilionerzy.pl">4097:0:1:2CB:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Milionerzy -->
+<!-- IPTV --><channel id="tvnPoraNaShow.pl">4097:0:1:2CC:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Pora Na Show -->
 
 <!-- RADIO --><!-- 1-200:A22A:2268 -->
 
