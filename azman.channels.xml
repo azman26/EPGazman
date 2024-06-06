@@ -489,7 +489,6 @@
 <!-- IPTV --><channel id="Radio357.pl">4097:0:1:3C02:3AF2:EC:0:0:0:0:http%3a//</channel><!-- RADIO 357 --><!-- WP PILOT -->
 <!-- IPTV --><channel id="RadioNowySwiat.pl">4097:0:1:513D:DFC5:EC:0:0:0:0:http%3a//</channel><!-- RADIO NOWY ŚWIAT --><!-- WP PILOT -->
 <!-- IPTV --><channel id="RadioRam.pl">4097:0:1:AC96:C97C:EC:0:0:0:0:http%3a//</channel><!-- RADIO RAM --><!-- VISUAL RADIO -->
-<!-- IPTV --><channel id="RedTopTv.pl">4097:0:1:754:1362:EC:0:0:0:0:http%3a//</channel><!-- RED TOP TV -->
 <!-- IPTV --><channel id="SejmRP.pl">4097:0:1:8285:6A03:EC:0:0:0:0:http%3a//</channel><!-- Sejm RP -->
 <!-- IPTV --><channel id="SferaTv.pl">4097:0:1:6:1:48:0:0:0:0:http%3a//</channel><!-- Sfera TV -->
 <!-- IPTV --><channel id="SportowaTv.pl">4097:0:1:391F:42F:EC:0:0:0:0:http%3a//</channel><!--Sportowa TV -->
@@ -518,7 +517,7 @@
 <!-- IPTV --><channel id="Ukraine1.pl">4097:0:1:AE96:6B2A:EC:0:0:0:0:http%3a//</channel><!-- UKRAINE 1 -->
 <!-- IPTV --><channel id="UltraTv4K.pl">4097:0:1:7389:DE37:EC:0:0:0:0:http%3a//</channel><!-- ULTRA TV 4K -->
 <!-- IPTV --><channel id="VIVARussia.pl">4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//</channel><!-- VIVA Russia -->
-<!-- IPTV --><channel id="ViDocTv.pl">4097:0:16:47:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!--ViDoc TV -->
+<!-- IPTV --><channel id="ViDocTv1.pl">4097:0:16:47:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!--ViDoc TV 1 -->
 <!-- IPTV --><channel id="Viaplay.pl">4097:0:1:764A:564:EC:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
@@ -813,7 +812,7 @@
 <!-- DVB-T MUX6 --><channel id="TVPWorld.pl">1:0:1F:53:3A2:2268:EEEE0000:0:0:0:</channel><!-- TVP World -->
 
 <!-- DVB-T MUX8 --><channel id="Metro.pl">1:0:16:39:7001:2268:EEEE0000:0:0:0:</channel><!--Metro -->
-<!-- DVB-T MUX8 --><channel id="CTV9.pl">1:0:16:47:7001:2268:EEEE0000:0:0:0:</channel><!--CTV 9 -->
+<!-- DVB-T MUX8 --><channel id="ViDocTv1.pl">1:0:16:47:7001:2268:EEEE0000:0:0:0:</channel><!--ViDoc TV 1 -->
 <!-- DVB-T MUX8 --><channel id="ZoomTv.pl">1:0:16:3A:7001:2268:EEEE0000:0:0:0:</channel><!--Zoom TV -->
 <!-- DVB-T MUX8 --><channel id="NowaTv.pl">1:0:16:3B:7001:2268:EEEE0000:0:0:0:</channel><!--Nowa TV -->
 <!-- DVB-T MUX8 --><channel id="WP.pl">1:0:16:3C:7001:2268:EEEE0000:0:0:0:</channel><!--WP -->
