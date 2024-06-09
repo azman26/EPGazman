@@ -1212,9 +1212,6 @@
 <!-- UPC --><channel id="DisneyChannel.pl">1:0:19:C27:1F:601:FFFF0000:0:0:0:</channel><!-- Disney Channel HD -->
 <!-- UPC --><channel id="DisneyJr.pl">1:0:1:45F:B:601:FFFF0000:0:0:0:</channel><!-- Disney Junior -->
 <!-- UPC --><channel id="DisneyXD.pl">1:0:1:D5:2:601:FFFF0000:0:0:0:</channel><!-- Disney XD -->
-<!-- UPC --><channel id="Novelas+1.pl">1:0:19:200:5:601:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
-<!-- UPC --><channel id="Novelas+1.pl">1:0:19:EDA:26:601:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
-<!-- UPC --><channel id="Novelas+1.pl">1:0:19:EDB:26:601:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
 <!-- UPC --><channel id="DlaCiebieTv.pl">1:0:1:13F5:33:601:FFFF0000:0:0:0:</channel><!-- DLA CIEBIE TV -->
 <!-- UPC --><channel id="Docubox.pl">1:0:19:E77:25:601:FFFF0000:0:0:0:</channel><!-- DOCUBOX HD -->
 <!-- UPC --><channel id="ElevenSports1.pl">1:0:19:32D:8:601:FFFF0000:0:0:0:</channel><!-- Eleven Sports 1 -->
@@ -1310,6 +1307,9 @@
 <!-- UPC --><channel id="NickelodeonUAPlutoTv.pl">1:0:1:6B4:11:601:FFFF0000:0:0:0:</channel><!-- Nickelodeon Ukraine Pluto TV -->
 <!-- UPC --><channel id="Nicktoons.pl">1:0:19:DB0:23:601:FFFF0000:0:0:0:</channel><!-- Nicktoons HD -->
 <!-- UPC --><channel id="NovelaTv.pl">1:0:19:9CD:19:601:FFFF0000:0:0:0:</channel><!-- Novela Tv -->
+<!-- UPC --><channel id="Novelas+1.pl">1:0:19:200:5:601:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
+<!-- UPC --><channel id="Novelas+1.pl">1:0:19:EDA:26:601:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
+<!-- UPC --><channel id="Novelas+1.pl">1:0:19:EDB:26:601:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
 <!-- UPC --><channel id="NowaTv.pl">1:0:19:2C8:7:601:FFFF0000:0:0:0:</channel><!-- NOWA TV HD -->
 <!-- UPC --><channel id="NowaTv.pl">1:0:19:2CE:7:601:FFFF0000:0:0:0:</channel><!-- NOWA TV HD -->
 <!-- UPC --><channel id="NutaGold.pl">1:0:1:6AD:11:601:FFFF0000:0:0:0:</channel><!-- Nuta Gold -->
@@ -1431,6 +1431,10 @@
 <!-- UPC --><channel id="TvTrwam.pl">1:0:19:198:4:601:FFFF0000:0:0:0:</channel><!-- TV Trwam -->
 <!-- UPC --><channel id="UltraTv4K.pl">1:0:19:B5D:1D:601:FFFF0000:0:0:0:</channel><!-- ULTRA TV 4K -->
 <!-- UPC --><channel id="UltraTv4K.pl">1:0:19:F3E:28:601:FFFF0000:0:0:0:</channel><!-- ULTRA TV 4K -->
+<!-- UPC --><channel id="ViDocTv1.pl">1:0:19:D54:22:601:FFFF0000:0:0:0:</channel><!--ViDoc TV 1 -->
+<!-- UPC --><channel id="ViDocTv1.pl">1:0:19:D55:22:601:FFFF0000:0:0:0:</channel><!--ViDoc TV 1 -->
+<!-- UPC --><channel id="ViasatTrueCrime.pl">1:0:19:6B5:11:601:FFFF0000:0:0:0:</channel><!-- Viasat True Crime -->
+<!-- UPC --><channel id="ViasatTrueCrime.pl">1:0:19:6B6:11:601:FFFF0000:0:0:0:</channel><!-- Viasat True Crime -->
 <!-- UPC --><channel id="VoxMusicTv.pl">1:0:1:77E:13:601:FFFF0000:0:0:0:</channel><!-- VOX Music TV -->
 <!-- UPC --><channel id="WP.pl">1:0:19:64A:10:601:FFFF0000:0:0:0:</channel><!-- WP -->
 <!-- UPC --><channel id="WP.pl">1:0:19:64C:10:601:FFFF0000:0:0:0:</channel><!-- WP -->
