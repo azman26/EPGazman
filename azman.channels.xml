@@ -16,11 +16,14 @@
 <!-- 13.0E --><channel id="AXNSpin.pl">1:0:1:331C:190:13E:820000:0:0:0:</channel><!-- AXN SPIN HD -->
 <!-- 13.0E --><channel id="AXNWhite.pl">1:0:1:1C86:1CE8:71:820000:0:0:0:</channel><!-- AXN White -->
 <!-- 13.0E --><channel id="ActiveFamily.pl">1:0:1:32D8:190:13E:820000:0:0:0:</channel><!-- Active Family -->
+<!-- 13.0E --><channel id="ActiveFamily.pl">1:0:1:1131:2AF8:13E:820000:0:0:0:</channel><!-- Active Family -->
 <!-- 13.0E --><channel id="Adventure.pl">1:0:1:32D5:190:13E:820000:0:0:0:</channel><!-- ADVENTURE HD -->
+<!-- 13.0E --><channel id="Adventure.pl">1:0:1:114C:2AF8:13E:820000:0:0:0:</channel><!-- ADVENTURE HD -->
 <!-- 13.0E --><channel id="AleKino.pl">1:0:19:3781:44C:13E:820000:0:0:0:</channel><!-- Ale kino+ HD -->
 <!-- 13.0E --><channel id="AleKino.pl">1:0:19:379F:44C:13E:820000:0:0:0:</channel><!-- Ale kino+ HD -->
 <!-- 13.0E --><channel id="AnimalPlanet.pl">1:0:19:3B66:12C:13E:820000:0:0:0:</channel><!-- Animal Planet Poland HD -->
 <!-- 13.0E --><channel id="Antena.pl">1:0:1:32CF:190:13E:820000:0:0:0:</channel><!-- ANTENA -->
+<!-- 13.0E --><channel id="Antena.pl">1:0:1:114D:2AF8:13E:820000:0:0:0:</channel><!-- ANTENA -->
 <!-- 13.0E --><channel id="BBCBrit.pl">1:0:1:7D6:22C4:13E:820000:0:0:0:</channel><!-- BBC Brit -->
 <!-- 13.0E --><channel id="BBCBrit.pl">1:0:1:7E0:22C4:13E:820000:0:0:0:</channel><!-- BBC Brit -->
 <!-- 13.0E --><channel id="BBCBrit.pl">1:0:1:7E6:22C4:13E:820000:0:0:0:</channel><!-- BBC Brit -->
@@ -176,6 +179,7 @@
 <!-- 13.0E --><channel id="History2.pl">1:0:1:3E22:2EE0:13E:820000:0:0:0:</channel><!-- History 2 HD -->
 <!-- 13.0E --><channel id="HomeTv.pl">1:0:1:32D0:190:13E:820000:0:0:0:</channel><!-- HOME TV -->
 <!-- 13.0E --><channel id="HomeTv.pl">1:0:1:32EE:190:13E:820000:0:0:0:</channel><!-- HOME TV -->
+<!-- 13.0E --><channel id="HomeTv.pl">1:0:1:114E:2AF8:13E:820000:0:0:0:</channel><!-- HOME TV -->
 <!-- 13.0E --><channel id="Hustler.pl">1:0:19:113F:2AF8:13E:820000:0:0:0:</channel><!-- Hustler HD -->
 <!-- 13.0E --><channel id="ID.pl">1:0:19:3B69:12C:13E:820000:0:0:0:</channel><!-- ID Poland HD -->
 <!-- 13.0E --><channel id="InUltra.pl">1:0:11:BEA:20D0:13E:820000:0:0:0:</channel><!-- InUltra -->
@@ -219,7 +223,9 @@
 <!-- 13.0E --><channel id="Novelas+.pl">1:0:1:3ACC:514:13E:820000:0:0:0:</channel><!-- NOVELAS+ -->
 <!-- 13.0E --><channel id="NowaTv.pl">1:0:1:429E:2BC0:13E:820000:0:0:0:</channel><!-- Nowa TV -->
 <!-- 13.0E --><channel id="NutaGold.pl">1:0:1:32D3:190:13E:820000:0:0:0:</channel><!-- NUTA GOLD -->
+<!-- 13.0E --><channel id="NutaGold.pl">1:0:1:114F:2AF8:13E:820000:0:0:0:</channel><!-- NUTA GOLD -->
 <!-- 13.0E --><channel id="NutaTv.pl">1:0:1:32D2:190:13E:820000:0:0:0:</channel><!-- NUTA TV -->
+<!-- 13.0E --><channel id="NutaTv.pl">1:0:1:1150:2AF8:13E:820000:0:0:0:</channel><!-- NUTA TV -->
 <!-- 13.0E --><channel id="PPVHD.pl">1:0:1:3E30:2EE0:13E:820000:0:0:0:</channel><!-- PPV HD Polsat Box -->
 <!-- 13.0E --><channel id="ParamountNetwork.pl">1:0:1:21:1964:13E:820000:0:0:0:</channel><!-- Paramount Network Polska -->
 <!-- 13.0E --><channel id="ParamountNetwork.pl">1:0:1:D:1964:13E:820000:0:0:0:</channel><!-- Paramount Network Polska -->
@@ -288,6 +294,7 @@
 <!-- 13.0E --><channel id="PolsatViasatNature.pl">1:0:1:2908:1EDC:71:820000:0:0:0:</channel><!-- Polsat Viasat Nature HD -->
 <!-- 13.0E --><channel id="PowerTv.pl">1:0:1:32D1:190:13E:820000:0:0:0:</channel><!-- POWER TV -->
 <!-- 13.0E --><channel id="PowerTv.pl">1:0:1:32EF:190:13E:820000:0:0:0:</channel><!-- POWER TV -->
+<!-- 13.0E --><channel id="PowerTv.pl">1:0:1:1151:2AF8:13E:820000:0:0:0:</channel><!-- POWER TV -->
 <!-- 13.0E --><channel id="PrivateTv.pl">1:0:19:1141:2AF8:13E:820000:0:0:0:</channel><!-- Private TV HD -->
 <!-- 13.0E --><channel id="Puls2.pl">1:0:1:3D5E:2C88:13E:820000:0:0:0:</channel><!-- Puls 2 HD -->
 <!-- 13.0E --><channel id="RedCarpetTv.pl">1:0:1:3D63:2C88:13E:820000:0:0:0:</channel><!-- Red Carpet TV -->
@@ -304,13 +311,16 @@
 <!-- 13.0E --><channel id="SundanceTv.pl">1:0:1:3E1D:2EE0:13E:820000:0:0:0:</channel><!-- Sundance TV -->
 <!-- 13.0E --><channel id="SuperPolsat.pl">1:0:1:339B:3390:71:820000:0:0:0:</channel><!-- Super Polsat -->
 <!-- 13.0E --><channel id="SzlagierTv.pl">1:0:1:32DA:190:13E:820000:0:0:0:</channel><!-- Szlagier TV -->
+<!-- 13.0E --><channel id="SzlagierTv.pl">1:0:1:1152:2AF8:13E:820000:0:0:0:</channel><!-- Szlagier TV -->
 <!-- 13.0E --><channel id="TLC.pl">1:0:19:10DE:3E8:13E:820000:0:0:0:</channel><!-- TLC Poland HD -->
 <!-- 13.0E --><channel id="TTV.pl">1:0:19:3DD7:640:13E:820000:0:0:0:</channel><!-- TTV HD -->
 <!-- 13.0E --><channel id="TV4.pl">1:0:1:3393:3390:71:820000:0:0:0:</channel><!-- TV4 HD -->
 <!-- 13.0E --><channel id="TV4.pl">1:0:1:33A3:3390:71:820000:0:0:0:</channel><!-- TV4 HD -->
 <!-- 13.0E --><channel id="TV6.pl">1:0:1:3394:3390:71:820000:0:0:0:</channel><!-- TV6 -->
 <!-- 13.0E --><channel id="TVC.pl">1:0:1:32D4:190:13E:820000:0:0:0:</channel><!-- TVC -->
+<!-- 13.0E --><channel id="TVC.pl">1:0:1:1153:2AF8:13E:820000:0:0:0:</channel><!-- TVC -->
 <!-- 13.0E --><channel id="TVCSuper.pl">1:0:1:32D9:190:13E:820000:0:0:0:</channel><!-- TVC Super -->
+<!-- 13.0E --><channel id="TVCSuper.pl">1:0:1:1155:2AF8:13E:820000:0:0:0:</channel><!-- TVC Super -->
 <!-- 13.0E --><channel id="TVN.pl">1:0:19:3DCD:640:13E:820000:0:0:0:</channel><!-- TVN HD -->
 <!-- 13.0E --><channel id="TVN.pl">1:0:19:3DEA:640:13E:820000:0:0:0:</channel><!-- TVN HD -->
 <!-- 13.0E --><channel id="TVN24.pl">1:0:19:3DD2:640:13E:820000:0:0:0:</channel><!-- TVN 24 HD -->
@@ -393,7 +403,7 @@
 <!-- 13.0E --><channel id="BBCNews.pl">1:0:1:42EA:3138:13E:820000:0:0:0:</channel><!-- BBC News -->
 <!-- 13.0E --><channel id="Bloomberg.pl">1:0:1:1C86:332C:13E:820000:0:0:0:</channel><!-- Bloomberg European TV -->
 <!-- 13.0E --><channel id="CNBC.pl">1:0:19:1C4D:1A2C:FBFF:820000:0:0:0:</channel><!-- CNBC HD -->
-<!-- 13.0E --><channel id="CurrentTime.pl">1:0:1:E6:65:1:820000:0:0:0:</channel><!-- Current Time (RFE/RL Russian HD) -->
+<!-- 13.0E --><channel id="CurrentTime.pl">1:0:1:C8:65:1:820000:0:0:0:</channel><!-- Current Time -->
 <!-- 13.0E --><channel id="DWEnglish.pl">1:0:1:332D:1388:13E:820000:0:0:0:</channel><!-- DW English HD -->
 <!-- 13.0E --><channel id="EspressoTv.pl">1:0:1:4235:2F44:13E:820000:0:0:0:</channel><!-- Espresso TV -->
 <!-- 13.0E --><channel id="Euronews.pl">1:0:1:321:3BC4:13E:820000:0:0:0:</channel><!-- Euronews English HD -->
@@ -574,6 +584,7 @@
 <!-- IPTV --><channel id="TVPNauka.pl">4097:0:1F:42:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Nauka -->
 <!-- IPTV --><channel id="TVPWorld.pl">4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP World -->
 <!-- IPTV --><channel id="Перший.pl">4097:0:16:5F:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!-- UA Perszyj -->
+<!-- IPTV --><channel id="TopCanalRTL7.pl">4097:0:1:A1EE:356:EC:0:0:0:0:http%3a//</channel><!-- Top Canal RTL7 -->
 
 <!-- iTVN -->
 
