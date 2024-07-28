@@ -8,4 +8,4 @@ IPTV - Zawiera EPG dla niektórych kanałów IPTV PL, przekazów z YT oraz kana�
 Radio - Zawiera EPG Radia PL z z 13E i 19,2E oraz niektórych streamów radiowych z sieci; ( 72 kanały )
 
 
-Plik rytec.sources.xml jest zmodowany przeze mnie i zawiera dodatkowe wpisy do źródeł EPG dla kanałów IPTV STIRR oraz SAMSUNG TV PLUS.
+Plik rytec.sources.xml jest zmodowany przeze mnie i zawiera dodatkowe wpisy do źródeł EPG dla kanałów VOD Polsat Box oraz iTVN.
