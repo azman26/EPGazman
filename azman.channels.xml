@@ -363,7 +363,8 @@
 <!-- 13.0E --><channel id="TeenNick.pl">1:0:19:3784:44C:13E:820000:0:0:0:</channel><!-- TeenNick -->
 <!-- 13.0E --><channel id="Tele5.pl">1:0:1:423B:3DB8:13E:820000:0:0:0:</channel><!-- TELE 5 -->
 <!-- 13.0E --><channel id="TeleToon.pl">1:0:19:377D:44C:13E:820000:0:0:0:</channel><!-- teleTOON+ HD -->
-<!-- 13.0E --><channel id="TeleToon.pl">1:0:19:37AF:44C:13E:820000:0:0:0 :</channel><!-- teleTOON+ HD -->
+<!-- 13.0E --><channel id="TeleToon.pl">1:0:19:37AF:44C:13E:820000:0:0:0:</channel><!-- teleTOON+ HD -->
+<!-- 13.0E --><channel id="TeleToon.pl">1:0:1:3A9B:514:13E:820000:0:0:0:</channel><!-- teleTOON+ HD -->
 <!-- 13.0E --><channel id="TravelChannel.pl">1:0:19:3DD8:640:13E:820000:0:0:0:</channel><!-- Travel Channel HD -->
 <!-- 13.0E --><channel id="TravelXP_4K.pl">1:0:1F:11FB:2B5C:13E:820000:0:0:0:</channel><!-- TravelXP 4K -->
 <!-- 13.0E --><channel id="TurboXtra.pl">1:0:19:3B6B:12C:13E:820000:0:0:0:</channel><!-- Turbo Xtra Poland HD -->
@@ -592,7 +593,20 @@
 <!-- IPTV --><channel id="TVPNauka.pl">4097:0:1F:42:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Nauka -->
 <!-- IPTV --><channel id="TVPWorld.pl">4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP World -->
 <!-- IPTV --><channel id="Перший.pl">4097:0:16:5F:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!-- UA Perszyj -->
-<!-- IPTV --><channel id="TopCanalRTL7.pl">4097:0:1:A1EE:356:EC:0:0:0:0:http%3a//</channel><!-- Top Canal RTL7 -->
+
+<!-- PRIVATE AZMAN FAST TV --><!-- 1-500:A33A:2268 -->
+
+<!-- IPTV --><channel id="TopCanalRTL7.pl">4097:0:1:1:A33A:2268:0:0:0:0:http%3a//</channel><!-- Top Canal RTL7 -->
+<!-- IPTV --><channel id="DruzynaA.pl">4097:0:1:2:A33A:2268:0:0:0:0:http%3a//</channel><!-- Drużyna A -->
+<!-- IPTV --><channel id="SeaQuest.pl">4097:0:1:3:A33A:2268:0:0:0:0:http%3a//</channel><!-- SeaQuest -->
+<!-- IPTV --><channel id="DrQuinn.pl">4097:0:1:4:A33A:2268:0:0:0:0:http%3a//</channel><!-- Dr. Quinn -->
+<!-- IPTV --><channel id="Andromeda.pl">4097:0:1:5:A33A:2268:0:0:0:0:http%3a//</channel><!-- Andromeda -->
+<!-- IPTV --><channel id="Nieustraszony.pl">4097:0:1:6:A33A:2268:0:0:0:0:http%3a//</channel><!-- Nieustraszony -->
+<!-- IPTV --><channel id="MacGyver.pl">4097:0:1:7:A33A:2268:0:0:0:0:http%3a//</channel><!-- MacGyver -->
+<!-- IPTV --><channel id="Magnum.pl">4097:0:1:8:A33A:2268:0:0:0:0:http%3a//</channel><!-- Magnum -->
+<!-- IPTV --><channel id="PolicjanciZMiami.pl">4097:0:1:9:A33A:2268:0:0:0:0:http%3a//</channel><!-- Policjanci z Miami -->
+<!-- IPTV --><channel id="PolnocPoludnie.pl">4097:0:1:A:A33A:2268:0:0:0:0:http%3a//</channel><!-- Północ Południe -->
+<!-- IPTV --><channel id="Defiance.pl">4097:0:1:B:A33A:2268:0:0:0:0:http%3a//</channel><!-- Defiance -->
 
 <!-- iTVN -->
 
