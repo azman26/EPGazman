@@ -607,6 +607,7 @@
 <!-- IPTV --><channel id="PolicjanciZMiami.pl">4097:0:1:9:A33A:2268:0:0:0:0:http%3a//</channel><!-- Policjanci z Miami -->
 <!-- IPTV --><channel id="PolnocPoludnie.pl">4097:0:1:A:A33A:2268:0:0:0:0:http%3a//</channel><!-- Północ Południe -->
 <!-- IPTV --><channel id="Defiance.pl">4097:0:1:B:A33A:2268:0:0:0:0:http%3a//</channel><!-- Defiance -->
+<!-- IPTV --><channel id="ZiemiaOstatnieStarcie.pl">4097:0:1:C:A33A:2268:0:0:0:0:http%3a//</channel><!-- Ziemia Ostatnie Starcie -->
 
 <!-- iTVN -->
 
@@ -626,6 +627,7 @@
 <!-- IPTV --><channel id="GrjngoWesterny.rtv.pl">4097:0:1:1F7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Grjngo Westerny -->
 <!-- IPTV --><channel id="Moconomy.rtv.pl">4097:0:1:240:A11A:2268:0:0:0:0:http%3a//</channel><!-- Moconomy -->
 <!-- IPTV --><channel id="TopMovies.rtv.pl">4097:0:1:1E7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Top Movies Polska -->
+<!-- IPTV --><channel id="CarCityAdventures.rtv.pl">4097:0:1:1A7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Car City Adventures -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
