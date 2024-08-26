@@ -50,7 +50,6 @@
 <!-- 13.0E --><channel id="C+Dokument.pl">1:0:1:3ACB:514:13E:820000:0:0:0:</channel><!-- CANAL+ DOKUMENT HD -->
 <!-- 13.0E --><channel id="C+Domo.pl">1:0:1:13EF:5DC:13E:820000:0:0:0:</channel><!-- CANAL+ DOMO HD -->
 <!-- 13.0E --><channel id="C+Domo.pl">1:0:1:1421:5DC:13E:820000:0:0:0:</channel><!-- CANAL+ DOMO HD -->
-
 <!-- 13.0E --><channel id="C+Extra1.pl">1:0:1:3313:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 1 -->
 <!-- 13.0E --><channel id="C+Extra1.pl">1:0:1:32E1:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 1 -->
 <!-- 13.0E --><channel id="C+Extra2.pl">1:0:1:3314:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 2 -->
@@ -59,7 +58,6 @@
 <!-- 13.0E --><channel id="C+Extra3.pl">1:0:1:32E3:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 3 -->
 <!-- 13.0E --><channel id="C+Extra4.pl">1:0:1:3AA3:514:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 4 -->
 <!-- 13.0E --><channel id="C+Extra4.pl">1:0:1:3AD5:514:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 4 -->
-
 <!-- 13.0E --><channel id="C+Family.pl">1:0:19:377B:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FAMILY HD -->
 <!-- 13.0E --><channel id="C+Family.pl">1:0:19:37AD:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FAMILY HD -->
 <!-- 13.0E --><channel id="C+Family.pl">1:0:19:37B7:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FAMILY HD -->
@@ -141,6 +139,10 @@
 <!-- 13.0E --><channel id="Eurosport1.pl">1:0:19:3B67:12C:13E:820000:0:0:0:</channel><!-- Eurosport 1 Poland -->
 <!-- 13.0E --><channel id="Eurosport2.pl">1:0:19:2BE:2BC:13E:820000:0:0:0:</channel><!-- Eurosport 2 International -->
 <!-- 13.0E --><channel id="Eurosport2.pl">1:0:19:3B68:12C:13E:820000:0:0:0:</channel><!-- Eurosport 2 Poland -->
+<!-- 13.0E --><channel id="Eurosport4K.pl">1:0:1F:3E84:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 4K -->
+<!-- 13.0E --><channel id="Eurosport7.pl">1:0:19:3E81:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 7 -->
+<!-- 13.0E --><channel id="Eurosport8.pl">1:0:19:3E82:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 8 -->
+<!-- 13.0E --><channel id="Eurosport9.pl">1:0:19:3E83:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 9 -->
 <!-- 13.0E --><channel id="ExtremeSports.pl">1:0:1:290A:1EDC:71:820000:0:0:0:</channel><!-- Extreme Sports -->
 <!-- 13.0E --><channel id="FashionTvUHD.pl">1:0:1:BC4:20D0:13E:820000:0:0:0:</channel><!-- Fashion TV 4K -->
 <!-- 13.0E --><channel id="FightBox.pl">1:0:1:3E24:2EE0:13E:820000:0:0:0:</channel><!-- Fightbox HD -->
