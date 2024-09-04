@@ -609,6 +609,7 @@
 <!-- IPTV --><channel id="ZiemiaOstatnieStarcie.pl">4097:0:1:C:A33A:2268:0:0:0:0:http%3a//</channel><!-- Ziemia Ostatnie Starcie -->
 <!-- IPTV --><channel id="BajkaTV.pl">4097:0:1:D:A33A:2268:0:0:0:0:http%3a//</channel><!-- Bajka TV -->
 <!-- IPTV --><channel id="UcieczkaWKosmos.pl">4097:0:1:E:A33A:2268:0:0:0:0:http%3a//</channel><!-- Ucieczka w Kosmos -->
+<!-- IPTV --><channel id="Eureka.pl">4097:0:1:F:A33A:2268:0:0:0:0:http%3a//</channel><!-- Eureka -->
 
 <!-- iTVN -->
 
@@ -629,6 +630,7 @@
 <!-- IPTV --><channel id="Moconomy.rtv.pl">4097:0:1:240:A11A:2268:0:0:0:0:http%3a//</channel><!-- Moconomy -->
 <!-- IPTV --><channel id="TopMovies.rtv.pl">4097:0:1:1E7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Top Movies Polska -->
 <!-- IPTV --><channel id="CarCityAdventures.rtv.pl">4097:0:1:1A7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Car City Adventures -->
+<!-- IPTV --><channel id="RoyalWorld.rtv.pl">4097:0:1:1B7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Royalworld -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
