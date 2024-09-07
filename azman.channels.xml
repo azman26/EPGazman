@@ -144,7 +144,6 @@
 <!-- 13.0E --><channel id="Eurosport8.pl">1:0:19:3E82:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 8 -->
 <!-- 13.0E --><channel id="Eurosport9.pl">1:0:19:3E83:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 9 -->
 <!-- 13.0E --><channel id="ExtremeSports.pl">1:0:1:290A:1EDC:71:820000:0:0:0:</channel><!-- Extreme Sports -->
-<!-- 13.0E --><channel id="FashionTvUHD.pl">1:0:1:BC4:20D0:13E:820000:0:0:0:</channel><!-- Fashion TV 4K -->
 <!-- 13.0E --><channel id="FightBox.pl">1:0:1:3E24:2EE0:13E:820000:0:0:0:</channel><!-- Fightbox HD -->
 <!-- 13.0E --><channel id="FightKlub.pl">1:0:1:113B:2AF8:13E:820000:0:0:0:</channel><!-- Fightklub HD -->
 <!-- 13.0E --><channel id="FilmboxAction.pl">1:0:1:3D65:2C88:13E:820000:0:0:0:</channel><!-- FilmBox Action -->
@@ -208,8 +207,6 @@
 <!-- 13.0E --><channel id="Museum4K.pl">1:0:1:11FC:2B5C:13E:820000:0:0:0:</channel><!-- Museum 4K -->
 <!-- 13.0E --><channel id="MusicBox.pl">1:0:1:2341:2328:13E:820000:0:0:0:</channel><!-- Music Box Polska -->
 <!-- 13.0E --><channel id="MyZen4K.pl">1:0:1:11FD:2B5C:13E:820000:0:0:0:</channel><!-- MyZen 4K -->
-<!-- 13.0E --><channel id="NasaTv.pl">1:0:1:1F8:384:13E:820000:0:0:0:</channel><!-- NASA TV -->
-<!-- 13.0E --><channel id="NasaTvUHD.pl">1:0:1:11FA:2B5C:13E:820000:0:0:0:</channel><!-- NASA TV UHD -->
 <!-- 13.0E --><channel id="NatGeoPeople.pl">1:0:1:2907:1EDC:71:820000:0:0:0:</channel><!-- Nat Geo People HD -->
 <!-- 13.0E --><channel id="NatGeoWild.pl">1:0:1:13F6:5DC:13E:820000:0:0:0:</channel><!-- National Geographic Wild HD -->
 <!-- 13.0E --><channel id="NatGeoWild.pl">1:0:1:1428:5DC:13E:820000:0:0:0:</channel><!-- National Geographic Wild HD -->
