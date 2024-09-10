@@ -628,6 +628,7 @@
 <!-- IPTV --><channel id="TopMovies.rtv.pl">4097:0:1:1E7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Top Movies Polska -->
 <!-- IPTV --><channel id="CarCityAdventures.rtv.pl">4097:0:1:1A7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Car City Adventures -->
 <!-- IPTV --><channel id="RoyalWorld.rtv.pl">4097:0:1:1B7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Royalworld -->
+<!-- IPTV --><channel id="ViasatExploreClassic.rtv.pl">4097:0:1:1C7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viasat Explore Classic -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
