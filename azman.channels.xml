@@ -58,10 +58,10 @@
 <!-- 13.0E --><channel id="C+Extra3.pl">1:0:1:32E3:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 3 -->
 <!-- 13.0E --><channel id="C+Extra4.pl">1:0:1:3AA3:514:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 4 -->
 <!-- 13.0E --><channel id="C+Extra4.pl">1:0:1:3AD5:514:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 4 -->
-<!-- 13.0E --><channel id="C+Family.pl">1:0:19:377B:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FAMILY HD -->
-<!-- 13.0E --><channel id="C+Family.pl">1:0:19:37AD:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FAMILY HD -->
-<!-- 13.0E --><channel id="C+Family.pl">1:0:19:37B7:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FAMILY HD -->
-<!-- 13.0E --><channel id="C+Family.pl">1:0:19:37C1:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FAMILY HD -->
+<!-- 13.0E --><channel id="C+360.pl">1:0:19:377B:44C:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
+<!-- 13.0E --><channel id="C+360.pl">1:0:19:37AD:44C:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
+<!-- 13.0E --><channel id="C+360.pl">1:0:19:37B7:44C:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
+<!-- 13.0E --><channel id="C+360.pl">1:0:19:37C1:44C:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
 <!-- 13.0E --><channel id="C+Film.pl">1:0:1:3779:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FILM HD -->
 <!-- 13.0E --><channel id="C+Film.pl">1:0:1:37AB:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FILM HD -->
 <!-- 13.0E --><channel id="C+Kuchnia.pl">1:0:19:377F:44C:13E:820000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
@@ -91,7 +91,7 @@
 <!-- 13.0E --><channel id="C+Sport5.pl">1:0:1:3AA5:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 5 HD -->
 <!-- 13.0E --><channel id="C+Sport5.pl">1:0:1:3AB9:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 5 HD -->
 <!-- 13.0E --><channel id="C+Sport5.pl">1:0:1:3AE1:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 5 HD -->
-<!-- 13.0E --><channel id="CBSEuropa.pl">1:0:1:290B:1EDC:71:820000:0:0:0:</channel><!-- CBS Europa -->
+<!-- 13.0E --><channel id="FilmCafe.pl">1:0:1:290B:1EDC:71:820000:0:0:0:</channel><!-- Film Cafe -->
 <!-- 13.0E --><channel id="CBSReality.pl">1:0:1:3D5B:2C88:13E:820000:0:0:0:</channel><!-- CBS Reality -->
 <!-- 13.0E --><channel id="CBSReality.pl">1:0:1:3D8D:2C88:13E:820000:0:0:0:</channel><!-- CBS Reality -->
 <!-- 13.0E --><channel id="CIPolsat.pl">1:0:1:C30:1E78:71:820000:0:0:0:</channel><!-- CI Polsat HD -->
@@ -193,7 +193,6 @@
 <!-- 13.0E --><channel id="KinoTv.pl">1:0:1:3D61:2C88:13E:820000:0:0:0:</channel><!-- Kino TV HD -->
 <!-- 13.0E --><channel id="KinoTv.pl">1:0:1:3D93:2C88:13E:820000:0:0:0:</channel><!-- Kino TV HD -->
 <!-- 13.0E --><channel id="LoveNature4K.pl">1:0:20:BC5:20D0:13E:820000:0:0:0:</channel><!-- Love Nature 4K -->
-<!-- 13.0E --><channel id="LoveNature4K.pl">1:0:20:8B5:1F4:13E:820000:0:0:0:</channel><!-- Love Nature 4K -->
 <!-- 13.0E --><channel id="MTV.pl">1:0:1:F:1964:13E:820000:0:0:0:</channel><!-- MTV Polska HD -->
 <!-- 13.0E --><channel id="MTV00s.pl">1:0:1:8:1964:13E:820000:0:0:0:</channel><!-- MTV 00s -->
 <!-- 13.0E --><channel id="MTV90s.pl">1:0:1:1CB9:1CE8:71:820000:0:0:0:</channel><!-- MTV 90s -->
@@ -384,7 +383,7 @@
 <!-- 13.0E --><channel id="WaterPlanet.pl">1:0:1:423E:3DB8:13E:820000:0:0:0:</channel><!-- Water Planet -->
 <!-- 13.0E --><channel id="Wydarzenia24.pl">1:0:1:290C:1EDC:71:820000:0:0:0:</channel><!-- Wydarzenia 24 -->
 <!-- 13.0E --><channel id="ZoomTv.pl">1:0:1:4291:2BC0:13E:820000:0:0:0:</channel><!-- Zoom TV -->
-<!-- 13.0E --><channel id="wPolsce.pl">1:0:1:4279:2BC0:13E:820000:0:0:0:</channel><!-- wPolsce.pl -->
+<!-- 13.0E --><channel id="wPolsce24.pl">1:0:1:4279:2BC0:13E:820000:0:0:0:</channel><!-- wPolsce24 -->
 
 <!-- 19.2E --><channel id="TvTrwam.pl">1:0:16:1090:3EE:1:C00000:0:0:0:</channel><!-- TV Trwam -->
 <!-- 19.2E --><channel id="CNN.pl">1:0:1:17D5:42A:1:C00000:0:0:0:</channel><!-- CNN -->
@@ -504,7 +503,6 @@
 <!-- IPTV --><channel id="NewTv.pl">4097:0:1:59:1:48:0:0:0:0:http%3a//</channel><!-- NEW TV -->
 <!-- IPTV --><channel id="News24.pl">4097:0:1:F6B3:51BB:EC:0:0:0:0:http%3a//</channel><!-- NEWS 24 -->
 <!-- IPTV --><channel id="Novelas+1.pl">4097:0:1:755:1362:EC:0:0:0:0:http%3a//</channel><!-- Novelas+1 -->
-<!-- IPTV --><channel id="PatronitePodróże.pl">4097:0:1:DFDD:F56A:EC:0:0:0:0:http%3a//</channel><!--Patronite Podróże -->
 <!-- IPTV --><channel id="PilotwDomu.pl">4097:0:1:9A8F:C32:EC:0:0:0:0:http%3a//</channel><!-- Pilot w Domu -->
 <!-- IPTV --><channel id="Polsat1.pl">4097:0:1:943A:2C7F:EC:0:0:0:0:http%3a//</channel><!-- Polsat 1 -->
 <!-- IPTV --><channel id="PrimeFight.pl">4097:0:1:6AC8:5E32:EC:0:0:0:0:http%3a//</channel><!-- Prime Fight HD -->
@@ -537,7 +535,6 @@
 <!-- IPTV --><channel id="TvWielkopolska.pl">4097:0:1:92:1:48:0:0:0:0:http%3a//</channel><!-- TV WIELKOPOLSKA -->
 <!-- IPTV --><channel id="TwojaTelewizjaMorska.pl">4097:0:1:1F22:1D76:EC:0:0:0:0:http%3a//</channel><!-- Twoja Telewizja Morska -->
 <!-- IPTV --><channel id="TwojaTv.pl">4097:0:1:5:1:48:0:0:0:0:http%3a//</channel><!-- TWOJA TV -->
-<!-- IPTV --><channel id="Ukraine1.pl">4097:0:1:AE96:6B2A:EC:0:0:0:0:http%3a//</channel><!-- UKRAINE 1 -->
 <!-- IPTV --><channel id="UltraTv4K.pl">4097:0:1:7389:DE37:EC:0:0:0:0:http%3a//</channel><!-- ULTRA TV 4K -->
 <!-- IPTV --><channel id="VIVARussia.pl">4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//</channel><!-- VIVA Russia -->
 <!-- IPTV --><channel id="ViDocTv1.pl">4097:0:16:47:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!--ViDoc TV 1 -->
@@ -588,7 +585,6 @@
 <!-- IPTV --><channel id="TVPKultura2.pl">4097:0:16:5E:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Kultura 2 -->
 <!-- IPTV --><channel id="TVPNauka.pl">4097:0:1F:42:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Nauka -->
 <!-- IPTV --><channel id="TVPWorld.pl">4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP World -->
-<!-- IPTV --><channel id="Перший.pl">4097:0:16:5F:7001:2268:EEEE0000:0:0:0:http%3a//</channel><!-- UA Perszyj -->
 
 <!-- PRIVATE AZMAN FAST TV --><!-- 1-500:A33A:2268 -->
 
@@ -874,11 +870,12 @@
 <!-- DVB-T MUX6 --><channel id="TVPWorld.pl">1:0:1F:53:3A2:2268:EEEE0000:0:0:0:</channel><!-- TVP World -->
 
 <!-- DVB-T MUX8 --><channel id="Metro.pl">1:0:16:39:7001:2268:EEEE0000:0:0:0:</channel><!--Metro -->
-<!-- DVB-T MUX8 --><channel id="ViDocTv1.pl">1:0:16:47:7001:2268:EEEE0000:0:0:0:</channel><!--ViDoc TV 1 -->
 <!-- DVB-T MUX8 --><channel id="ZoomTv.pl">1:0:16:3A:7001:2268:EEEE0000:0:0:0:</channel><!--Zoom TV -->
 <!-- DVB-T MUX8 --><channel id="NowaTv.pl">1:0:16:3B:7001:2268:EEEE0000:0:0:0:</channel><!--Nowa TV -->
 <!-- DVB-T MUX8 --><channel id="WP.pl">1:0:16:3C:7001:2268:EEEE0000:0:0:0:</channel><!--WP -->
-<!-- DVB-T MUX8 --><channel id="Перший.pl">1:0:16:5F:7001:2268:EEEE0000:0:0:0:</channel><!-- UA Perszyj -->
+<!-- DVB-T MUX8 --><channel id="ViDocTv1.pl">1:0:16:47:7001:2268:EEEE0000:0:0:0:</channel><!--ViDoc TV -->
+<!-- DVB-T MUX8 --><channel id="TvRepublika.pl">1:0:16:48:7001:2268:EEEE0000:0:0:0:</channel><!--TV Republika -->
+<!-- DVB-T MUX8 --><channel id="wPolsce24.pl">1:0:16:49:7001:2268:EEEE0000:0:0:0:</channel><!-- wPolsce24 -->
 
 <!-- DVB-T MUX BCAST --><channel id="4FunKids.pl">1:0:16:46:E1:D58:EEEE0000:0:0:0:</channel><!-- 4Fun Kids -->
 <!-- DVB-T MUX BCAST --><channel id="TvRepublika.pl">1:0:16:4B:E1:D58:EEEE0000:0:0:0:</channel><!--TV Republika -->
@@ -894,7 +891,7 @@
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TvRepublika.pl">1:0:1F:4B:14:2268:EEEE0000:0:0:0:</channel><!-- TV Republika -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="Filmax.pl">1:0:1F:4C:14:2268:EEEE0000:0:0:0:</channel><!-- Filmax -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="Pogoda24Tv.pl">1:0:1F:4D:14:2268:EEEE0000:0:0:0:</channel><!-- Pogoda24 TV -->
-<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="wPolsce.pl">1:0:1F:4E:14:2268:EEEE0000:0:0:0:</channel><!-- wPolsce.pl -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="wPolsce24.pl">1:0:1F:4E:14:2268:EEEE0000:0:0:0:</channel><!-- wPolsce24 -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="StarsTv.pl">1:0:1F:51:14:2268:EEEE0000:0:0:0:</channel><!-- Stars TV -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="JuniorChannel.pl">1:0:1F:52:14:2268:EEEE0000:0:0:0:</channel><!-- Junior Channel -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TvDamiTvBoleslawiec.pl">1:0:1F:8D:14:2268:EEEE0000:0:0:0:</channel><!-- TV Dami / TV Boleslawiec -->
@@ -916,24 +913,24 @@
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TVC.pl">1:0:1F:26:16:2268:EEEE0000:0:0:0:</channel><!-- TVC HD -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TvRepublika.pl">1:0:1F:49:16:2268:EEEE0000:0:0:0:</channel><!-- TV Republika -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="Filmax.pl">1:0:1F:4C:16:2268:EEEE0000:0:0:0:</channel><!-- Filmax HD -->
-<!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="wPolsce.pl">1:0:1F:4E:16:2268:EEEE0000:0:0:0:</channel><!-- wPolsce.pl -->
+<!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="wPolsce24.pl">1:0:1F:4E:16:2268:EEEE0000:0:0:0:</channel><!-- wPolsce24 -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="XtremeTv.pl">1:0:1F:4F:16:2268:EEEE0000:0:0:0:</channel><!-- Xtreme TV -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="StarsTv.pl">1:0:1F:51:16:2268:EEEE0000:0:0:0:</channel><!-- Stars TV -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="Pogoda24Tv.pl">1:0:1F:91:16:2268:EEEE0000:0:0:0:</channel><!-- Pogoda24 TV -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TVMN.pl">1:0:1F:92:16:2268:EEEE0000:0:0:0:</channel><!-- TVMN -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="JuniorChannel.pl">1:0:1F:4B:16:2268:EEEE0000:0:0:0:</channel><!-- Junior Channel -->
 
-<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TVC.pl">1:0:19:26:B052:2268:EEEE0000:0:0:0:</channel><!-- TVC -->
-<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TVN.pl">1:0:19:2C:B052:2268:EEEE0000:0:0:0:</channel><!-- TVN HD -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TVCSuper.pl">1:0:16:26:B052:2268:EEEE0000:0:0:0:</channel><!-- TVC Super -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Filmax.pl">1:0:16:2C:B052:2268:EEEE0000:0:0:0:</channel><!-- Filmax -->
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Polsat.pl">1:0:19:2E:B052:2268:EEEE0000:0:0:0:</channel><!-- Polsat HD -->
-<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TvRepublika.pl">1:0:16:49:B052:2268:EEEE0000:0:0:0:</channel><!--TV Republika HD -->
-<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="PowerTv.pl">1:0:16:4A:B052:2268:EEEE0000:0:0:0:</channel><!-- Power TV -->
-<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Filmax.pl">1:0:16:4C:B052:2268:EEEE0000:0:0:0:</channel><!-- Filmax -->
-<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="wPolsce.pl">1:0:16:4E:B052:2268:EEEE0000:0:0:0:</channel><!-- wPolsce.pl -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TvRepublika.pl">1:0:16:49:B052:2268:EEEE0000:0:0:0:</channel><!--TV Republika -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="JuniorChannel.pl">1:0:16:4A:B052:2268:EEEE0000:0:0:0:</channel><!-- Junior Channel -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="SzlagierTv.pl">1:0:16:4C:B052:2268:EEEE0000:0:0:0:</channel><!-- Szlagier TV -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="HomeTv.pl">1:0:16:4E:B052:2268:EEEE0000:0:0:0:</channel><!-- HOME TV -->
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Echo24.pl">1:0:19:50:B052:2268:EEEE0000:0:0:0:</channel><!-- Echo24 HD -->
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="StarsTv.pl">1:0:16:51:B052:2268:EEEE0000:0:0:0:</channel><!-- Stars TV -->
-<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="XtremeTv.pl">1:0:16:8E:B052:2268:EEEE0000:0:0:0:</channel><!-- Xtreme TV -->
-<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="HomeTv.pl">1:0:16:91:B052:2268:EEEE0000:0:0:0:</channel><!-- HOME TV -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Pogoda24Tv.pl">1:0:16:91:B052:2268:EEEE0000:0:0:0:</channel><!-- Pogoda24 TV -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TVS.pl">1:0:16:92:B052:2268:EEEE0000:0:0:0:</channel><!-- TVS -->
 
 <!-- DVB-T MUX-TVS --><channel id="TVS.pl">1:0:1F:4C:9010:2268:EEEE0000:0:0:0:</channel><!--TVS HD -->
 <!-- DVB-T MUX-TVS --><channel id="TvOkazje.pl">1:0:1F:4D:9010:2268:EEEE0000:0:0:0:</channel><!--TVO TV -->
@@ -980,7 +977,7 @@
 <!-- VECTRA --><channel id="C+1.pl">1:0:19:61AD:7D:64:FFFF0000:0:0:0:</channel><!-- CANAL+ 1 HD -->
 <!-- VECTRA --><channel id="C+Dokument.pl">1:0:19:5DC1:7C:64:FFFF0000:0:0:0:</channel><!-- CANAL+ DOKUMENT HD -->
 <!-- VECTRA --><channel id="C+Domo.pl">1:0:19:61AF:7D:64:FFFF0000:0:0:0:</channel><!-- CANAL+ DOMO -->
-<!-- VECTRA --><channel id="C+Family.pl">1:0:19:59DA:7B:64:FFFF0000:0:0:0:</channel><!-- CANAL+ FAMILY HD -->
+<!-- VECTRA --><channel id="C+360.pl">1:0:19:59DA:7B:64:FFFF0000:0:0:0:</channel><!-- CANAL+ 360 HD -->
 <!-- VECTRA --><channel id="C+Film.pl">1:0:19:59DB:7B:64:FFFF0000:0:0:0:</channel><!-- CANAL+ FILM HD -->
 <!-- VECTRA --><channel id="C+Kuchnia.pl">1:0:19:59DD:7B:64:FFFF0000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
 <!-- VECTRA --><channel id="C+Now.pl">1:0:19:88C0:87:64:FFFF0000:0:0:0:</channel><!-- CANAL+ NOW -->
@@ -991,7 +988,7 @@
 <!-- VECTRA --><channel id="C+Sport3.pl">1:0:19:88C1:87:64:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 3 HD -->
 <!-- VECTRA --><channel id="C+Sport4.pl">1:0:19:88C2:87:64:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 4 HD -->
 <!-- VECTRA --><channel id="C+Sport5.pl">1:0:19:5DC7:7C:64:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 5 -->
-<!-- VECTRA --><channel id="CBSEuropa.pl">1:0:19:908A:89:64:FFFF0000:0:0:0:</channel><!-- CBS EUROPA HD -->
+<!-- VECTRA --><channel id="FilmCafe.pl">1:0:19:908A:89:64:FFFF0000:0:0:0:</channel><!-- Film Cafe -->
 <!-- VECTRA --><channel id="CBSReality.pl">1:0:19:908B:89:64:FFFF0000:0:0:0:</channel><!-- CBS REALITY -->
 <!-- VECTRA --><channel id="CNN.pl">1:0:19:BBE:67:64:FFFF0000:0:0:0:</channel><!-- CNN Europe HD -->
 <!-- VECTRA --><channel id="CartoonNetwork.pl">1:0:19:84D8:86:64:FFFF0000:0:0:0:</channel><!-- Cartoon Network -->
@@ -1189,7 +1186,6 @@
 <!-- VECTRA --><channel id="TvRepublika.pl">1:0:19:6D67:80:64:FFFF0000:0:0:0:</channel><!-- TV Republika HD -->
 <!-- VECTRA --><channel id="TvTrwam.pl">1:0:1:7D3:66:64:FFFF0000:0:0:0:</channel><!-- TV Trwam -->
 <!-- VECTRA --><channel id="UATV.pl">1:0:1:271B:6E:64:FFFF0000:0:0:0:</channel><!-- FREEDOM -->
-<!-- VECTRA --><channel id="Ukraine1.pl">1:0:19:6592:7E:64:FFFF0000:0:0:0:</channel><!-- UKRAINE1 -->
 <!-- VECTRA --><channel id="UltraTv4K.pl">1:0:1F:1389:69:64:FFFF0000:0:0:0:</channel><!-- Ultra TV 4K -->
 <!-- VECTRA --><channel id="VoxMusicTv.pl">1:0:1:1F46:6C:64:FFFF0000:0:0:0:</channel><!-- VOX MUSIC TV -->
 <!-- VECTRA --><channel id="WP.pl">1:0:19:7920:83:64:FFFF0000:0:0:0:</channel><!-- WP HD -->
@@ -1198,8 +1194,7 @@
 <!-- VECTRA --><channel id="Wydarzenia24.pl">1:0:19:7152:81:64:FFFF0000:0:0:0:</channel><!-- WYDARZENIA24 -->
 <!-- VECTRA --><channel id="ZoomTv.pl">1:0:19:1778:6A:64:FFFF0000:0:0:0:</channel><!-- Zoom TV HD -->
 <!-- VECTRA --><channel id="ZoomTv.pl">1:0:19:714B:81:64:FFFF0000:0:0:0:</channel><!-- Zoom TV HD -->
-<!-- VECTRA --><channel id="wPolsce.pl">1:0:19:232C:6D:64:FFFF0000:0:0:0:</channel><!-- Telewizja wPolsce.pl -->
-
+<!-- VECTRA --><channel id="wPolsce24.pl">1:0:19:232C:6D:64:FFFF0000:0:0:0:</channel><!-- wPolsce24
 <!-- UPC --><channel id="4FunDance.pl">1:0:1:5E2:F:601:FFFF0000:0:0:0:</channel><!-- 4Fun Dance -->
 <!-- UPC --><channel id="4FunKids.pl">1:0:1:3F8:A:601:FFFF0000:0:0:0:</channel><!-- 4FUN KIDS -->
 <!-- UPC --><channel id="4FunTv.pl">1:0:1:782:13:601:FFFF0000:0:0:0:</channel><!-- 4Fun TV -->
@@ -1237,7 +1232,7 @@
 <!-- UPC --><channel id="C+Dokument.pl">1:0:19:A2F:1A:601:FFFF0000:0:0:0:</channel><!-- CANAL+ DOKUMENT HD -->
 <!-- UPC --><channel id="C+Domo.pl">1:0:19:A2A:1A:601:FFFF0000:0:0:0:</channel><!-- CANAL+ DOMO HD -->
 <!-- UPC --><channel id="C+Domo.pl">1:0:19:A30:1A:601:FFFF0000:0:0:0:</channel><!-- CANAL+ DOMO HD -->
-<!-- UPC --><channel id="C+Family.pl">1:0:19:AF3:1C:601:FFFF0000:0:0:0:</channel><!-- CANAL+ FAMILY HD -->
+<!-- UPC --><channel id="C+360.pl">1:0:19:AF3:1C:601:FFFF0000:0:0:0:</channel><!-- CANAL+ 360 HD -->
 <!-- UPC --><channel id="C+Film.pl">1:0:19:AF5:1C:601:FFFF0000:0:0:0:</channel><!-- CANAL+ FILM HD -->
 <!-- UPC --><channel id="C+Kuchnia.pl">1:0:19:A2B:1A:601:FFFF0000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
 <!-- UPC --><channel id="C+Kuchnia.pl">1:0:19:A31:1A:601:FFFF0000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
@@ -1250,7 +1245,7 @@
 <!-- UPC --><channel id="C+Sport4.pl">1:0:19:BC5:1E:601:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 4 HD -->
 <!-- UPC --><channel id="C+Sport5.pl">1:0:19:385:9:601:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 5 -->
 <!-- UPC --><channel id="C+Sport5.pl">1:0:19:38B:9:601:FFFF0000:0:0:0:</channel><!-- CANAL+ SPORT 5 -->
-<!-- UPC --><channel id="CBSEuropa.pl">1:0:19:1F5:5:601:FFFF0000:0:0:0:</channel><!-- CBS EUROPA HD -->
+<!-- UPC --><channel id="FilmCafe.pl">1:0:19:1F5:5:601:FFFF0000:0:0:0:</channel><!-- Film Cafe HD -->
 <!-- UPC --><channel id="CBSReality.pl">1:0:19:394:9:601:FFFF0000:0:0:0:</channel><!-- CBS REALITY -->
 <!-- UPC --><channel id="CIPolsat.pl">1:0:19:5E7:F:601:FFFF0000:0:0:0:</channel><!-- CI Polsat HD -->
 <!-- UPC --><channel id="CNN.pl">1:0:1:261:6:601:FFFF0000:0:0:0:</channel><!-- CNN Europe HD -->
@@ -1363,7 +1358,6 @@
 <!-- UPC --><channel id="NickJr.pl">1:0:1:5E9:F:601:FFFF0000:0:0:0:</channel><!-- Nick Jr -->
 <!-- UPC --><channel id="NickMusic.pl">1:0:1:3EF:A:601:FFFF0000:0:0:0:</channel><!-- Nick Music -->
 <!-- UPC --><channel id="Nickelodeon.pl">1:0:1:3F3:A:601:FFFF0000:0:0:0:</channel><!-- Nickelodeon -->
-<!-- UPC --><channel id="NickelodeonUAPlutoTv.pl">1:0:1:6B4:11:601:FFFF0000:0:0:0:</channel><!-- Nickelodeon Ukraine Pluto TV -->
 <!-- UPC --><channel id="Nicktoons.pl">1:0:19:DB0:23:601:FFFF0000:0:0:0:</channel><!-- Nicktoons HD -->
 <!-- UPC --><channel id="NovelaTv.pl">1:0:19:9CD:19:601:FFFF0000:0:0:0:</channel><!-- Novela Tv -->
 <!-- UPC --><channel id="Novelas+1.pl">1:0:19:200:5:601:FFFF0000:0:0:0:</channel><!-- Novelas+1 -->
@@ -1502,8 +1496,8 @@
 <!-- UPC --><channel id="Wydarzenia24.pl">1:0:1:13FC:33:601:FFFF0000:0:0:0:</channel><!-- Wydarzenia 24 -->
 <!-- UPC --><channel id="ZoomTv.pl">1:0:19:2C7:7:601:FFFF0000:0:0:0:</channel><!-- Zoom TV HD -->
 <!-- UPC --><channel id="ZoomTv.pl">1:0:19:2D0:7:601:FFFF0000:0:0:0:</channel><!-- Zoom TV HD -->
-<!-- UPC --><channel id="wPolsce.pl">1:0:19:DB3:23:601:FFFF0000:0:0:0:</channel><!-- wPolsce.pl -->
-<!-- UPC --><channel id="wPolsce.pl">1:0:19:FA2:28:601:FFFF0000:0:0:0:</channel><!-- wPolsce.pl -->
+<!-- UPC --><channel id="wPolsce24.pl">1:0:19:DB3:23:601:FFFF0000:0:0:0:</channel><!-- wPolsce24 -->
+<!-- UPC --><channel id="wPolsce24.pl">1:0:19:FA2:28:601:FFFF0000:0:0:0:</channel><!-- wPolsce24 -->
 <!-- UPC --><channel id="SkyShowtime1.pl">1:0:19:E11:24:601:FFFF0000:0:0:0:</channel><!-- Sky Showtime 1 -->
 <!-- UPC --><channel id="SkyShowtime2.pl">1:0:19:E12:24:601:FFFF0000:0:0:0:</channel><!-- Sky Showtime 2 -->
 </channels>
