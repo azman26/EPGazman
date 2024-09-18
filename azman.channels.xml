@@ -541,7 +541,6 @@
 <!-- IPTV --><channel id="Viaplay.pl">4097:0:1:764A:564:EC:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
-
 <!-- IPTV --><channel id="SkyShowtime1.pl">1:0:19:E11:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- Sky Showtime 1 -->
 <!-- IPTV --><channel id="SkyShowtime2.pl">1:0:19:E12:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- Sky Showtime 2 -->
 
@@ -645,6 +644,9 @@
 <!-- IPTV --><channel id="tvnPrawoiZycie.pl">4097:0:1:2CA:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Prawo i Życie -->
 <!-- IPTV --><channel id="tvnMilionerzy.pl">4097:0:1:2CB:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Milionerzy -->
 <!-- IPTV --><channel id="tvnPoraNaShow.pl">4097:0:1:2CC:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Pora Na Show -->
+<!-- IPTV --><channel id="tvnPatrol.pl">4097:0:1:2CD:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Patrol -->
+<!-- IPTV --><channel id="tvnKulinarnePodroze.pl">4097:0:1:2CE:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Kulinarne Podróże -->
+<!-- IPTV --><channel id="tvnCzasNaSlub.pl">4097:0:1:2CF:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Czas Na Ślub -->
 
 <!-- RADIO --><!-- 1-200:A22A:2268 -->
 
