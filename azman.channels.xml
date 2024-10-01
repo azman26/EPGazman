@@ -139,10 +139,6 @@
 <!-- 13.0E --><channel id="Eurosport1.pl">1:0:19:3B67:12C:13E:820000:0:0:0:</channel><!-- Eurosport 1 Poland -->
 <!-- 13.0E --><channel id="Eurosport2.pl">1:0:19:2BE:2BC:13E:820000:0:0:0:</channel><!-- Eurosport 2 International -->
 <!-- 13.0E --><channel id="Eurosport2.pl">1:0:19:3B68:12C:13E:820000:0:0:0:</channel><!-- Eurosport 2 Poland -->
-<!-- 13.0E --><channel id="Eurosport4K.pl">1:0:1F:3E84:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 4K -->
-<!-- 13.0E --><channel id="Eurosport7.pl">1:0:19:3E81:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 7 -->
-<!-- 13.0E --><channel id="Eurosport8.pl">1:0:19:3E82:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 8 -->
-<!-- 13.0E --><channel id="Eurosport9.pl">1:0:19:3E83:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 9 -->
 <!-- 13.0E --><channel id="ExtremeSports.pl">1:0:1:290A:1EDC:71:820000:0:0:0:</channel><!-- Extreme Sports -->
 <!-- 13.0E --><channel id="FightBox.pl">1:0:1:3E24:2EE0:13E:820000:0:0:0:</channel><!-- Fightbox HD -->
 <!-- 13.0E --><channel id="FightKlub.pl">1:0:1:113B:2AF8:13E:820000:0:0:0:</channel><!-- Fightklub HD -->
@@ -624,6 +620,7 @@
 <!-- IPTV --><channel id="CarCityAdventures.rtv.pl">4097:0:1:1A7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Car City Adventures -->
 <!-- IPTV --><channel id="RoyalWorld.rtv.pl">4097:0:1:1B7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Royalworld -->
 <!-- IPTV --><channel id="ViasatExploreClassic.rtv.pl">4097:0:1:1C7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viasat Explore Classic -->
+<!-- IPTV --><channel id="RedCarpetTvInternational.rtv.pl">4097:0:1:1D7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Red Carpet TV International -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
