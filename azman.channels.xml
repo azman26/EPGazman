@@ -622,6 +622,12 @@
 <!-- IPTV --><channel id="RoyalWorld.rtv.pl">4097:0:1:1B7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Royalworld -->
 <!-- IPTV --><channel id="ViasatExploreClassic.rtv.pl">4097:0:1:1C7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viasat Explore Classic -->
 <!-- IPTV --><channel id="RedCarpetTvInternational.rtv.pl">4097:0:1:1D7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Red Carpet TV International -->
+<!-- IPTV --><channel id="ClubbingTv.rtv.pl">4097:0:1:1E7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Clubbing TV -->
+<!-- IPTV --><channel id="QwestTv.rtv.pl">4097:0:1:1F7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Qwest TV -->
+<!-- IPTV --><channel id="TraceUrban.rtv.pl">4097:0:1:1F8:A11A:2268:0:0:0:0:http%3a//</channel><!-- Trace Urban -->
+<!-- IPTV --><channel id="Now70s.rtv.pl">4097:0:1:1F9:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 70s -->
+<!-- IPTV --><channel id="Now80s.rtv.pl">4097:0:1:1FA:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 80s -->
+<!-- IPTV --><channel id="NowRock.rtv.pl">4097:0:1:1FB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now Rock -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
