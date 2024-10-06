@@ -540,6 +540,8 @@
 <!-- IPTV --><channel id="SkyShowtime1.pl">4097:0:19:E11:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- Sky Showtime 1 -->
 <!-- IPTV --><channel id="SkyShowtime2.pl">4097:0:19:E12:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- Sky Showtime 2 -->
 <!-- IPTV --><channel id="Pogoda24Tv.pl">4097:0:16:91:B052:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Pogoda24 TV -->
+<!-- IPTV --><channel id="EUMusic.pl">4097:0:1:7264:8452:EC:0:0:0:0:http%3a//</channel><!-- EU Music -->
+<!-- IPTV --><channel id="4EverMusic.pl">4097:0:1:A347:F938:EC:0:0:0:0:http%3a//</channel><!-- 4Ever Music -->
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
