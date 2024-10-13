@@ -464,6 +464,9 @@
 <!-- IPTV --><channel id="C+Program4.pl">4097:0:1:E6DE:8BD7:EC:0:0:0:0:http%3a//</channel><!-- Program 4 -->
 <!-- IPTV --><channel id="C+Program5.pl">4097:0:1:4437:173C:EC:0:0:0:0:http%3a//</channel><!-- Program 5 -->
 <!-- IPTV --><channel id="C+Program6.pl">4097:0:1:2C2D:750D:EC:0:0:0:0:http%3a//</channel><!-- Program 6 -->
+<!-- IPTV --><channel id="C+Extra5.pl">4097:0:1:1AD9:701F:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 5 -->
+<!-- IPTV --><channel id="C+Extra6.pl">4097:0:1:759:7F62:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 6 -->
+<!-- IPTV --><channel id="C+Extra7.pl">4097:0:1:1494:4021:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 7 -->
 <!-- IPTV --><channel id="ClubMTV.pl">4097:0:16:7A:3:40:A00000:0:0:0:http%3a//</channel><!-- Club MTV -->
 <!-- IPTV --><channel id="DWDeutsch.pl">4097:0:1:646E:A543:EC:0:0:0:0:http%3a//</channel><!-- DW Deutsch -->
 <!-- IPTV --><channel id="DamiTv.pl">4097:0:1:58:1:48:0:0:0:0:http%3a//</channel><!-- DAMI TV -->
@@ -516,6 +519,7 @@
 <!-- IPTV --><channel id="StingrayLoud.pl">4097:0:1:EAEB:99CD:EC:0:0:0:0:http%3a//</channel><!-- Stingray Loud -->
 <!-- IPTV --><channel id="StingrayRetro.pl">4097:0:1:B8BB:FAE9:EC:0:0:0:0:http%3a//</channel><!-- Stingray Retro -->
 <!-- IPTV --><channel id="StingrayiConcerts.pl">4097:0:1:3F5:1:AA:5A0000:0:0:0:http%3a//</channel><!-- Stingray iConcerts -->
+<!-- IPTV --><channel id="StingrayFestival4K.pl">4097:0:1:3F6:1:AA:5A0000:0:0:0:http%3a//</channel><!-- Stingray Festival 4K -->
 <!-- IPTV --><channel id="TBNPolska.pl">4097:0:1:327:1F40:13E:820000:0:0:0:http%3a//</channel><!-- TBN Poland -->
 <!-- IPTV --><channel id="TVPWilno.pl">4097:0:1:64:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP WILNO -->
 <!-- IPTV --><channel id="TVRegio.pl">4097:0:1:4121:91DD:EC:0:0:0:0:http%3a//</channel><!-- TV REGIO -->
@@ -546,7 +550,7 @@
 <!-- IPTV --><channel id="Murator.pl">4097:0:1:99BA:260E:EC:0:0:0:0:http%3a//</channel><!-- Murator -->
 <!-- IPTV --><channel id="PoradnikZdrowie.pl">4097:0:1:C7D1:B312:EC:0:0:0:0:http%3a//</channel><!-- Poradnik Zdrowie -->
 <!-- IPTV --><channel id="TvBiznesowa.pl">4097:0:1:7EAD:9169:EC:0:0:0:0:http%3a//</channel><!-- TV Biznesowa -->
-<!-- IPTV --><channel id="TvRepublikaPlus.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channell><!-- Telewizja Republika Plus -->
+<!-- IPTV --><channel id="TvRepublikaPlus.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Telewizja Republika Plus -->
 
 <!-- TVP VOD -->
 
@@ -696,6 +700,10 @@
 <!-- RADIO 16E --><channel id="RockRadio.pl">1:0:2:BB8:1:0:A031BC:0:0:0:</channel><!-- ROCK RADIO -->
 <!-- RADIO 16E --><channel id="TOKFM.pl">1:0:2:FA0:1:0:A031BC:0:0:0:</channel><!-- TOK FM -->
 <!-- RADIO 16E --><channel id="VOXFM.pl">1:0:1:F96:0:1:A0318A:0:0:0:</channel><!-- VOX FM -->
+<!-- RADIO 16E --><channel id="RadioZet.pl">1:0:2:32C8:1:1:0:A031BC:0:0:0:</channel><!-- RADIO ZET -->
+<!-- RADIO 16E --><channel id="Meloradio.pl">1:0:2:3A98:1:1:0:A031BC:0:0:0:</channel><!-- MELORADIO -->
+<!-- RADIO 16E --><channel id="Chillizet.pl">1:0:2:3E80:1:1:0:A031BC:0:0:0:</channel><!-- CHILLIZET -->
+<!-- RADIO 16E --><channel id="Antyradio.pl">1:0:2:36B0:1:1:0:A031BC:0:0:0:</channel><!-- ANTYRADIO -->
 <!-- RADIO 19E --><channel id="RadioMaryja.pl">1:0:2:1091:3EE:1:C00000:0:0:0:</channel><!-- RADIO MARYJA -->
 
 <!-- RADIO IP --><channel id="Antyradio.pl">4097:0:2:1413:5DC:13E:820000:0:0:0:http%3a//</channel><!-- ANTYRADIO -->
