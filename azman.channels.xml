@@ -552,6 +552,9 @@
 <!-- IPTV --><channel id="TvBiznesowa.pl">4097:0:1:7EAD:9169:EC:0:0:0:0:http%3a//</channel><!-- TV Biznesowa -->
 <!-- IPTV --><channel id="TvRepublikaPlus.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Telewizja Republika Plus -->
 
+<!-- IPTV --><channel id="Viaplay1.pl">4097:0:1:7F93:F3A4:EC:0:0:0:0:http%3a//</channel><!-- Viaplay 1 -->
+<!-- IPTV --><channel id="Viaplay2.pl">4097:0:1:EC78:91E5:EC:0:0:0:0:http%3a//</channel><!-- Viaplay 2 -->
+
 <!-- TVP VOD -->
 
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
@@ -644,12 +647,18 @@
 
 <!-- Sweet TV --><!-- 800-999:A11A:2268 -->
 
-<!-- IPTV --><channel id="DaVinciExploreTheWorld.swtv.pl">4097:0:1:320:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Explore The World -->
-<!-- IPTV --><channel id="DaVinciOperationOuch.swtv.pl">4097:0:1:321:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Operation Ouch -->
-<!-- IPTV --><channel id="DaVinciFunLearning.swtv.pl">4097:0:1:322:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Fun Learning -->
-<!-- IPTV --><channel id="LondonLiveMusic.swtv.pl">4097:0:1:323:A11A:2268:0:0:0:0:http%3a//</channel><!-- London Live Music -->
-<!-- IPTV --><channel id="LivePopConcerts.swtv.pl">4097:0:1:324:A11A:2268:0:0:0:0:http%3a//</channel><!-- Live Pop Concerts.pl -->
-
+<!-- IPTV --><channel id="DaVinciOdkrywajSwiat.swtv.pl">4097:0:1:320:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Explore The World -->
+<!-- IPTV --><channel id="DaVinciOperacjaAuc.swtv.pl">4097:0:1:321:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Operation Ouch -->
+<!-- IPTV --><channel id="DaVinciZabawnaNauka.swtv.pl">4097:0:1:322:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Fun Learning -->
+<!-- IPTV --><channel id="LondynMuzykaNaZywo.swtv.pl">4097:0:1:323:A11A:2268:0:0:0:0:http%3a//</channel><!-- London Live Music -->
+<!-- IPTV --><channel id="KoncertyLivePop.swtv.pl">4097:0:1:324:A11A:2268:0:0:0:0:http%3a//</channel><!-- Live Pop Concerts -->
+<!-- IPTV --><channel id="GwiazdyKina.swtv.pl">4097:0:1:325:A11A:2268:0:0:0:0:http%3a//</channel><!-- Movie stars HD -->
+<!-- IPTV --><channel id="MapyPrzestepstw.swtv.pl">4097:0:1:326:A11A:2268:0:0:0:0:http%3a//</channel><!-- Murder maps HD -->
+<!-- IPTV --><channel id="HistoriaMody.swtv.pl">4097:0:1:327:A11A:2268:0:0:0:0:http%3a//</channel><!-- Fashion history HD -->
+<!-- IPTV --><channel id="HistoriaPolityczna.swtv.pl">4097:0:1:328:A11A:2268:0:0:0:0:http%3a//</channel><!-- Political History HD -->
+<!-- IPTV --><channel id="PrezydenciIPrzywodcy.swtv.pl">4097:0:1:329:A11A:2268:0:0:0:0:http%3a//</channel><!-- Presidents & leaders HD -->
+<!-- IPTV --><channel id="LegendyOpery.swtv.pl">4097:0:1:32A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Legends of the opera HD -->
+<!-- IPTV --><channel id="MityIPotwory.swtv.pl">4097:0:1:32B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Myths & Monsters HD -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
@@ -695,15 +704,16 @@
 <!-- RADIO 16E --><channel id="RadioEska.pl">1:0:1:816:0:1:A0318A:0:0:0:</channel><!-- RADIO ESKA -->
 <!-- RADIO 16E --><channel id="RadioEska2.pl">1:0:1:42E:0:1:A0318A:0:0:0:</channel><!-- RADIO Eska 2 -->
 <!-- RADIO 16E --><channel id="RadioPlus.pl">1:0:1:FE6:0:1:A0318A:0:0:0:</channel><!-- RADIO PLUS -->
-<!-- RADIO 16E --><channel id="RadioPogoda.pl">1:0:2:7D0:1:0:A031BC:0:0:0:</channel><!-- RADIO POGODA -->
-<!-- RADIO 16E --><channel id="RadioZlotePrzeboje.pl">1:0:2:1F40:1:0:A031BC:0:0:0:</channel><!-- RADIO ZŁOTE PRZEBOJE -->
-<!-- RADIO 16E --><channel id="RockRadio.pl">1:0:2:BB8:1:0:A031BC:0:0:0:</channel><!-- ROCK RADIO -->
-<!-- RADIO 16E --><channel id="TOKFM.pl">1:0:2:FA0:1:0:A031BC:0:0:0:</channel><!-- TOK FM -->
+<!-- RADIO 16E --><channel id="RadioPogoda.pl">1:0:2:7D0:1:1:A031BC:0:0:0:</channel><!-- RADIO POGODA -->
+<!-- RADIO 16E --><channel id="RadioZlotePrzeboje.pl">1:0:2:1F40:1:1:A031BC:0:0:0:</channel><!-- RADIO ZŁOTE PRZEBOJE -->
+<!-- RADIO 16E --><channel id="RockRadio.pl">1:0:2:BB8:1:1:A031BC:0:0:0:</channel><!-- ROCK RADIO -->
+<!-- RADIO 16E --><channel id="TOKFM.pl">1:0:2:FA0:1:1:A031BC:0:0:0:</channel><!-- TOK FM -->
 <!-- RADIO 16E --><channel id="VOXFM.pl">1:0:1:F96:0:1:A0318A:0:0:0:</channel><!-- VOX FM -->
 <!-- RADIO 16E --><channel id="RadioZet.pl">1:0:2:32C8:1:1:0:A031BC:0:0:0:</channel><!-- RADIO ZET -->
 <!-- RADIO 16E --><channel id="Meloradio.pl">1:0:2:3A98:1:1:0:A031BC:0:0:0:</channel><!-- MELORADIO -->
 <!-- RADIO 16E --><channel id="Chillizet.pl">1:0:2:3E80:1:1:0:A031BC:0:0:0:</channel><!-- CHILLIZET -->
 <!-- RADIO 16E --><channel id="Antyradio.pl">1:0:2:36B0:1:1:0:A031BC:0:0:0:</channel><!-- ANTYRADIO -->
+<!-- RADIO 16E --><channel id="RadioWielkopolska.pl">1:0:2:70B:B:3:A00000:0:0:0:</channel><!-- RADIO WIELKOPOLSKA -->
 <!-- RADIO 19E --><channel id="RadioMaryja.pl">1:0:2:1091:3EE:1:C00000:0:0:0:</channel><!-- RADIO MARYJA -->
 
 <!-- RADIO IP --><channel id="Antyradio.pl">4097:0:2:1413:5DC:13E:820000:0:0:0:http%3a//</channel><!-- ANTYRADIO -->
