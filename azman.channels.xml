@@ -349,7 +349,6 @@
 <!-- 13.0E --><channel id="TVS.pl">1:0:1:3D58:2C88:13E:820000:0:0:0:</channel><!-- TVS -->
 <!-- 13.0E --><channel id="TeenNick.pl">1:0:19:3784:44C:13E:820000:0:0:0:</channel><!-- TeenNick -->
 <!-- 13.0E --><channel id="Tele5.pl">1:0:1:423B:3DB8:13E:820000:0:0:0:</channel><!-- TELE 5 -->
-<!-- 13.0E --><channel id="TeleToon.pl">1:0:19:377D:44C:13E:820000:0:0:0:</channel><!-- teleTOON+ HD -->
 <!-- 13.0E --><channel id="TeleToon.pl">1:0:19:37AF:44C:13E:820000:0:0:0:</channel><!-- teleTOON+ HD -->
 <!-- 13.0E --><channel id="TeleToon.pl">1:0:1:3A9B:514:13E:820000:0:0:0:</channel><!-- teleTOON+ HD -->
 <!-- 13.0E --><channel id="TeleToon.pl">1:0:1:3ACD:514:13E:820000:0:0:0:</channel><!-- teleTOON+ HD -->
@@ -369,6 +368,7 @@
 <!-- 13.0E --><channel id="VOD206.pl">1:0:1:40:1964:13E:820000:0:0:0:</channel><!-- VOD 6 -->
 <!-- 13.0E --><channel id="VOD207.pl">1:0:1:41:1964:13E:820000:0:0:0:</channel><!-- VOD 7 -->
 <!-- 13.0E --><channel id="VOD208.pl">1:0:1:42:1964:13E:820000:0:0:0:</channel><!-- VOD 8 -->
+<!-- 13.0E --><channel id="ViDocTv1.pl">1:0:19:377D:44C:13E:820000:0:0:0:</channel><!-- ViDoc TV -->
 <!-- 13.0E --><channel id="VividRed.pl">1:0:1:4267:3DB8:13E:820000:0:0:0:</channel><!-- Vivid RED -->
 <!-- 13.0E --><channel id="VividTouch.pl">1:0:1:1CBB:1CE8:71:820000:0:0:0:</channel><!-- Vivid Touch -->
 <!-- 13.0E --><channel id="VoxMusicTv.pl">1:0:1:4298:2BC0:13E:820000:0:0:0:</channel><!-- VOX Music TV -->
@@ -401,6 +401,7 @@
 <!-- 13.0E --><channel id="Bloomberg.pl">1:0:1:1C86:332C:13E:820000:0:0:0:</channel><!-- Bloomberg European TV -->
 <!-- 13.0E --><channel id="CNBC.pl">1:0:19:1C4D:1A2C:FBFF:820000:0:0:0:</channel><!-- CNBC HD -->
 <!-- 13.0E --><channel id="CurrentTime.pl">1:0:1:C8:65:1:820000:0:0:0:</channel><!-- Current Time -->
+<!-- 13.0E --><channel id="CurrentTime.pl">1:0:1:C8:1DB0:13E:820000:0:0:0:</channel><!-- Current Time -->
 <!-- 13.0E --><channel id="DWEnglish.pl">1:0:1:332D:1388:13E:820000:0:0:0:</channel><!-- DW English HD -->
 <!-- 13.0E --><channel id="EspressoTv.pl">1:0:1:4235:2F44:13E:820000:0:0:0:</channel><!-- Espresso TV -->
 <!-- 13.0E --><channel id="Euronews.pl">1:0:1:321:3BC4:13E:820000:0:0:0:</channel><!-- Euronews English HD -->
@@ -552,8 +553,16 @@
 <!-- IPTV --><channel id="TvBiznesowa.pl">4097:0:1:7EAD:9169:EC:0:0:0:0:http%3a//</channel><!-- TV Biznesowa -->
 <!-- IPTV --><channel id="TvRepublikaPlus.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Telewizja Republika Plus -->
 
-<!-- IPTV --><channel id="Viaplay1.pl">4097:0:1:7F93:F3A4:EC:0:0:0:0:http%3a//</channel><!-- Viaplay 1 -->
-<!-- IPTV --><channel id="Viaplay2.pl">4097:0:1:EC78:91E5:EC:0:0:0:0:http%3a//</channel><!-- Viaplay 2 -->
+
+
+<!-- IPTV --><channel id="ViaplayNO.pl">4097:0:1:7F93:F3A4:EC:0:0:0:0:http%3a//</channel><!-- Viaplay NO -->
+<!-- IPTV --><channel id="ViaplaySE.pl">4097:0:1:EC78:91E5:EC:0:0:0:0:http%3a//</channel><!-- Viaplay SE -->
+<!-- IPTV --><channel id="DAZN_NFLNetwork.pl">4097:0:1:3076:E5D2:EC:0:0:0:0:http%3a//</channel><!-- NFL Network: Live 24/7 Coverage -->
+<!-- IPTV --><channel id="DAZN_PGATour.pl">4097:0:1:8C7:6811:EC:0:0:0:0:http%3a//</channel><!-- PGA TOUR -->
+<!-- IPTV --><channel id="DAZN_MatchroomBoxing.pl">4097:0:1:D51:1AAD:EC:0:0:0:0:http%3a//</channel><!-- Matchroom Boxing -->
+<!-- IPTV --><channel id="DAZN_BoxingTv.pl">4097:0:1:FBF4:100F:EC:0:0:0:0:http%3a//</channel><!-- Boxing TV -->
+<!-- IPTV --><channel id="DAZN_RedBullTv.pl">4097:0:1:C83E:52CE:EC:0:0:0:0:http%3a//</channel><!-- Red Bull TV: Extreme Sports Channel -->
+
 
 <!-- TVP VOD -->
 
@@ -652,13 +661,16 @@
 <!-- IPTV --><channel id="DaVinciZabawnaNauka.swtv.pl">4097:0:1:322:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Fun Learning -->
 <!-- IPTV --><channel id="LondynMuzykaNaZywo.swtv.pl">4097:0:1:323:A11A:2268:0:0:0:0:http%3a//</channel><!-- London Live Music -->
 <!-- IPTV --><channel id="KoncertyLivePop.swtv.pl">4097:0:1:324:A11A:2268:0:0:0:0:http%3a//</channel><!-- Live Pop Concerts -->
-<!-- IPTV --><channel id="GwiazdyKina.swtv.pl">4097:0:1:325:A11A:2268:0:0:0:0:http%3a//</channel><!-- Movie stars HD -->
-<!-- IPTV --><channel id="MapyPrzestepstw.swtv.pl">4097:0:1:326:A11A:2268:0:0:0:0:http%3a//</channel><!-- Murder maps HD -->
-<!-- IPTV --><channel id="HistoriaMody.swtv.pl">4097:0:1:327:A11A:2268:0:0:0:0:http%3a//</channel><!-- Fashion history HD -->
-<!-- IPTV --><channel id="HistoriaPolityczna.swtv.pl">4097:0:1:328:A11A:2268:0:0:0:0:http%3a//</channel><!-- Political History HD -->
-<!-- IPTV --><channel id="PrezydenciIPrzywodcy.swtv.pl">4097:0:1:329:A11A:2268:0:0:0:0:http%3a//</channel><!-- Presidents & leaders HD -->
-<!-- IPTV --><channel id="LegendyOpery.swtv.pl">4097:0:1:32A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Legends of the opera HD -->
-<!-- IPTV --><channel id="MityIPotwory.swtv.pl">4097:0:1:32B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Myths & Monsters HD -->
+<!-- IPTV --><channel id="GwiazdyKina.swtv.pl">4097:0:1:325:A11A:2268:0:0:0:0:http%3a//</channel><!-- Movie Stars -->
+<!-- IPTV --><channel id="MapyPrzestepstw.swtv.pl">4097:0:1:326:A11A:2268:0:0:0:0:http%3a//</channel><!-- Murder Maps -->
+<!-- IPTV --><channel id="HistoriaMody.swtv.pl">4097:0:1:327:A11A:2268:0:0:0:0:http%3a//</channel><!-- Fashion History -->
+<!-- IPTV --><channel id="HistoriaPolityczna.swtv.pl">4097:0:1:328:A11A:2268:0:0:0:0:http%3a//</channel><!-- Political History -->
+<!-- IPTV --><channel id="PrezydenciIPrzywodcy.swtv.pl">4097:0:1:329:A11A:2268:0:0:0:0:http%3a//</channel><!-- Presidents And Leaders -->
+<!-- IPTV --><channel id="LegendyOpery.swtv.pl">4097:0:1:32A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Legends Of The Opera -->
+<!-- IPTV --><channel id="MityIPotwory.swtv.pl">4097:0:1:32B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Myths And Monsters -->
+<!-- IPTV --><channel id="PostacieHistoryczne.swtv.pl">4097:0:1:32C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Historical Figures -->
+<!-- IPTV --><channel id="MonarchieIDynastie.swtv.pl">4097:0:1:32D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Monarchies And Dynasties -->
+<!-- IPTV --><channel id="VideoKilledTheRadioStars.swtv.pl">4097:0:1:32E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Video Killed The Radio Stars -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
