@@ -552,17 +552,8 @@
 <!-- IPTV --><channel id="PoradnikZdrowie.pl">4097:0:1:C7D1:B312:EC:0:0:0:0:http%3a//</channel><!-- Poradnik Zdrowie -->
 <!-- IPTV --><channel id="TvBiznesowa.pl">4097:0:1:7EAD:9169:EC:0:0:0:0:http%3a//</channel><!-- TV Biznesowa -->
 <!-- IPTV --><channel id="TvRepublikaPlus.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Telewizja Republika Plus -->
-
-
-
 <!-- IPTV --><channel id="ViaplayNO.pl">4097:0:1:7F93:F3A4:EC:0:0:0:0:http%3a//</channel><!-- Viaplay NO -->
 <!-- IPTV --><channel id="ViaplaySE.pl">4097:0:1:EC78:91E5:EC:0:0:0:0:http%3a//</channel><!-- Viaplay SE -->
-<!-- IPTV --><channel id="DAZN_NFLNetwork.pl">4097:0:1:3076:E5D2:EC:0:0:0:0:http%3a//</channel><!-- NFL Network: Live 24/7 Coverage -->
-<!-- IPTV --><channel id="DAZN_PGATour.pl">4097:0:1:8C7:6811:EC:0:0:0:0:http%3a//</channel><!-- PGA TOUR -->
-<!-- IPTV --><channel id="DAZN_MatchroomBoxing.pl">4097:0:1:D51:1AAD:EC:0:0:0:0:http%3a//</channel><!-- Matchroom Boxing -->
-<!-- IPTV --><channel id="DAZN_BoxingTv.pl">4097:0:1:FBF4:100F:EC:0:0:0:0:http%3a//</channel><!-- Boxing TV -->
-<!-- IPTV --><channel id="DAZN_RedBullTv.pl">4097:0:1:C83E:52CE:EC:0:0:0:0:http%3a//</channel><!-- Red Bull TV: Extreme Sports Channel -->
-
 
 <!-- TVP VOD -->
 
@@ -671,6 +662,8 @@
 <!-- IPTV --><channel id="PostacieHistoryczne.swtv.pl">4097:0:1:32C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Historical Figures -->
 <!-- IPTV --><channel id="MonarchieIDynastie.swtv.pl">4097:0:1:32D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Monarchies And Dynasties -->
 <!-- IPTV --><channel id="VideoKilledTheRadioStars.swtv.pl">4097:0:1:32E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Video Killed The Radio Stars -->
+<!-- IPTV --><channel id="OsobowosciSwiata.swtv.pl">4097:0:1:32F:A11A:2268:0:0:0:0:http%3a//</channel><!-- World's Personalities -->
+<!-- IPTV --><channel id="PoszukiwaczeZaginionejSztuki.swtv.pl">4097:0:1:330:A11A:2268:0:0:0:0:http%3a//</channel><!-- Raiders Of The Lost Art -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
