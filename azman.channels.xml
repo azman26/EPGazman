@@ -600,24 +600,26 @@
 
 <!-- PRIVATE AZMAN FAST TV --><!-- 1-500:A33A:2268 -->
 
-<!-- IPTV --><channel id="TopCanalRTL7.pl">4097:0:1:1:A33A:2268:0:0:0:0:http%3a//</channel><!-- Top Canal RTL7 -->
-<!-- IPTV --><channel id="DruzynaA.pl">4097:0:1:2:A33A:2268:0:0:0:0:http%3a//</channel><!-- Drużyna A -->
-<!-- IPTV --><channel id="SeaQuest.pl">4097:0:1:3:A33A:2268:0:0:0:0:http%3a//</channel><!-- SeaQuest -->
-<!-- IPTV --><channel id="DrQuinn.pl">4097:0:1:4:A33A:2268:0:0:0:0:http%3a//</channel><!-- Dr. Quinn -->
-<!-- IPTV --><channel id="Andromeda.pl">4097:0:1:5:A33A:2268:0:0:0:0:http%3a//</channel><!-- Andromeda -->
-<!-- IPTV --><channel id="Nieustraszony.pl">4097:0:1:6:A33A:2268:0:0:0:0:http%3a//</channel><!-- Nieustraszony -->
-<!-- IPTV --><channel id="MacGyver.pl">4097:0:1:7:A33A:2268:0:0:0:0:http%3a//</channel><!-- MacGyver -->
-<!-- IPTV --><channel id="Magnum.pl">4097:0:1:8:A33A:2268:0:0:0:0:http%3a//</channel><!-- Magnum -->
-<!-- IPTV --><channel id="PolicjanciZMiami.pl">4097:0:1:9:A33A:2268:0:0:0:0:http%3a//</channel><!-- Policjanci z Miami -->
-<!-- IPTV --><channel id="PolnocPoludnie.pl">4097:0:1:A:A33A:2268:0:0:0:0:http%3a//</channel><!-- Północ Południe -->
-<!-- IPTV --><channel id="Defiance.pl">4097:0:1:B:A33A:2268:0:0:0:0:http%3a//</channel><!-- Defiance -->
-<!-- IPTV --><channel id="ZiemiaOstatnieStarcie.pl">4097:0:1:C:A33A:2268:0:0:0:0:http%3a//</channel><!-- Ziemia Ostatnie Starcie -->
-<!-- IPTV --><channel id="BajkaTV.pl">4097:0:1:D:A33A:2268:0:0:0:0:http%3a//</channel><!-- Bajka TV -->
-<!-- IPTV --><channel id="UcieczkaWKosmos.pl">4097:0:1:E:A33A:2268:0:0:0:0:http%3a//</channel><!-- Ucieczka w Kosmos -->
-<!-- IPTV --><channel id="Eureka.pl">4097:0:1:F:A33A:2268:0:0:0:0:http%3a//</channel><!-- Eureka -->
-<!-- IPTV --><channel id="NaWariackichPapierach.pl">4097:0:1:10:A33A:2268:0:0:0:0:http%3a//</channel><!-- Na Wariackich Papierach -->
-<!-- IPTV --><channel id="RobinzSherwood.pl">4097:0:1:11:A33A:2268:0:0:0:0:http%3a//</channel><!-- Eureka -->
-<!-- IPTV --><channel id="SciFiChannel.pl">4097:0:1:12:A33A:2268:0:0:0:0:http%3a//</channel><!-- Eureka -->
+<!-- IPTV --><channel id="RTL7.pl">4097:0:1:1:A33A:2268:0:0:0:0:http%3a//</channel><!-- RTL7 -->
+<!-- IPTV --><channel id="TopCanal.pl">4097:0:1:2:A33A:2268:0:0:0:0:http%3a//</channel><!-- Top Canal -->
+<!-- IPTV --><channel id="WizjaTv.pl">4097:0:1:3:A33A:2268:0:0:0:0:http%3a//</channel><!-- Wizja TV -->
+<!-- IPTV --><channel id="SciFiChannel.pl">4097:0:1:4:A33A:2268:0:0:0:0:http%3a//</channel><!-- Sci Fi Channel -->
+<!-- IPTV --><channel id="BajkaTV.pl">4097:0:1:5:A33A:2268:0:0:0:0:http%3a//</channel><!-- Bajka TV -->
+<!-- IPTV --><channel id="RobinzSherwood.pl">4097:0:1:6:A33A:2268:0:0:0:0:http%3a//</channel><!-- Robin z Sherwood -->
+<!-- IPTV --><channel id="Eureka.pl">4097:0:1:7:A33A:2268:0:0:0:0:http%3a//</channel><!-- Eureka -->
+<!-- IPTV --><channel id="Defiance.pl">4097:0:1:8:A33A:2268:0:0:0:0:http%3a//</channel><!-- Defiance -->
+<!-- IPTV --><channel id="SeaQuest.pl">4097:0:1:9:A33A:2268:0:0:0:0:http%3a//</channel><!-- SeaQuest -->
+<!-- IPTV --><channel id="ZiemiaOstatnieStarcie.pl">4097:0:1:A:A33A:2268:0:0:0:0:http%3a//</channel><!-- Ziemia Ostatnie Starcie -->
+<!-- IPTV --><channel id="UcieczkaWKosmos.pl">4097:0:1:B:A33A:2268:0:0:0:0:http%3a//</channel><!-- Ucieczka w Kosmos -->
+<!-- IPTV --><channel id="Andromeda.pl">4097:0:1:C:A33A:2268:0:0:0:0:http%3a//</channel><!-- Andromeda -->
+<!-- IPTV --><channel id="Nieustraszony.pl">4097:0:1:D:A33A:2268:0:0:0:0:http%3a//</channel><!-- Nieustraszony -->
+<!-- IPTV --><channel id="MacGyver.pl">4097:0:1:E:A33A:2268:0:0:0:0:http%3a//</channel><!-- MacGyver -->
+<!-- IPTV --><channel id="DruzynaA.pl">4097:0:1:F:A33A:2268:0:0:0:0:http%3a//</channel><!-- Drużyna A -->
+<!-- IPTV --><channel id="Magnum.pl">4097:0:1:10:A33A:2268:0:0:0:0:http%3a//</channel><!-- Magnum -->
+<!-- IPTV --><channel id="PolicjanciZMiami.pl">4097:0:1:11:A33A:2268:0:0:0:0:http%3a//</channel><!-- Policjanci z Miami -->
+<!-- IPTV --><channel id="NaWariackichPapierach.pl">4097:0:1:12:A33A:2268:0:0:0:0:http%3a//</channel><!-- Na Wariackich Papierach -->
+<!-- IPTV --><channel id="DrQuinn.pl">4097:0:1:13:A33A:2268:0:0:0:0:http%3a//</channel><!-- Dr. Quinn -->
+<!-- IPTV --><channel id="PolnocPoludnie.pl">4097:0:1:14:A33A:2268:0:0:0:0:http%3a//</channel><!-- Północ Południe -->
 
 <!-- iTVN -->
 
