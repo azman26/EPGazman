@@ -124,6 +124,9 @@ name2service4wpDict = {
                         'Ultra TV 4K':                  '1:0:1:7389:DE37:EC:0:0:0:0',
                         'Zoom TV HD':                   '1:0:1:4291:2BC0:13E:820000:0:0:0',
                         'wPolsce24':                    '1:0:1:4279:2BC0:13E:820000:0:0:0',
+                        'Junior Channel':               '1:0:1F:4B:16:2268:EEEE0000:0:0:0',
+                        'Xtreme TV':                    '1:0:1F:4F:9192:2268:EEEE0000:0:0:0',
+                        'Szlagier TV':                  '1:0:1:1152:2AF8:13E:820000:0:0:0',
                       }
 
 name2serviceDict = {'tvp3warszawa':     '1:0:1:113B:2AF8:13E:820000:0:0:0',
