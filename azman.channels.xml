@@ -976,6 +976,7 @@
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1F:25:15:2268:EEEE0000:0:0:0:</channel><!-- TVT HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1F:BE:15:2268:EEEE0000:0:0:0:</channel><!-- TVT HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TvRepublikaPlus.pl">1:0:1F:BC:15:2268:EEEE0000:0:0:0:</channel><!-- Telewizja Republika HD -->
+<!-- DVB-T MUX-L2 TVT --><channel id="DolceVitaTV.pl">1:0:1F:BD:15:2268:EEEE0000:0:0:0:</channel><!-- Dolce Vita TV -->
 
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TVC.pl">1:0:1F:26:16:2268:EEEE0000:0:0:0:</channel><!-- TVC HD -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TvRepublika.pl">1:0:1F:49:16:2268:EEEE0000:0:0:0:</channel><!-- TV Republika -->
