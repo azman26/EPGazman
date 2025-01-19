@@ -849,6 +849,9 @@
 <!-- RADIO IP --><channel id="RadioFamka.pl">4097:0:2:57:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO FAMKA -->
 <!-- RADIO IP --><channel id="TrendyRadio.pl">4097:0:2:58:A22A:2268:0:0:0:0:http%3a//</channel><!-- TRENDY RADIO -->
 <!-- RADIO IP --><channel id="EskaGoraca20.pl">4097:0:2:59:A22A:2268:0:0:0:0:http%3a//</channel><!-- ESKA GORĄCA 20 -->
+<!-- RADIO IP --><channel id="RadioBonTonChelm.pl">4097:0:2:5A:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO BONTON CHEŁM -->
+<!-- RADIO IP --><channel id="KatolickieRadioZamosc.pl">4097:0:2:5B:A22A:2268:0:0:0:0:http%3a//</channel><!-- KATOLICKIE RADIO ZAMOŚĆ -->
+<!-- RADIO IP --><channel id="RadioRSC.pl">4097:0:2:5C:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO RSC -->
 
 <!-- DVB-T -->
 
