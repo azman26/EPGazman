@@ -439,7 +439,6 @@
 <!-- 19.2E --><channel id="StingrayDJazz.pl">1:0:19:22CB:434:1:C00000:0:0:0:</channel><!-- Stingray DJAZZ HD -->
 <!-- 19.2E --><channel id="TV5Monde.pl">1:0:1:1B03:3FE:1:C00000:0:0:0:</channel><!-- TV5 MONDE EUROPE HD -->
 <!-- 19.2E --><channel id="SBN.pl">1:0:1:2F9A:454:1:C00000:0:0:0:</channel><!-- SBN International -->
-<!-- 19.2E --><channel id="Перший.pl">1:0:1:1659:42C:1:C00000:0:0:0:</channel><!-- UA PERSHYJ -->
 <!-- 16.0E --><channel id="ClubMTV.pl">1:0:16:7A:3:40:A00000:0:0:0:</channel><!-- Club MTV -->
 <!-- 16.0E --><channel id="Eurochannel.pl">1:0:1:4:2:16E:A00000:0:0:0:</channel><!-- EUROCHANNEL -->
 <!-- 9.0E --><channel id="StingrayCMusic.pl">1:0:1:41D:1:AA:5A0000:0:0:0:</channel><!-- Stingray CMusic -->
@@ -451,23 +450,26 @@
 <!-- IPTV --><channel id="2x2.pl">4097:0:1:F88C:5F52:EC:0:0:0:0:http%3a//</channel><!-- 2x2 -->
 <!-- IPTV --><channel id="360TuneBox.pl">4097:0:1:E87B:27C5:EC:0:0:0:0:http%3a//</channel><!-- 360 TuneBox -->
 <!-- IPTV --><channel id="AdultChannel.pl">4097:0:1:2830:11F8:EC:0:0:0:0:http%3a//</channel><!-- Adult Channel -->
-<!-- IPTV --><channel id="AutoPilot.pl">4097:0:1:3D36:80CD:EC:0:0:0:0:http%3a//</channel><!-- Auto Pilot -->
-<!-- IPTV --><channel id="BenchmarkTv.pl">4097:0:1:AFCA:B10A:EC:0:0:0:0:http%3a//</channel><!-- Benchmark TV -->
 <!-- IPTV --><channel id="Bollywood.pl">4097:0:1:756:1362:EC:0:0:0:0:http%3a//</channel><!-- BOLLYWOOD HD -->
 <!-- IPTV --><channel id="C+Live1.pl">4097:0:1:1814:ADE3:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 1 -->
 <!-- IPTV --><channel id="C+Live2.pl">4097:0:1:F87C:BADF:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 2 -->
 <!-- IPTV --><channel id="C+Live3.pl">4097:0:1:F87C:BADD:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 3 -->
 <!-- IPTV --><channel id="C+Live4.pl">4097:0:1:B0:BB4:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 4 -->
 <!-- IPTV --><channel id="C+Live5.pl">4097:0:1:F87C:BADE:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 5 -->
-<!-- IPTV --><channel id="C+Program1.pl">4097:0:1:CED4:E9A8:EC:0:0:0:0:http%3a//</channel><!-- Program 1 -->
-<!-- IPTV --><channel id="C+Program2.pl">4097:0:1:B6CB:4779:EC:0:0:0:0:http%3a//</channel><!-- Program 2 -->
-<!-- IPTV --><channel id="C+Program3.pl">4097:0:1:1423:D2DE:EC:0:0:0:0:http%3a//</channel><!-- Program 3 -->
-<!-- IPTV --><channel id="C+Program4.pl">4097:0:1:E6DE:8BD7:EC:0:0:0:0:http%3a//</channel><!-- Program 4 -->
-<!-- IPTV --><channel id="C+Program5.pl">4097:0:1:4437:173C:EC:0:0:0:0:http%3a//</channel><!-- Program 5 -->
-<!-- IPTV --><channel id="C+Program6.pl">4097:0:1:2C2D:750D:EC:0:0:0:0:http%3a//</channel><!-- Program 6 -->
 <!-- IPTV --><channel id="C+Extra5.pl">4097:0:1:1AD9:701F:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 5 -->
 <!-- IPTV --><channel id="C+Extra6.pl">4097:0:1:759:7F62:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 6 -->
 <!-- IPTV --><channel id="C+Extra7.pl">4097:0:1:1494:4021:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 7 -->
+
+<!-- IPTV --><channel id="C+Extra9.pl">4097:0:1:CED4:E9A8:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 9 -->
+
+
+
+<!-- IPTV --><channel id="C+Extra13.pl">4097:0:1:B6CB:4779:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 13 -->
+<!-- IPTV --><channel id="C+Extra14.pl">4097:0:1:1423:D2DE:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 14 -->
+<!-- IPTV --><channel id="C+Extra15.pl">4097:0:1:E6DE:8BD7:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 15 -->
+<!-- IPTV --><channel id="C+Extra16.pl">4097:0:1:4437:173C:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 16 -->
+<!-- IPTV --><channel id="C+Extra17.pl">4097:0:1:2C2D:750D:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 17 -->
+<!-- IPTV --><channel id="C+Extra18.pl">4097:0:1:F88C:5F52:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 18 -->
 <!-- IPTV --><channel id="ClubMTV.pl">4097:0:16:7A:3:40:A00000:0:0:0:http%3a//</channel><!-- Club MTV -->
 <!-- IPTV --><channel id="DWDeutsch.pl">4097:0:1:646E:A543:EC:0:0:0:0:http%3a//</channel><!-- DW Deutsch -->
 <!-- IPTV --><channel id="DamiTv.pl">4097:0:1:58:1:48:0:0:0:0:http%3a//</channel><!-- DAMI TV -->
@@ -503,7 +505,6 @@
 <!-- IPTV --><channel id="NewTv.pl">4097:0:1:59:1:48:0:0:0:0:http%3a//</channel><!-- NEW TV -->
 <!-- IPTV --><channel id="News24.pl">4097:0:1:F6B3:51BB:EC:0:0:0:0:http%3a//</channel><!-- NEWS 24 -->
 <!-- IPTV --><channel id="Novelas+1.pl">4097:0:1:755:1362:EC:0:0:0:0:http%3a//</channel><!-- Novelas+1 -->
-<!-- IPTV --><channel id="PilotwDomu.pl">4097:0:1:9A8F:C32:EC:0:0:0:0:http%3a//</channel><!-- Pilot w Domu -->
 <!-- IPTV --><channel id="Polsat1.pl">4097:0:1:943A:2C7F:EC:0:0:0:0:http%3a//</channel><!-- Polsat 1 -->
 <!-- IPTV --><channel id="PrimeFight.pl">4097:0:1:6AC8:5E32:EC:0:0:0:0:http%3a//</channel><!-- Prime Fight HD -->
 <!-- IPTV --><channel id="ProartHD.pl">4097:0:1:DFC5:FFB3:EC:0:0:0:0:http%3a//</channel><!-- Proart HD -->
@@ -552,8 +553,7 @@
 <!-- IPTV --><channel id="PoradnikZdrowie.pl">4097:0:1:C7D1:B312:EC:0:0:0:0:http%3a//</channel><!-- Poradnik Zdrowie -->
 <!-- IPTV --><channel id="TvBiznesowa.pl">4097:0:1:7EAD:9169:EC:0:0:0:0:http%3a//</channel><!-- TV Biznesowa -->
 <!-- IPTV --><channel id="TvRepublikaPlus.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Telewizja Republika Plus -->
-<!-- IPTV --><channel id="ViaplayNO.pl">4097:0:1:7F93:F3A4:EC:0:0:0:0:http%3a//</channel><!-- Viaplay NO -->
-<!-- IPTV --><channel id="ViaplaySE.pl">4097:0:1:EC78:91E5:EC:0:0:0:0:http%3a//</channel><!-- Viaplay SE -->
+<!-- IPTV --><channel id="1plus1International.pl">4097:0:1:A855:B70C:EC:0:0:0:0:http%3a//</channel><!-- 1+1 Ukraina -->
 
 <!-- TVP VOD -->
 
@@ -674,6 +674,7 @@
 <!-- IPTV --><channel id="PodrozeIPrzygody.swtv.pl">4097:0:1:331:A11A:2268:0:0:0:0:http%3a//</channel><!-- Travel And Adventures -->
 <!-- IPTV --><channel id="CarsAndStars.swtv.pl">4097:0:1:332:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cars And Stars -->
 <!-- IPTV --><channel id="MenWithThePot.swtv.pl">4097:0:1:333:A11A:2268:0:0:0:0:http%3a//</channel><!-- Men With The Pot HD -->
+<!-- IPTV --><channel id="PureNature.swtv.pl">4097:0:1:334:A11A:2268:0:0:0:0:http%3a//</channel><!-- Pure Nature HD -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
@@ -735,7 +736,7 @@
 <!-- RADIO IP --><channel id="Chillizet.pl">4097:0:2:1412:5DC:13E:820000:0:0:0:http%3a//</channel><!-- CHILLIZET -->
 <!-- RADIO IP --><channel id="Czworka.pl">4097:0:1:100:0:48:0:0:0:0:http%3a//</channel><!-- POLSKIE RADIO PROGRAM 4 --><!-- VISUAL RADIO -->
 <!-- RADIO IP --><channel id="Jedynka.pl">4097:0:2:1C9B:1CE8:71:820000:0:0:0:http%3a//</channel><!-- POLSKIE RADIO PROGRAM 1 -->
-<!-- RADIO IP --><channel id="Meloradio.pl">4097:0:2:1411:5DC:13E:820000:0:0:0:http%3a//</channel><!-- MELORADIO -->
+<!-- RADIO IP --><channel id="Melo.pl">4097:0:2:1411:5DC:13E:820000:0:0:0:http%3a//</channel><!-- MELO -->
 <!-- RADIO IP --><channel id="MuzoFM.pl">4097:0:2:1414:5DC:13E:820000:0:0:0:http%3a//</channel><!-- MUZO FM -->
 <!-- RADIO IP --><channel id="PolskieRadio24.pl">4097:0:1:101:0:48:0:0:0:0:http%3a//</channel><!-- POLSKIE RADIO 24 --><!-- VISUAL RADIO -->
 <!-- RADIO IP --><channel id="RMFClassic.pl">4097:0:2:1C9A:1CE8:71:820000:0:0:0:http%3a//</channel><!-- RMF CLASSIC -->
@@ -774,7 +775,7 @@
 <!-- RADIO IP --><channel id="RadioAskFM.pl">4097:0:2:11:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio AskFM -->
 <!-- RADIO IP --><channel id="RadioBialystok.pl">4097:0:2:12:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio Białystok -->
 <!-- RADIO IP --><channel id="RadioBielsko.pl">4097:0:2:13:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO BIELSKO -->
-<!-- RADIO IP --><channel id="RadioCCM.pl">4097:0:2:3C:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO CCM -->
+<!-- RADIO IP --><channel id="RadioEskaPoludnie.pl">4097:0:2:3C:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO ESKA POŁUDNIE -->
 <!-- RADIO IP --><channel id="RadioCentrum.pl">4097:0:2:41:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO CENTRUM -->
 <!-- RADIO IP --><channel id="RadioChopin.pl">4097:0:2:5:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO CHOPIN -->
 <!-- RADIO IP --><channel id="RadioDiscoparty.pl">4097:0:2:14:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO DISCOPARTY -->
