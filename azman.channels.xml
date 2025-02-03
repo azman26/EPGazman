@@ -972,16 +972,14 @@
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TVTZgorzelec.pl">1:0:1F:8F:14:2268:EEEE0000:0:0:0:</channel><!-- TVT Zgorzelec -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TVMN.pl">1:0:1F:92:14:2268:EEEE0000:0:0:0:</channel><!-- TVMN -->
 
-<!-- DVB-T MUX-L2 TVT --><channel id="KabaretTV.pl">1:0:1F:BB:15:2268:EEEE0000:0:0:0:</channel><!-- Kabaret TV -->
 <!-- DVB-T MUX-L2 TVT --><channel id="NowaTv.pl">1:0:1F:B8:15:2268:EEEE0000:0:0:0:</channel><!-- NOWA TV HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TvRepublika.pl">1:0:1F:B9:15:2268:EEEE0000:0:0:0:</channel><!-- Republika HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="StarsTv.pl">1:0:1F:B7:15:2268:EEEE0000:0:0:0:</channel><!-- STARS.TV HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TvOkazje.pl">1:0:1F:BA:15:2268:EEEE0000:0:0:0:</channel><!-- TV Okazje -->
-<!-- DVB-T MUX-L2 TVT --><channel id="TVS.pl">1:0:1F:B4:15:2268:EEEE0000:0:0:0:</channel><!-- TVS HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1F:25:15:2268:EEEE0000:0:0:0:</channel><!-- TVT HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1F:BE:15:2268:EEEE0000:0:0:0:</channel><!-- TVT HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TvRepublikaPlus.pl">1:0:1F:BC:15:2268:EEEE0000:0:0:0:</channel><!-- Telewizja Republika HD -->
-<!-- DVB-T MUX-L2 TVT --><channel id="DolceVitaTV.pl">1:0:1F:BD:15:2268:EEEE0000:0:0:0:</channel><!-- Dolce Vita TV -->
+<!-- DVB-T MUX-L2 TVT --><channel id="DolceVitaTV.pl">1:0:1F:BD:15:2268:EEEE0000:0:0:0:</channel><!-- Dolce Vita TV HD-->
 
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TVC.pl">1:0:1F:26:16:2268:EEEE0000:0:0:0:</channel><!-- TVC HD -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TvRepublika.pl">1:0:1F:49:16:2268:EEEE0000:0:0:0:</channel><!-- TV Republika -->
