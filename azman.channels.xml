@@ -560,37 +560,21 @@
 <!-- IPTV --><channel id="AlfaTVP.pl">4097:0:1F:28:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Alfa TVP -->
 <!-- IPTV --><channel id="BelsatTv.pl">4097:0:1F:37:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Belsat TV -->
 <!-- IPTV --><channel id="TVP3Bialystok.pl">4097:0:16:7:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Białystok -->
-<!-- IPTV --><channel id="TVP3Bialystok.pl">4097:0:1:7:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Białystok -->
 <!-- IPTV --><channel id="TVP3Bydgoszcz.pl">4097:0:16:8:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Bydgoszcz -->
-<!-- IPTV --><channel id="TVP3Bydgoszcz.pl">4097:0:1:8:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Bydgoszcz -->
 <!-- IPTV --><channel id="TVP3Gdansk.pl">4097:0:16:9:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Gdańsk -->
-<!-- IPTV --><channel id="TVP3Gdansk.pl">4097:0:1:9:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Gdańsk -->
 <!-- IPTV --><channel id="TVP3GorzowWlkp.pl">4097:0:16:A:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP 3 Gorzów Wielkopolski -->
-<!-- IPTV --><channel id="TVP3GorzowWlkp.pl">4097:0:1:10:0:48:0:0:0:0:http%3a//</channel><!--TVP 3 Gorzów Wielkopolski -->
 <!-- IPTV --><channel id="TVP3Katowice.pl">4097:0:16:B:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Katowice -->
-<!-- IPTV --><channel id="TVP3Katowice.pl">4097:0:1:11:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Katowice -->
 <!-- IPTV --><channel id="TVP3Kielce.pl">4097:0:16:C:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Kielce -->
-<!-- IPTV --><channel id="TVP3Kielce.pl">4097:0:1:12:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Kielce -->
 <!-- IPTV --><channel id="TVP3Krakow.pl">4097:0:16:D:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Kraków -->
-<!-- IPTV --><channel id="TVP3Krakow.pl">4097:0:1:13:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Kraków -->
 <!-- IPTV --><channel id="TVP3Lodz.pl">4097:0:16:F:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Łódź -->
-<!-- IPTV --><channel id="TVP3Lodz.pl">4097:0:1:15:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Łódź -->
 <!-- IPTV --><channel id="TVP3Lublin.pl">4097:0:16:E:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Lublin -->
-<!-- IPTV --><channel id="TVP3Lublin.pl">4097:0:1:14:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Lublin -->
 <!-- IPTV --><channel id="TVP3Olsztyn.pl">4097:0:16:10:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP 3 Olsztyn -->
-<!-- IPTV --><channel id="TVP3Olsztyn.pl">4097:0:1:16:0:48:0:0:0:0:http%3a//</channel><!--TVP 3 Olsztyn -->
 <!-- IPTV --><channel id="TVP3Opole.pl">4097:0:16:11:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Opole -->
-<!-- IPTV --><channel id="TVP3Opole.pl">4097:0:1:17:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Opole -->
 <!-- IPTV --><channel id="TVP3Poznan.pl">4097:0:16:12:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP 3 Poznań -->
-<!-- IPTV --><channel id="TVP3Poznan.pl">4097:0:1:18:0:48:0:0:0:0:http%3a//</channel><!--TVP 3 Poznań -->
 <!-- IPTV --><channel id="TVP3Rzeszow.pl">4097:0:16:13:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Rzeszów -->
-<!-- IPTV --><channel id="TVP3Rzeszow.pl">4097:0:1:19:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Rzeszów -->
 <!-- IPTV --><channel id="TVP3Szczecin.pl">4097:0:16:14:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP 3 Szczecin -->
-<!-- IPTV --><channel id="TVP3Szczecin.pl">4097:0:1:20:0:48:0:0:0:0:http%3a//</channel><!--TVP 3 Szczecin -->
 <!-- IPTV --><channel id="TVP3Warszawa.pl">4097:0:16:15:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Warszawa -->
-<!-- IPTV --><channel id="TVP3Warszawa.pl">4097:0:1:21:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Warszawa -->
 <!-- IPTV --><channel id="TVP3Wroclaw.pl">4097:0:16:16:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP3 Wrocław -->
-<!-- IPTV --><channel id="TVP3Wroclaw.pl">4097:0:1:22:0:48:0:0:0:0:http%3a//</channel><!--TVP3 Wrocław -->
 <!-- IPTV --><channel id="TVPABC2.pl">4097:0:16:5C:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP ABC 2 -->
 <!-- IPTV --><channel id="TVPHistoria2.pl">4097:0:16:5D:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Historia 2 -->
 <!-- IPTV --><channel id="TVPKobieta.pl">4097:0:1F:36:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Kobieta -->
@@ -675,6 +659,9 @@
 <!-- IPTV --><channel id="CarsAndStars.swtv.pl">4097:0:1:332:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cars And Stars -->
 <!-- IPTV --><channel id="MenWithThePot.swtv.pl">4097:0:1:333:A11A:2268:0:0:0:0:http%3a//</channel><!-- Men With The Pot HD -->
 <!-- IPTV --><channel id="PureNature.swtv.pl">4097:0:1:334:A11A:2268:0:0:0:0:http%3a//</channel><!-- Pure Nature HD -->
+<!-- IPTV --><channel id="DuckTvBest.swtv.pl">4097:0:1:335:A11A:2268:0:0:0:0:http%3a//</channel><!-- Duck TV Best HD -->
+<!-- IPTV --><channel id="DuckTvPlusBest.swtv.pl">4097:0:1:336:A11A:2268:0:0:0:0:http%3a//</channel><!-- Duck TV Plus Best HD -->
+<!-- IPTV --><channel id="Eskimoska.swtv.pl">4097:0:1:337:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eskimoska HD -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
