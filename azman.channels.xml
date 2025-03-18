@@ -428,7 +428,7 @@
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:19:2777:409:1:C00000:0:0:0:</channel><!-- MTV Germany -->
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:6FFF:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:7006:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
-<!-- 19.2E --><channel id="Mezzo.pl">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- MEZZO -->
+<!-- 13.0E --><channel id="Mezzo.pl">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- MEZZO -->
 <!-- 19.2E --><channel id="Mezzo.pl">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- MEZZO -->
 <!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:1F4C:42E:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
 <!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:7823:428:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
@@ -862,22 +862,22 @@
 <!-- DVB-T MUX2 --><channel id="TV6.pl">1:0:1F:19:2:2268:EEEE0000:0:0:0:</channel><!--TV6 -->
 <!-- DVB-T MUX2 --><channel id="SuperPolsat.pl">1:0:1F:1A:2:2268:EEEE0000:0:0:0:</channel><!--Super Polsat -->
 
-<!-- DVB-T MUX3 --><channel id="TVP1.pl">1:0:19:1:3:2268:EEEE0000:0:0:0:</channel><!--TVP1 HD -->
-<!-- DVB-T MUX3 --><channel id="TVP2.pl">1:0:19:2:3:2268:EEEE0000:0:0:0:</channel><!--TVP2 HD -->
+<!-- DVB-T MUX3 --><channel id="TVP1.pl">1:0:1F:1:3:2268:EEEE0000:0:0:0:</channel><!--TVP1 HD -->
+<!-- DVB-T MUX3 --><channel id="TVP2.pl">1:0:1F:2:3:2268:EEEE0000:0:0:0:</channel><!--TVP2 HD -->
 <!-- DVB-T MUX3 --><channel id="TVPKultura.pl">1:0:1F:1F:3:2268:EEEE0000:0:0:0:</channel><!--TVP Kultura -->
-<!-- DVB-T MUX3 --><channel id="TVPHistoria.pl">1:0:16:20:3:2268:EEEE0000:0:0:0:</channel><!--TVP Historia -->
-<!-- DVB-T MUX3 --><channel id="TVPSport.pl">1:0:19:21:3:2268:EEEE0000:0:0:0:</channel><!--TVP Sport HD -->
-<!-- DVB-T MUX3 --><channel id="TVPInfo.pl">1:0:19:23:3:2268:EEEE0000:0:0:0:</channel><!--TVP Info HD -->
+<!-- DVB-T MUX3 --><channel id="TVPHistoria.pl">1:0:1F:20:3:2268:EEEE0000:0:0:0:</channel><!--TVP Historia -->
+<!-- DVB-T MUX3 --><channel id="TVPSport.pl">1:0:1F:21:3:2268:EEEE0000:0:0:0:</channel><!--TVP Sport HD -->
+<!-- DVB-T MUX3 --><channel id="TVPInfo.pl">1:0:1F:23:3:2268:EEEE0000:0:0:0:</channel><!--TVP Info HD -->
 <!-- DVB-T MUX3 --><channel id="TVPABC.pl">1:0:1F:33:3:2268:EEEE0000:0:0:0:</channel><!--TVP ABC -->
 <!-- DVB-T MUX3 --><channel id="TVPWorld.pl">1:0:1F:5B:3:2268:EEEE0000:0:0:0:</channel><!--TVP World -->
-<!-- DVB-T MUX3 --><channel id="TVPABC2.pl">1:0:16:5C:3:2268:EEEE0000:0:0:0:</channel><!--TVP ABC 2 -->
-<!-- DVB-T MUX3 --><channel id="TVPHistoria2.pl">1:0:16:5D:3:2268:EEEE0000:0:0:0:</channel><!--TVP Historia 2 -->
-<!-- DVB-T MUX3 --><channel id="TVPKultura2.pl">1:0:16:5E:3:2268:EEEE0000:0:0:0:</channel><!--TVP Kultura 2 -->
+<!-- DVB-T MUX3 --><channel id="TVPABC2.pl">1:0:1F:5C:3:2268:EEEE0000:0:0:0:</channel><!--TVP ABC 2 -->
+<!-- DVB-T MUX3 --><channel id="TVPHistoria2.pl">1:0:1F:5D:3:2268:EEEE0000:0:0:0:</channel><!--TVP Historia 2 -->
+<!-- DVB-T MUX3 --><channel id="TVPKultura2.pl">1:0:1F:5E:3:2268:EEEE0000:0:0:0:</channel><!--TVP Kultura 2 -->
 <!-- DVB-T MUX3 --><channel id="TVP3Bialystok.pl">1:0:16:7:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Białystok -->
 <!-- DVB-T MUX3 --><channel id="TVP3Bydgoszcz.pl">1:0:16:8:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Bydgoszcz -->
 <!-- DVB-T MUX3 --><channel id="TVP3Gdansk.pl">1:0:16:9:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Gdańsk -->
 <!-- DVB-T MUX3 --><channel id="TVP3GorzowWlkp.pl">1:0:16:A:3:2268:EEEE0000:0:0:0:</channel><!--TVP 3 Gorzów Wielkopolski -->
-<!-- DVB-T MUX3 --><channel id="TVP3Katowice.pl">1:0:16:B:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Katowice -->
+<!-- DVB-T MUX3 --><channel id="TVP3Katowice.pl">1:0:1F:B:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Katowice -->
 <!-- DVB-T MUX3 --><channel id="TVP3Kielce.pl">1:0:16:C:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Kielce -->
 <!-- DVB-T MUX3 --><channel id="TVP3Krakow.pl">1:0:16:D:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Kraków -->
 <!-- DVB-T MUX3 --><channel id="TVP3Lublin.pl">1:0:16:E:3:2268:EEEE0000:0:0:0:</channel><!--TVP3 Lublin -->
@@ -960,13 +960,13 @@
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TVTZgorzelec.pl">1:0:1F:8F:14:2268:EEEE0000:0:0:0:</channel><!-- TVT Zgorzelec -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TVMN.pl">1:0:1F:92:14:2268:EEEE0000:0:0:0:</channel><!-- TVMN -->
 
-<!-- DVB-T MUX-L2 TVT --><channel id="TvRepublika.pl">1:0:1F:B9:15:2268:EEEE0000:0:0:0:</channel><!-- Republika HD -->
-<!-- DVB-T MUX-L2 TVT --><channel id="StarsTv.pl">1:0:1F:B7:15:2268:EEEE0000:0:0:0:</channel><!-- STARS.TV HD -->
-<!-- DVB-T MUX-L2 TVT --><channel id="TvOkazje.pl">1:0:1F:BA:15:2268:EEEE0000:0:0:0:</channel><!-- TV Okazje -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1F:25:15:2268:EEEE0000:0:0:0:</channel><!-- TVT HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1F:BE:15:2268:EEEE0000:0:0:0:</channel><!-- TVT HD -->
-<!-- DVB-T MUX-L2 TVT --><channel id="TvRepublikaPlus.pl">1:0:1F:BC:15:2268:EEEE0000:0:0:0:</channel><!-- Telewizja Republika HD -->
+<!-- DVB-T MUX-L2 TVT --><channel id="TvRepublika.pl">1:0:1F:B9:15:2268:EEEE0000:0:0:0:</channel><!-- Republika HD -->
+<!-- DVB-T MUX-L2 TVT --><channel id="TvRepublika.pl">1:0:1F:BC:15:2268:EEEE0000:0:0:0:</channel><!-- Republika HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="DolceVitaTV.pl">1:0:1F:BD:15:2268:EEEE0000:0:0:0:</channel><!-- Dolce Vita TV HD-->
+<!-- DVB-T MUX-L2 TVT --><channel id="StarsTv.pl">1:0:1F:B7:15:2268:EEEE0000:0:0:0:</channel><!-- STARS.TV HD -->
+<!-- DVB-T MUX-L2 TVT --><channel id="TvOkazje.pl">1:0:1F:BA:15:2268:EEEE0000:0:0:0:</channel><!-- TV Okazje -->
 
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TVC.pl">1:0:1F:26:16:2268:EEEE0000:0:0:0:</channel><!-- TVC HD -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TvRepublika.pl">1:0:1F:49:16:2268:EEEE0000:0:0:0:</channel><!-- TV Republika -->
