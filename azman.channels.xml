@@ -424,11 +424,11 @@
 <!-- 13.0E --><channel id="RaiNews24.pl">1:0:19:452F:30D4:13E:820000:0:0:0:</channel><!-- RAI News 24 -->
 <!-- 13.0E --><channel id="TRTWorld.pl">1:0:1:323:3BC4:13E:820000:0:0:0:</channel><!-- TRT World HD -->
 <!-- 13.0E --><channel id="TV5Monde.pl">1:0:1:3331:1388:13E:820000:0:0:0:</channel><!-- TV5 MONDE EUROPE -->
+<!-- 13.0E --><channel id="Mezzo.pl">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- MEZZO -->
 <!-- 19.2E --><channel id="MTV80s.pl">1:0:1:6FF1:436:1:C00000:0:0:0:</channel><!-- MTV 80s -->
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:19:2777:409:1:C00000:0:0:0:</channel><!-- MTV Germany -->
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:6FFF:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:7006:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
-<!-- 13.0E --><channel id="Mezzo.pl">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- MEZZO -->
 <!-- 19.2E --><channel id="Mezzo.pl">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- MEZZO -->
 <!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:1F4C:42E:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
 <!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:7823:428:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
@@ -459,7 +459,7 @@
 <!-- IPTV --><channel id="C+Extra5.pl">4097:0:1:1AD9:701F:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 5 -->
 <!-- IPTV --><channel id="C+Extra6.pl">4097:0:1:759:7F62:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 6 -->
 <!-- IPTV --><channel id="C+Extra7.pl">4097:0:1:1494:4021:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 7 -->
-<!-- IPTV --><channel id="C+Extra8.pl">4097:0:1:F88C:5F52:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 8 -->
+<!-- IPTV --><channel id="C+Extra8.pl">4097:0:1:F83C:5F52:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 8 -->
 <!-- IPTV --><channel id="C+Extra9.pl">4097:0:1:CED4:E9A8:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 9 -->
 <!-- IPTV --><channel id="C+Extra10.pl">4097:0:1:C659:1588:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 10 -->
 <!-- IPTV --><channel id="C+Extra11.pl">4097:0:1:C549:1588:EC:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 11 -->
