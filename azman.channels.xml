@@ -554,6 +554,7 @@
 <!-- IPTV --><channel id="TvBiznesowa.pl">4097:0:1:7EAD:9169:EC:0:0:0:0:http%3a//</channel><!-- TV Biznesowa -->
 <!-- IPTV --><channel id="TvRepublikaPlus.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Telewizja Republika Plus -->
 <!-- IPTV --><channel id="1plus1International.pl">4097:0:1:A855:B70C:EC:0:0:0:0:http%3a//</channel><!-- 1+1 Ukraina -->
+<!-- IPTV --><channel id="Biznes24.pl">4097:0:1:3D57:2C88:13E:820000:0:0:0:http%3a//</channel><!-- Biznes24 -->
 
 <!-- TVP VOD -->
 
