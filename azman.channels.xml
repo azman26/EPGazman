@@ -555,6 +555,12 @@
 <!-- IPTV --><channel id="TvRepublikaPlus.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Telewizja Republika Plus -->
 <!-- IPTV --><channel id="1plus1International.pl">4097:0:1:A855:B70C:EC:0:0:0:0:http%3a//</channel><!-- 1+1 Ukraina -->
 <!-- IPTV --><channel id="Biznes24.pl">4097:0:1:3D57:2C88:13E:820000:0:0:0:http%3a//</channel><!-- Biznes24 -->
+<!-- IPTV --><channel id="EskaHityNaCzasie.pl">4097:0:1:3167:CB6C:EC:0:0:0:0:http%3a//</channel><!-- Eska Hity Na Czasie -->
+<!-- IPTV --><channel id="EskaRockDobrzeRockuje.pl">4097:0:1:175D:100D:EC:0:0:0:0:http%3a//</channel><!-- Eska Rock Dobrze Rockuje -->
+<!-- IPTV --><channel id="VOXwRytmieHitow.pl">4097:0:1:273E:63ED:EC:0:0:0:0:http%3a//</channel><!-- VOX W Rytmie Hitów -->
+<!-- IPTV --><channel id="HiDance.pl">4097:0:1:15F3:51DC:EC:0:0:0:0:http%3a//</channel><!-- HiDance -->
+<!-- IPTV --><channel id="HiMusic.pl">4097:0:1:7A4C:2833:EC:0:0:0:0:http%3a//</channel><!-- HiMusic -->
+<!-- IPTV --><channel id="SayHi.pl">4097:0:1:314F:5245:EC:0:0:0:0:http%3a//</channel><!-- SayHi -->
 
 <!-- TVP VOD -->
 
