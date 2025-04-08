@@ -615,6 +615,7 @@
 <!-- IPTV --><channel id="PolnocPoludnie.pl">4097:0:1:14:A33A:2268:0:0:0:0:http%3a//</channel><!-- Północ Południe -->
 <!-- IPTV --><channel id="Bonanza.pl">4097:0:1:15:A33A:2268:0:0:0:0:http%3a//</channel><!-- Bonanza -->
 <!-- IPTV --><channel id="StarTrek.pl">4097:0:1:16:A33A:2268:0:0:0:0:http%3a//</channel><!-- Star Trek -->
+<!-- IPTV --><channel id="VivaPL.pl">4097:0:1:17:A33A:2268:0:0:0:0:http%3a//</channel><!-- Viva PL -->
 
 <!-- iTVN -->
 
@@ -674,6 +675,7 @@
 <!-- IPTV --><channel id="HistorieZHollywood.swtv.pl">4097:0:1:338:A11A:2268:0:0:0:0:http%3a//</channel><!-- Historie Z Hollywood HD -->
 <!-- IPTV --><channel id="SerialeMedyczne.swtv.pl">4097:0:1:339:A11A:2268:0:0:0:0:http%3a//</channel><!-- Seriale Medyczne HD -->
 <!-- IPTV --><channel id="FilmyIReality.swtv.pl">4097:0:1:33A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Filmy I Reality HD -->
+<!-- IPTV --><channel id="CalaPrawdaoSporcie.swtv.pl">4097:0:1:33B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cała Prawdao Sporcie HD -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
