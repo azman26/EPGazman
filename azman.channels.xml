@@ -540,7 +540,6 @@
 <!-- IPTV --><channel id="StingrayiConcerts.pl">4097:0:1:3F5:1:AA:5A0000:0:0:0:http%3a//</channel><!-- Stingray iConcerts -->
 <!-- IPTV --><channel id="SuperExpress.pl">4097:0:1:374:F6ED:EC:0:0:0:0:http%3a//</channel><!-- Super Express -->
 <!-- IPTV --><channel id="TBNPolska.pl">4097:0:1:327:1F40:13E:820000:0:0:0:http%3a//</channel><!-- TBN Poland -->
-<!-- IPTV --><channel id="TVPWilno.pl">4097:0:1:64:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP WILNO -->
 <!-- IPTV --><channel id="TVRegio.pl">4097:0:1:4121:91DD:EC:0:0:0:0:http%3a//</channel><!-- TV REGIO -->
 <!-- IPTV --><channel id="TVRelax.pl">4097:0:1:60:1:48:0:0:0:0:http%3a//</channel><!-- TV RELAX -->
 <!-- IPTV --><channel id="TVT.pl">4097:0:1:95:1:48:0:0:0:0:http%3a//</channel><!-- TVT RYBNIK -->
@@ -589,7 +588,9 @@
 <!-- IPTV --><channel id="TVPKobieta.pl">4097:0:1F:36:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Kobieta -->
 <!-- IPTV --><channel id="TVPKultura2.pl">4097:0:16:5E:3:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Kultura 2 -->
 <!-- IPTV --><channel id="TVPNauka.pl">4097:0:1F:42:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP Nauka -->
+<!-- IPTV --><channel id="TVPWilno.pl">4097:0:1:64:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP WILNO -->
 <!-- IPTV --><channel id="TVPWorld.pl">4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP World -->
+<!-- IPTV --><channel id="TVPNaDobreINaZle.pl">4097:0:1:65:A11A:2268:0:0:0:0:http%3a//</channel><!--TVP NA DOBRE I NA ZŁE -->
 
 <!-- PRIVATE AZMAN FAST TV --><!-- 1-500:A33A:2268 -->
 
@@ -645,7 +646,7 @@
 <!-- IPTV --><channel id="Now70s.rtv.pl">4097:0:1:1F9:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 70s -->
 <!-- IPTV --><channel id="Now80s.rtv.pl">4097:0:1:1FA:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 80s -->
 <!-- IPTV --><channel id="NowRock.rtv.pl">4097:0:1:1FB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now Rock -->
-<!-- IPTV --><channel id="TravelXp.rtv.pl">4097:0:1:1FE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Travel XP -->
+<!-- IPTV --><channel id="Travelxp.rtv.pl">4097:0:1:1FE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Travel XP -->
 
 <!-- Sweet TV --><!-- 800-999:A11A:2268 -->
 
