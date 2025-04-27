@@ -676,6 +676,9 @@
 <!-- IPTV --><channel id="SerialeMedyczne.swtv.pl">4097:0:1:339:A11A:2268:0:0:0:0:http%3a//</channel><!-- Seriale Medyczne HD -->
 <!-- IPTV --><channel id="FilmyIReality.swtv.pl">4097:0:1:33A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Filmy I Reality HD -->
 <!-- IPTV --><channel id="CalaPrawdaoSporcie.swtv.pl">4097:0:1:33B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cała Prawdao Sporcie HD -->
+<!-- IPTV --><channel id="WedkarstwoSportowe.swtv.pl">4097:0:1:33C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Wędkarstwo sportowe HD -->
+<!-- IPTV --><channel id="CocobiTvSongs.swtv.pl">4097:0:1:33D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Songs HD -->
+<!-- IPTV --><channel id="CocobiTvFunPlay.swtv.pl">4097:0:1:33E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Fun Play HD -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
