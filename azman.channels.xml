@@ -614,10 +614,11 @@
 <!-- IPTV --><channel id="PolicjanciZMiami.pl">4097:0:1:11:A33A:2268:0:0:0:0:http%3a//</channel><!-- Policjanci z Miami -->
 <!-- IPTV --><channel id="NaWariackichPapierach.pl">4097:0:1:12:A33A:2268:0:0:0:0:http%3a//</channel><!-- Na Wariackich Papierach -->
 <!-- IPTV --><channel id="DrQuinn.pl">4097:0:1:13:A33A:2268:0:0:0:0:http%3a//</channel><!-- Dr. Quinn -->
-<!-- IPTV --><channel id="PolnocPoludnie.pl">4097:0:1:14:A33A:2268:0:0:0:0:http%3a//</channel><!-- Północ Południe -->
+<!-- IPTV --><channel id="NaPoludnie.pl">4097:0:1:14:A33A:2268:0:0:0:0:http%3a//</channel><!-- Na Południe -->
 <!-- IPTV --><channel id="Bonanza.pl">4097:0:1:15:A33A:2268:0:0:0:0:http%3a//</channel><!-- Bonanza -->
 <!-- IPTV --><channel id="StarTrek.pl">4097:0:1:16:A33A:2268:0:0:0:0:http%3a//</channel><!-- Star Trek -->
 <!-- IPTV --><channel id="VivaPL.pl">4097:0:1:17:A33A:2268:0:0:0:0:http%3a//</channel><!-- Viva PL -->
+<!-- IPTV --><channel id="NiebezpiecznaZatoka.pl">4097:0:1:18:A33A:2268:0:0:0:0:http%3a//</channel><!-- Niebezpieczna Zatoka -->
 
 <!-- iTVN -->
 
@@ -702,6 +703,8 @@
 <!-- IPTV --><channel id="tvnPatrol.pl">4097:0:1:2CD:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Patrol -->
 <!-- IPTV --><channel id="tvnKulinarnePodroze.pl">4097:0:1:2CE:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Kulinarne Podróże -->
 <!-- IPTV --><channel id="tvnCzasNaSlub.pl">4097:0:1:2CF:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Czas Na Ślub -->
+<!-- IPTV --><channel id="tvnBrzydula.pl">4097:0:1:2D0:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Brzudula -->
+<!-- IPTV --><channel id="tvnMamTalent.pl">4097:0:1:2D1:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Mam Talent -->
 
 <!-- RADIO --><!-- 1-200:A22A:2268 -->
 
