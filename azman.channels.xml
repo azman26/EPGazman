@@ -403,6 +403,7 @@
 <!-- 13.0E --><channel id="AlJazeera.pl">1:0:19:1C8A:332C:13E:820000:0:0:0:</channel><!-- Al Jazeera English HD -->
 <!-- 13.0E --><channel id="ArirangTv.pl">1:0:1:3332:1388:13E:820000:0:0:0:</channel><!-- ARIRANG HD -->
 <!-- 13.0E --><channel id="Arte.pl">1:0:1:133:3E1C:13F:820000:0:0:0:</channel><!-- ARTE HD -->
+<!-- 13.0E --><channel id="BBCNews.pl">1:0:1:3330:1388:13E:820000:0:0:0:</channel><!-- BBC News -->
 <!-- 13.0E --><channel id="BBCNews.pl">1:0:1:42EA:3138:13E:820000:0:0:0:</channel><!-- BBC News -->
 <!-- 13.0E --><channel id="Bloomberg.pl">1:0:1:1C86:332C:13E:820000:0:0:0:</channel><!-- Bloomberg European TV -->
 <!-- 13.0E --><channel id="CNBC.pl">1:0:19:1C4D:1A2C:FBFF:820000:0:0:0:</channel><!-- CNBC HD -->
@@ -566,6 +567,7 @@
 <!-- IPTV --><channel id="Viaplay.pl">4097:0:1:764A:564:EC:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
+<!-- IPTV --><channel id="TVBoleslawiec.pl">4097:0:1:DCC6:F661:EC:0:0:0:0:http%3a//</channel><!-- TV Bolesławiec -->
 
 <!-- TVP VOD -->
 
