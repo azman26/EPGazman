@@ -570,6 +570,7 @@
 <!-- IPTV --><channel id="WTK.pl">4097:0:19:BB9:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- WTK -->
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
 <!-- IPTV --><channel id="TVBoleslawiec.pl">4097:0:1:DCC6:F661:EC:0:0:0:0:http%3a//</channel><!-- TV Bolesławiec -->
+<!-- IPTV --><channel id="LubuskaTVHoryzont.pl">4097:0:1:3AF1:7638:EC:0:0:0:0:http%3a//</channel><!-- Lubuska TV Horyzont -->
 
 <!-- TVP VOD -->
 
