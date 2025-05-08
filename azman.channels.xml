@@ -183,6 +183,8 @@
 <!-- 13.0E --><channel id="InUltra.pl">1:0:11:BEA:20D0:13E:820000:0:0:0:</channel><!-- InUltra -->
 <!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:13F2:5DC:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
 <!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:1424:5DC:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
+<!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:3D64:2C88:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
+<!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:3D8C:2C88:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
 <!-- 13.0E --><channel id="KinoPolskaMuzyka.pl">1:0:1:3D60:2C88:13E:820000:0:0:0:</channel><!-- Kino Polska Muzyka -->
 <!-- 13.0E --><channel id="KinoPolskaMuzyka.pl">1:0:1:3D92:2C88:13E:820000:0:0:0:</channel><!-- Kino Polska Muzyka -->
 <!-- 13.0E --><channel id="KinoTv.pl">1:0:1:3D61:2C88:13E:820000:0:0:0:</channel><!-- Kino TV HD -->
