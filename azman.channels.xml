@@ -183,8 +183,6 @@
 <!-- 13.0E --><channel id="InUltra.pl">1:0:11:BEA:20D0:13E:820000:0:0:0:</channel><!-- InUltra -->
 <!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:3D64:2C88:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
 <!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:3D96:2C88:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
-<!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:13F2:5DC:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
-<!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:1424:5DC:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
 <!-- 13.0E --><channel id="KinoPolskaMuzyka.pl">1:0:1:3D60:2C88:13E:820000:0:0:0:</channel><!-- Kino Polska Muzyka -->
 <!-- 13.0E --><channel id="KinoPolskaMuzyka.pl">1:0:1:3D92:2C88:13E:820000:0:0:0:</channel><!-- Kino Polska Muzyka -->
 <!-- 13.0E --><channel id="KinoTv.pl">1:0:1:3D61:2C88:13E:820000:0:0:0:</channel><!-- Kino TV HD -->
@@ -354,6 +352,7 @@
 <!-- 13.0E --><channel id="TVS.pl">1:0:1:1135:2AF8:13E:820000:0:0:0:</channel><!-- TVS -->
 <!-- 13.0E --><channel id="TVS.pl">1:0:1:3D58:2C88:13E:820000:0:0:0:</channel><!-- TVS -->
 <!-- 13.0E --><channel id="TeenNick.pl">1:0:19:3784:44C:13E:820000:0:0:0:</channel><!-- TeenNick -->
+<!-- 13.0E --><channel id="TeenNick.pl">1:0:1:13FC:5DC:13E:820000:0:0:0:</channel><!-- TeenNick -->
 <!-- 13.0E --><channel id="Tele5.pl">1:0:1:423B:3DB8:13E:820000:0:0:0:</channel><!-- TELE 5 -->
 <!-- 13.0E --><channel id="TeleToon.pl">1:0:19:37AF:44C:13E:820000:0:0:0:</channel><!-- teleTOON+ HD -->
 <!-- 13.0E --><channel id="TeleToon.pl">1:0:1:3A9B:514:13E:820000:0:0:0:</channel><!-- teleTOON+ HD -->
