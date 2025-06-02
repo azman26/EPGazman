@@ -1,0 +1,13 @@
+<sources>
+	<mappings>
+		<channel name="krkadoni.channels.xml">
+			<url>/etc/epgimport/krkadoni.channels.xml</url>
+		</channel>
+	</mappings>
+	<sourcecat sourcecatname="Krkadoni XMLTV">
+		<source type="gen_xmltv" nocheck="1" channels="krkadoni.channels.xml">
+			<description>ExYu Channels By Nuno</description>
+			<url>https://github.com/shaxxx/epg/raw/main/output/nuno.xml.gz</url>
+		</source>
+	</sourcecat>
+</sources>

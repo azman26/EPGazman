@@ -1,0 +1,2224 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv date="20241223">
+	<channel id="24TV.tr">
+		<display-name>24 TV</display-name>
+		<icon src="https://i.imgur.com/8FO41es.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="360.tr">
+		<display-name>360</display-name>
+		<icon src="https://i.imgur.com/agn47sQ.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="A2TV.tr">
+		<display-name>A2TV</display-name>
+		<icon src="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="AdaTV.cy">
+		<display-name>Ada TV</display-name>
+		<icon src="https://i.imgur.com/YWmkUWU.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="AgroTV.tr">
+		<display-name>Agro TV</display-name>
+		<icon src="https://i.imgur.com/ls9NLa4.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="AHaber.tr">
+		<display-name>A Haber</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="AkitTV.tr">
+		<display-name>Akit TV</display-name>
+		<icon src="https://i.imgur.com/oGto929.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="AltasTV.tr">
+		<display-name>Altas TV</display-name>
+		<icon src="https://i.imgur.com/XaJ7fp6.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="APara.tr">
+		<display-name>A Para</display-name>
+		<icon src="https://i.imgur.com/GjHnq0c.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="ASpor.tr">
+		<display-name>A Spor</display-name>
+		<icon src="https://i.imgur.com/ZhkZzLf.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="ASTV.tr">
+		<display-name>AS TV</display-name>
+		<icon src="https://i.imgur.com/MCUjck8.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="ATV.tr">
+		<display-name>ATV</display-name>
+		<icon src="https://i.imgur.com/HyVUwFC.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="ATVAvrupa.tr">
+		<display-name>ATV Avrupa</display-name>
+		<icon src="https://i.imgur.com/0tm3tui.png"/>
+		<url>https://ziggogo.tv</url>
+	</channel>
+	<channel id="beINSportsHaber.tr">
+		<display-name>beIN Sports Haber</display-name>
+		<icon src="https://i.imgur.com/QWo0x7S.jpg"/>
+		<url>https://digiturk.com.tr</url>
+	</channel>
+	<channel id="BenguturkTV.tr">
+		<display-name>Benguturk TV</display-name>
+		<icon src="https://i.imgur.com/p3ON1oX.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="BeyazTV.tr">
+		<display-name>Beyaz TV</display-name>
+		<icon src="https://i.imgur.com/uykIdML.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="BeykentTV.tr">
+		<display-name>Beykent TV</display-name>
+		<icon src="https://i.imgur.com/Zv65ns5.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="BizimevTV.tr">
+		<display-name>Bizimev TV</display-name>
+		<icon src="https://i.imgur.com/eJa6sFY.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="BloombergHT.tr">
+		<display-name>Bloomberg HT</display-name>
+		<icon src="https://i.imgur.com/bmkXfIE.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="BRT1.cy">
+		<display-name>BRT 1</display-name>
+		<icon src="https://i.imgur.com/gOPAi2c.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="BRT2.cy">
+		<display-name>BRT 2</display-name>
+		<icon src="https://i.imgur.com/t5kbIuj.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="CartoonNetwork.tr">
+		<display-name>Cartoon Network</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="CemTV.tr">
+		<display-name>Cem TV</display-name>
+		<icon src="https://i.imgur.com/x5YNUfz.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="CiftciTV.tr">
+		<display-name>Ciftci TV</display-name>
+		<icon src="https://i.imgur.com/CLzP4vL.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="CNNTurk.tr">
+		<display-name>CNN Turk</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="DiyanetTV.tr">
+		<display-name>Diyanet TV</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="DMAX.tr">
+		<display-name>DMAX</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="DreamTurk.tr">
+		<display-name>Dream Turk</display-name>
+		<icon src="https://i.imgur.com/vJ8VaZi.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="EBATVIlkokul.tr">
+		<display-name>EBA TV Ilkokul</display-name>
+		<icon src="https://i.imgur.com/8tKZWlk.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="EBATVLise.tr">
+		<display-name>EBA TV Lise</display-name>
+		<icon src="https://i.imgur.com/9YMn0fo.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="EBATVOrtaokul.tr">
+		<display-name>EBA TV Ortaokul</display-name>
+		<icon src="https://i.imgur.com/2Lfmkmt.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Ekoturk.tr">
+		<display-name>Ekoturk</display-name>
+		<icon src="https://i.imgur.com/TMTnMI3.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="ESTV.tr">
+		<display-name>ES TV</display-name>
+		<icon src="https://i.imgur.com/epAEBrp.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="EuroD.tr">
+		<display-name>Euro D</display-name>
+		<icon src="https://i.imgur.com/x9kHsXo.png"/>
+		<url>https://ziggogo.tv</url>
+	</channel>
+	<channel id="EuroStar.tr">
+		<display-name>EuroStar</display-name>
+		<icon src="https://i.imgur.com/kb165Ot.png"/>
+		<url>https://ziggogo.tv</url>
+	</channel>
+	<channel id="FBTV.tr">
+		<display-name>FB TV</display-name>
+		<icon src="https://i.imgur.com/qBVqtYd.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="FlashTV.tr">
+		<display-name>Flash TV</display-name>
+		<icon src="https://i.imgur.com/L0NHKBM.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="FMTV.tr">
+		<display-name>FM TV</display-name>
+		<icon src="https://i.imgur.com/nCzpHWM.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="GSTV.tr">
+		<display-name>GS TV</display-name>
+		<icon src="https://i.imgur.com/fC3KuwT.jpg"/>
+		<url>https://digiturk.com.tr</url>
+	</channel>
+	<channel id="HaberGlobal.tr">
+		<display-name>Haber Global</display-name>
+		<icon src="https://i.imgur.com/fu6XeGS.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="HaberturkTV.tr">
+		<display-name>Haberturk TV</display-name>
+		<icon src="https://i.imgur.com/6Tw3rUp.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="HalkTV.tr">
+		<display-name>Halk TV</display-name>
+		<icon src="https://i.imgur.com/xM0HA30.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="KadirgaTV.tr">
+		<display-name>Kadirga TV</display-name>
+		<icon src="https://i.imgur.com/J4zra7Y.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Kanal3.tr">
+		<display-name>Kanal 3</display-name>
+		<icon src="https://i.imgur.com/eXErSv0.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="Kanal7.tr">
+		<display-name>Kanal 7</display-name>
+		<icon src="https://i.imgur.com/uajjent.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Kanal7Avrupa.tr">
+		<display-name>Kanal 7 Avrupa</display-name>
+		<icon src="https://i.imgur.com/wlfyj5l.png"/>
+		<url>https://vivacom.bg</url>
+	</channel>
+	<channel id="Kanal23.tr">
+		<display-name>Kanal 23</display-name>
+		<icon src="https://i.imgur.com/3br8RCq.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Kanal26.tr">
+		<display-name>Kanal 26</display-name>
+		<icon src="https://i.imgur.com/Mr7XPii.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Kanal28.tr">
+		<display-name>Kanal 28</display-name>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="Kanal33.tr">
+		<display-name>Kanal 33</display-name>
+		<icon src="https://i.imgur.com/5WYaoFZ.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Kanal42.tr">
+		<display-name>Kanal 42</display-name>
+		<icon src="https://i.imgur.com/THKbFfE.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="KanalB.tr">
+		<display-name>Kanal B</display-name>
+		<icon src="https://i.imgur.com/bUsbxTQ.png"/>
+		<url>https://turksatkablo.com.tr</url>
+	</channel>
+	<channel id="KanalD.tr">
+		<display-name>Kanal D</display-name>
+		<icon src="https://i.imgur.com/9o1atM6.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="KanalFirat.tr">
+		<display-name>Kanal Firat</display-name>
+		<icon src="https://i.imgur.com/3o8Rokp.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="KanalV.tr">
+		<display-name>Kanal V</display-name>
+		<icon src="https://i.imgur.com/7RNjTno.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="KardelenTV.tr">
+		<display-name>Kardelen TV</display-name>
+		<icon src="https://i.imgur.com/0RATxcN.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="KibrisGencTV.cy">
+		<display-name>Kibris Genc TV</display-name>
+		<icon src="https://i.imgur.com/eBdQn9h.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="KibrisKanalT.cy">
+		<display-name>Kibris Kanal T</display-name>
+		<icon src="https://i.imgur.com/4bA4pXT.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="KibrisTV.cy">
+		<display-name>Kibris TV</display-name>
+		<icon src="https://i.imgur.com/5MJZPTo.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="KocaeliTV.tr">
+		<display-name>Kocaeli TV</display-name>
+		<icon src="https://i.imgur.com/LeTP4zq.png"/>
+		<url>https://turksatkablo.com.tr</url>
+	</channel>
+	<channel id="KonTV.tr">
+		<display-name>Kon TV</display-name>
+		<icon src="https://i.imgur.com/ex67TP8.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="KoyTV.tr">
+		<display-name>Koy TV</display-name>
+		<icon src="https://i.imgur.com/RcjEHAG.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="KozaTV.tr">
+		<display-name>Koza TV</display-name>
+		<icon src="https://i.imgur.com/jeFTUGp.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="KRT.tr">
+		<display-name>KRT</display-name>
+		<icon src="https://i.imgur.com/9ZKqdQJ.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="LiderHaber.tr">
+		<display-name>Lider Haber</display-name>
+		<icon src="https://i.imgur.com/5B42KwY.png"/>
+		<url>https://digiturk.com.tr</url>
+	</channel>
+	<channel id="LineTV.tr">
+		<display-name>Line TV</display-name>
+		<icon src="https://i.imgur.com/6GNp7f8.png"/>
+		<url>https://turksatkablo.com.tr</url>
+	</channel>
+	<channel id="LuysTV.tr">
+		<display-name>Luys TV</display-name>
+		<icon src="https://i.imgur.com/9EruWIQ.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="MaviKaradenizTV.tr">
+		<display-name>MaviKaradeniz TV</display-name>
+		<icon src="https://i.imgur.com/wyWappU.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="MeltemTV.tr">
+		<display-name>Meltem TV</display-name>
+		<icon src="https://i.imgur.com/C3m6w5S.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="MilyonTV.tr">
+		<display-name>Milyon TV</display-name>
+		<icon src="https://i.imgur.com/lEIFDwo.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="MinikaCocuk.tr">
+		<display-name>Minika Cocuk</display-name>
+		<icon src="https://i.imgur.com/VCywMTv.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="MinikaGo.tr">
+		<display-name>Minika Go</display-name>
+		<icon src="https://i.imgur.com/qIoipDq.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Now.tr">
+		<display-name>NOW</display-name>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="NTV.tr">
+		<display-name>NTV</display-name>
+		<icon src="https://i.imgur.com/jXbs8FZ.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Number1Ask.tr">
+		<display-name>Number 1 Ask</display-name>
+		<icon src="https://i.imgur.com/slwbux7.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Number1Damar.tr">
+		<display-name>Number 1 Damar</display-name>
+		<icon src="https://i.imgur.com/rYtbAGZ.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Number1Turk.tr">
+		<display-name>Number 1 Turk</display-name>
+		<icon src="https://i.imgur.com/18zjk3q.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Number1TV.tr">
+		<display-name>Number 1 TV</display-name>
+		<icon src="https://i.imgur.com/02cDIBi.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="On4TV.tr">
+		<display-name>On4 TV</display-name>
+		<icon src="https://i.imgur.com/qGRa1KI.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="On6.tr">
+		<display-name>On 6</display-name>
+		<icon src="https://i.imgur.com/k7rS2gC.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="PowerTurkTV.tr">
+		<display-name>PowerTurk TV</display-name>
+		<icon src="https://i.imgur.com/9OPoXQG.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="PowerTV.tr">
+		<display-name>Power TV</display-name>
+		<icon src="https://i.imgur.com/XSL1gd7.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="RumeliTV.tr">
+		<display-name>Rumeli TV</display-name>
+		<icon src="https://i.imgur.com/xpRPX3a.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="Sat7Turk.cy">
+		<display-name>Sat 7 Turk</display-name>
+		<icon src="https://i.imgur.com/cKQIK4i.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="SemerkandTV.tr">
+		<display-name>Semerkand TV</display-name>
+		<icon src="https://i.imgur.com/UVGGrQd.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="ShowMax.tr">
+		<display-name>Show Max</display-name>
+		<icon src="https://i.imgur.com/456FWA7.png"/>
+		<url>https://tv.blue.ch</url>
+	</channel>
+	<channel id="ShowTurk.tr">
+		<display-name>Show Turk</display-name>
+		<icon src="https://i.imgur.com/fdZpGDj.png"/>
+		<url>https://ziggogo.tv</url>
+	</channel>
+	<channel id="ShowTV.tr">
+		<display-name>Show TV</display-name>
+		<icon src="https://i.imgur.com/1l7SCCu.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="SozcuTV.tr">
+		<display-name>Sozcu TV</display-name>
+		<icon src="https://i.imgur.com/BxpdvsG.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="SportsTV.tr">
+		<display-name>Sports TV</display-name>
+		<icon src="https://i.imgur.com/tGTVcVe.jpg"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="StarTV.tr">
+		<display-name>Star TV</display-name>
+		<icon src="https://i.imgur.com/9O3DHRB.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TarimTV.tr">
+		<display-name>Tarim TV</display-name>
+		<icon src="https://i.imgur.com/q30sFms.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TatlisesTV.tr">
+		<display-name>Tatlises TV</display-name>
+		<icon src="https://i.imgur.com/et1sbyq.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="TAYTV.tr">
+		<display-name>TAY TV</display-name>
+		<icon src="https://i.imgur.com/OeAJ5Mr.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="Tele1.tr">
+		<display-name>Tele 1</display-name>
+		<icon src="https://i.imgur.com/joaI9wV.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TempoTV.tr">
+		<display-name>Tempo TV</display-name>
+		<icon src="https://i.imgur.com/tZpx32y.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="Teve2.tr">
+		<display-name>Teve2</display-name>
+		<icon src="https://i.imgur.com/rsoSLih.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TGRTBelgesel.tr">
+		<display-name>TGRT Belgesel</display-name>
+		<icon src="https://i.imgur.com/VwWTnf0.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="TGRTEU.tr">
+		<display-name>TGRT EU</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png"/>
+		<url>https://tv.blue.ch</url>
+	</channel>
+	<channel id="TGRTHaber.tr">
+		<display-name>TGRT Haber</display-name>
+		<icon src="https://i.imgur.com/PrxwKDw.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="Tivi6.tr">
+		<display-name>Tivi 6</display-name>
+		<icon src="https://i.imgur.com/Mbi0jbz.png"/>
+		<url>https://turksatkablo.com.tr</url>
+	</channel>
+	<channel id="TJKTV.tr">
+		<display-name>TJK TV</display-name>
+		<icon src="https://i.imgur.com/3zHdkYG.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TLC.tr">
+		<display-name>TLC</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TMB.tr">
+		<display-name>TMB</display-name>
+		<icon src="https://i.imgur.com/28AyWHe.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRT1.tr">
+		<display-name>TRT 1</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRT2.tr">
+		<display-name>TRT 2</display-name>
+		<icon src="https://i.imgur.com/iOCQdyD.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRT3.tr">
+		<display-name>TRT 3</display-name>
+		<icon src="https://i.imgur.com/JrWFwBd.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRTAvaz.tr">
+		<display-name>TRT Avaz</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRTBelgesel.tr">
+		<display-name>TRT Belgesel</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRTCocuk.tr">
+		<display-name>TRT Cocuk</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRTDiyanetCocuk.tr">
+		<display-name>TRT Diyanet Cocuk</display-name>
+		<icon src="https://i.imgur.com/8PmXz9t.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRTHaber.tr">
+		<display-name>TRT Haber</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRTMuzik.tr">
+		<display-name>TRT Muzik</display-name>
+		<icon src="https://i.imgur.com/JgUzRH8.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRTSpor.tr">
+		<display-name>TRT Spor</display-name>
+		<icon src="https://i.imgur.com/6tv0zxh.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRTSporYildiz.tr">
+		<display-name>TRT Spor Yildiz</display-name>
+		<icon src="https://i.imgur.com/MJPoj3j.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TRTTurk.tr">
+		<display-name>TRT Turk</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TurkHaberTV.tr">
+		<display-name>TurkHaber TV</display-name>
+		<icon src="https://i.imgur.com/2AcRKdL.png"/>
+		<url>https://digiturk.com.tr</url>
+	</channel>
+	<channel id="TV4.tr">
+		<display-name>TV 4</display-name>
+		<icon src="https://i.imgur.com/UpsQsbd.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TV5.tr">
+		<display-name>TV 5</display-name>
+		<icon src="https://i.imgur.com/ENvv42b.png"/>
+		<url>https://turksatkablo.com.tr</url>
+	</channel>
+	<channel id="TV8.tr">
+		<display-name>TV 8</display-name>
+		<icon src="https://i.imgur.com/DKNwiDm.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TV8International.tr">
+		<display-name>TV8 International</display-name>
+		<icon src="https://i.imgur.com/Nk43HuV.png"/>
+		<url>https://ziggogo.tv</url>
+	</channel>
+	<channel id="TV52.tr">
+		<display-name>TV 52</display-name>
+		<icon src="https://i.imgur.com/k4R5CzO.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="TV85.tr">
+		<display-name>TV 8.5</display-name>
+		<icon src="https://i.imgur.com/QuelSsc.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TV100.tr">
+		<display-name>TV 100</display-name>
+		<icon src="https://i.imgur.com/ZvjuVGh.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TV2020.cy">
+		<display-name>TV 2020</display-name>
+		<icon src="https://i.imgur.com/rtfsNdd.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="TVDen.tr">
+		<display-name>TV Den</display-name>
+		<icon src="https://i.imgur.com/Uhg95Ze.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="TVNET.tr">
+		<display-name>TVNET</display-name>
+		<icon src="https://i.imgur.com/mQo8yWQ.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="UlkeTV.tr">
+		<display-name>Ulke TV</display-name>
+		<icon src="https://i.imgur.com/wdWR7Qk.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="UlusalKanal.tr">
+		<display-name>Ulusal Kanal</display-name>
+		<icon src="https://i.imgur.com/EwSg612.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="UniversiteTV.tr">
+		<display-name>Universite TV</display-name>
+		<icon src="https://i.imgur.com/KeauaSh.png"/>
+		<url>https://turksatkablo.com.tr</url>
+	</channel>
+	<channel id="VavTV.tr">
+		<display-name>Vav TV</display-name>
+		<icon src="https://i.imgur.com/jw0gB8L.png"/>
+		<url>https://tvplus.com.tr</url>
+	</channel>
+	<channel id="WomanTV.tr">
+		<display-name>Woman TV</display-name>
+		<icon src="https://i.imgur.com/f2zGoV3.png"/>
+		<url>https://dsmart.com.tr</url>
+	</channel>
+	<channel id="Yaban.tr">
+		<display-name>Yaban</display-name>
+		<icon src="https://i.imgur.com/vlg93hN.png"/>
+		<url>https://digiturk.com.tr</url>
+	</channel>
+	<programme start="20241222234000 +0000" stop="20241223004000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Ana Haber BÜltenİ</title>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241223004000 +0000" stop="20241223025000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Aldatmak</title>
+		<credits>
+			<actor>Vahide Perçin</actor>
+			<actor>Ercan Kesal</actor>
+			<actor>Mustafa Uğurlu</actor>
+			<actor>Yusuf Cim</actor>
+			<actor>Cem Bender</actor>
+			<actor>Caner Şahin</actor>
+			<actor>Feyza Sevil Güngör</actor>
+			<actor>Asena Girişken</actor>
+			<actor>Cem Sürgit</actor>
+			<actor>Meltem Baytok</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Soap</category>
+	</programme>
+	<programme start="20241223025000 +0000" stop="20241223033000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Hercai</title>
+		<credits>
+			<actor>Ebru Sahin</actor>
+			<actor>Akin Akinözü</actor>
+			<actor>Gülçin Santircioglu</actor>
+			<actor>Serhat Tutumluer</actor>
+			<actor>Ayda Aksel</actor>
+			<actor>Macit Sonkan</actor>
+			<actor>Oya Unustasi</actor>
+			<actor>Ahmet Tansu Tasanlar</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Romance</category>
+	</programme>
+	<programme start="20241223033000 +0000" stop="20241223050000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Hercai</title>
+		<credits>
+			<actor>Akin Akinözü</actor>
+			<actor>Ebru Sahin</actor>
+			<actor>Ayda Aksel</actor>
+			<actor>Macit Sonkan</actor>
+			<actor>Serdar Özer</actor>
+			<actor>Gülçin Hatihan</actor>
+			<actor>Ilay Erkök</actor>
+			<actor>Serhat Tutumluer</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Romance</category>
+	</programme>
+	<programme start="20241223050000 +0000" stop="20241223070000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Kahvalti Haberleri</title>
+		<desc lang="tr">Turkiye gundeminin en sicak haberleri ve gelismeleri ile gune baslangic.</desc>
+		<credits>
+			<actor>Melih Altinok</actor>
+		</credits>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241223050000 +0000" stop="20241223070000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Kahvalti Haberleri</title>
+		<desc lang="tr">Turkiye gundeminin en sicak haberleri ve gelismeleri ile gune baslangic.</desc>
+		<credits>
+			<actor>Melih Altinok</actor>
+		</credits>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241223070000 +0000" stop="20241223100000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Muge Anli ile Tatli Sert</title>
+		<desc lang="tr">Muge Anli ve ekibi faili mechul cinayetler ve kayiplarin yani sira bircok sosyal sorumluluk projesini cozmeye calisiyor.</desc>
+		<credits>
+			<actor>Muge Anli</actor>
+		</credits>
+		<category lang="tr">Crime</category>
+		<category lang="tr">Talk show</category>
+	</programme>
+	<programme start="20241223100000 +0000" stop="20241223110000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">atv Gün Ortası</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241223110000 +0000" stop="20241223130000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Sen Anlat Karadeniz</title>
+		<desc lang="tr">Geçmiste para karsiligi satildigi adamin zulmünden kaçip çocuguyla birlikte Karadeniz&apos;e siginan Nefes&apos;le, onu korudugu için ailesinin büyük tepkisiyle karsilasan Tahir...</desc>
+		<credits>
+			<actor>Ulas Tuna Astepe</actor>
+			<actor>Irem Helvacioglu</actor>
+			<actor>Öykü Gürman</actor>
+			<actor>Aydan Burhan</actor>
+			<actor>Serdar Yegin</actor>
+			<actor>Burcu Binici</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241223110000 +0000" stop="20241223130000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Sen Anlat Karadeniz</title>
+		<desc lang="tr">Geçmiste para karsiligi satildigi adamin zulmünden kaçip çocuguyla birlikte Karadeniz&apos;e siginan Nefes&apos;le, onu korudugu için ailesinin büyük tepkisiyle karsilasan Tahir...</desc>
+		<credits>
+			<actor>Ulas Tuna Astepe</actor>
+			<actor>Irem Helvacioglu</actor>
+			<actor>Öykü Gürman</actor>
+			<actor>Aydan Burhan</actor>
+			<actor>Serdar Yegin</actor>
+			<actor>Burcu Binici</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241223130000 +0000" stop="20241223160000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Esra Erol&apos;da</title>
+		<desc lang="tr">Mutluluk arayan gelin ve damat adaylari Esra Erol&apos;da bulusuyor.</desc>
+		<credits>
+			<actor>Esra Erol</actor>
+		</credits>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241223160000 +0000" stop="20241223165000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Ana Haber BÜltenİ</title>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241223165000 +0000" stop="20241224001000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Avrupa Haber</title>
+		<desc lang="tr">Yurt disinda yasayan vatandaslari ilgilendiren önemli haberlere yer veriliyor. Avrupali Türkler&apos;in yasadigi sorunlar basta olmak üzere, gündemin önemli basliklari sicagi sicagina seyircilere ulastiriliyor.</desc>
+		<credits>
+			<actor>Kübra Dogru</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Event</category>
+	</programme>
+	<programme start="20241223165000 +0000" stop="20241224001000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Avrupa Haber</title>
+		<desc lang="tr">Yurt disinda yasayan vatandaslari ilgilendiren önemli haberlere yer veriliyor. Avrupali Türkler&apos;in yasadigi sorunlar basta olmak üzere, gündemin önemli basliklari sicagi sicagina seyircilere ulastiriliyor.</desc>
+		<credits>
+			<actor>Kübra Dogru</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Event</category>
+	</programme>
+	<programme start="20241223165000 +0000" stop="20241224001000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Avrupa Haber</title>
+		<desc lang="tr">Yurt disinda yasayan vatandaslari ilgilendiren önemli haberlere yer veriliyor. Avrupali Türkler&apos;in yasadigi sorunlar basta olmak üzere, gündemin önemli basliklari sicagi sicagina seyircilere ulastiriliyor.</desc>
+		<credits>
+			<actor>Kübra Dogru</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Event</category>
+	</programme>
+	<programme start="20241224001000 +0000" stop="20241224002000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Avrupa Haber</title>
+		<desc lang="tr">Yurt disinda yasayan vatandaslari ilgilendiren önemli haberlere yer veriliyor. Avrupali Türkler&apos;in yasadigi sorunlar basta olmak üzere, gündemin önemli basliklari sicagi sicagina seyircilere ulastiriliyor.</desc>
+		<credits>
+			<actor>Kübra Dogru</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Event</category>
+	</programme>
+	<programme start="20241224002000 +0000" stop="20241224011000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Ana Haber BÜltenİ</title>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241224011000 +0000" stop="20241224025000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Aldatmak</title>
+		<credits>
+			<actor>Vahide Perçin</actor>
+			<actor>Ercan Kesal</actor>
+			<actor>Mustafa Uğurlu</actor>
+			<actor>Yusuf Cim</actor>
+			<actor>Cem Bender</actor>
+			<actor>Caner Şahin</actor>
+			<actor>Feyza Sevil Güngör</actor>
+			<actor>Asena Girişken</actor>
+			<actor>Cem Sürgit</actor>
+			<actor>Meltem Baytok</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Soap</category>
+	</programme>
+	<programme start="20241224025000 +0000" stop="20241224033000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Hercai</title>
+		<credits>
+			<actor>Ebru Sahin</actor>
+			<actor>Akin Akinözü</actor>
+			<actor>Gülçin Santircioglu</actor>
+			<actor>Serhat Tutumluer</actor>
+			<actor>Ayda Aksel</actor>
+			<actor>Macit Sonkan</actor>
+			<actor>Oya Unustasi</actor>
+			<actor>Ahmet Tansu Tasanlar</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Romance</category>
+	</programme>
+	<programme start="20241224033000 +0000" stop="20241224050000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Hercai</title>
+		<credits>
+			<actor>Akin Akinözü</actor>
+			<actor>Ebru Sahin</actor>
+			<actor>Ayda Aksel</actor>
+			<actor>Macit Sonkan</actor>
+			<actor>Serdar Özer</actor>
+			<actor>Gülçin Hatihan</actor>
+			<actor>Ilay Erkök</actor>
+			<actor>Serhat Tutumluer</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Romance</category>
+	</programme>
+	<programme start="20241224050000 +0000" stop="20241224070000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Kahvalti Haberleri</title>
+		<desc lang="tr">Turkiye gundeminin en sicak haberleri ve gelismeleri ile gune baslangic.</desc>
+		<credits>
+			<actor>Melih Altinok</actor>
+		</credits>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241224050000 +0000" stop="20241224070000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Kahvalti Haberleri</title>
+		<desc lang="tr">Turkiye gundeminin en sicak haberleri ve gelismeleri ile gune baslangic.</desc>
+		<credits>
+			<actor>Melih Altinok</actor>
+		</credits>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241224070000 +0000" stop="20241224100000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Muge Anli ile Tatli Sert</title>
+		<desc lang="tr">Muge Anli ve ekibi faili mechul cinayetler ve kayiplarin yani sira bircok sosyal sorumluluk projesini cozmeye calisiyor.</desc>
+		<credits>
+			<actor>Muge Anli</actor>
+		</credits>
+		<category lang="tr">Crime</category>
+		<category lang="tr">Talk show</category>
+	</programme>
+	<programme start="20241224100000 +0000" stop="20241224110000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">atv Gün Ortası</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241224110000 +0000" stop="20241224130000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Sen Anlat Karadeniz</title>
+		<desc lang="tr">Geçmiste para karsiligi satildigi adamin zulmünden kaçip çocuguyla birlikte Karadeniz&apos;e siginan Nefes&apos;le, onu korudugu için ailesinin büyük tepkisiyle karsilasan Tahir...</desc>
+		<credits>
+			<actor>Ulas Tuna Astepe</actor>
+			<actor>Irem Helvacioglu</actor>
+			<actor>Öykü Gürman</actor>
+			<actor>Aydan Burhan</actor>
+			<actor>Serdar Yegin</actor>
+			<actor>Burcu Binici</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241224110000 +0000" stop="20241224130000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Sen Anlat Karadeniz</title>
+		<desc lang="tr">Geçmiste para karsiligi satildigi adamin zulmünden kaçip çocuguyla birlikte Karadeniz&apos;e siginan Nefes&apos;le, onu korudugu için ailesinin büyük tepkisiyle karsilasan Tahir...</desc>
+		<credits>
+			<actor>Ulas Tuna Astepe</actor>
+			<actor>Irem Helvacioglu</actor>
+			<actor>Öykü Gürman</actor>
+			<actor>Aydan Burhan</actor>
+			<actor>Serdar Yegin</actor>
+			<actor>Burcu Binici</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241224130000 +0000" stop="20241224160000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Esra Erol&apos;da</title>
+		<desc lang="tr">Mutluluk arayan gelin ve damat adaylari Esra Erol&apos;da bulusuyor.</desc>
+		<credits>
+			<actor>Esra Erol</actor>
+		</credits>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241224160000 +0000" stop="20241224165000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Ana Haber BÜltenİ</title>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241224165000 +0000" stop="20241224170000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Avrupa Haber</title>
+		<desc lang="tr">Yurt disinda yasayan vatandaslari ilgilendiren önemli haberlere yer veriliyor. Avrupali Türkler&apos;in yasadigi sorunlar basta olmak üzere, gündemin önemli basliklari sicagi sicagina seyircilere ulastiriliyor.</desc>
+		<credits>
+			<actor>Kübra Dogru</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Event</category>
+	</programme>
+	<programme start="20241224170000 +0000" stop="20241224212000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Bir Gece Masali</title>
+		<credits>
+			<actor>Burak Deniz</actor>
+			<actor>Gurkan Uygun</actor>
+			<actor>Irem Altug</actor>
+			<actor>Su Burcu Coskun</actor>
+			<actor>Mesut Akusta</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241224170000 +0000" stop="20241224212000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Bir Gece Masali</title>
+		<credits>
+			<actor>Burak Deniz</actor>
+			<actor>Gurkan Uygun</actor>
+			<actor>Irem Altug</actor>
+			<actor>Su Burcu Coskun</actor>
+			<actor>Mesut Akusta</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241224212000 +0000" stop="20241225001000 +0000" channel="ATVAvrupa.tr">
+		<title lang="tr">Londra aktuel</title>
+		<desc lang="tr">Reality show.</desc>
+		<category lang="tr">Documentary</category>
+	</programme>
+	<programme start="20241222232000 +0000" stop="20241223005500 +0000" channel="EuroD.tr">
+		<title lang="tr">Zalim istanbul</title>
+		<category lang="tr">Community</category>
+	</programme>
+	<programme start="20241223005500 +0000" stop="20241223021000 +0000" channel="EuroD.tr">
+		<title lang="tr">5N1K</title>
+		<desc lang="tr">Gündemin öne çikan konulari önemli konuklar ve özel haber dosyalari ile farkli bir acidan ele aliniyor. Kimi zaman sahadan kimi zaman stüdyodan bildiriliyor.</desc>
+		<credits>
+			<actor>Cüneyt Özdemir</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Current affairs</category>
+	</programme>
+	<programme start="20241223021000 +0000" stop="20241223040000 +0000" channel="EuroD.tr">
+		<title lang="tr">Taş kağit makas</title>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241223040000 +0000" stop="20241223060000 +0000" channel="EuroD.tr">
+		<title lang="tr">Afili aşk yeni</title>
+		<category lang="tr">Community</category>
+	</programme>
+	<programme start="20241223060000 +0000" stop="20241223080000 +0000" channel="EuroD.tr">
+		<title lang="tr">Neler oluyor hayatta ?</title>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241223080000 +0000" stop="20241223100000 +0000" channel="EuroD.tr">
+		<title lang="tr">Yaprak Dökümü</title>
+		<desc lang="tr">Batililasma rüzgari ve tüketim toplumu karsisinda ilkelerinden taviz vermeyen aile reisinin drami. Yedi kisilik bir aileyi geçindirmeye çalisan Ali Riza Bey&apos;in evdekilere sözü geçmez. Oglu Sevket&apos;in gayrimesru iliskisi ise sonun baslangici olur.</desc>
+		<credits>
+			<actor>Serap Aksoy</actor>
+			<actor>Sevtap Parman</actor>
+			<actor>Yasemin Alkaya</actor>
+			<actor>Oktar Durukan</actor>
+			<actor>Kerim Afsar</actor>
+			<actor>Ebru Oguz</actor>
+			<actor>Merih Akalin</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241223100000 +0000" stop="20241223130000 +0000" channel="EuroD.tr">
+		<title lang="tr">Gelinim Mutfakta</title>
+		<desc lang="tr">Gelinler, kendilerine verilen süre içerisinde günün yemegini yapmaya çalisiyor, bu yarista onlari an be an izleyen kayinvalideler ise puanladigi tabaklarin kime ait oldugunu bilmeden puan vererek gelinini birinci yapmaya çalisiyor.</desc>
+		<credits>
+			<actor>Fatih Ürek</actor>
+		</credits>
+		<category lang="tr">Game show</category>
+	</programme>
+	<programme start="20241223100000 +0000" stop="20241223130000 +0000" channel="EuroD.tr">
+		<title lang="tr">Gelinim Mutfakta</title>
+		<desc lang="tr">Gelinler, kendilerine verilen süre içerisinde günün yemegini yapmaya çalisiyor, bu yarista onlari an be an izleyen kayinvalideler ise puanladigi tabaklarin kime ait oldugunu bilmeden puan vererek gelinini birinci yapmaya çalisiyor.</desc>
+		<credits>
+			<actor>Fatih Ürek</actor>
+		</credits>
+		<category lang="tr">Game show</category>
+	</programme>
+	<programme start="20241223130000 +0000" stop="20241223151500 +0000" channel="EuroD.tr">
+		<title lang="tr">Arka Sokaklar</title>
+		<desc lang="tr">Istanbul Polis Teskilati Asayis Sube&apos;de görev yapan &apos;sivil&apos; bir ekip Istanbul&apos;un sokaklarini arsinlamakta ve karsilarina çikan her türlü kanunsuzlukla savasmaktadirlar. Görevleri sirasinda degisik ve çesitli insan hikayeleriyle karsilasirlar.</desc>
+		<credits>
+			<actor>Zafer Ergin</actor>
+			<actor>Sevket Çoruh</actor>
+			<actor>Müge Boz</actor>
+			<actor>Özgür Ozan</actor>
+			<actor>Can Nergis</actor>
+			<actor>Beril Kayar</actor>
+		</credits>
+		<category lang="tr">Action</category>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241223151500 +0000" stop="20241223154000 +0000" channel="EuroD.tr">
+		<title lang="tr">Sicak gelişme</title>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241223154000 +0000" stop="20241223170000 +0000" channel="EuroD.tr">
+		<title lang="tr">Kanal D Ana Haber</title>
+		<desc lang="tr">Türkiye&apos;nin ve dünyanin gündemindekiler, siyasal ve ekonomik gelismeler aktariliyor.</desc>
+		<category lang="tr">News</category>
+		<category lang="tr">Current affairs</category>
+	</programme>
+	<programme start="20241223170000 +0000" stop="20241223212000 +0000" channel="EuroD.tr">
+		<title lang="tr">Uzak şehir</title>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241223170000 +0000" stop="20241223212000 +0000" channel="EuroD.tr">
+		<title lang="tr">Uzak şehir</title>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241223212000 +0000" stop="20241223230000 +0000" channel="EuroD.tr">
+		<title lang="tr">Annem ankara</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241223230000 +0000" stop="20241224010000 +0000" channel="EuroD.tr">
+		<title lang="tr">Zalim istanbul</title>
+		<category lang="tr">Community</category>
+	</programme>
+	<programme start="20241223230000 +0000" stop="20241224010000 +0000" channel="EuroD.tr">
+		<title lang="tr">Zalim istanbul</title>
+		<category lang="tr">Community</category>
+	</programme>
+	<programme start="20241224010000 +0000" stop="20241224040000 +0000" channel="EuroD.tr">
+		<title lang="tr">Taş kağit makas</title>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241224040000 +0000" stop="20241224060000 +0000" channel="EuroD.tr">
+		<title lang="tr">Afili aşk yeni</title>
+		<category lang="tr">Community</category>
+	</programme>
+	<programme start="20241224060000 +0000" stop="20241224080000 +0000" channel="EuroD.tr">
+		<title lang="tr">Neler oluyor hayatta ?</title>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241224080000 +0000" stop="20241224100000 +0000" channel="EuroD.tr">
+		<title lang="tr">Yaprak Dökümü</title>
+		<desc lang="tr">Batililasma rüzgari ve tüketim toplumu karsisinda ilkelerinden taviz vermeyen aile reisinin drami. Yedi kisilik bir aileyi geçindirmeye çalisan Ali Riza Bey&apos;in evdekilere sözü geçmez. Oglu Sevket&apos;in gayrimesru iliskisi ise sonun baslangici olur.</desc>
+		<credits>
+			<actor>Serap Aksoy</actor>
+			<actor>Sevtap Parman</actor>
+			<actor>Yasemin Alkaya</actor>
+			<actor>Oktar Durukan</actor>
+			<actor>Kerim Afsar</actor>
+			<actor>Ebru Oguz</actor>
+			<actor>Merih Akalin</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241224100000 +0000" stop="20241224130000 +0000" channel="EuroD.tr">
+		<title lang="tr">Gelinim Mutfakta</title>
+		<desc lang="tr">Gelinler, kendilerine verilen süre içerisinde günün yemegini yapmaya çalisiyor, bu yarista onlari an be an izleyen kayinvalideler ise puanladigi tabaklarin kime ait oldugunu bilmeden puan vererek gelinini birinci yapmaya çalisiyor.</desc>
+		<credits>
+			<actor>Fatih Ürek</actor>
+		</credits>
+		<category lang="tr">Game show</category>
+	</programme>
+	<programme start="20241224100000 +0000" stop="20241224130000 +0000" channel="EuroD.tr">
+		<title lang="tr">Gelinim Mutfakta</title>
+		<desc lang="tr">Gelinler, kendilerine verilen süre içerisinde günün yemegini yapmaya çalisiyor, bu yarista onlari an be an izleyen kayinvalideler ise puanladigi tabaklarin kime ait oldugunu bilmeden puan vererek gelinini birinci yapmaya çalisiyor.</desc>
+		<credits>
+			<actor>Fatih Ürek</actor>
+		</credits>
+		<category lang="tr">Game show</category>
+	</programme>
+	<programme start="20241224130000 +0000" stop="20241224151500 +0000" channel="EuroD.tr">
+		<title lang="tr">Arka Sokaklar</title>
+		<desc lang="tr">Istanbul Polis Teskilati Asayis Sube&apos;de görev yapan &apos;sivil&apos; bir ekip Istanbul&apos;un sokaklarini arsinlamakta ve karsilarina çikan her türlü kanunsuzlukla savasmaktadirlar. Görevleri sirasinda degisik ve çesitli insan hikayeleriyle karsilasirlar.</desc>
+		<credits>
+			<actor>Zafer Ergin</actor>
+			<actor>Sevket Çoruh</actor>
+			<actor>Müge Boz</actor>
+			<actor>Özgür Ozan</actor>
+			<actor>Can Nergis</actor>
+			<actor>Beril Kayar</actor>
+		</credits>
+		<category lang="tr">Action</category>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241224151500 +0000" stop="20241224154000 +0000" channel="EuroD.tr">
+		<title lang="tr">Sicak gelişme</title>
+		<category lang="tr">News</category>
+	</programme>
+	<programme start="20241224154000 +0000" stop="20241224170000 +0000" channel="EuroD.tr">
+		<title lang="tr">Kanal D Ana Haber</title>
+		<desc lang="tr">Türkiye&apos;nin ve dünyanin gündemindekiler, siyasal ve ekonomik gelismeler aktariliyor.</desc>
+		<category lang="tr">News</category>
+		<category lang="tr">Current affairs</category>
+	</programme>
+	<programme start="20241224170000 +0000" stop="20241224193000 +0000" channel="EuroD.tr">
+		<title lang="tr">Mandira Filozofu Istanbul</title>
+		<desc lang="tr">Bodrum&apos;un Çökertme köyünde yasayan dürüst ve sempatik Mustafali hasta babasina destek olmak için Istanbul&apos;a gelince büyük sehrin karsisina çikarak hesaplasiyor.</desc>
+		<credits>
+			<actor>Müfit Can Sacinti</actor>
+			<actor>Ugur Alibasoglu</actor>
+			<actor>Gulnihal Demir</actor>
+			<actor>Zinaida Chistol</actor>
+			<actor>Hihan Durukan</actor>
+			<actor>Alper Düzen</actor>
+			<actor>Kemal Kurucay</actor>
+			<actor>Abdullah Sahin</actor>
+		</credits>
+		<category lang="tr">Film</category>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241224170000 +0000" stop="20241224193000 +0000" channel="EuroD.tr">
+		<title lang="tr">Mandira Filozofu Istanbul</title>
+		<desc lang="tr">Bodrum&apos;un Çökertme köyünde yasayan dürüst ve sempatik Mustafali hasta babasina destek olmak için Istanbul&apos;a gelince büyük sehrin karsisina çikarak hesaplasiyor.</desc>
+		<credits>
+			<actor>Müfit Can Sacinti</actor>
+			<actor>Ugur Alibasoglu</actor>
+			<actor>Gulnihal Demir</actor>
+			<actor>Zinaida Chistol</actor>
+			<actor>Hihan Durukan</actor>
+			<actor>Alper Düzen</actor>
+			<actor>Kemal Kurucay</actor>
+			<actor>Abdullah Sahin</actor>
+		</credits>
+		<category lang="tr">Film</category>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241224193000 +0000" stop="20241224212000 +0000" channel="EuroD.tr">
+		<title lang="tr">Bosu bir yerde</title>
+		<credits>
+			<actor>Baris Küçükgüler</actor>
+			<actor>Beren Gökyıldız</actor>
+			<actor>Ferit Kaya</actor>
+		</credits>
+		<category lang="tr">Film</category>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241224212000 +0000" stop="20241224230000 +0000" channel="EuroD.tr">
+		<title lang="tr">Mandira Filozofu Istanbul</title>
+		<desc lang="tr">Bodrum&apos;un Çökertme köyünde yasayan dürüst ve sempatik Mustafali hasta babasina destek olmak için Istanbul&apos;a gelince büyük sehrin karsisina çikarak hesaplasiyor.</desc>
+		<credits>
+			<actor>Müfit Can Sacinti</actor>
+			<actor>Ugur Alibasoglu</actor>
+			<actor>Gulnihal Demir</actor>
+			<actor>Zinaida Chistol</actor>
+			<actor>Hihan Durukan</actor>
+			<actor>Alper Düzen</actor>
+			<actor>Kemal Kurucay</actor>
+			<actor>Abdullah Sahin</actor>
+		</credits>
+		<category lang="tr">Film</category>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241224230000 +0000" stop="20241225010000 +0000" channel="EuroD.tr">
+		<title lang="tr">Zalim istanbul</title>
+		<category lang="tr">Community</category>
+	</programme>
+	<programme start="20241222231000 +0000" stop="20241223013000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Sahipsizler</title>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241223013000 +0000" stop="20241223022000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Türk Müzigi</title>
+		<desc lang="tr">Türk müziginin sevilen eserleri izleyicelerle bulusuyor.</desc>
+		<category lang="tr">Music</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241223022000 +0000" stop="20241223031000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Star Haber</title>
+		<desc lang="tr">Türkiye&apos;de ve dünyada yasanan sicak gelismeler aktariliyor, gündemdekilerin analizi yapiliyor.</desc>
+		<credits>
+			<actor>Nazli Celik</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Current affairs</category>
+	</programme>
+	<programme start="20241223031000 +0000" stop="20241223100000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Erkenci Kuş</title>
+		<credits>
+			<actor>Can Yaman</actor>
+			<actor>Berat Yenilmez</actor>
+			<actor>Demet Ozdemir</actor>
+			<actor>Öznur Serçeler</actor>
+			<actor>Özlem Tokaslan</actor>
+			<actor>Cihan Ercan</actor>
+		</credits>
+		<category lang="tr">Soap</category>
+	</programme>
+	<programme start="20241223031000 +0000" stop="20241223100000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Erkenci Kuş</title>
+		<credits>
+			<actor>Can Yaman</actor>
+			<actor>Berat Yenilmez</actor>
+			<actor>Demet Ozdemir</actor>
+			<actor>Öznur Serçeler</actor>
+			<actor>Özlem Tokaslan</actor>
+			<actor>Cihan Ercan</actor>
+		</credits>
+		<category lang="tr">Soap</category>
+	</programme>
+	<programme start="20241223100000 +0000" stop="20241223132000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Zahide Yetiş İle Yeniden Başlasak</title>
+		<desc lang="tr">Zahide Yetiş ile Yeniden Başlasak sadece küsleri barıştırmıyor! Aynı zamanda hayata karşı kendisini güçsüz hisseden, yaşamış olduğu baskılardan bunalan insanların seslerini duyurduğu gibi, evlatları ile sorun yaşayan, onlar ile aynı dili kullanmakta zorlanan ailelere doğru iletişim konusunda da yardımcı oluyor. Konusunda uzmanların da yer alacağı Yeniden Başlasak hayata dair her sorunu çözüme kavuşturuyor.</desc>
+		<category lang="tr">Reality</category>
+	</programme>
+	<programme start="20241223100000 +0000" stop="20241223132000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Zahide Yetiş İle Yeniden Başlasak</title>
+		<desc lang="tr">Zahide Yetiş ile Yeniden Başlasak sadece küsleri barıştırmıyor! Aynı zamanda hayata karşı kendisini güçsüz hisseden, yaşamış olduğu baskılardan bunalan insanların seslerini duyurduğu gibi, evlatları ile sorun yaşayan, onlar ile aynı dili kullanmakta zorlanan ailelere doğru iletişim konusunda da yardımcı oluyor. Konusunda uzmanların da yer alacağı Yeniden Başlasak hayata dair her sorunu çözüme kavuşturuyor.</desc>
+		<category lang="tr">Reality</category>
+	</programme>
+	<programme start="20241223132000 +0000" stop="20241223155000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Söz</title>
+		<desc lang="tr">Istanbul&apos;da yasanan büyük bir terör saldirisi sonucu onlarca insanin hayatini kaybetmesi ve bu facianin ülkede büyük bir infiale yol açmasi ile Kidemli Üstegmen Yavuz Karasu&apos;nun hayati da bir yeni bir akisa sürüklenir.</desc>
+		<credits>
+			<actor>Tolga Saritas</actor>
+			<actor>Aybüke Pusat</actor>
+			<actor>Meriç Aral</actor>
+			<actor>Nihat Altinkaya</actor>
+			<actor>Atakan Arslan</actor>
+			<actor>Serhat Kılıç</actor>
+			<actor>Burak Sevinç</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">War</category>
+	</programme>
+	<programme start="20241223155000 +0000" stop="20241223171000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Star Haber</title>
+		<desc lang="tr">Türkiye&apos;de ve dünyada yasanan sicak gelismeler aktariliyor, gündemdekilerin analizi yapiliyor.</desc>
+		<credits>
+			<actor>Nazli Celik</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Current affairs</category>
+	</programme>
+	<programme start="20241223171000 +0000" stop="20241223190000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Salako</title>
+		<desc lang="tr">Aganin kizina asik olunca onu daga kaçiran saf bir eskiyanin hikayesi.</desc>
+		<credits>
+			<actor>Kemal Sunal</actor>
+			<actor>Meral Zeren</actor>
+			<actor>Oktar Durukan</actor>
+			<actor>Talat Gözbak</actor>
+			<actor>Özden Yüce</actor>
+			<actor>Ihsan Baysal</actor>
+			<actor>Zeki Alpan</actor>
+			<actor>Kudret Karadag</actor>
+			<actor>Mustafa Yavuz</actor>
+		</credits>
+		<category lang="tr">Film</category>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241223171000 +0000" stop="20241223190000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Salako</title>
+		<desc lang="tr">Aganin kizina asik olunca onu daga kaçiran saf bir eskiyanin hikayesi.</desc>
+		<credits>
+			<actor>Kemal Sunal</actor>
+			<actor>Meral Zeren</actor>
+			<actor>Oktar Durukan</actor>
+			<actor>Talat Gözbak</actor>
+			<actor>Özden Yüce</actor>
+			<actor>Ihsan Baysal</actor>
+			<actor>Zeki Alpan</actor>
+			<actor>Kudret Karadag</actor>
+			<actor>Mustafa Yavuz</actor>
+		</credits>
+		<category lang="tr">Film</category>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241223190000 +0000" stop="20241223214000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Yerli Dizi</title>
+		<desc lang="tr">Kanalda gosterilen bir yerli dizi.</desc>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241223214000 +0000" stop="20241223225000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Meslekler Ve Hikayeler</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241223225000 +0000" stop="20241224002000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Erkenci Kuş</title>
+		<credits>
+			<actor>Can Yaman</actor>
+			<actor>Berat Yenilmez</actor>
+			<actor>Demet Ozdemir</actor>
+			<actor>Öznur Serçeler</actor>
+			<actor>Özlem Tokaslan</actor>
+			<actor>Cihan Ercan</actor>
+		</credits>
+		<category lang="tr">Soap</category>
+	</programme>
+	<programme start="20241223225000 +0000" stop="20241224002000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Erkenci Kuş</title>
+		<credits>
+			<actor>Can Yaman</actor>
+			<actor>Berat Yenilmez</actor>
+			<actor>Demet Ozdemir</actor>
+			<actor>Öznur Serçeler</actor>
+			<actor>Özlem Tokaslan</actor>
+			<actor>Cihan Ercan</actor>
+		</credits>
+		<category lang="tr">Soap</category>
+	</programme>
+	<programme start="20241224002000 +0000" stop="20241224014000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Yerli Dizi</title>
+		<desc lang="tr">Kanalda gosterilen bir yerli dizi.</desc>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241224014000 +0000" stop="20241224023000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Star Haber</title>
+		<desc lang="tr">Türkiye&apos;de ve dünyada yasanan sicak gelismeler aktariliyor, gündemdekilerin analizi yapiliyor.</desc>
+		<credits>
+			<actor>Nazli Celik</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Current affairs</category>
+	</programme>
+	<programme start="20241224023000 +0000" stop="20241224100000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Söz</title>
+		<desc lang="tr">Istanbul&apos;da yasanan büyük bir terör saldirisi sonucu onlarca insanin hayatini kaybetmesi ve bu facianin ülkede büyük bir infiale yol açmasi ile Kidemli Üstegmen Yavuz Karasu&apos;nun hayati da bir yeni bir akisa sürüklenir.</desc>
+		<credits>
+			<actor>Tolga Saritas</actor>
+			<actor>Aybüke Pusat</actor>
+			<actor>Meriç Aral</actor>
+			<actor>Nihat Altinkaya</actor>
+			<actor>Atakan Arslan</actor>
+			<actor>Serhat Kılıç</actor>
+			<actor>Burak Sevinç</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">War</category>
+	</programme>
+	<programme start="20241224023000 +0000" stop="20241224100000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Söz</title>
+		<desc lang="tr">Istanbul&apos;da yasanan büyük bir terör saldirisi sonucu onlarca insanin hayatini kaybetmesi ve bu facianin ülkede büyük bir infiale yol açmasi ile Kidemli Üstegmen Yavuz Karasu&apos;nun hayati da bir yeni bir akisa sürüklenir.</desc>
+		<credits>
+			<actor>Tolga Saritas</actor>
+			<actor>Aybüke Pusat</actor>
+			<actor>Meriç Aral</actor>
+			<actor>Nihat Altinkaya</actor>
+			<actor>Atakan Arslan</actor>
+			<actor>Serhat Kılıç</actor>
+			<actor>Burak Sevinç</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">War</category>
+	</programme>
+	<programme start="20241224100000 +0000" stop="20241224132000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Zahide Yetiş İle Yeniden Başlasak</title>
+		<desc lang="tr">Zahide Yetiş ile Yeniden Başlasak sadece küsleri barıştırmıyor! Aynı zamanda hayata karşı kendisini güçsüz hisseden, yaşamış olduğu baskılardan bunalan insanların seslerini duyurduğu gibi, evlatları ile sorun yaşayan, onlar ile aynı dili kullanmakta zorlanan ailelere doğru iletişim konusunda da yardımcı oluyor. Konusunda uzmanların da yer alacağı Yeniden Başlasak hayata dair her sorunu çözüme kavuşturuyor.</desc>
+		<category lang="tr">Reality</category>
+	</programme>
+	<programme start="20241224100000 +0000" stop="20241224132000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Zahide Yetiş İle Yeniden Başlasak</title>
+		<desc lang="tr">Zahide Yetiş ile Yeniden Başlasak sadece küsleri barıştırmıyor! Aynı zamanda hayata karşı kendisini güçsüz hisseden, yaşamış olduğu baskılardan bunalan insanların seslerini duyurduğu gibi, evlatları ile sorun yaşayan, onlar ile aynı dili kullanmakta zorlanan ailelere doğru iletişim konusunda da yardımcı oluyor. Konusunda uzmanların da yer alacağı Yeniden Başlasak hayata dair her sorunu çözüme kavuşturuyor.</desc>
+		<category lang="tr">Reality</category>
+	</programme>
+	<programme start="20241224132000 +0000" stop="20241224134000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Guzel Yasam</title>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241224134000 +0000" stop="20241224155000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Söz</title>
+		<desc lang="tr">Istanbul&apos;da yasanan büyük bir terör saldirisi sonucu onlarca insanin hayatini kaybetmesi ve bu facianin ülkede büyük bir infiale yol açmasi ile Kidemli Üstegmen Yavuz Karasu&apos;nun hayati da bir yeni bir akisa sürüklenir.</desc>
+		<credits>
+			<actor>Tolga Saritas</actor>
+			<actor>Aybüke Pusat</actor>
+			<actor>Meriç Aral</actor>
+			<actor>Nihat Altinkaya</actor>
+			<actor>Atakan Arslan</actor>
+			<actor>Serhat Kılıç</actor>
+			<actor>Burak Sevinç</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">War</category>
+	</programme>
+	<programme start="20241224155000 +0000" stop="20241224171000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Star Haber</title>
+		<desc lang="tr">Türkiye&apos;de ve dünyada yasanan sicak gelismeler aktariliyor, gündemdekilerin analizi yapiliyor.</desc>
+		<credits>
+			<actor>Nazli Celik</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Current affairs</category>
+	</programme>
+	<programme start="20241224171000 +0000" stop="20241224221000 +0000" channel="EuroStar.tr">
+		<title lang="tr">AĞlama</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241224171000 +0000" stop="20241224221000 +0000" channel="EuroStar.tr">
+		<title lang="tr">AĞlama</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241224221000 +0000" stop="20241224230000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Başarı Saati</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241224230000 +0000" stop="20241224233000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Guzel Yasam</title>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241224233000 +0000" stop="20241225014000 +0000" channel="EuroStar.tr">
+		<title lang="tr">Yerli Dizi</title>
+		<desc lang="tr">Kanalda gosterilen bir yerli dizi.</desc>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241222224500 +0000" stop="20241223011500 +0000" channel="ShowMax.tr">
+		<title lang="tr">Dudaktan Kalbe</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15368518ih10aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241223011500 +0000" stop="20241223023000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Fatih Harbiye</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10113800ih8aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241223023000 +0000" stop="20241223033000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Yagmur Zamani</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/200.225_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223033000 +0000" stop="20241223043000 +0000" channel="ShowMax.tr">
+		<title lang="tr">En Iyi Arkadasim</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/300.311_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223043000 +0000" stop="20241223060000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Gelin Evi</title>
+		<desc lang="tr">Mutfaktaki hünerlerinden ev dekoruna, moda anlayisindan gelenek göreneklerimize kadar yeni gelinler her konuda yarisiyorlar.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/400.419_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223060000 +0000" stop="20241223083000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Asla Vazgeçmem</title>
+		<desc lang="tr">Babasinin ölümüyle kimsesiz kalan Nur, İstanbul&apos;un sayili çiftliklerinden Kozan Çiftligi&apos;nde çalisan halasinin yanina siginmak zorunda kalir. Nur&apos;un çiftlik sahibi Yigit Kozan&apos;la tanismasi ise çiftligi altüst edecek firtinali günlerin habercisidir.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12207082ih10aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241223083000 +0000" stop="20241223104500 +0000" channel="ShowMax.tr">
+		<title lang="tr">Kuaforum Sensin</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223104500 +0000" stop="20241223124500 +0000" channel="ShowMax.tr">
+		<title lang="tr">Fatih Harbiye</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10113800ih8aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241223124500 +0000" stop="20241223140000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Kadın Isterse</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/200.204_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223140000 +0000" stop="20241223153000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Dudaktan Kalbe</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15368518ih10aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241223153000 +0000" stop="20241223170000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Yagmur Zamani</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/200.225_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223170000 +0000" stop="20241223200000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Yilanlarin Öcü</title>
+		<desc lang="tr">Bes yila mutsuz sonlar, sonlara da baslangiçlar sigar. Her sey degismistir, Karatas Köyü&apos;nün basit insanlarinin hayatlari İstanbul&apos;a sürüklenmis, tasi topragi altin sehrin bir kösesine sigisip kalmistir.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/200.225_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223200000 +0000" stop="20241223213000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Dudaktan Kalbe</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15368518ih10aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241223213000 +0000" stop="20241224000000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Kuaforum Sensin</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223213000 +0000" stop="20241224000000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Kuaforum Sensin</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224000000 +0000" stop="20241224014500 +0000" channel="ShowMax.tr">
+		<title lang="tr">Gelin Evi</title>
+		<desc lang="tr">Mutfaktaki hünerlerinden ev dekoruna, moda anlayisindan gelenek göreneklerimize kadar yeni gelinler her konuda yarisiyorlar.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/400.419_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224000000 +0000" stop="20241224014500 +0000" channel="ShowMax.tr">
+		<title lang="tr">Gelin Evi</title>
+		<desc lang="tr">Mutfaktaki hünerlerinden ev dekoruna, moda anlayisindan gelenek göreneklerimize kadar yeni gelinler her konuda yarisiyorlar.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/400.419_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224014500 +0000" stop="20241224033000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Fatih Harbiye</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10113800ih8aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241224033000 +0000" stop="20241224043000 +0000" channel="ShowMax.tr">
+		<title lang="tr">En Iyi Arkadasim</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/300.311_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224043000 +0000" stop="20241224060000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Gelin Evi</title>
+		<desc lang="tr">Mutfaktaki hünerlerinden ev dekoruna, moda anlayisindan gelenek göreneklerimize kadar yeni gelinler her konuda yarisiyorlar.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/400.419_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224060000 +0000" stop="20241224083000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Asla Vazgeçmem</title>
+		<desc lang="tr">Babasinin ölümüyle kimsesiz kalan Nur, İstanbul&apos;un sayili çiftliklerinden Kozan Çiftligi&apos;nde çalisan halasinin yanina siginmak zorunda kalir. Nur&apos;un çiftlik sahibi Yigit Kozan&apos;la tanismasi ise çiftligi altüst edecek firtinali günlerin habercisidir.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12207082ih10aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241224083000 +0000" stop="20241224104500 +0000" channel="ShowMax.tr">
+		<title lang="tr">Kuaforum Sensin</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224104500 +0000" stop="20241224124500 +0000" channel="ShowMax.tr">
+		<title lang="tr">Fatih Harbiye</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10113800ih8aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241224124500 +0000" stop="20241224140000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Kadın Isterse</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/200.204_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224140000 +0000" stop="20241224153000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Dudaktan Kalbe</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15368518ih10aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241224153000 +0000" stop="20241224170000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Yagmur Zamani</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/200.225_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224170000 +0000" stop="20241224200000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Yilanlarin Öcü</title>
+		<desc lang="tr">Bes yila mutsuz sonlar, sonlara da baslangiçlar sigar. Her sey degismistir, Karatas Köyü&apos;nün basit insanlarinin hayatlari İstanbul&apos;a sürüklenmis, tasi topragi altin sehrin bir kösesine sigisip kalmistir.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/200.225_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224200000 +0000" stop="20241224213000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Dudaktan Kalbe</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15368518ih10aa_Iconic_w1920.webp"/>
+	</programme>
+	<programme start="20241224213000 +0000" stop="20241225000000 +0000" channel="ShowMax.tr">
+		<title lang="tr">Kuaforum Sensin</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241225000000 +0000" stop="20241225014500 +0000" channel="ShowMax.tr">
+		<title lang="tr">Gelin Evi</title>
+		<desc lang="tr">Mutfaktaki hünerlerinden ev dekoruna, moda anlayisindan gelenek göreneklerimize kadar yeni gelinler her konuda yarisiyorlar.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/1297/400.419_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241222234500 +0000" stop="20241223014500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Siyah kalp</title>
+		<credits>
+			<actor>Hafsanur Sancaktutan</actor>
+			<actor>Burak Tozkoparan</actor>
+			<actor>Aras Aydin</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241223014500 +0000" stop="20241223034500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Sandik Kokusu</title>
+		<credits>
+			<actor>Özge Özpirincci</actor>
+			<actor>Demet Akbag</actor>
+			<actor>Metin Akdülger</actor>
+			<actor>Necip Memili</actor>
+			<actor>Mina Akdin</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+	</programme>
+	<programme start="20241223034500 +0000" stop="20241223063000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Kiz Tarafi Erkek Tarafi</title>
+		<desc lang="tr">Erkek Tarafi&apos;nin basinda Alisan, Kiz Tarafi&apos;nin basinda ise Çagla Sikel, 3 kisilik takimlarla kapisiyor, oyun, sohbet, aksiyon ve kahkaha ile ödüller kazaniliyor.</desc>
+		<credits>
+			<actor>Çagla Sikel</actor>
+			<actor>Alisan</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Interview</category>
+	</programme>
+	<programme start="20241223034500 +0000" stop="20241223063000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Kiz Tarafi Erkek Tarafi</title>
+		<desc lang="tr">Erkek Tarafi&apos;nin basinda Alisan, Kiz Tarafi&apos;nin basinda ise Çagla Sikel, 3 kisilik takimlarla kapisiyor, oyun, sohbet, aksiyon ve kahkaha ile ödüller kazaniliyor.</desc>
+		<credits>
+			<actor>Çagla Sikel</actor>
+			<actor>Alisan</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Interview</category>
+	</programme>
+	<programme start="20241223063000 +0000" stop="20241223090000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Acil Ask Araniyor</title>
+		<desc lang="tr">Nisan yasadigi kötü günlerden sonra Sinan&apos;in sayesinde yeniden hayata tutunur. Hiç beklemedigi bu destek Nisan için çok önemlidir. Mutlulugunu hiçbir seyin bozamayacagini düsünür. Ta ki Türkan&apos;la tanisana dek.</desc>
+		<credits>
+			<actor>Serhat Teoman</actor>
+			<actor>Duygu Yetis</actor>
+			<actor>Rojda Demirer</actor>
+			<actor>Tamer Tirasoglu</actor>
+		</credits>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241223090000 +0000" stop="20241223100000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Nursel&apos;in Mutfagi</title>
+		<desc lang="tr">Türkiye&apos;nin her yerinden lezzetlere ve bilinmeyen tatlara yer veriliyor.</desc>
+		<credits>
+			<actor>Nursel Ergin</actor>
+		</credits>
+		<category lang="tr">Cookery</category>
+		<category lang="tr">Travel</category>
+	</programme>
+	<programme start="20241223100000 +0000" stop="20241223110000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Eylem Aksin Zamani</title>
+		<desc lang="tr">Saglik, sosyal haklar, yasam tarzi, moda ve eglence ve daha birçok konu konusuluyor.</desc>
+		<credits>
+			<actor>Eylem Aksin</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241223110000 +0000" stop="20241223133000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Asla Vazgeçmem</title>
+		<desc lang="tr">Babasinin ölümüyle kimsesiz kalan Nur, İstanbul&apos;un sayili çiftliklerinden Kozan Çiftligi&apos;nde çalisan halasinin yanina siginmak zorunda kalir. Nur&apos;un çiftlik sahibi Yigit Kozan&apos;la tanismasi ise çiftligi altüst edecek firtinali günlerin habercisidir.</desc>
+		<credits>
+			<actor>Tolgahan Sayisman</actor>
+			<actor>Amine Gülse</actor>
+			<actor>Safak Pekdemir</actor>
+			<actor>Aysegül Günay</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Romance</category>
+	</programme>
+	<programme start="20241223110000 +0000" stop="20241223133000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Asla Vazgeçmem</title>
+		<desc lang="tr">Babasinin ölümüyle kimsesiz kalan Nur, İstanbul&apos;un sayili çiftliklerinden Kozan Çiftligi&apos;nde çalisan halasinin yanina siginmak zorunda kalir. Nur&apos;un çiftlik sahibi Yigit Kozan&apos;la tanismasi ise çiftligi altüst edecek firtinali günlerin habercisidir.</desc>
+		<credits>
+			<actor>Tolgahan Sayisman</actor>
+			<actor>Amine Gülse</actor>
+			<actor>Safak Pekdemir</actor>
+			<actor>Aysegül Günay</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Romance</category>
+	</programme>
+	<programme start="20241223133000 +0000" stop="20241223153000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Kiz Tarafi Erkek Tarafi</title>
+		<desc lang="tr">Erkek Tarafi&apos;nin basinda Alisan, Kiz Tarafi&apos;nin basinda ise Çagla Sikel, 3 kisilik takimlarla kapisiyor, oyun, sohbet, aksiyon ve kahkaha ile ödüller kazaniliyor.</desc>
+		<credits>
+			<actor>Çagla Sikel</actor>
+			<actor>Alisan</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Interview</category>
+	</programme>
+	<programme start="20241223153000 +0000" stop="20241223164500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Ana Haber</title>
+		<desc lang="tr">Türkiye&apos;nin ve dünyanin politika, ekonomi ve kültür-sanat gündeminden gelismelere yer veriliyor.</desc>
+		<credits>
+			<actor>Pinar Erbas</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Politics</category>
+	</programme>
+	<programme start="20241223164500 +0000" stop="20241223201500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Mayis Kraliçesi</title>
+		<desc lang="tr">Kizi öldü sanan bir kadin ve annesini baska bir kadin sanan kaynak isçisi güzel bir kizin hikayesi.</desc>
+		<credits>
+			<actor>Yagmur Tanrisevsin</actor>
+			<actor>Ahmet Olgun Sünear</actor>
+			<actor>Samet Sirmali</actor>
+			<actor>Derya Sensoy</actor>
+			<actor>Kazim Aksar</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241223164500 +0000" stop="20241223201500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Mayis Kraliçesi</title>
+		<desc lang="tr">Kizi öldü sanan bir kadin ve annesini baska bir kadin sanan kaynak isçisi güzel bir kizin hikayesi.</desc>
+		<credits>
+			<actor>Yagmur Tanrisevsin</actor>
+			<actor>Ahmet Olgun Sünear</actor>
+			<actor>Samet Sirmali</actor>
+			<actor>Derya Sensoy</actor>
+			<actor>Kazim Aksar</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241223201500 +0000" stop="20241223221500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Acil Ask Araniyor</title>
+		<desc lang="tr">Nisan yasadigi kötü günlerden sonra Sinan&apos;in sayesinde yeniden hayata tutunur. Hiç beklemedigi bu destek Nisan için çok önemlidir. Mutlulugunu hiçbir seyin bozamayacagini düsünür. Ta ki Türkan&apos;la tanisana dek.</desc>
+		<credits>
+			<actor>Serhat Teoman</actor>
+			<actor>Duygu Yetis</actor>
+			<actor>Rojda Demirer</actor>
+			<actor>Tamer Tirasoglu</actor>
+		</credits>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241223221500 +0000" stop="20241224001500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Kiz Tarafi Erkek Tarafi</title>
+		<desc lang="tr">Erkek Tarafi&apos;nin basinda Alisan, Kiz Tarafi&apos;nin basinda ise Çagla Sikel, 3 kisilik takimlarla kapisiyor, oyun, sohbet, aksiyon ve kahkaha ile ödüller kazaniliyor.</desc>
+		<credits>
+			<actor>Çagla Sikel</actor>
+			<actor>Alisan</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Interview</category>
+	</programme>
+	<programme start="20241223221500 +0000" stop="20241224001500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Kiz Tarafi Erkek Tarafi</title>
+		<desc lang="tr">Erkek Tarafi&apos;nin basinda Alisan, Kiz Tarafi&apos;nin basinda ise Çagla Sikel, 3 kisilik takimlarla kapisiyor, oyun, sohbet, aksiyon ve kahkaha ile ödüller kazaniliyor.</desc>
+		<credits>
+			<actor>Çagla Sikel</actor>
+			<actor>Alisan</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Interview</category>
+	</programme>
+	<programme start="20241224001500 +0000" stop="20241224021500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Evrim Akin ile Ev Kusu</title>
+		<desc lang="tr">Ilginç sürprizleriyle evlerinize misafir olup sizlere yepyeni yasam alanlari hazirlaniyor.</desc>
+		<credits>
+			<actor>Evrim Akin</actor>
+		</credits>
+		<category lang="tr">Home improvement</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241224021500 +0000" stop="20241224034500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Asla Vazgeçmem</title>
+		<desc lang="tr">Babasinin ölümüyle kimsesiz kalan Nur, İstanbul&apos;un sayili çiftliklerinden Kozan Çiftligi&apos;nde çalisan halasinin yanina siginmak zorunda kalir. Nur&apos;un çiftlik sahibi Yigit Kozan&apos;la tanismasi ise çiftligi altüst edecek firtinali günlerin habercisidir.</desc>
+		<credits>
+			<actor>Tolgahan Sayisman</actor>
+			<actor>Amine Gülse</actor>
+			<actor>Safak Pekdemir</actor>
+			<actor>Aysegül Günay</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Romance</category>
+	</programme>
+	<programme start="20241224034500 +0000" stop="20241224063000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Kiz Tarafi Erkek Tarafi</title>
+		<desc lang="tr">Erkek Tarafi&apos;nin basinda Alisan, Kiz Tarafi&apos;nin basinda ise Çagla Sikel, 3 kisilik takimlarla kapisiyor, oyun, sohbet, aksiyon ve kahkaha ile ödüller kazaniliyor.</desc>
+		<credits>
+			<actor>Çagla Sikel</actor>
+			<actor>Alisan</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Interview</category>
+	</programme>
+	<programme start="20241224034500 +0000" stop="20241224063000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Kiz Tarafi Erkek Tarafi</title>
+		<desc lang="tr">Erkek Tarafi&apos;nin basinda Alisan, Kiz Tarafi&apos;nin basinda ise Çagla Sikel, 3 kisilik takimlarla kapisiyor, oyun, sohbet, aksiyon ve kahkaha ile ödüller kazaniliyor.</desc>
+		<credits>
+			<actor>Çagla Sikel</actor>
+			<actor>Alisan</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Interview</category>
+	</programme>
+	<programme start="20241224063000 +0000" stop="20241224090000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Acil Ask Araniyor</title>
+		<desc lang="tr">Nisan yasadigi kötü günlerden sonra Sinan&apos;in sayesinde yeniden hayata tutunur. Hiç beklemedigi bu destek Nisan için çok önemlidir. Mutlulugunu hiçbir seyin bozamayacagini düsünür. Ta ki Türkan&apos;la tanisana dek.</desc>
+		<credits>
+			<actor>Serhat Teoman</actor>
+			<actor>Duygu Yetis</actor>
+			<actor>Rojda Demirer</actor>
+			<actor>Tamer Tirasoglu</actor>
+		</credits>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241224090000 +0000" stop="20241224100000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Nursel&apos;in Mutfagi</title>
+		<desc lang="tr">Türkiye&apos;nin her yerinden lezzetlere ve bilinmeyen tatlara yer veriliyor.</desc>
+		<credits>
+			<actor>Nursel Ergin</actor>
+		</credits>
+		<category lang="tr">Cookery</category>
+		<category lang="tr">Travel</category>
+	</programme>
+	<programme start="20241224100000 +0000" stop="20241224110000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Eylem Aksin Zamani</title>
+		<desc lang="tr">Saglik, sosyal haklar, yasam tarzi, moda ve eglence ve daha birçok konu konusuluyor.</desc>
+		<credits>
+			<actor>Eylem Aksin</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241224110000 +0000" stop="20241224133000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Asla Vazgeçmem</title>
+		<desc lang="tr">Babasinin ölümüyle kimsesiz kalan Nur, İstanbul&apos;un sayili çiftliklerinden Kozan Çiftligi&apos;nde çalisan halasinin yanina siginmak zorunda kalir. Nur&apos;un çiftlik sahibi Yigit Kozan&apos;la tanismasi ise çiftligi altüst edecek firtinali günlerin habercisidir.</desc>
+		<credits>
+			<actor>Tolgahan Sayisman</actor>
+			<actor>Amine Gülse</actor>
+			<actor>Safak Pekdemir</actor>
+			<actor>Aysegül Günay</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Romance</category>
+	</programme>
+	<programme start="20241224110000 +0000" stop="20241224133000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Asla Vazgeçmem</title>
+		<desc lang="tr">Babasinin ölümüyle kimsesiz kalan Nur, İstanbul&apos;un sayili çiftliklerinden Kozan Çiftligi&apos;nde çalisan halasinin yanina siginmak zorunda kalir. Nur&apos;un çiftlik sahibi Yigit Kozan&apos;la tanismasi ise çiftligi altüst edecek firtinali günlerin habercisidir.</desc>
+		<credits>
+			<actor>Tolgahan Sayisman</actor>
+			<actor>Amine Gülse</actor>
+			<actor>Safak Pekdemir</actor>
+			<actor>Aysegül Günay</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Romance</category>
+	</programme>
+	<programme start="20241224133000 +0000" stop="20241224153000 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Kiz Tarafi Erkek Tarafi</title>
+		<desc lang="tr">Erkek Tarafi&apos;nin basinda Alisan, Kiz Tarafi&apos;nin basinda ise Çagla Sikel, 3 kisilik takimlarla kapisiyor, oyun, sohbet, aksiyon ve kahkaha ile ödüller kazaniliyor.</desc>
+		<credits>
+			<actor>Çagla Sikel</actor>
+			<actor>Alisan</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Interview</category>
+	</programme>
+	<programme start="20241224153000 +0000" stop="20241224164500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Ana Haber</title>
+		<desc lang="tr">Türkiye&apos;nin ve dünyanin politika, ekonomi ve kültür-sanat gündeminden gelismelere yer veriliyor.</desc>
+		<credits>
+			<actor>Pinar Erbas</actor>
+		</credits>
+		<category lang="tr">News</category>
+		<category lang="tr">Politics</category>
+	</programme>
+	<programme start="20241224164500 +0000" stop="20241224201500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Mayis Kraliçesi</title>
+		<desc lang="tr">Kizi öldü sanan bir kadin ve annesini baska bir kadin sanan kaynak isçisi güzel bir kizin hikayesi.</desc>
+		<credits>
+			<actor>Yagmur Tanrisevsin</actor>
+			<actor>Ahmet Olgun Sünear</actor>
+			<actor>Samet Sirmali</actor>
+			<actor>Derya Sensoy</actor>
+			<actor>Kazim Aksar</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241224164500 +0000" stop="20241224201500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Mayis Kraliçesi</title>
+		<desc lang="tr">Kizi öldü sanan bir kadin ve annesini baska bir kadin sanan kaynak isçisi güzel bir kizin hikayesi.</desc>
+		<credits>
+			<actor>Yagmur Tanrisevsin</actor>
+			<actor>Ahmet Olgun Sünear</actor>
+			<actor>Samet Sirmali</actor>
+			<actor>Derya Sensoy</actor>
+			<actor>Kazim Aksar</actor>
+		</credits>
+		<category lang="tr">Drama series</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241224201500 +0000" stop="20241224221500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Acil Ask Araniyor</title>
+		<desc lang="tr">Nisan yasadigi kötü günlerden sonra Sinan&apos;in sayesinde yeniden hayata tutunur. Hiç beklemedigi bu destek Nisan için çok önemlidir. Mutlulugunu hiçbir seyin bozamayacagini düsünür. Ta ki Türkan&apos;la tanisana dek.</desc>
+		<credits>
+			<actor>Serhat Teoman</actor>
+			<actor>Duygu Yetis</actor>
+			<actor>Rojda Demirer</actor>
+			<actor>Tamer Tirasoglu</actor>
+		</credits>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241224221500 +0000" stop="20241225001500 +0000" channel="ShowTurk.tr">
+		<title lang="tr">Kiz Tarafi Erkek Tarafi</title>
+		<desc lang="tr">Erkek Tarafi&apos;nin basinda Alisan, Kiz Tarafi&apos;nin basinda ise Çagla Sikel, 3 kisilik takimlarla kapisiyor, oyun, sohbet, aksiyon ve kahkaha ile ödüller kazaniliyor.</desc>
+		<credits>
+			<actor>Çagla Sikel</actor>
+			<actor>Alisan</actor>
+		</credits>
+		<category lang="tr">Variety</category>
+		<category lang="tr">Interview</category>
+	</programme>
+	<programme start="20241222230000 +0000" stop="20241223013000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Hayatın Icinden</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223013000 +0000" stop="20241223030000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Şef Abdullah Usta ile Anadolu Mutfağı</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223030000 +0000" stop="20241223033000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Doktorlar Konusuyor</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/400.418_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223033000 +0000" stop="20241223040000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">SIGN OFF</title>
+		<desc lang="tr">Sign off.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p480440bh8bw_BannerL2_w1920.webp"/>
+	</programme>
+	<programme start="20241223040000 +0000" stop="20241223070000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Cem Küçük İle Günaydın Türkiye</title>
+	</programme>
+	<programme start="20241223070000 +0000" stop="20241223080000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Bilmedikleriniz</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223080000 +0000" stop="20241223090000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Burada Her Sey Var</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223090000 +0000" stop="20241223093500 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Unlulerle Hayata Dair</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.311_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223093500 +0000" stop="20241223094500 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Pınar Ergüner İle Haberin İçinden</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223094500 +0000" stop="20241223123000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Pınar Ergüner İle Haberin İçinden</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223123000 +0000" stop="20241223140000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Şef Abdullah Usta ile Anadolu Mutfağı</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223140000 +0000" stop="20241223143000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Doktorlar Konusuyor</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/400.418_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223143000 +0000" stop="20241223151500 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Türkü Filmler</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223151500 +0000" stop="20241223161500 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Seyyah-ı Fakir</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223161500 +0000" stop="20241223164500 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Dekotrend</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223164500 +0000" stop="20241223180000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Tuna Öztunç İle Ana Haber Bülteni</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223180000 +0000" stop="20241223183000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Çözen Kazanır</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223183000 +0000" stop="20241223190000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Annemi İstiyorum</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.307_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223190000 +0000" stop="20241223203000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Ekstra Futbol</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/500.510_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223203000 +0000" stop="20241223220000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Yakup Sağlam İle Bugünden Yarına</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223220000 +0000" stop="20241223230000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Burada Her Sey Var</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223230000 +0000" stop="20241224013000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Pınar Ergüner İle Haberin İçinden</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241223230000 +0000" stop="20241224013000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Pınar Ergüner İle Haberin İçinden</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224013000 +0000" stop="20241224030000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Şef Abdullah Usta ile Anadolu Mutfağı</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224030000 +0000" stop="20241224033000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Doktorlar Konusuyor</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/400.418_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224033000 +0000" stop="20241224040000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Huzura Doğru</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224040000 +0000" stop="20241224070000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Cem Küçük İle Günaydın Türkiye</title>
+	</programme>
+	<programme start="20241224070000 +0000" stop="20241224080000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Bilmedikleriniz</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224080000 +0000" stop="20241224090000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Burada Her Sey Var</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224090000 +0000" stop="20241224093500 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Unlulerle Hayata Dair</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.311_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224093500 +0000" stop="20241224094500 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Pınar Ergüner İle Haberin İçinden</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224094500 +0000" stop="20241224123000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Pınar Ergüner İle Haberin İçinden</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224123000 +0000" stop="20241224140000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Şef Abdullah Usta ile Anadolu Mutfağı</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224140000 +0000" stop="20241224143000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Doktorlar Konusuyor</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/400.418_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224143000 +0000" stop="20241224151500 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Türkü Filmler</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224151500 +0000" stop="20241224161500 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Seyyah-ı Fakir</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224161500 +0000" stop="20241224164500 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Dekotrend</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224164500 +0000" stop="20241224180000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Tuna Öztunç İle Ana Haber Bülteni</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224180000 +0000" stop="20241224183000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Çözen Kazanır</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224183000 +0000" stop="20241224200000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Gündem Özel</title>
+		<desc lang="tr">Cüneyt Akman&apos;in hazirlayip konuklari ile gündemi degerlendirdigi program.</desc>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224200000 +0000" stop="20241224220000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Yakup Sağlam İle Bugünden Yarına</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.399_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224220000 +0000" stop="20241224230000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Burada Her Sey Var</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/300.317_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241224230000 +0000" stop="20241225013000 +0000" channel="TGRTEU.tr">
+		<title lang="tr">Pınar Ergüner İle Haberin İçinden</title>
+		<icon src="https://services.sg101.prd.sctv.ch/content/imagestv/broadcast/602/700.701_genre_w1920.webp"/>
+	</programme>
+	<programme start="20241222231500 +0000" stop="20241223014500 +0000" channel="TV8International.tr">
+		<title lang="tr">Ben Eşimi Bilmez Miyim</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241223014500 +0000" stop="20241223040000 +0000" channel="TV8International.tr">
+		<title lang="tr">Gazete Magazin</title>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241223040000 +0000" stop="20241223050000 +0000" channel="TV8International.tr">
+		<title lang="tr">Gençlik Rüzgarı</title>
+		<category lang="tr">Film</category>
+		<category lang="tr">Comedy</category>
+	</programme>
+	<programme start="20241223050000 +0000" stop="20241223061500 +0000" channel="TV8International.tr">
+		<title lang="tr">Dizi</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241223050000 +0000" stop="20241223061500 +0000" channel="TV8International.tr">
+		<title lang="tr">Dizi</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241223061500 +0000" stop="20241223073000 +0000" channel="TV8International.tr">
+		<title lang="tr">8&apos;de Saglik / Yeni Bolum</title>
+		<category lang="tr">Health</category>
+	</programme>
+	<programme start="20241223073000 +0000" stop="20241223100000 +0000" channel="TV8International.tr">
+		<title lang="tr">Aramizda Kalmasin</title>
+		<desc lang="tr">Ünlülerin özel hayatlari, magazin dedikodulari, sosyetenin bilinmeyen dünyasiyla ilgili konusuluyor.</desc>
+		<credits>
+			<actor>Deniz Akkaya</actor>
+			<actor>Funda Özkalyoncuoglu</actor>
+			<actor>Jess Molho</actor>
+		</credits>
+		<category lang="tr">News magazine</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241223100000 +0000" stop="20241223114500 +0000" channel="TV8International.tr">
+		<title lang="tr">MasterChef Turkiye</title>
+		<category lang="tr">Cookery</category>
+	</programme>
+	<programme start="20241223114500 +0000" stop="20241223150000 +0000" channel="TV8International.tr">
+		<title lang="tr">İlkay Buharalı&apos;yla Gerçekler</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241223114500 +0000" stop="20241223150000 +0000" channel="TV8International.tr">
+		<title lang="tr">İlkay Buharalı&apos;yla Gerçekler</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241223150000 +0000" stop="20241223190000 +0000" channel="TV8International.tr">
+		<title lang="tr">Zuhal Topal&apos;la</title>
+		<desc lang="tr">Baslangiclar guzeldir, bitisler zor. Tanismalar heyecanli ve umutlu, ayrilislar aci.</desc>
+		<category lang="tr">Talk show</category>
+	</programme>
+	<programme start="20241223150000 +0000" stop="20241223190000 +0000" channel="TV8International.tr">
+		<title lang="tr">Zuhal Topal&apos;la</title>
+		<desc lang="tr">Baslangiclar guzeldir, bitisler zor. Tanismalar heyecanli ve umutlu, ayrilislar aci.</desc>
+		<category lang="tr">Talk show</category>
+	</programme>
+	<programme start="20241223190000 +0000" stop="20241223230000 +0000" channel="TV8International.tr">
+		<title lang="tr">MasterChef Turkiye</title>
+		<category lang="tr">Cookery</category>
+	</programme>
+	<programme start="20241223230000 +0000" stop="20241223231500 +0000" channel="TV8International.tr">
+		<title lang="tr">MasterChef Turkiye</title>
+		<category lang="tr">Cookery</category>
+	</programme>
+	<programme start="20241223231500 +0000" stop="20241224013000 +0000" channel="TV8International.tr">
+		<title lang="tr">İlkay Buharalı&apos;yla Gerçekler</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241223231500 +0000" stop="20241224013000 +0000" channel="TV8International.tr">
+		<title lang="tr">İlkay Buharalı&apos;yla Gerçekler</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241224013000 +0000" stop="20241224033000 +0000" channel="TV8International.tr">
+		<title lang="tr">Zuhal Topal&apos;la Yemekteyiz</title>
+		<category lang="tr">Documentary</category>
+	</programme>
+	<programme start="20241224033000 +0000" stop="20241224050000 +0000" channel="TV8International.tr">
+		<title lang="tr">Aramizda Kalmasin</title>
+		<desc lang="tr">Ünlülerin özel hayatlari, magazin dedikodulari, sosyetenin bilinmeyen dünyasiyla ilgili konusuluyor.</desc>
+		<credits>
+			<actor>Deniz Akkaya</actor>
+			<actor>Funda Özkalyoncuoglu</actor>
+			<actor>Jess Molho</actor>
+		</credits>
+		<category lang="tr">News magazine</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241224050000 +0000" stop="20241224061500 +0000" channel="TV8International.tr">
+		<title lang="tr">Dizi</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241224050000 +0000" stop="20241224061500 +0000" channel="TV8International.tr">
+		<title lang="tr">Dizi</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241224061500 +0000" stop="20241224073000 +0000" channel="TV8International.tr">
+		<title lang="tr">8&apos;de Saglik / Yeni Bolum</title>
+		<category lang="tr">Health</category>
+	</programme>
+	<programme start="20241224073000 +0000" stop="20241224100000 +0000" channel="TV8International.tr">
+		<title lang="tr">Aramizda Kalmasin</title>
+		<desc lang="tr">Ünlülerin özel hayatlari, magazin dedikodulari, sosyetenin bilinmeyen dünyasiyla ilgili konusuluyor.</desc>
+		<credits>
+			<actor>Deniz Akkaya</actor>
+			<actor>Funda Özkalyoncuoglu</actor>
+			<actor>Jess Molho</actor>
+		</credits>
+		<category lang="tr">News magazine</category>
+		<category lang="tr">Entertainment</category>
+	</programme>
+	<programme start="20241224100000 +0000" stop="20241224114500 +0000" channel="TV8International.tr">
+		<title lang="tr">MasterChef Turkiye</title>
+		<category lang="tr">Cookery</category>
+	</programme>
+	<programme start="20241224114500 +0000" stop="20241224150000 +0000" channel="TV8International.tr">
+		<title lang="tr">İlkay Buharalı&apos;yla Gerçekler</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241224114500 +0000" stop="20241224150000 +0000" channel="TV8International.tr">
+		<title lang="tr">İlkay Buharalı&apos;yla Gerçekler</title>
+		<category lang="tr">Variety</category>
+	</programme>
+	<programme start="20241224150000 +0000" stop="20241224190000 +0000" channel="TV8International.tr">
+		<title lang="tr">Zuhal Topal&apos;la</title>
+		<desc lang="tr">Baslangiclar guzeldir, bitisler zor. Tanismalar heyecanli ve umutlu, ayrilislar aci.</desc>
+		<category lang="tr">Talk show</category>
+	</programme>
+	<programme start="20241224150000 +0000" stop="20241224190000 +0000" channel="TV8International.tr">
+		<title lang="tr">Zuhal Topal&apos;la</title>
+		<desc lang="tr">Baslangiclar guzeldir, bitisler zor. Tanismalar heyecanli ve umutlu, ayrilislar aci.</desc>
+		<category lang="tr">Talk show</category>
+	</programme>
+	<programme start="20241224190000 +0000" stop="20241224230000 +0000" channel="TV8International.tr">
+		<title lang="tr">MasterChef Turkiye</title>
+		<category lang="tr">Cookery</category>
+	</programme>
+	<programme start="20241224230000 +0000" stop="20241224231500 +0000" channel="TV8International.tr">
+		<title lang="tr">MasterChef Turkiye</title>
+		<category lang="tr">Cookery</category>
+	</programme>
+	<programme start="20241224231500 +0000" stop="20241225013000 +0000" channel="TV8International.tr">
+		<title lang="tr">İlkay Buharalı&apos;yla Gerçekler</title>
+		<category lang="tr">Variety</category>
+	</programme>
+</tv>

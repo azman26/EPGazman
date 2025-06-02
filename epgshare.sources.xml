@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sources>
+	<!--
+Version: 2025-02-06
+-->
+	<!--
+You can list as many <source> entries in a file as you wish.
+Files or urls for sources and channels ending in '.gz' will be treated as
+gzipped and decompressed while processing.
+Use the "type" attribute to set the python module that handles the file,
+currently type="gen_xmltv" and type="epg.dat" are supported, more will follow once this plugin
+gets more popular.
+The channels property is the local file or URL with channel ID to service ref
+mappings. The default is the same filename but with .channels.xml as extension.
+Each source may use a different channels definition, or multiple sources may use
+the same, whatever is convenient.
+The description must be unique for each source, and is displayed on the UI.
+-->
+	<mappings>
+		<channel name="rytec.channels.xml.xz">
+			<url>http://www.xmltvepg.nl/rytec.channels.xml.xz</url>
+			<url>http://rytecepg.dyndns.tv/epg_data/rytec.channels.xml.xz</url>
+			<url>http://rytecepg.dyndns.tv/rytec.channels.xml.xz</url>
+			<url>http://epg.vuplus-community.net/rytec.channels.xml.xz</url>
+		</channel>
+	</mappings>
+	<sourcecat sourcecatname="EpgShare All XMLTV">
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>All Cowntry - IPTV (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_ALL_SOURCES1.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>Al Jazeera (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_AL1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>Al Jazeera 1(gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_ALJAZEERA1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>AR</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_AR1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>As Television (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_ASIANTELEVISION1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_ASIANTELEVISION1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>AU en(gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_AU1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>BA1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_BA1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_BA1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>BE2 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_BE2.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_BE2.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>BEIN1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_BEIN1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>BG1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_BG1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>BR1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_BR1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_CA1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>CH1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_CH1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>CL1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_CL1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>CO1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_CO1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>CR1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_CR1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>CY1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_CY1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_CY1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>CZ1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_CZ1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>DE1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_DE1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>DELUXEMUSIC1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_DELUXEMUSIC1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_DELUXEMUSIC1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>DIRECTVSPORTS1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_DIRECTVSPORTS1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>DISTROTV1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_DISTROTV1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>DK1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_DK1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_DK1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>DO1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_DO1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>DRAFTKINGS1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_DRAFTKINGS1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_DRAFTKINGS1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>DUMMY_CHANNELS (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_DUMMY_CHANNELS.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>EC1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_EC1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>EG1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_EG1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>ES1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_ES1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>FANDUEL1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_FANDUEL1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>FI1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_FI1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_FI1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>FR1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_FR1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>GR1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_GR1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>HK1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_HK1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>HR1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_HR1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>HU1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_HU1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>ID1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_ID1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>IE1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_IE1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>IL1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_IL1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>IN4 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_IN4.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>IT1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_IT1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>JM1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_JM1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_JM1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>JP1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_JP1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>JP2 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_JP2.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>KE1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_KE1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_KE1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>KR1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_KR1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>LT1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_LT1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>LV1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_LV1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_LV1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>MT1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_MT1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_MT1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>MX1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_MX1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>MY1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_MY1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>NG1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_NG1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>NL1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_NL1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>NO1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_NO1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_NO1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>NZ1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_NZ1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>OPTUSSPORTS1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_OPTUSSPORTS1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_OPTUSSPORTS1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>PA1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_PA1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_PA1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>PAC-12 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_PAC-12.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_PAC-12.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>PE1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_PE1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>PH1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_PH1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>PH2 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_PH2.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>PK1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_PK1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>PL1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_PL1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>PLEX1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_PLEX1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>POWERNATION1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_POWERNATION1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_POWERNATION1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>PT1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_PT1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>RO1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_RO1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>RO2 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_RO2.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>SA1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_SA1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>SA2 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_SA2.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_SA2.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>SE1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_SE1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_SE1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>SG1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_SG1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>SK1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_SK1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>SPORTKLUB1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_SPORTKLUB1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_SPORTKLUB1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>SSPORTPLUS1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_SSPORTPLUS1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_SSPORTPLUS1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>SV1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_SV1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>TBNPLUS1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_TBNPLUS1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_TBNPLUS1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>THESPORTPLUS1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_THESPORTPLUS1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_THESPORTPLUS1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>TR1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_TR1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>TR3 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_TR3.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>UK1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_UK1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>US1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_US1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>US_LOCALS2 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_US_LOCALS2.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>US_SPORTS1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_US_SPORTS1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>UY1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_UY1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>VN1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_VN1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_VN1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>VOA1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_VOA1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_VOA1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>ZA1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_ZA1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>VIVA RU (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_viva-russia.ru.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_viva-russia.ru.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>LOCOMOTION TV (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/locomotiontv.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/locomotiontv.xml.gz</url>
+		</source>
+	</sourcecat>
+	<sourcecat sourcecatname="EpgShare RAKUTEN XMLTV">
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>RAKUTEN_DE1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_RAKUTEN_DE1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_DE1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>RAKUTEN_EN1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_RAKUTEN_EN1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>RAKUTEN ES1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_RAKUTEN_ES1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_ES1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>RAKUTEN FR1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_RAKUTEN_FR1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_FR1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>RAKUTEN IT1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_RAKUTEN_IT1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_IT1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>RAKUTEN NL1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_RAKUTEN_NL1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_NL1.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="rytec.channels.xml.xz">
+			<description>RAKUTEN PL1 (gz)</description>
+			<url>https://raw.githubusercontent.com/oe-alliance/epgimportgz/gh-pages/epg_ripper_RAKUTEN_PL1.xml.gz</url>
+			<url>https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_PL1.xml.gz</url>
+		</source>
+	</sourcecat>
+	<sourcecat sourcecatname="MJH NZ PLUTO TV XMLTV">
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/all.xml">
+			<description>PLUTO TV ALL (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/all.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/ar.xml">
+			<description>PLUTO TV AR (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/ar.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/ar.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/br.xml">
+			<description>PLUTO TV BR (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/br.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/br.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/ca.xml">
+			<description>PLUTO TV CA (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/ca.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/ca.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/cl.xml">
+			<description>PLUTO TV CL (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/cl.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/cl.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/de.xml">
+			<description>PLUTO TV DE (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/de.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/de.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/dk.xml">
+			<description>PLUTO TV DK (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/dk.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/dk.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/es.xml">
+			<description>PLUTO TV ES (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/es.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/es.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/fr.xml">
+			<description>PLUTO TV FR (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/fr.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/fr.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/gb.xml">
+			<description>PLUTO TV GB (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/gb.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/gb.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/it.xml">
+			<description>PLUTO TV IT (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/it.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/it.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/mx.xml">
+			<description>PLUTO TV MX (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/mx.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/mx.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/no.xml">
+			<description>PLUTO TV NO (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/no.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/no.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/se.xml">
+			<description>PLUTO TV SE (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/se.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/se.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/PlutoTV/us.xml">
+			<description>PLUTO TV US (gz)</description>
+			<url>https://i.mjh.nz/PlutoTV/us.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/us.xml.gz</url>
+		</source>
+	</sourcecat>
+	<sourcecat sourcecatname="MJH NZ SAMSUNG TV PLUS XMLTV">
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/all.xml">
+			<description>SAMSUNG TV PLUS ALL (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/all.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/at.xml">
+			<description>SAMSUNG TV PLUS AT (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/at.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/at.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/ca.xml">
+			<description>SAMSUNG TV PLUS CA (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/ca.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/ca.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/ch.xml">
+			<description>SAMSUNG TV PLUS CH (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/ch.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/ch.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/de.xml">
+			<description>SAMSUNG TV PLUS DE (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/de.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/de.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/es.xml">
+			<description>SAMSUNG TV PLUS ES (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/es.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/es.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/fr.xml">
+			<description>SAMSUNG TV PLUS FR (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/fr.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/fr.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/gb.xml">
+			<description>SAMSUNG TV PLUS GB (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/gb.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/gb.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/in.xml">
+			<description>SAMSUNG TV PLUS IN (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/in.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/in.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/it.xml">
+			<description>SAMSUNG TV PLUS IT (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/it.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/it.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/kr.xml">
+			<description>SAMSUNG TV PLUS KR (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/kr.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/kr.xml.gz</url>
+		</source>
+		<source type="gen_xmltv" channels="https://i.mjh.nz/SamsungTVPlus/us.xml">
+			<description>SAMSUNG TV PLUS US (gz)</description>
+			<url>https://i.mjh.nz/SamsungTVPlus/us.xml.gz</url>
+			<url>https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/us.xml.gz</url>
+		</source>
+	</sourcecat>
+</sources>
