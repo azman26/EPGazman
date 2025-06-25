@@ -387,6 +387,10 @@ azman_dict = {  # !!!!!!!!!!!!!!!!!!!!!!! WP Pilot ############################
                 'serialemedycznehd' :               '1:0:1:339:A11A:2268:0:0:0:0:',
                 'filmy&realityhd' :                 '1:0:1:33A:A11A:2268:0:0:0:0:',
                 'calaprawdaosporciehd' :            '1:0:1:33B:A11A:2268:0:0:0:0:',
+                'unbeatenchannelhd' :               '1:0:1:BD3E:C33A:EC:0:0:0:0',
+                'wędkarstwosportowehd' :            '1:0:1:33C:A11A:2268:0:0:0:0',
+                'cocobitvsongshd' :                 '1:0:1:33D:A11A:2268:0:0:0:0',
+                'cocobitvfunplayhd' :               '1:0:1:33E:A11A:2268:0:0:0:0',
                 # !!!!!!!!!!!!!!!!!!!!!!! PolsatBox GO ############################
                 '1+1':                              '1:0:1:A855:B70C:EC:0:0:0:0',
                 '13ulica':                          '1:0:1:3E26:2EE0:13E:820000:0:0:0',
