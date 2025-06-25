@@ -365,9 +365,6 @@
 <!-- 13.0E --><channel id="TvOkazje.pl">1:0:1:1C97:1CE8:71:820000:0:0:0:</channel><!-- TV Okazje -->
 <!-- 13.0E --><channel id="TvPuls.pl">1:0:1:3D66:2C88:13E:820000:0:0:0:</channel><!-- TV Puls HD -->
 <!-- 13.0E --><channel id="TvRepublika.pl">1:0:1:4289:2BC0:13E:820000:0:0:0:</channel><!-- TV Republika -->
-<!-- 13.0E --><channel id="VOD202.pl">1:0:1:3C:1964:13E:820000:0:0:0:</channel><!-- VOD 2 -->
-<!-- 13.0E --><channel id="VOD203.pl">1:0:1:3D:1964:13E:820000:0:0:0:</channel><!-- VOD 3 -->
-<!-- 13.0E --><channel id="VOD204.pl">1:0:1:3E:1964:13E:820000:0:0:0:</channel><!-- VOD 4 -->
 <!-- 13.0E --><channel id="VOD205.pl">1:0:1:3F:1964:13E:820000:0:0:0:</channel><!-- VOD 5 -->
 <!-- 13.0E --><channel id="VOD206.pl">1:0:1:40:1964:13E:820000:0:0:0:</channel><!-- VOD 6 -->
 <!-- 13.0E --><channel id="VOD207.pl">1:0:1:41:1964:13E:820000:0:0:0:</channel><!-- VOD 7 -->
@@ -387,9 +384,7 @@
 <!-- 13.0E --><channel id="ZoomTv.pl">1:0:1:4291:2BC0:13E:820000:0:0:0:</channel><!-- Zoom TV -->
 <!-- 13.0E --><channel id="wPolsce24.pl">1:0:1:4279:2BC0:13E:820000:0:0:0:</channel><!-- wPolsce24 -->
 <!-- 13.0E --><channel id="PolsatX.pl">1:0:1:1C8B:1CE8:71:820000:0:0:0:</channel><!-- Polsat X -->
-<!-- 13.0E --><channel id="PolsatReality.pl">1:0:1:3E21:2EE0:13E:820000:0:0:0:</channel><!-- Polsat Reality -->
 <!-- 13.0E --><channel id="PolsatReality.pl">1:0:1:1CCD:1CE8:71:820000:0:0:0:</channel><!-- Polsat Reality -->
-<!-- 13.0E --><channel id="PolsatFilm2.pl">1:0:1:3E1F:2EE0:13E:820000:0:0:0:</channel><!-- Polsat Film 2 -->
 <!-- 13.0E --><channel id="PolsatFilm2.pl">1:0:1:1CCF:1CE8:71:820000:0:0:0:</channel><!-- Polsat Film 2 -->
 
 <!-- 19.2E --><channel id="CNN.pl">1:0:1:164E:42C:1:C00000:0:0:0:</channel><!-- CNN -->
@@ -691,6 +686,7 @@
 <!-- IPTV --><channel id="WedkarstwoSportowe.swtv.pl">4097:0:1:33C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Wędkarstwo sportowe HD -->
 <!-- IPTV --><channel id="CocobiTvSongs.swtv.pl">4097:0:1:33D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Songs HD -->
 <!-- IPTV --><channel id="CocobiTvFunPlay.swtv.pl">4097:0:1:33E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Fun Play HD -->
+<!-- IPTV --><channel id="UnbeatenChannel.swtv.pl">4097:0:1:BD3E:C33A:EC:0:0:0:0:http%3a//</channel><!-- Unbeaten Channel HD -->
 
 <!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
 
