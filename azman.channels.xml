@@ -496,7 +496,8 @@
 <!-- IPTV --><channel id="EskaHityNaCzasie.pl">4097:0:1:3167:CB6C:EC:0:0:0:0:http%3a//</channel><!-- Eska Hity Na Czasie -->
 <!-- IPTV --><channel id="EskaRockDobrzeRockuje.pl">4097:0:1:175D:100D:EC:0:0:0:0:http%3a//</channel><!-- Eska Rock Dobrze Rockuje -->
 <!-- IPTV --><channel id="Eurochannel.pl">4097:0:1:4:2:16E:A00000:0:0:0:http%3a//</channel><!-- EUROCHANNEL -->
-<!-- IPTV --><channel id="FanKlubTv.pl">4097:0:19:1776:6A:64:FFFF0000:0:0:0:http%3a//</channel><!-- FANKLUB TV -->
+<!-- IPTV --><channel id="EuronewsPL.pl">4097:0:1:8072:5DDF:EC:0:0:0:0:http%3a//</channel><!-- Euronews PL -->
+<!-- IPTV --><channel id="FashionTV4K.pl">4097:0:1:80A0:14E5:EC:0:0:0:0:http%3a//</channel><!-- Fashion TV 4K -->
 <!-- IPTV --><channel id="FashionBox.pl">4097:0:1:CFD7:D8C:EC:0:0:0:0:http%3a//</channel><!-- FashionBox -->
 <!-- IPTV --><channel id="FastAndFunBox.pl">4097:0:1:A250:BF6E:EC:0:0:0:0:http%3a//</channel><!-- Fast And FunBox -->
 <!-- IPTV --><channel id="Filmax.pl">4097:0:1F:4C:14:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Filmax -->
@@ -655,6 +656,7 @@
 <!-- IPTV --><channel id="Now80s.rtv.pl">4097:0:1:1FA:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 80s -->
 <!-- IPTV --><channel id="NowRock.rtv.pl">4097:0:1:1FB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now Rock -->
 <!-- IPTV --><channel id="Travelxp.rtv.pl">4097:0:1:1FE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Travel XP -->
+<!-- IPTV --><channel id="Now90s00s.rtv.pl">4097:0:1:1FF:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 90s00s -->
 
 <!-- Sweet TV --><!-- 800-999:A11A:2268 -->
 
