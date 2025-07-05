@@ -451,7 +451,7 @@
 <!-- 9.0E --><channel id="StingrayCMusic.pl">1:0:1:41D:1:AA:5A0000:0:0:0:</channel><!-- Stingray CMusic -->
 <!-- 9.0E --><channel id="StingrayiConcerts.pl">1:0:1:3F5:1:AA:5A0000:0:0:0:</channel><!-- Stingray iConcerts -->
 
-<!-- IPTV --><!-- 1-500:A11A:2268 -->
+<!-- IPTV --><!-- 1-400:A11A:2268 -->
 
 <!-- IPTV --><channel id="13Tv.pl">4097:0:1:C6A0:D5D:EC:0:0:0:0:http%3a//</channel><!-- 13 TV -->
 <!-- IPTV --><channel id="1plus1International.pl">4097:0:1:A855:B70C:EC:0:0:0:0:http%3a//</channel><!-- 1+1 Ukraina -->
@@ -658,7 +658,32 @@
 <!-- IPTV --><channel id="Travelxp.rtv.pl">4097:0:1:1FE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Travel XP -->
 <!-- IPTV --><channel id="Now90s00s.rtv.pl">4097:0:1:1FF:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 90s00s -->
 
-<!-- Sweet TV --><!-- 800-999:A11A:2268 -->
+<!-- FAST Player TVN --><!-- 700-799:A11A:2268 -->
+
+<!-- IPTV --><channel id="tvnKultoweSeriale.pl">4097:0:1:2BC:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Kultowe Seriale -->
+<!-- IPTV --><channel id="tvnKryminalnie.pl">4097:0:1:2BD:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Kryminalnie -->
+<!-- IPTV --><channel id="tvnMoto.pl">4097:0:1:2BE:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Moto -->
+<!-- IPTV --><channel id="tvnTelenowele.pl">4097:0:1:2BF:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Telenowele -->
+<!-- IPTV --><channel id="tvnRewolucjewKuchni.pl">4097:0:1:2C0:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Rewolucje w Kuchni -->
+<!-- IPTV --><channel id="tvnRajskaMilosc.pl">4097:0:1:2C1:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Rajska Miłość -->
+<!-- IPTV --><channel id="tvnTalkShow.pl">4097:0:1:2C2:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Talk Show -->
+<!-- IPTV --><channel id="tvnMomentyPrawdy.pl">4097:0:1:2C3:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Momenty Prawdy -->
+<!-- IPTV --><channel id="tvnZycieJakwBajce.pl">4097:0:1:2C4:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Życie Jak w Bajce -->
+<!-- IPTV --><channel id="tvnSzpitalneHistorie.pl">4097:0:1:2C5:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Szpitalne Historie -->
+<!-- IPTV --><channel id="tvnSerialeoKobietach.pl">4097:0:1:2C6:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Seriale o Kobietach -->
+<!-- IPTV --><channel id="tvnSzkolaZycia.pl">4097:0:1:2C7:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Szkoła Życia -->
+<!-- IPTV --><channel id="tvnWDomu.pl">4097:0:1:2C8:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn W Domu -->
+<!-- IPTV --><channel id="tvnUsterka.pl">4097:0:1:2C9:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Usterka -->
+<!-- IPTV --><channel id="tvnPrawoiZycie.pl">4097:0:1:2CA:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Prawo i Życie -->
+<!-- IPTV --><channel id="tvnMilionerzy.pl">4097:0:1:2CB:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Milionerzy -->
+<!-- IPTV --><channel id="tvnPoraNaShow.pl">4097:0:1:2CC:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Pora Na Show -->
+<!-- IPTV --><channel id="tvnPatrol.pl">4097:0:1:2CD:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Patrol -->
+<!-- IPTV --><channel id="tvnKulinarnePodroze.pl">4097:0:1:2CE:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Kulinarne Podróże -->
+<!-- IPTV --><channel id="tvnCzasNaSlub.pl">4097:0:1:2CF:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Czas Na Ślub -->
+<!-- IPTV --><channel id="tvnBrzydula.pl">4097:0:1:2D0:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Brzudula -->
+<!-- IPTV --><channel id="tvnMamTalent.pl">4097:0:1:2D1:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Mam Talent -->
+
+<!-- Sweet TV --><!-- 800-899:A11A:2268 -->
 
 <!-- IPTV --><channel id="DaVinciOdkrywajSwiat.swtv.pl">4097:0:1:320:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Explore The World -->
 <!-- IPTV --><channel id="DaVinciOperacjaAuc.swtv.pl">4097:0:1:321:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Operation Ouch -->
@@ -690,30 +715,27 @@
 <!-- IPTV --><channel id="CocobiTvFunPlay.swtv.pl">4097:0:1:33E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Fun Play HD -->
 <!-- IPTV --><channel id="UnbeatenChannel.swtv.pl">4097:0:1:BD3E:C33A:EC:0:0:0:0:http%3a//</channel><!-- Unbeaten Channel HD -->
 
-<!-- FAST Player TVN --><!-- 700-800:A11A:2268 -->
+<!-- Polsat Box GO --><!-- 900-999:A11A:2268 -->
 
-<!-- IPTV --><channel id="tvnKultoweSeriale.pl">4097:0:1:2BC:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Kultowe Seriale -->
-<!-- IPTV --><channel id="tvnKryminalnie.pl">4097:0:1:2BD:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Kryminalnie -->
-<!-- IPTV --><channel id="tvnMoto.pl">4097:0:1:2BE:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Moto -->
-<!-- IPTV --><channel id="tvnTelenowele.pl">4097:0:1:2BF:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Telenowele -->
-<!-- IPTV --><channel id="tvnRewolucjewKuchni.pl">4097:0:1:2C0:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Rewolucje w Kuchni -->
-<!-- IPTV --><channel id="tvnRajskaMilosc.pl">4097:0:1:2C1:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Rajska Miłość -->
-<!-- IPTV --><channel id="tvnTalkShow.pl">4097:0:1:2C2:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Talk Show -->
-<!-- IPTV --><channel id="tvnMomentyPrawdy.pl">4097:0:1:2C3:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Momenty Prawdy -->
-<!-- IPTV --><channel id="tvnZycieJakwBajce.pl">4097:0:1:2C4:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Życie Jak w Bajce -->
-<!-- IPTV --><channel id="tvnSzpitalneHistorie.pl">4097:0:1:2C5:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Szpitalne Historie -->
-<!-- IPTV --><channel id="tvnSerialeoKobietach.pl">4097:0:1:2C6:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Seriale o Kobietach -->
-<!-- IPTV --><channel id="tvnSzkolaZycia.pl">4097:0:1:2C7:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Szkoła Życia -->
-<!-- IPTV --><channel id="tvnWDomu.pl">4097:0:1:2C8:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn W Domu -->
-<!-- IPTV --><channel id="tvnUsterka.pl">4097:0:1:2C9:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Usterka -->
-<!-- IPTV --><channel id="tvnPrawoiZycie.pl">4097:0:1:2CA:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Prawo i Życie -->
-<!-- IPTV --><channel id="tvnMilionerzy.pl">4097:0:1:2CB:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Milionerzy -->
-<!-- IPTV --><channel id="tvnPoraNaShow.pl">4097:0:1:2CC:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Pora Na Show -->
-<!-- IPTV --><channel id="tvnPatrol.pl">4097:0:1:2CD:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Patrol -->
-<!-- IPTV --><channel id="tvnKulinarnePodroze.pl">4097:0:1:2CE:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Kulinarne Podróże -->
-<!-- IPTV --><channel id="tvnCzasNaSlub.pl">4097:0:1:2CF:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Czas Na Ślub -->
-<!-- IPTV --><channel id="tvnBrzydula.pl">4097:0:1:2D0:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Brzudula -->
-<!-- IPTV --><channel id="tvnMamTalent.pl">4097:0:1:2D1:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Mam Talent -->
+<!-- IPTV --><channel id="SwiatWedlugKiepskich.pl">4097:0:1:384:A11A:2268:0:0:0:0:http%3a//</channel><!-- Świat według Kiepskich -->
+<!-- IPTV --><channel id="SprawiedliwiWydzialKryminalny.pl">4097:0:1:385:A11A:2268:0:0:0:0:http%3a//</channel><!-- Sprawiedliwi - Wydział Kryminalny -->
+<!-- IPTV --><channel id="PolicjantkiIPolicjanci.pl">4097:0:1:386:A11A:2268:0:0:0:0:http%3a//</channel><!-- Policjantki i Policjanci -->
+<!-- IPTV --><channel id="Gliniarze.pl">4097:0:1:387:A11A:2268:0:0:0:0:http%3a//</channel><!-- Gliniarze -->
+<!-- IPTV --><channel id="WlatcyMóch.pl">4097:0:1:388:A11A:2268:0:0:0:0:http%3a//</channel><!-- Włatcy móch -->
+<!-- IPTV --><channel id="ChlopakiDoWziecia.pl">4097:0:1:389:A11A:2268:0:0:0:0:http%3a//</channel><!-- Chłopaki do wzięcia -->
+<!-- IPTV --><channel id="NaszNowyDom.pl">4097:0:1:38A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Nasz nowy dom -->
+<!-- IPTV --><channel id="EwaGotuje.pl">4097:0:1:38B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Ewa gotuje -->
+<!-- IPTV --><channel id="DalekoOdNoszy.pl">4097:0:1:38C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Daleko od noszy -->
+<!-- IPTV --><channel id="TrudneSprawy.pl">4097:0:1:38D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Trudne sprawy -->
+<!-- IPTV --><channel id="DlaczegoJa.pl">4097:0:1:38E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Dlaczego ja? -->
+<!-- IPTV --><channel id="PamietnikiZWakacji.pl">4097:0:1:38F:A11A:2268:0:0:0:0:http%3a//</channel><!-- Pamiętniki z wakacji -->
+<!-- IPTV --><channel id="Bajki.pl">4097:0:1:390:A11A:2268:0:0:0:0:http%3a//</channel><!-- Bajki -->
+<!-- IPTV --><channel id="Komedie.pl">4097:0:1:391:A11A:2268:0:0:0:0:http%3a//</channel><!-- Komedie -->
+<!-- IPTV --><channel id="Kabarety.pl">4097:0:1:392:A11A:2268:0:0:0:0:http%3a//</channel><!-- Kabarety -->
+<!-- IPTV --><channel id="Zbrodnie.pl">4097:0:1:393:A11A:2268:0:0:0:0:http%3a//</channel><!-- Zbrodnie -->
+<!-- IPTV --><channel id="WielkaRozrywka.pl">4097:0:1:394:A11A:2268:0:0:0:0:http%3a//</channel><!-- Wielka Rozrywka -->
+<!-- IPTV --><channel id="WielkieFestiwale.pl">4097:0:1:395:A11A:2268:0:0:0:0:http%3a//</channel><!-- Wielkie festiwale -->
+<!-- IPTV --><channel id="ZycioweHistorie.pl">4097:0:1:396:A11A:2268:0:0:0:0:http%3a//</channel><!-- Życiowe historie -->
 
 <!-- RADIO --><!-- 1-200:A22A:2268 -->
 
