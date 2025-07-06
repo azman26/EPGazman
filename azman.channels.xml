@@ -570,6 +570,8 @@
 <!-- IPTV --><channel id="XtremeTv.pl">4097:0:1F:4F:9192:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Xtreme TV -->
 <!-- IPTV --><channel id="TVBoleslawiec.pl">4097:0:1:DCC6:F661:EC:0:0:0:0:http%3a//</channel><!-- TV Bolesławiec -->
 <!-- IPTV --><channel id="LubuskaTVHoryzont.pl">4097:0:1:3AF1:7638:EC:0:0:0:0:http%3a//</channel><!-- Lubuska TV Horyzont -->
+<!-- IPTV --><channel id="ClubbingTv.pl">4097:0:1:1FC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Clubbing TV -->
+
 
 <!-- TVP VOD -->
 
@@ -649,7 +651,6 @@
 <!-- IPTV --><channel id="RoyalWorld.rtv.pl">4097:0:1:1B7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Royalworld -->
 <!-- IPTV --><channel id="ViasatExploreClassic.rtv.pl">4097:0:1:1C7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viasat Explore Classic -->
 <!-- IPTV --><channel id="RedCarpetTvInternational.rtv.pl">4097:0:1:1D7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Red Carpet TV International -->
-<!-- IPTV --><channel id="ClubbingTv.rtv.pl">4097:0:1:1FC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Clubbing TV -->
 <!-- IPTV --><channel id="QwestTv.rtv.pl">4097:0:1:1FD:A11A:2268:0:0:0:0:http%3a//</channel><!-- Qwest TV -->
 <!-- IPTV --><channel id="TraceUrban.rtv.pl">4097:0:1:1F8:A11A:2268:0:0:0:0:http%3a//</channel><!-- Trace Urban -->
 <!-- IPTV --><channel id="Now70s.rtv.pl">4097:0:1:1F9:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 70s -->
