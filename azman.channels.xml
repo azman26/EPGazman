@@ -408,8 +408,7 @@
 <!-- 13.0E --><channel id="BBCNews.pl">1:0:1:42EA:3138:13E:820000:0:0:0:</channel><!-- BBC News -->
 <!-- 13.0E --><channel id="Bloomberg.pl">1:0:1:1C86:332C:13E:820000:0:0:0:</channel><!-- Bloomberg European TV -->
 <!-- 13.0E --><channel id="CNBC.pl">1:0:19:1C4D:1A2C:FBFF:820000:0:0:0:</channel><!-- CNBC HD -->
-<!-- 13.0E --><channel id="CurrentTime.pl">1:0:1:C8:1DB0:13E:820000:0:0:0:</channel><!-- Current Time -->
-<!-- 13.0E --><channel id="CurrentTime.pl">1:0:1:C8:65:1:820000:0:0:0:</channel><!-- Current Time -->
+<!-- 13.0E --><channel id="CurrentTime.pl">1:0:16:13B2:2710:D5:820000:0:0:0:</channel><!-- Current Time -->
 <!-- 13.0E --><channel id="DWEnglish.pl">1:0:1:332D:1388:13E:820000:0:0:0:</channel><!-- DW English HD -->
 <!-- 13.0E --><channel id="EspressoTv.pl">1:0:1:4235:2F44:13E:820000:0:0:0:</channel><!-- Espresso TV -->
 <!-- 13.0E --><channel id="Euronews.pl">1:0:1:321:3BC4:13E:820000:0:0:0:</channel><!-- Euronews English HD -->
@@ -715,7 +714,11 @@
 <!-- IPTV --><channel id="WedkarstwoSportowe.swtv.pl">4097:0:1:33C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Wędkarstwo sportowe HD -->
 <!-- IPTV --><channel id="CocobiTvSongs.swtv.pl">4097:0:1:33D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Songs HD -->
 <!-- IPTV --><channel id="CocobiTvFunPlay.swtv.pl">4097:0:1:33E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Fun Play HD -->
-<!-- IPTV --><channel id="UnbeatenChannel.swtv.pl">4097:0:1:BD3E:C33A:EC:0:0:0:0:http%3a//</channel><!-- Unbeaten Channel HD -->
+<!-- IPTV --><channel id="UnbeatenChannel.swtv.pl">4097:0:1:33F:A11A:2268:0:0:0:0:http%3a//</channel><!-- Unbeaten Channel HD -->
+<!-- IPTV --><channel id="DoRoboty.swtv.pl">4097:0:1:340:A11A:2268:0:0:0:0:http%3a//</channel><!-- Do Roboty HD -->
+<!-- IPTV --><channel id="Bollywood.swtv.pl">4097:0:1:341:A11A:2268:0:0:0:0:http%3a//</channel><!-- Bollywood HD -->
+<!-- IPTV --><channel id="CookingWithByronTalbott.swtv.pl">4097:0:1:342:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cooking with Byron Talbott HD -->
+<!-- IPTV --><channel id="JedenGniewnyCharlie.swtv.pl">4097:0:1:343:A11A:2268:0:0:0:0:http%3a//</channel><!-- Jeden Gniewny Charlie HD -->
 
 <!-- Polsat Box GO --><!-- 900-999:A11A:2268 -->
 
