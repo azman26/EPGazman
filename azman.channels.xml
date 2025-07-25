@@ -36,6 +36,7 @@
 <!-- 13.0E --><channel id="BBCLifestyle.pl">1:0:1:7DB:22C4:13E:820000:0:0:0:</channel><!-- BBC Lifestyle HD -->
 <!-- 13.0E --><channel id="BBCLifestyle.pl">1:0:1:7E5:22C4:13E:820000:0:0:0:</channel><!-- BBC Lifestyle HD -->
 <!-- 13.0E --><channel id="BabyTv.pl">1:0:1:53B:3D54:13E:820000:0:0:0:</channel><!-- Baby TV -->
+<!-- 13.0E --><channel id="BabyTv.pl">1:0:1:1201:2B5C:13E:820000:0:0:0:</channel><!-- Baby TV -->
 <!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:1140:2AF8:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="BrazzersTv.pl">1:0:19:422C:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:13ED:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
@@ -55,12 +56,12 @@
 <!-- 13.0E --><channel id="C+Domo.pl">1:0:1:1421:5DC:13E:820000:0:0:0:</channel><!-- CANAL+ DOMO HD -->
 <!-- 13.0E --><channel id="C+Extra1.pl">1:0:1:32E1:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 1 -->
 <!-- 13.0E --><channel id="C+Extra1.pl">1:0:1:3313:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 1 -->
-<!-- 13.0E --><channel id="C+Extra2.pl">1:0:1:32E2:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 2 -->
-<!-- 13.0E --><channel id="C+Extra2.pl">1:0:1:3314:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 2 -->
+<!-- 13.0E --><channel id="C+Extra2.pl">1:0:1:3783:44C:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 2 -->
+<!-- 13.0E --><channel id="C+Extra2.pl">1:0:1:37B5:44C:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 2 -->
 <!-- 13.0E --><channel id="C+Extra3.pl">1:0:1:32E3:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 3 -->
 <!-- 13.0E --><channel id="C+Extra3.pl">1:0:1:3315:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 3 -->
-<!-- 13.0E --><channel id="C+Extra4.pl">1:0:1:3AA3:514:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 4 -->
-<!-- 13.0E --><channel id="C+Extra4.pl">1:0:1:3AD5:514:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 4 -->
+<!-- 13.0E --><channel id="C+Extra4.pl">1:0:1:32E4:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 4 -->
+<!-- 13.0E --><channel id="C+Extra4.pl">1:0:1:3316:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 4 -->
 <!-- 13.0E --><channel id="C+Film.pl">1:0:1:3779:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FILM HD -->
 <!-- 13.0E --><channel id="C+Film.pl">1:0:1:37AB:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FILM HD -->
 <!-- 13.0E --><channel id="C+Kuchnia.pl">1:0:19:377F:44C:13E:820000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
