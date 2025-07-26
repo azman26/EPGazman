@@ -571,7 +571,8 @@
 <!-- IPTV --><channel id="TVBoleslawiec.pl">4097:0:1:DCC6:F661:EC:0:0:0:0:http%3a//</channel><!-- TV Bolesławiec -->
 <!-- IPTV --><channel id="LubuskaTVHoryzont.pl">4097:0:1:3AF1:7638:EC:0:0:0:0:http%3a//</channel><!-- Lubuska TV Horyzont -->
 <!-- IPTV --><channel id="ClubbingTv.pl">4097:0:1:1FC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Clubbing TV -->
-
+<!-- IPTV --><channel id="EWTNPolska.pl">4097:0:1:70:1:48:0:0:0:0:http%3a//</channel><!-- EWTN Polska -->
+<!-- IPTV --><channel id="RadioWroclawKultura.pl">4097:0:1:3204:B5D9:EC:0:0:0:0:http%3a//</channel><!-- Radio Wrocław Kultura -->
 
 <!-- TVP VOD -->
 
