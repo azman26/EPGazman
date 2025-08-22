@@ -208,7 +208,6 @@
 <!-- 13.0E --><channel id="NatGeoWild.pl">1:0:1:1428:5DC:13E:820000:0:0:0:</channel><!-- National Geographic Wild HD -->
 <!-- 13.0E --><channel id="NatGeoWild.pl">1:0:1:1446:5DC:13E:820000:0:0:0:</channel><!-- National Geographic Wild HD -->
 <!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:32DF:190:13E:820000:0:0:0:</channel><!-- NATIONAL GEO HD -->
-<!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:32FD:190:13E:820000:0:0:0:</channel><!-- NATIONAL GEO HD -->
 <!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:331B:190:13E:820000:0:0:0:</channel><!-- NATIONAL GEO HD -->
 <!-- 13.0E --><channel id="NickJr.pl">1:0:1:3:1964:13E:820000:0:0:0:</channel><!-- Nick Jr -->
 <!-- 13.0E --><channel id="NickMusic.pl">1:0:1:2:1964:13E:820000:0:0:0:</channel><!-- Nick Music -->
@@ -349,7 +348,6 @@
 <!-- 13.0E --><channel id="TVPSeriale.pl">1:0:1:3D5C:2C88:13E:820000:0:0:0:</channel><!-- TVP SERIALE -->
 <!-- 13.0E --><channel id="TVPSeriale.pl">1:0:1:3D8E:2C88:13E:820000:0:0:0:</channel><!-- TVP SERIALE -->
 <!-- 13.0E --><channel id="TVPSport.pl">1:0:1:3A9E:514:13E:820000:0:0:0:</channel><!-- TVP Sport HD -->
-<!-- 13.0E --><channel id="TVPSport.pl">1:0:1:3AD0:514:13E:820000:0:0:0:</channel><!-- TVP Sport HD -->
 <!-- 13.0E --><channel id="TVS.pl">1:0:1:1135:2AF8:13E:820000:0:0:0:</channel><!-- TVS -->
 <!-- 13.0E --><channel id="TVS.pl">1:0:1:3D58:2C88:13E:820000:0:0:0:</channel><!-- TVS -->
 <!-- 13.0E --><channel id="TeenNick.pl">1:0:19:3784:44C:13E:820000:0:0:0:</channel><!-- TeenNick -->
@@ -720,6 +718,13 @@
 <!-- IPTV --><channel id="Bollywood.swtv.pl">4097:0:1:341:A11A:2268:0:0:0:0:http%3a//</channel><!-- Bollywood HD -->
 <!-- IPTV --><channel id="CookingWithByronTalbott.swtv.pl">4097:0:1:342:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cooking with Byron Talbott HD -->
 <!-- IPTV --><channel id="JedenGniewnyCharlie.swtv.pl">4097:0:1:343:A11A:2268:0:0:0:0:http%3a//</channel><!-- Jeden Gniewny Charlie HD -->
+<!-- IPTV --><channel id="HellOnWheelsWitajWPiekle.swtv.pl">4097:0:1:344:A11A:2268:0:0:0:0:http%3a//</channel><!-- Hell on Wheels: Witaj w piekle HD -->
+<!-- IPTV --><channel id="SzpitalNadziei.swtv.pl">4097:0:1:345:A11A:2268:0:0:0:0:http%3a//</channel><!-- Szpital nadziei HD -->
+<!-- IPTV --><channel id="Okup.swtv.pl">4097:0:1:346:A11A:2268:0:0:0:0:http%3a//</channel><!-- Okup HD -->
+<!-- IPTV --><channel id="PanoramaKina.swtv.pl">4097:0:1:347:A11A:2268:0:0:0:0:http%3a//</channel><!-- Panorama Kina HD -->
+<!-- IPTV --><channel id="StrefaThrillera.swtv.pl">4097:0:1:348:A11A:2268:0:0:0:0:http%3a//</channel><!-- Thriller Time HD -->
+<!-- IPTV --><channel id="SwiatKomedii.swtv.pl">4097:0:1:349:A11A:2268:0:0:0:0:http%3a//</channel><!-- Świat Komedii HD -->
+<!-- IPTV --><channel id="Smerfy.swtv.pl">4097:0:1:34A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Smerfy HD -->
 
 <!-- Polsat Box GO --><!-- 900-999:A11A:2268 -->
 
@@ -897,6 +902,7 @@
 <!-- RADIO IP --><channel id="RadioBonTonChelm.pl">4097:0:2:5A:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO BONTON CHEŁM -->
 <!-- RADIO IP --><channel id="KatolickieRadioZamosc.pl">4097:0:2:5B:A22A:2268:0:0:0:0:http%3a//</channel><!-- KATOLICKIE RADIO ZAMOŚĆ -->
 <!-- RADIO IP --><channel id="RadioRSC.pl">4097:0:2:5C:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO RSC -->
+<!-- RADIO IP --><channel id="RadioRepublika.pl">4097:0:1:134:7CEA:EC:0:0:0:0:http%3a//</channel><!-- RADIO REPUBLIKA -->
 
 <!-- DVB-T -->
 
