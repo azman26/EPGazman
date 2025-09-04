@@ -1,5 +1,9 @@
 # Źródła EPG dla polskich kanałów TV SAT i IPTV a także TV Kablowej i Naziemnej, kanałów radiowych z 13E i 19,2E oraz Radia IP pod plugin EPG-Importer dla E2
 
+polandAzman.sources.xml - główny plik ze źródłami dla pluginu Importer EPG.
+azman.channels.xml - zestawienie referencji dla wszystkich kanałów dla których tworzone jest EPG.
+azman_channels_mappings.py - plik z którego korzysta e2k podczas mapowania referencji przy generowaniu bukietów.
+
 [azman] Poland XMLTV
 
 Podstawowy - Zawiera EPG dla wszystkich kanałów SAT PL z 13E i 19,2E oraz TV Kablowej i Naziemnej; ( 196 kanałów )
