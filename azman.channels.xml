@@ -571,6 +571,10 @@
 <!-- IPTV --><channel id="ClubbingTv.pl">4097:0:1:1FC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Clubbing TV -->
 <!-- IPTV --><channel id="EWTNPolska.pl">4097:0:1:70:1:48:0:0:0:0:http%3a//</channel><!-- EWTN Polska -->
 <!-- IPTV --><channel id="RadioWroclawKultura.pl">4097:0:1:3204:B5D9:EC:0:0:0:0:http%3a//</channel><!-- Radio Wrocław Kultura -->
+<!-- IPTV --><channel id="LingoToons.pl">4097:0:1:79:A11A:2268:0:0:0:0:http%3a//</channel><!-- LingoToons -->
+<!-- IPTV --><channel id="LangLab.pl">4097:0:1:7A:A11A:2268:0:0:0:0:http%3a//</channel><!-- LangLab -->
+<!-- IPTV --><channel id="TinyTeen.pl">4097:0:1:7B:A11A:2268:0:0:0:0:http%3a//</channel><!-- TinyTeen -->
+<!-- IPTV --><channel id="ClassicalHarmony.pl">4097:0:1:7C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Classical Harmony -->
 
 <!-- TVP VOD -->
 
@@ -688,7 +692,7 @@
 <!-- IPTV --><channel id="DaVinciOdkrywajSwiat.swtv.pl">4097:0:1:320:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Explore The World -->
 <!-- IPTV --><channel id="DaVinciOperacjaAuc.swtv.pl">4097:0:1:321:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Operation Ouch -->
 <!-- IPTV --><channel id="DaVinciZabawnaNauka.swtv.pl">4097:0:1:322:A11A:2268:0:0:0:0:http%3a//</channel><!-- DaVinci Fun Learning -->
-<!-- IPTV --><channel id="LondynMuzykaNaZywo.swtv.pl">4097:0:1:323:A11A:2268:0:0:0:0:http%3a//</channel><!-- London Live Music -->
+<!-- IPTV --><channel id="LondynMuzykaNaZywo.swtv.pl">4097:0:1:323:A11A:2268:0:0:0:0:http%3a//</channel><!-- Londyn Muzyka Na Żywo -->
 <!-- IPTV --><channel id="KoncertyLivePop.swtv.pl">4097:0:1:324:A11A:2268:0:0:0:0:http%3a//</channel><!-- Live Pop Concerts -->
 <!-- IPTV --><channel id="GwiazdyKina.swtv.pl">4097:0:1:325:A11A:2268:0:0:0:0:http%3a//</channel><!-- Movie Stars -->
 <!-- IPTV --><channel id="MapyPrzestepstw.swtv.pl">4097:0:1:326:A11A:2268:0:0:0:0:http%3a//</channel><!-- Murder Maps -->
@@ -702,29 +706,37 @@
 <!-- IPTV --><channel id="VideoKilledTheRadioStars.swtv.pl">4097:0:1:32E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Video Killed The Radio Stars -->
 <!-- IPTV --><channel id="OsobowosciSwiata.swtv.pl">4097:0:1:32F:A11A:2268:0:0:0:0:http%3a//</channel><!-- World's Personalities -->
 <!-- IPTV --><channel id="PoszukiwaczeZaginionejSztuki.swtv.pl">4097:0:1:330:A11A:2268:0:0:0:0:http%3a//</channel><!-- Raiders Of The Lost Art -->
-<!-- IPTV --><channel id="PodrozeIPrzygody.swtv.pl">4097:0:1:331:A11A:2268:0:0:0:0:http%3a//</channel><!-- Travel And Adventures -->
+<!-- IPTV --><channel id="PodrozeIPrzygody.swtv.pl">4097:0:1:331:A11A:2268:0:0:0:0:http%3a//</channel><!-- Podróże I Przygody -->
 <!-- IPTV --><channel id="CarsAndStars.swtv.pl">4097:0:1:332:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cars And Stars -->
-<!-- IPTV --><channel id="MenWithThePot.swtv.pl">4097:0:1:333:A11A:2268:0:0:0:0:http%3a//</channel><!-- Men With The Pot HD -->
-<!-- IPTV --><channel id="PureNature.swtv.pl">4097:0:1:334:A11A:2268:0:0:0:0:http%3a//</channel><!-- Pure Nature HD -->
-<!-- IPTV --><channel id="HistorieZHollywood.swtv.pl">4097:0:1:338:A11A:2268:0:0:0:0:http%3a//</channel><!-- Historie Z Hollywood HD -->
-<!-- IPTV --><channel id="SerialeMedyczne.swtv.pl">4097:0:1:339:A11A:2268:0:0:0:0:http%3a//</channel><!-- Seriale Medyczne HD -->
-<!-- IPTV --><channel id="FilmyIReality.swtv.pl">4097:0:1:33A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Filmy I Reality HD -->
-<!-- IPTV --><channel id="CalaPrawdaoSporcie.swtv.pl">4097:0:1:33B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cała Prawdao Sporcie HD -->
-<!-- IPTV --><channel id="WedkarstwoSportowe.swtv.pl">4097:0:1:33C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Wędkarstwo sportowe HD -->
-<!-- IPTV --><channel id="CocobiTvSongs.swtv.pl">4097:0:1:33D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Songs HD -->
-<!-- IPTV --><channel id="CocobiTvFunPlay.swtv.pl">4097:0:1:33E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Fun Play HD -->
-<!-- IPTV --><channel id="UnbeatenChannel.swtv.pl">4097:0:1:33F:A11A:2268:0:0:0:0:http%3a//</channel><!-- Unbeaten Channel HD -->
-<!-- IPTV --><channel id="DoRoboty.swtv.pl">4097:0:1:340:A11A:2268:0:0:0:0:http%3a//</channel><!-- Do Roboty HD -->
-<!-- IPTV --><channel id="Bollywood.swtv.pl">4097:0:1:341:A11A:2268:0:0:0:0:http%3a//</channel><!-- Bollywood HD -->
-<!-- IPTV --><channel id="CookingWithByronTalbott.swtv.pl">4097:0:1:342:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cooking with Byron Talbott HD -->
-<!-- IPTV --><channel id="JedenGniewnyCharlie.swtv.pl">4097:0:1:343:A11A:2268:0:0:0:0:http%3a//</channel><!-- Jeden Gniewny Charlie HD -->
-<!-- IPTV --><channel id="HellOnWheelsWitajWPiekle.swtv.pl">4097:0:1:344:A11A:2268:0:0:0:0:http%3a//</channel><!-- Hell on Wheels: Witaj w piekle HD -->
-<!-- IPTV --><channel id="SzpitalNadziei.swtv.pl">4097:0:1:345:A11A:2268:0:0:0:0:http%3a//</channel><!-- Szpital nadziei HD -->
-<!-- IPTV --><channel id="Okup.swtv.pl">4097:0:1:346:A11A:2268:0:0:0:0:http%3a//</channel><!-- Okup HD -->
-<!-- IPTV --><channel id="PanoramaKina.swtv.pl">4097:0:1:347:A11A:2268:0:0:0:0:http%3a//</channel><!-- Panorama Kina HD -->
-<!-- IPTV --><channel id="StrefaThrillera.swtv.pl">4097:0:1:348:A11A:2268:0:0:0:0:http%3a//</channel><!-- Thriller Time HD -->
-<!-- IPTV --><channel id="SwiatKomedii.swtv.pl">4097:0:1:349:A11A:2268:0:0:0:0:http%3a//</channel><!-- Świat Komedii HD -->
-<!-- IPTV --><channel id="Smerfy.swtv.pl">4097:0:1:34A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Smerfy HD -->
+<!-- IPTV --><channel id="MenWithThePot.swtv.pl">4097:0:1:333:A11A:2268:0:0:0:0:http%3a//</channel><!-- Men With The Pot -->
+<!-- IPTV --><channel id="PureNature.swtv.pl">4097:0:1:334:A11A:2268:0:0:0:0:http%3a//</channel><!-- Pure Nature -->
+<!-- IPTV --><channel id="HistorieZHollywood.swtv.pl">4097:0:1:338:A11A:2268:0:0:0:0:http%3a//</channel><!-- Hollywood Stories -->
+<!-- IPTV --><channel id="SerialeMedyczne.swtv.pl">4097:0:1:339:A11A:2268:0:0:0:0:http%3a//</channel><!-- Medical Series -->
+<!-- IPTV --><channel id="FilmyIReality.swtv.pl">4097:0:1:33A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Films And Reality -->
+<!-- IPTV --><channel id="CalaPrawdaoSporcie.swtv.pl">4097:0:1:33B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Truth About Sports -->
+<!-- IPTV --><channel id="WedkarstwoSportowe.swtv.pl">4097:0:1:33C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Sport Fishing -->
+<!-- IPTV --><channel id="CocobiTvSongs.swtv.pl">4097:0:1:33D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Songs -->
+<!-- IPTV --><channel id="CocobiTvFunPlay.swtv.pl">4097:0:1:33E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cocobi Tv Fun Play -->
+<!-- IPTV --><channel id="UnbeatenChannel.swtv.pl">4097:0:1:33F:A11A:2268:0:0:0:0:http%3a//</channel><!-- Unbeaten Channel -->
+<!-- IPTV --><channel id="DoRoboty.swtv.pl">4097:0:1:340:A11A:2268:0:0:0:0:http%3a//</channel><!-- Do Roboty -->
+<!-- IPTV --><channel id="Bollywood.swtv.pl">4097:0:1:341:A11A:2268:0:0:0:0:http%3a//</channel><!-- Bollywood -->
+<!-- IPTV --><channel id="CookingWithByronTalbott.swtv.pl">4097:0:1:342:A11A:2268:0:0:0:0:http%3a//</channel><!-- Cooking with Byron Talbott -->
+<!-- IPTV --><channel id="JedenGniewnyCharlie.swtv.pl">4097:0:1:343:A11A:2268:0:0:0:0:http%3a//</channel><!-- Anger Management -->
+<!-- IPTV --><channel id="HellOnWheelsWitajWPiekle.swtv.pl">4097:0:1:344:A11A:2268:0:0:0:0:http%3a//</channel><!-- Hell on Wheels -->
+<!-- IPTV --><channel id="SzpitalNadziei.swtv.pl">4097:0:1:345:A11A:2268:0:0:0:0:http%3a//</channel><!-- Saving Hope -->
+<!-- IPTV --><channel id="Okup.swtv.pl">4097:0:1:346:A11A:2268:0:0:0:0:http%3a//</channel><!-- Ransom -->
+<!-- IPTV --><channel id="PanoramaKina.swtv.pl">4097:0:1:347:A11A:2268:0:0:0:0:http%3a//</channel><!-- Panorama Kina -->
+<!-- IPTV --><channel id="StrefaThrillera.swtv.pl">4097:0:1:348:A11A:2268:0:0:0:0:http%3a//</channel><!-- Thriller Time -->
+<!-- IPTV --><channel id="SwiatKomedii.swtv.pl">4097:0:1:349:A11A:2268:0:0:0:0:http%3a//</channel><!-- Comedy Universe -->
+<!-- IPTV --><channel id="Smerfy.swtv.pl">4097:0:1:34A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Smurfs -->
+<!-- IPTV --><channel id="FoxxGotuje.swtv.pl">4097:0:1:34B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Foxx Gotuje -->
+<!-- IPTV --><channel id="PoliczonaSzama.swtv.pl">4097:0:1:34C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Policzona Szama -->
+<!-- IPTV --><channel id="TalkingTomAndFriends.swtv.pl">4097:0:1:34D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Talking Tom And Friends -->
+<!-- IPTV --><channel id="SmokEdzio.swtv.pl">4097:0:1:34E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Smok Edzio -->
+<!-- IPTV --><channel id="TopoweSeriale.swtv.pl">4097:0:1:34F:A11A:2268:0:0:0:0:http%3a//</channel><!-- Top Serials -->
+<!-- IPTV --><channel id="SerialeKryminalne.swtv.pl">4097:0:1:350:A11A:2268:0:0:0:0:http%3a//</channel><!-- Seriale Kryminalne -->
+<!-- IPTV --><channel id="FilmyGrozy.swtv.pl">4097:0:1:351:A11A:2268:0:0:0:0:http%3a//</channel><!-- Filmy Grozy -->
+<!-- IPTV --><channel id="KinoAkcji.swtv.pl">4097:0:1:352:A11A:2268:0:0:0:0:http%3a//</channel><!-- Kino Akcji -->
 
 <!-- Polsat Box GO --><!-- 900-999:A11A:2268 -->
 
