@@ -687,6 +687,7 @@
 <!-- IPTV --><channel id="tvnCzasNaSlub.pl">4097:0:1:2CF:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Czas Na Ślub -->
 <!-- IPTV --><channel id="tvnBrzydula.pl">4097:0:1:2D0:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Brzudula -->
 <!-- IPTV --><channel id="tvnMamTalent.pl">4097:0:1:2D1:A11A:2268:0:0:0:0:http%3a//</channel><!-- tvn Mam Talent -->
+<!-- IPTV --><channel id="Eurosport3.pl">4097:0:1:2D2:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport 3 -->
 
 <!-- Sweet TV --><!-- 800-899:A11A:2268 -->
 
@@ -1627,4 +1628,6 @@
 <!-- UPC --><channel id="wPolsce24.pl">1:0:19:FA2:28:601:FFFF0000:0:0:0:</channel><!-- wPolsce24 -->
 <!-- UPC --><channel id="SkyShowtime1.pl">1:0:19:E11:24:601:FFFF0000:0:0:0:</channel><!-- Sky Showtime 1 -->
 <!-- UPC --><channel id="SkyShowtime2.pl">1:0:19:E12:24:601:FFFF0000:0:0:0:</channel><!-- Sky Showtime 2 -->
+<!-- UPC --><channel id="StargazeTV.pl">1:0:19:E17:24:601:FFFF0000:0:0:0:</channel><!-- Stargaze TV -->
+<!-- UPC --><channel id="DayStarTV.pl">1:0:19:E13:24:601:FFFF0000:0:0:0:</channel><!-- DayStar TV -->
 </channels>
