@@ -576,6 +576,9 @@
 <!-- IPTV --><channel id="LangLab.pl">4097:0:1:7A:A11A:2268:0:0:0:0:http%3a//</channel><!-- LangLab -->
 <!-- IPTV --><channel id="TinyTeen.pl">4097:0:1:7B:A11A:2268:0:0:0:0:http%3a//</channel><!-- TinyTeen -->
 <!-- IPTV --><channel id="ClassicalHarmony.pl">4097:0:1:7C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Classical Harmony -->
+<!-- IPTV --><channel id="StargazeTV.pl">1:0:19:E17:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- Stargaze TV -->
+<!-- IPTV --><channel id="DayStarTV.pl">1:0:19:E13:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- DayStar TV -->
+<!-- IPTV --><channel id="DolceVitaTV.pl">1:0:19:E13:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- DolceVita TV -->
 
 <!-- TVP VOD -->
 
@@ -605,6 +608,9 @@
 <!-- IPTV --><channel id="TVPWilno.pl">4097:0:1:64:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP WILNO -->
 <!-- IPTV --><channel id="TVPWorld.pl">4097:0:1F:22:3A2:2268:EEEE0000:0:0:0:http%3a//</channel><!--TVP World -->
 <!-- IPTV --><channel id="TVPNaDobreINaZle.pl">4097:0:1:65:A11A:2268:0:0:0:0:http%3a//</channel><!--TVP NA DOBRE I NA ZŁE -->
+<!-- IPTV --><channel id="TVPKryminaly.pl">4097:0:1:66:A11A:2268:0:0:0:0:http%3a//</channel><!--TVP KRYMINAŁY -->
+<!-- IPTV --><channel id="TVPKlan.pl">4097:0:1:67:A11A:2268:0:0:0:0:http%3a//</channel><!--TVP KLAN -->
+<!-- IPTV --><channel id="TVPBarwySzczescia.pl">4097:0:1:68:A11A:2268:0:0:0:0:http%3a//</channel><!--TVP Barwy Szczęścia -->
 
 <!-- PRIVATE AZMAN FAST TV --><!-- 1-500:A33A:2268 -->
 
@@ -662,6 +668,7 @@
 <!-- IPTV --><channel id="NowRock.rtv.pl">4097:0:1:1FB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now Rock -->
 <!-- IPTV --><channel id="Travelxp.rtv.pl">4097:0:1:1FE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Travel XP -->
 <!-- IPTV --><channel id="Now90s00s.rtv.pl">4097:0:1:1FF:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 90s00s -->
+<!-- IPTV --><channel id="WedotvAuta.rtv.pl">4097:0:1:1FC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Wedotv Auta -->
 
 <!-- FAST Player TVN --><!-- 700-799:A11A:2268 -->
 
@@ -754,7 +761,7 @@
 <!-- IPTV --><channel id="TrudneSprawy.pl">4097:0:1:38D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Trudne sprawy -->
 <!-- IPTV --><channel id="DlaczegoJa.pl">4097:0:1:38E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Dlaczego ja? -->
 <!-- IPTV --><channel id="PamietnikiZWakacji.pl">4097:0:1:38F:A11A:2268:0:0:0:0:http%3a//</channel><!-- Pamiętniki z wakacji -->
-<!-- IPTV --><channel id="Bajki.pl">4097:0:1:390:A11A:2268:0:0:0:0:http%3a//</channel><!-- Bajki -->
+<!-- IPTV --><channel id="Slad.pl">4097:0:1:390:A11A:2268:0:0:0:0:http%3a//</channel><!-- Ślad -->
 <!-- IPTV --><channel id="Komedie.pl">4097:0:1:391:A11A:2268:0:0:0:0:http%3a//</channel><!-- Komedie -->
 <!-- IPTV --><channel id="Kabarety.pl">4097:0:1:392:A11A:2268:0:0:0:0:http%3a//</channel><!-- Kabarety -->
 <!-- IPTV --><channel id="Zbrodnie.pl">4097:0:1:393:A11A:2268:0:0:0:0:http%3a//</channel><!-- Zbrodnie -->
