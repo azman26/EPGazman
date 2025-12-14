@@ -924,6 +924,18 @@
 <!-- RADIO IP --><channel id="KatolickieRadioZamosc.pl">4097:0:2:5B:A22A:2268:0:0:0:0:http%3a//</channel><!-- KATOLICKIE RADIO ZAMOŚĆ -->
 <!-- RADIO IP --><channel id="RadioRSC.pl">4097:0:2:5C:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO RSC -->
 <!-- RADIO IP --><channel id="RadioRepublika.pl">4097:0:1:134:7CEA:EC:0:0:0:0:http%3a//</channel><!-- RADIO REPUBLIKA -->
+<!-- RADIO IP --><channel id="RadioTop80s.pl">4097:0:2:5D:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio Top 80s -->
+<!-- RADIO IP --><channel id="RadioHit.pl">4097:0:2:5E:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio HIT -->
+<!-- RADIO IP --><channel id="RadioBercik.pl">4097:0:2:5F:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio Bercik -->
+<!-- RADIO IP --><channel id="POPRadioPruszkow.pl">4097:0:2:60:A22A:2268:0:0:0:0:http%3a//</channel><!-- POP Radio Pruszków -->
+<!-- RADIO IP --><channel id="WaszeRadioFM.pl">4097:0:2:61:A22A:2268:0:0:0:0:http%3a//</channel><!-- POP Radio Pruszków -->
+<!-- RADIO IP --><channel id="RadioAkadera.pl">4097:0:2:62:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio Akadera -->
+<!-- RADIO IP --><channel id="OffRadioKrakow.pl">4097:0:2:63:A22A:2268:0:0:0:0:http%3a//</channel><!-- Off Radio Kraków -->
+<!-- RADIO IP --><channel id="RadioQ1007FM.pl">4097:0:2:64:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio Q 100,7 FM -->
+<!-- RADIO IP --><channel id="RadioFamaWolomin.pl">4097:0:2:65:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio Fama Wołomin -->
+<!-- RADIO IP --><channel id="RadioBogoria.pl">4097:0:2:66:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio Bogoria -->
+<!-- RADIO IP --><channel id="RadioWroclawKultura.pl">4097:0:2:67:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio Wrocław Kultura -->
+<!-- RADIO IP --><channel id="RadioEskaRock.pl">4097:0:2:68:A22A:2268:0:0:0:0:http%3a//</channel><!-- Radio Eska Rock -->
 
 <!-- DVB-T -->
 
