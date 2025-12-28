@@ -746,8 +746,6 @@
 <!-- IPTV --><channel id="SerialeKryminalne.swtv.pl">4097:0:1:350:A11A:2268:0:0:0:0:http%3a//</channel><!-- Seriale Kryminalne -->
 <!-- IPTV --><channel id="FilmyGrozy.swtv.pl">4097:0:1:351:A11A:2268:0:0:0:0:http%3a//</channel><!-- Filmy grozy HD -->
 <!-- IPTV --><channel id="KinoAkcji.swtv.pl">4097:0:1:352:A11A:2268:0:0:0:0:http%3a//</channel><!-- Kino akcji HD -->
-
-
 <!-- IPTV --><channel id="LombardZyciePodZastaw.swtv.pl">4097:0:1:353:A11A:2268:0:0:0:0:http%3a//</channel><!-- Lombard Życie Pod Zastaw HD -->
 <!-- IPTV --><channel id="RodzinnyInteres.swtv.pl">4097:0:1:354:A11A:2268:0:0:0:0:http%3a//</channel><!-- Rodzinny Interes HD -->
 <!-- IPTV --><channel id="AdrenalineRush.swtv.pl">4097:0:1:355:A11A:2268:0:0:0:0:http%3a//</channel><!-- Adrenaline Rush HD -->
@@ -780,7 +778,9 @@
 <!-- IPTV --><channel id="MagicalSmileTv.swtv.pl">4097:0:1:370:A11A:2268:0:0:0:0:http%3a//</channel><!-- Magical Smile Tv -->
 <!-- IPTV --><channel id="BiznesMisja.swtv.pl">4097:0:1:371:A11A:2268:0:0:0:0:http%3a//</channel><!-- Biznes Misja HD -->
 <!-- IPTV --><channel id="Filmoteka.swtv.pl">4097:0:1:372:A11A:2268:0:0:0:0:http%3a//</channel><!-- Filmoteka HD -->
-
+<!-- IPTV --><channel id="MostNadSundem.swtv.pl">4097:0:1:373:A11A:2268:0:0:0:0:http%3a//</channel><!-- Most Nad Sundem HD -->
+<!-- IPTV --><channel id="MiastoKreskowek.swtv.pl">4097:0:1:374:A11A:2268:0:0:0:0:http%3a//</channel><!-- Miasto Kreskówek HD -->
+<!-- IPTV --><channel id="TheWorldInsideOut.swtv.pl">4097:0:1:375:A11A:2268:0:0:0:0:http%3a//</channel><!-- The World Inside Out HD -->
 
 <!-- Polsat Box GO --><!-- 900-999:A11A:2268 -->
 
