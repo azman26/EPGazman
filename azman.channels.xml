@@ -453,7 +453,7 @@
 <!-- IPTV --><!-- 1-400:A11A:2268 -->
 
 <!-- IPTV --><channel id="13Tv.pl">4097:0:1:C6A0:D5D:EC:0:0:0:0:http%3a//</channel><!-- 13 TV -->
-<!-- IPTV --><channel id="1plus1International.pl">4097:0:1:A855:B70C:EC:0:0:0:0:http%3a//</channel><!-- 1+1 Ukraina -->
+<!-- IPTV --><channel id="1plus1International.pl">4097:0:1:A855:B70C:EC:0:0:0:0:http%3a//</channel><!-- 1+1 International -->
 <!-- IPTV --><channel id="2x2.pl">4097:0:1:F88C:5F52:EC:0:0:0:0:http%3a//</channel><!-- 2x2 -->
 <!-- IPTV --><channel id="360TuneBox.pl">4097:0:1:E87B:27C5:EC:0:0:0:0:http%3a//</channel><!-- 360 TuneBox -->
 <!-- IPTV --><channel id="4EverMusic.pl">4097:0:1:A347:F938:EC:0:0:0:0:http%3a//</channel><!-- 4Ever Music -->
@@ -587,17 +587,17 @@
 <!-- IPTV --><channel id="MusicBoxDance.pl">4097:0:1:82:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Box Dance -->
 <!-- IPTV --><channel id="MusicBoxHits.pl">4097:0:1:83:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Box Hits -->
 <!-- IPTV --><channel id="MusicBoxSexy.pl">4097:0:1:84:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Box Sexy -->
-<!-- IPTV --><channel id="MusicBox80s.pl">4097:0:1:82:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Box 80s -->
-<!-- IPTV --><channel id="MusicBox90s.pl">4097:0:1:83:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Box 90s -->
-<!-- IPTV --><channel id="MusicBox00s.pl">4097:0:1:84:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Box 00s -->
-<!-- IPTV --><channel id="MusicLive.pl">4097:0:1:85:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Live -->
-<!-- IPTV --><channel id="MusicClub.pl">4097:0:1:86:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Club -->
-<!-- IPTV --><channel id="MusicHits.pl">4097:0:1:87:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Hits -->
-<!-- IPTV --><channel id="Music80s.pl">4097:0:1:88:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music 80s -->
-<!-- IPTV --><channel id="Music90s.pl">4097:0:1:89:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music 90s -->
-<!-- IPTV --><channel id="Music00s.pl">4097:0:1:8A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music 00s -->
-<!-- IPTV --><channel id="TVKSM.pl">4097:0:1:8B:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVK SM -->
-<!-- IPTV --><channel id="TVMN.pl">4097:0:1:8C:A11A:2268:0:0:0:0:http%3a//</channel><!-- TV MN -->
+<!-- IPTV --><channel id="MusicBox80s.pl">4097:0:1:85:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Box 80s -->
+<!-- IPTV --><channel id="MusicBox90s.pl">4097:0:1:86:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Box 90s -->
+<!-- IPTV --><channel id="MusicBox00s.pl">4097:0:1:87:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Box 00s -->
+<!-- IPTV --><channel id="MusicLive.pl">4097:0:1:88:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Live -->
+<!-- IPTV --><channel id="MusicClub.pl">4097:0:1:89:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Club -->
+<!-- IPTV --><channel id="MusicHits.pl">4097:0:1:8A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music Hits -->
+<!-- IPTV --><channel id="Music80s.pl">4097:0:1:8B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music 80s -->
+<!-- IPTV --><channel id="Music90s.pl">4097:0:1:8C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music 90s -->
+<!-- IPTV --><channel id="Music00s.pl">4097:0:1:8D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music 00s -->
+<!-- IPTV --><channel id="TVSM.pl">4097:0:1:8E:A11A:2268:0:0:0:0:http%3a//</channel><!-- TV SM -->
+<!-- IPTV --><channel id="TVMN.pl">4097:0:1:8F:A11A:2268:0:0:0:0:http%3a//</channel><!-- TV MN -->
 
 <!-- TVP VOD -->
 
