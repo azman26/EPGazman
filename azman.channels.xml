@@ -363,7 +363,7 @@
 <!-- 13.0E --><channel id="TvOkazje.pl">1:0:1:1C8D:1CE8:71:820000:0:0:0:</channel><!-- TV Okazje -->
 <!-- 13.0E --><channel id="TvOkazje.pl">1:0:1:1C97:1CE8:71:820000:0:0:0:</channel><!-- TV Okazje -->
 <!-- 13.0E --><channel id="TvPuls.pl">1:0:1:3D66:2C88:13E:820000:0:0:0:</channel><!-- TV Puls HD -->
-<!-- 13.0E --><channel id="TvRepublika.pl">1:0:1:4289:2BC0:13E:820000:0:0:0:</channel><!-- TV Republika -->
+<!-- 13.0E --><channel id="Republika.pl">1:0:1:4289:2BC0:13E:820000:0:0:0:</channel><!-- TV Republika -->
 <!-- 13.0E --><channel id="VOD205.pl">1:0:1:3F:1964:13E:820000:0:0:0:</channel><!-- VOD 5 -->
 <!-- 13.0E --><channel id="VOD206.pl">1:0:1:40:1964:13E:820000:0:0:0:</channel><!-- VOD 6 -->
 <!-- 13.0E --><channel id="VOD207.pl">1:0:1:41:1964:13E:820000:0:0:0:</channel><!-- VOD 7 -->
@@ -556,7 +556,7 @@
 <!-- IPTV --><channel id="TvBiznesowa.pl">4097:0:1:7EAD:9169:EC:0:0:0:0:http%3a//</channel><!-- TV Biznesowa -->
 <!-- IPTV --><channel id="TvKlodzka.pl">4097:0:1:D3F0:668B:EC:0:0:0:0:http%3a//</channel><!-- Telewizja Kłodzka -->
 <!-- IPTV --><channel id="TvPomerania.pl">4097:0:1:FFD4:9CF5:EC:0:0:0:0:http%3a//</channel><!-- Telewizja Pomerania -->
-<!-- IPTV --><channel id="TvRepublikaPlus.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Telewizja Republika Plus -->
+<!-- IPTV --><channel id="TelewizjaRepublika.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Telewizja Republika -->
 <!-- IPTV --><channel id="TvWielkopolska.pl">4097:0:1:92:1:48:0:0:0:0:http%3a//</channel><!-- TV WIELKOPOLSKA -->
 <!-- IPTV --><channel id="TwojaTelewizjaMorska.pl">4097:0:1:1F22:1D76:EC:0:0:0:0:http%3a//</channel><!-- Twoja Telewizja Morska -->
 <!-- IPTV --><channel id="TwojaTv.pl">4097:0:1:5:1:48:0:0:0:0:http%3a//</channel><!-- TWOJA TV -->
@@ -598,6 +598,8 @@
 <!-- IPTV --><channel id="Music00s.pl">4097:0:1:8D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music 00s -->
 <!-- IPTV --><channel id="TVSM.pl">4097:0:1:8E:A11A:2268:0:0:0:0:http%3a//</channel><!-- TV SM -->
 <!-- IPTV --><channel id="TVMN.pl">4097:0:1:8F:A11A:2268:0:0:0:0:http%3a//</channel><!-- TV MN -->
+<!-- IPTV --><channel id="MTVClassic.pl">4097:0:1:90:A11A:2268:0:0:0:0:http%3a//</channel><!-- MTV Classic -->
+
 
 <!-- TVP VOD -->
 
@@ -1084,11 +1086,11 @@
 <!-- DVB-T MUX8 --><channel id="NowaTv.pl">1:0:16:3B:7001:2268:EEEE0000:0:0:0:</channel><!--Nowa TV -->
 <!-- DVB-T MUX8 --><channel id="WP.pl">1:0:16:3C:7001:2268:EEEE0000:0:0:0:</channel><!--WP -->
 <!-- DVB-T MUX8 --><channel id="ViDocTv1.pl">1:0:16:47:7001:2268:EEEE0000:0:0:0:</channel><!--ViDoc TV -->
-<!-- DVB-T MUX8 --><channel id="TvRepublika.pl">1:0:16:48:7001:2268:EEEE0000:0:0:0:</channel><!--TV Republika -->
+<!-- DVB-T MUX8 --><channel id="Republika.pl">1:0:16:48:7001:2268:EEEE0000:0:0:0:</channel><!--TV Republika -->
 <!-- DVB-T MUX8 --><channel id="wPolsce24.pl">1:0:16:49:7001:2268:EEEE0000:0:0:0:</channel><!-- wPolsce24 -->
 
 <!-- DVB-T MUX BCAST --><channel id="4FunKids.pl">1:0:16:46:E1:D58:EEEE0000:0:0:0:</channel><!-- 4Fun Kids -->
-<!-- DVB-T MUX BCAST --><channel id="TvRepublika.pl">1:0:16:4B:E1:D58:EEEE0000:0:0:0:</channel><!--TV Republika -->
+<!-- DVB-T MUX BCAST --><channel id="Republika.pl">1:0:16:4B:E1:D58:EEEE0000:0:0:0:</channel><!--TV Republika -->
 <!-- DVB-T MUX BCAST --><channel id="TVRegionalna.pl">1:0:16:57:E1:D58:EEEE0000:0:0:0:</channel><!-- TV REGIONALNA -->
 <!-- DVB-T MUX BCAST --><channel id="Polsat.pl">1:0:19:47:E1:D58:EEEE0000:0:0:0:</channel><!--Polsat HD -->
 <!-- DVB-T MUX BCAST --><channel id="NowaTv.pl">1:0:19:48:E1:D58:EEEE0000:0:0:0:</channel><!--Nowa TV HD -->
@@ -1098,7 +1100,7 @@
   
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="Echo24.pl">1:0:19:50:14:2268:EEEE0000:0:0:0:</channel><!-- Echo24 HD -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TVC.pl">1:0:1F:26:14:2268:EEEE0000:0:0:0:</channel><!-- TVC HD -->
-<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="TvRepublika.pl">1:0:1F:4B:14:2268:EEEE0000:0:0:0:</channel><!-- TV Republika -->
+<!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="Republika.pl">1:0:1F:4B:14:2268:EEEE0000:0:0:0:</channel><!-- TV Republika -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="Filmax.pl">1:0:1F:4C:14:2268:EEEE0000:0:0:0:</channel><!-- Filmax -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="Pogoda24Tv.pl">1:0:1F:4D:14:2268:EEEE0000:0:0:0:</channel><!-- Pogoda24 TV -->
 <!-- DVB-T MUX-L1 (MWE Teleport) --><channel id="wPolsce24.pl">1:0:1F:4E:14:2268:EEEE0000:0:0:0:</channel><!-- wPolsce24 -->
@@ -1112,8 +1114,8 @@
 
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1F:25:15:2268:EEEE0000:0:0:0:</channel><!-- TVT HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TVT.pl">1:0:1F:BE:15:2268:EEEE0000:0:0:0:</channel><!-- TVT HD -->
-<!-- DVB-T MUX-L2 TVT --><channel id="TvRepublika.pl">1:0:1F:B9:15:2268:EEEE0000:0:0:0:</channel><!-- Republika HD -->
-<!-- DVB-T MUX-L2 TVT --><channel id="TvRepublika.pl">1:0:1F:BC:15:2268:EEEE0000:0:0:0:</channel><!-- Republika HD -->
+<!-- DVB-T MUX-L2 TVT --><channel id="Republika.pl">1:0:1F:B9:15:2268:EEEE0000:0:0:0:</channel><!-- Republika HD -->
+<!-- DVB-T MUX-L2 TVT --><channel id="Republika.pl">1:0:1F:BC:15:2268:EEEE0000:0:0:0:</channel><!-- Republika HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="DolceVitaTV.pl">1:0:1F:BD:15:2268:EEEE0000:0:0:0:</channel><!-- Dolce Vita TV HD-->
 <!-- DVB-T MUX-L2 TVT --><channel id="StarsTv.pl">1:0:1F:B7:15:2268:EEEE0000:0:0:0:</channel><!-- STARS.TV HD -->
 <!-- DVB-T MUX-L2 TVT --><channel id="TvOkazje.pl">1:0:1F:BA:15:2268:EEEE0000:0:0:0:</channel><!-- TV Okazje -->
@@ -1121,7 +1123,7 @@
 <!-- DVB-T MUX-L2 TVT --><channel id="Wydarzenia24.pl">1:0:1F:BB:15:2268:EEEE0000:0:0:0:</channel><!-- Wydarzenia 24 -->
 
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TVC.pl">1:0:1F:26:16:2268:EEEE0000:0:0:0:</channel><!-- TVC HD -->
-<!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="TvRepublika.pl">1:0:1F:49:16:2268:EEEE0000:0:0:0:</channel><!-- TV Republika -->
+<!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="Republika.pl">1:0:1F:49:16:2268:EEEE0000:0:0:0:</channel><!-- TV Republika -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="Filmax.pl">1:0:1F:4C:16:2268:EEEE0000:0:0:0:</channel><!-- Filmax HD -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="wPolsce24.pl">1:0:1F:4E:16:2268:EEEE0000:0:0:0:</channel><!-- wPolsce24 -->
 <!-- DVB-T MUX-L3 (MWE Teleport) --><channel id="XtremeTv.pl">1:0:1F:4F:16:2268:EEEE0000:0:0:0:</channel><!-- Xtreme TV -->
@@ -1133,7 +1135,7 @@
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TVCSuper.pl">1:0:16:26:B052:2268:EEEE0000:0:0:0:</channel><!-- TVC Super -->
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Filmax.pl">1:0:16:2C:B052:2268:EEEE0000:0:0:0:</channel><!-- Filmax -->
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Polsat.pl">1:0:19:2E:B052:2268:EEEE0000:0:0:0:</channel><!-- Polsat HD -->
-<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="TvRepublika.pl">1:0:16:49:B052:2268:EEEE0000:0:0:0:</channel><!--TV Republika -->
+<!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="Republika.pl">1:0:16:49:B052:2268:EEEE0000:0:0:0:</channel><!--TV Republika -->
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="JuniorChannel.pl">1:0:16:4A:B052:2268:EEEE0000:0:0:0:</channel><!-- Junior Channel -->
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="SzlagierTv.pl">1:0:16:4C:B052:2268:EEEE0000:0:0:0:</channel><!-- Szlagier TV -->
 <!-- DVB-T MUX-L4 (MWE Teleport) --><channel id="HomeTv.pl">1:0:16:4E:B052:2268:EEEE0000:0:0:0:</channel><!-- HOME TV -->
@@ -1386,7 +1388,7 @@
 <!-- VECTRA --><channel id="TvOkazje.pl">1:0:19:232D:6D:64:FFFF0000:0:0:0:</channel><!-- TV Okazje -->
 <!-- VECTRA --><channel id="TvPuls.pl">1:0:19:59E1:7B:64:FFFF0000:0:0:0:</channel><!-- TV Puls HD -->
 <!-- VECTRA --><channel id="TvPuls.pl">1:0:1:3F1:65:64:FFFF0000:0:0:0:</channel><!-- TV Puls -->
-<!-- VECTRA --><channel id="TvRepublika.pl">1:0:19:6D67:80:64:FFFF0000:0:0:0:</channel><!-- TV Republika HD -->
+<!-- VECTRA --><channel id="Republika.pl">1:0:19:6D67:80:64:FFFF0000:0:0:0:</channel><!-- TV Republika HD -->
 <!-- VECTRA --><channel id="TvTrwam.pl">1:0:1:7D3:66:64:FFFF0000:0:0:0:</channel><!-- TV Trwam -->
 <!-- VECTRA --><channel id="UATV.pl">1:0:1:271B:6E:64:FFFF0000:0:0:0:</channel><!-- FREEDOM -->
 <!-- VECTRA --><channel id="UltraTv4K.pl">1:0:1F:1389:69:64:FFFF0000:0:0:0:</channel><!-- Ultra TV 4K -->
@@ -1682,7 +1684,7 @@
 <!-- UPC --><channel id="TurboXtra.pl">1:0:19:25A:6:601:FFFF0000:0:0:0:</channel><!-- DTX HD -->
 <!-- UPC --><channel id="TvOkazje.pl">1:0:19:D51:22:601:FFFF0000:0:0:0:</channel><!-- TV Okazje -->
 <!-- UPC --><channel id="TvPuls.pl">1:0:19:199:4:601:FFFF0000:0:0:0:</channel><!-- TV Puls HD -->
-<!-- UPC --><channel id="TvRepublika.pl">1:0:1:77B:13:601:FFFF0000:0:0:0:</channel><!-- TV Republika -->
+<!-- UPC --><channel id="Republika.pl">1:0:1:77B:13:601:FFFF0000:0:0:0:</channel><!-- TV Republika -->
 <!-- UPC --><channel id="TvTrwam.pl">1:0:19:198:4:601:FFFF0000:0:0:0:</channel><!-- TV Trwam -->
 <!-- UPC --><channel id="UltraTv4K.pl">1:0:19:B5D:1D:601:FFFF0000:0:0:0:</channel><!-- ULTRA TV 4K -->
 <!-- UPC --><channel id="UltraTv4K.pl">1:0:19:F3E:28:601:FFFF0000:0:0:0:</channel><!-- ULTRA TV 4K -->
