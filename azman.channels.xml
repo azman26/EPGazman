@@ -386,6 +386,8 @@
 <!-- 13.0E --><channel id="PolsatReality.pl">1:0:1:3E21:2EE0:13E:820000:0:0:0:</channel><!-- Polsat Reality -->
 <!-- 13.0E --><channel id="PolsatFilm2.pl">1:0:1:3E1F:2EE0:13E:820000:0:0:0:</channel><!-- Polsat Film 2 -->
 <!-- 13.0E --><channel id="Mango.pl">1:0:1:2914:1EDC:71:820000:0:0:0:</channel><!-- Mango -->
+<!-- 13.0E --><channel id="KanalZeroTV.pl">1:0:1:32C9:190:13E:820000:0:0:0:</channel><!-- Kanał Zero TV -->
+<!-- 13.0E --><channel id="KanalZeroTV.pl">1:0:1:32FB:190:13E:820000:0:0:0:</channel><!-- Kanał Zero TV -->
 
 <!-- 19.2E --><channel id="CNN.pl">1:0:1:164E:42C:1:C00000:0:0:0:</channel><!-- CNN -->
 <!-- 19.2E --><channel id="CNN.pl">1:0:1:17D5:42A:1:C00000:0:0:0:</channel><!-- CNN -->
@@ -599,7 +601,7 @@
 <!-- IPTV --><channel id="TVSM.pl">4097:0:1:8E:A11A:2268:0:0:0:0:http%3a//</channel><!-- TV SM -->
 <!-- IPTV --><channel id="TVMN.pl">4097:0:1:8F:A11A:2268:0:0:0:0:http%3a//</channel><!-- TV MN -->
 <!-- IPTV --><channel id="MTVClassic.pl">4097:0:1:90:A11A:2268:0:0:0:0:http%3a//</channel><!-- MTV Classic -->
-
+<!-- IPTV --><channel id="V90.pl">4097:0:1:91:A11A:2268:0:0:0:0:http%3a//</channel><!-- V90 -->
 
 <!-- TVP VOD -->
 
