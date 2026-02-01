@@ -27,9 +27,10 @@ Dostępne są następujące pakiety EPG:
 *   **Radio**
     Zawiera EPG Radia PL z 13°E i 19.2°E oraz niektórych internetowych streamów radiowych.
     *(Liczba kanałów: 72)*
-
+    
+*   **Sweet TV**
+    Zawiera EPG dla darmowych kanałów z SweetTV.
+    
 ---
 
 ### Informacje dodatkowe
-
-Plik `rytec.sources.xml` został zmodyfikowany i zawiera dodatkowe wpisy do źródeł EPG dla kanałów PolsatBox VOD, iTVN (Timezone) oraz Private Azman FAST TV.
