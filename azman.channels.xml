@@ -806,9 +806,10 @@
 <!-- IPTV --><channel id="Now80s.rtv.pl">4097:0:1:B:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now 80s -->
 <!-- IPTV --><channel id="Now90s00s.rtv.pl">4097:0:1:C:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now 90s00s -->
 <!-- IPTV --><channel id="NowRock.rtv.pl">4097:0:1:D:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now Rock -->
-<!-- IPTV --><channel id="QwestTv.rtv.pl">4097:0:1:E:A66A:2268:0:0:0:0:http%3a//</channel><!-- Qwest TV -->
-<!-- IPTV --><channel id="TraceUrban.rtv.pl">4097:0:1:F:A66A:2268:0:0:0:0:http%3a//</channel><!-- Trace Urban -->
-<!-- IPTV --><channel id="Travelxp.rtv.pl">4097:0:1:10:A66A:2268:0:0:0:0:http%3a//</channel><!-- Travel XP -->
+<!-- IPTV --><channel id="TraceUrban.rtv.pl">4097:0:1:E:A66A:2268:0:0:0:0:http%3a//</channel><!-- Trace Urban -->
+<!-- IPTV --><channel id="DeluxeLounge.rtv.pl">4097:0:1:F:A66A:2268:0:0:0:0:http%3a//</channel><!-- Deluxe Lounge -->
+<!-- IPTV --><channel id="QwestTv.rtv.pl">4097:0:1:10:A66A:2268:0:0:0:0:http%3a//</channel><!-- Qwest TV -->
+<!-- IPTV --><channel id="Travelxp.rtv.pl">4097:0:1:11:A66A:2268:0:0:0:0:http%3a//</channel><!-- Travel XP -->
 
 <!-- LG Channels --><!-- 1-999:A77A:2268 -->
 
@@ -842,25 +843,26 @@
 
 <!-- FAST Polsat Box GO --><!-- 1-999:A99A:2268 -->
 
-<!-- IPTV --><channel id="ChlopakiDoWziecia.pl">4097:0:1:389:A11A:2268:0:0:0:0:http%3a//</channel><!-- Chłopaki do wzięcia -->
-<!-- IPTV --><channel id="DalekoOdNoszy.pl">4097:0:1:38C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Daleko od noszy -->
-<!-- IPTV --><channel id="DlaczegoJa.pl">4097:0:1:38E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Dlaczego ja? -->
-<!-- IPTV --><channel id="EwaGotuje.pl">4097:0:1:38B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Ewa gotuje -->
-<!-- IPTV --><channel id="Gliniarze.pl">4097:0:1:387:A11A:2268:0:0:0:0:http%3a//</channel><!-- Gliniarze -->
-<!-- IPTV --><channel id="Kabarety.pl">4097:0:1:392:A11A:2268:0:0:0:0:http%3a//</channel><!-- Kabarety -->
-<!-- IPTV --><channel id="Komedie.pl">4097:0:1:391:A11A:2268:0:0:0:0:http%3a//</channel><!-- Komedie -->
-<!-- IPTV --><channel id="NaszNowyDom.pl">4097:0:1:38A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Nasz nowy dom -->
-<!-- IPTV --><channel id="PamietnikiZWakacji.pl">4097:0:1:38F:A11A:2268:0:0:0:0:http%3a//</channel><!-- Pamiętniki z wakacji -->
-<!-- IPTV --><channel id="PolicjantkiIPolicjanci.pl">4097:0:1:386:A11A:2268:0:0:0:0:http%3a//</channel><!-- Policjantki i Policjanci -->
-<!-- IPTV --><channel id="Slad.pl">4097:0:1:390:A11A:2268:0:0:0:0:http%3a//</channel><!-- Ślad -->
-<!-- IPTV --><channel id="SprawiedliwiWydzialKryminalny.pl">4097:0:1:385:A11A:2268:0:0:0:0:http%3a//</channel><!-- Sprawiedliwi - Wydział Kryminalny -->
-<!-- IPTV --><channel id="SwiatWedlugKiepskich.pl">4097:0:1:384:A11A:2268:0:0:0:0:http%3a//</channel><!-- Świat według Kiepskich -->
-<!-- IPTV --><channel id="TrudneSprawy.pl">4097:0:1:38D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Trudne sprawy -->
-<!-- IPTV --><channel id="WielkaRozrywka.pl">4097:0:1:394:A11A:2268:0:0:0:0:http%3a//</channel><!-- Wielka Rozrywka -->
-<!-- IPTV --><channel id="WielkieFestiwale.pl">4097:0:1:395:A11A:2268:0:0:0:0:http%3a//</channel><!-- Wielkie festiwale -->
-<!-- IPTV --><channel id="WlatcyMóch.pl">4097:0:1:388:A11A:2268:0:0:0:0:http%3a//</channel><!-- Włatcy móch -->
-<!-- IPTV --><channel id="Zbrodnie.pl">4097:0:1:393:A11A:2268:0:0:0:0:http%3a//</channel><!-- Zbrodnie -->
-<!-- IPTV --><channel id="ZycioweHistorie.pl">4097:0:1:396:A11A:2268:0:0:0:0:http%3a//</channel><!-- Życiowe historie -->
+<!-- IPTV --><channel id="ChlopakiDoWziecia.pl">4097:0:1:1:A99A:2268:0:0:0:0:http%3a//</channel><!-- Chłopaki do wzięcia -->
+<!-- IPTV --><channel id="DalekoOdNoszy.pl">4097:0:1:2:A99A:2268:0:0:0:0:http%3a//</channel><!-- Daleko od noszy -->
+<!-- IPTV --><channel id="DlaczegoJa.pl">4097:0:1:3:A99A:2268:0:0:0:0:http%3a//</channel><!-- Dlaczego ja? -->
+<!-- IPTV --><channel id="EwaGotuje.pl">4097:0:1:4:A99A:2268:0:0:0:0:http%3a//</channel><!-- Ewa gotuje -->
+<!-- IPTV --><channel id="Gliniarze.pl">4097:0:1:5:A99A:2268:0:0:0:0:http%3a//</channel><!-- Gliniarze -->
+<!-- IPTV --><channel id="Kabarety.pl">4097:0:1:6:A99A:2268:0:0:0:0:http%3a//</channel><!-- Kabarety -->
+<!-- IPTV --><channel id="Komedie.pl">4097:0:1:7:A99A:2268:0:0:0:0:http%3a//</channel><!-- Komedie -->
+<!-- IPTV --><channel id="MiodoweLata.pl">4097:0:1:8:A99A:2268:0:0:0:0:http%3a//</channel><!-- Miodowe Lata -->
+<!-- IPTV --><channel id="NaszNowyDom.pl">4097:0:1:9:A99A:2268:0:0:0:0:http%3a//</channel><!-- Nasz nowy dom -->
+<!-- IPTV --><channel id="PamietnikiZWakacji.pl">4097:0:1:A:A99A:2268:0:0:0:0:http%3a//</channel><!-- Pamiętniki z wakacji -->
+<!-- IPTV --><channel id="PolicjantkiIPolicjanci.pl">4097:0:1:B:A99A:2268:0:0:0:0:http%3a//</channel><!-- Policjantki i Policjanci -->
+<!-- IPTV --><channel id="Slad.pl">4097:0:1:C:A99A:2268:0:0:0:0:http%3a//</channel><!-- Ślad -->
+<!-- IPTV --><channel id="SprawiedliwiWydzialKryminalny.pl">4097:0:1:D:A99A:2268:0:0:0:0:http%3a//</channel><!-- Sprawiedliwi - Wydział Kryminalny -->
+<!-- IPTV --><channel id="SwiatWedlugKiepskich.pl">4097:0:1:E:A99A:2268:0:0:0:0:http%3a//</channel><!-- Świat według Kiepskich -->
+<!-- IPTV --><channel id="TrudneSprawy.pl">4097:0:1:F:A99A:2268:0:0:0:0:http%3a//</channel><!-- Trudne sprawy -->
+<!-- IPTV --><channel id="WielkaRozrywka.pl">4097:0:1:10:A99A:2268:0:0:0:0:http%3a//</channel><!-- Wielka Rozrywka -->
+<!-- IPTV --><channel id="WielkieFestiwale.pl">4097:0:1:11:A99A:2268:0:0:0:0:http%3a//</channel><!-- Wielkie festiwale -->
+<!-- IPTV --><channel id="WlatcyMóch.pl">4097:0:1:12:A99A:2268:0:0:0:0:http%3a//</channel><!-- Włatcy móch -->
+<!-- IPTV --><channel id="Zbrodnie.pl">4097:0:1:13:A99A:2268:0:0:0:0:http%3a//</channel><!-- Zbrodnie -->
+<!-- IPTV --><channel id="ZycioweHistorie.pl">4097:0:1:14:A99A:2268:0:0:0:0:http%3a//</channel><!-- Życiowe historie -->
 
 <!-- RADIO --><!-- 1-999:A22A:2268 -->
 
