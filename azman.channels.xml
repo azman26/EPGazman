@@ -793,26 +793,27 @@
 
 <!-- Rakuten TV --><!-- 1-999:A66A:2268 -->
 
-<!-- IPTV --><channel id="BjgTjme.rtv.pl">4097:0:1:239:A11A:2268:0:0:0:0:http%3a//</channel><!-- BjgTjme -->
-<!-- IPTV --><channel id="CarCityAdventures.rtv.pl">4097:0:1:1A7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Car City Adventures -->
-<!-- IPTV --><channel id="GrjngoWesterny.rtv.pl">4097:0:1:1F7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Grjngo Westerny -->
-<!-- IPTV --><channel id="Moconomy.rtv.pl">4097:0:1:240:A11A:2268:0:0:0:0:http%3a//</channel><!-- Moconomy -->
-<!-- IPTV --><channel id="Now70s.rtv.pl">4097:0:1:1F9:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 70s -->
-<!-- IPTV --><channel id="Now80s.rtv.pl">4097:0:1:1FA:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 80s -->
-<!-- IPTV --><channel id="Now90s00s.rtv.pl">4097:0:1:1FF:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now 90s00s -->
-<!-- IPTV --><channel id="NowRock.rtv.pl">4097:0:1:1FB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Now Rock -->
-<!-- IPTV --><channel id="QwestTv.rtv.pl">4097:0:1:1FD:A11A:2268:0:0:0:0:http%3a//</channel><!-- Qwest TV -->
-<!-- IPTV --><channel id="RedCarpetTvInternational.rtv.pl">4097:0:1:1D7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Red Carpet TV International -->
-<!-- IPTV --><channel id="RoyalWorld.rtv.pl">4097:0:1:1B7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Royalworld -->
-<!-- IPTV --><channel id="TopMovies.rtv.pl">4097:0:1:1E7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Top Movies Polska -->
-<!-- IPTV --><channel id="TraceUrban.rtv.pl">4097:0:1:1F8:A11A:2268:0:0:0:0:http%3a//</channel><!-- Trace Urban -->
-<!-- IPTV --><channel id="Travelxp.rtv.pl">4097:0:1:1FE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Travel XP -->
-<!-- IPTV --><channel id="ViasatExploreClassic.rtv.pl">4097:0:1:1C7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viasat Explore Classic -->
-<!-- IPTV --><channel id="WedotvAuta.rtv.pl">4097:0:1:1FC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Wedotv Auta -->
+<!-- IPTV --><channel id="TopMovies.rtv.pl">4097:0:1:1:A66A:2268:0:0:0:0:http%3a//</channel><!-- Top Movies Polska -->
+<!-- IPTV --><channel id="GrjngoWesterny.rtv.pl">4097:0:1:2:A66A:2268:0:0:0:0:http%3a//</channel><!-- Grjngo Westerny -->
+<!-- IPTV --><channel id="BjgTjme.rtv.pl">4097:0:1:3:A66A:2268:0:0:0:0:http%3a//</channel><!-- BjgTjme -->
+<!-- IPTV --><channel id="WedotvAuta.rtv.pl">4097:0:1:4:A66A:2268:0:0:0:0:http%3a//</channel><!-- Wedotv Auta -->
+<!-- IPTV --><channel id="RedCarpetTvInternational.rtv.pl">4097:0:1:5:A66A:2268:0:0:0:0:http%3a//</channel><!-- Red Carpet TV International -->
+<!-- IPTV --><channel id="ViasatExploreClassic.rtv.pl">4097:0:1:6:A66A:2268:0:0:0:0:http%3a//</channel><!-- Viasat Explore Classic -->
+<!-- IPTV --><channel id="CarCityAdventures.rtv.pl">4097:0:1:7:A66A:2268:0:0:0:0:http%3a//</channel><!-- Car City Adventures -->
+<!-- IPTV --><channel id="Moconomy.rtv.pl">4097:0:1:8:A66A:2268:0:0:0:0:http%3a//</channel><!-- Moconomy -->
+<!-- IPTV --><channel id="RoyalWorld.rtv.pl">4097:0:1:9:A66A:2268:0:0:0:0:http%3a//</channel><!-- Royalworld -->
+<!-- IPTV --><channel id="Now70s.rtv.pl">4097:0:1:A:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now 70s -->
+<!-- IPTV --><channel id="Now80s.rtv.pl">4097:0:1:B:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now 80s -->
+<!-- IPTV --><channel id="Now90s00s.rtv.pl">4097:0:1:C:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now 90s00s -->
+<!-- IPTV --><channel id="NowRock.rtv.pl">4097:0:1:D:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now Rock -->
+<!-- IPTV --><channel id="QwestTv.rtv.pl">4097:0:1:E:A66A:2268:0:0:0:0:http%3a//</channel><!-- Qwest TV -->
+<!-- IPTV --><channel id="TraceUrban.rtv.pl">4097:0:1:F:A66A:2268:0:0:0:0:http%3a//</channel><!-- Trace Urban -->
+<!-- IPTV --><channel id="Travelxp.rtv.pl">4097:0:1:10:A66A:2268:0:0:0:0:http%3a//</channel><!-- Travel XP -->
 
 <!-- LG Channels --><!-- 1-999:A77A:2268 -->
 
-
+<!-- IPTV --><channel id="LG1.lg.pl">4097:0:1:1:A77A:2268:0:0:0:0:http%3a//</channel><!-- LG 1 -->
+<!-- IPTV --><channel id="LG1Film.lg.pl">4097:0:1:2:A77A:2268:0:0:0:0:http%3a//</channel><!-- LG 1 Film -->
 
 <!-- FAST Player TVN --><!-- 1-999:A88A:2268 -->
 
