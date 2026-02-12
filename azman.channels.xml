@@ -705,8 +705,9 @@
 <!-- IPTV --><channel id="TVPBarwySzczescia.pl">4097:0:1:2:A44A:2268:0:0:0:0:http%3a//</channel><!--TVP Barwy Szczęścia -->
 <!-- IPTV --><channel id="TVPKlan.pl">4097:0:1:3:A44A:2268:0:0:0:0:http%3a//</channel><!--TVP KLAN -->
 <!-- IPTV --><channel id="TVPKryminaly.pl">4097:0:1:4:A44A:2268:0:0:0:0:http%3a//</channel><!--TVP KRYMINAŁY -->
-<!-- IPTV --><channel id="TVPNaDobreINaZle.pl">4097:0:1:5:A44A:2268:0:0:0:0:http%3a//</channel><!--TVP NA DOBRE I NA ZŁE -->
-<!-- IPTV --><channel id="SejmRP.pl">4097:0:1:6:A44A:2268:0:0:0:0:http%3a//</channel><!-- Sejm RP -->
+<!-- IPTV --><channel id="TVPMilosc.pl">4097:0:1:5:A44A:2268:0:0:0:0:http%3a//</channel><!-- TVP Miłość -->
+<!-- IPTV --><channel id="TVPNaDobreINaZle.pl">4097:0:1:6:A44A:2268:0:0:0:0:http%3a//</channel><!--TVP NA DOBRE I NA ZŁE -->
+<!-- IPTV --><channel id="SejmRP.pl">4097:0:1:7:A44A:2268:0:0:0:0:http%3a//</channel><!-- Sejm RP -->
 
 <!-- Sweet TV --><!-- 1-999:A55A:2268 -->
 
