@@ -802,6 +802,11 @@
 <!-- IPTV --><channel id="WedkarstwoSportowe.swtv.pl">4097:0:1:53:A55A:2268:0:0:0:0:http%3a//</channel><!-- Sport Fishing HD -->
 <!-- IPTV --><channel id="WiekiePodroze.swtv.pl">4097:0:1:54:A55A:2268:0:0:0:0:http%3a//</channel><!-- Big Travels HD -->
 <!-- IPTV --><channel id="WojowniczeZolwieNinja.swtv.pl">4097:0:1:55:A55A:2268:0:0:0:0:http%3a//</channel><!-- Ninja Action Channel HD -->
+<!-- IPTV --><channel id="TraceSportStars.swtv.pl">4097:0:1:56:A55A:2268:0:0:0:0:http%3a//</channel><!-- Trace Sport Stars HD -->
+<!-- IPTV --><channel id="TraceUrban.swtv.pl">4097:0:1:57:A55A:2268:0:0:0:0:http%3a//</channel><!-- Trace Urban HD -->
+<!-- IPTV --><channel id="TraceUK.swtv.pl">4097:0:1:58:A55A:2268:0:0:0:0:http%3a//</channel><!-- Trace UK HD -->
+<!-- IPTV --><channel id="TraceBrasil.swtv.pl">4097:0:1:59:A55A:2268:0:0:0:0:http%3a//</channel><!-- Trace Brasil HD -->
+<!-- IPTV --><channel id="TraceLatina.swtv.pl">4097:0:1:5A:A55A:2268:0:0:0:0:http%3a//</channel><!-- Trace Latina HD -->
 
 <!-- Rakuten TV --><!-- 1-999:A66A:2268 -->
 
@@ -814,10 +819,10 @@
 <!-- IPTV --><channel id="CarCityAdventures.rtv.pl">4097:0:1:7:A66A:2268:0:0:0:0:http%3a//</channel><!-- Car City Adventures -->
 <!-- IPTV --><channel id="Moconomy.rtv.pl">4097:0:1:8:A66A:2268:0:0:0:0:http%3a//</channel><!-- Moconomy -->
 <!-- IPTV --><channel id="RoyalWorld.rtv.pl">4097:0:1:9:A66A:2268:0:0:0:0:http%3a//</channel><!-- Royalworld -->
-<!-- IPTV --><channel id="Now70s.rtv.pl">4097:0:1:A:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now 70s -->
-<!-- IPTV --><channel id="Now80s.rtv.pl">4097:0:1:B:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now 80s -->
-<!-- IPTV --><channel id="Now90s00s.rtv.pl">4097:0:1:C:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now 90s00s -->
-<!-- IPTV --><channel id="NowRock.rtv.pl">4097:0:1:D:A66A:2268:0:0:0:0:http%3a//</channel><!-- Now Rock -->
+<!-- IPTV --><channel id="Thats70s.rtv.pl">4097:0:1:A:A66A:2268:0:0:0:0:http%3a//</channel><!-- That's 70s -->
+<!-- IPTV --><channel id="Thats80s.rtv.pl">4097:0:1:B:A66A:2268:0:0:0:0:http%3a//</channel><!-- That's 80s -->
+<!-- IPTV --><channel id="Thats90s00s.rtv.pl">4097:0:1:C:A66A:2268:0:0:0:0:http%3a//</channel><!-- That's 90s00s -->
+<!-- IPTV --><channel id="ThatsRock.rtv.pl">4097:0:1:D:A66A:2268:0:0:0:0:http%3a//</channel><!-- That's Rock -->
 <!-- IPTV --><channel id="TraceUrban.rtv.pl">4097:0:1:E:A66A:2268:0:0:0:0:http%3a//</channel><!-- Trace Urban -->
 <!-- IPTV --><channel id="DeluxeLounge.rtv.pl">4097:0:1:F:A66A:2268:0:0:0:0:http%3a//</channel><!-- Deluxe Lounge -->
 <!-- IPTV --><channel id="QwestTv.rtv.pl">4097:0:1:10:A66A:2268:0:0:0:0:http%3a//</channel><!-- Qwest TV -->
