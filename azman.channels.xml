@@ -586,6 +586,10 @@
 <!-- IPTV --><channel id="V90.pl">4097:0:1:91:A11A:2268:0:0:0:0:http%3a//</channel><!-- V90 -->
 <!-- IPTV --><channel id="VIVARussia.pl">4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//</channel><!-- VIVA Russia -->
 <!-- IPTV --><channel id="VOXwRytmieHitow.pl">4097:0:1:273E:63ED:EC:0:0:0:0:http%3a//</channel><!-- VOX W Rytmie Hitów -->
+<!-- IPTV --><channel id="VantageDance.pl">4097:0:1:502:8B4E:EC:0:0:0:0:http%3a//</channel><!-- Vantage Dance -->
+<!-- IPTV --><channel id="VantageMusic.pl">4097:0:1:501:8B4E:EC:0:0:0:0:http%3a//</channel><!-- Vantage Music -->
+<!-- IPTV --><channel id="VantageMusicUK.pl">4097:0:1:504:8B4E:EC:0:0:0:0:http%3a//</channel><!-- Vantage Music UK -->
+<!-- IPTV --><channel id="VantageRock.pl">4097:0:1:503:8B4E:EC:0:0:0:0:http%3a//</channel><!-- Vantage Rock -->
 
 <!-- 900-999:A11A:2268 -->
 
