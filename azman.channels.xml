@@ -350,6 +350,7 @@
 <!-- 13.0E --><channel id="TVPHistoria.pl">1:0:1:3D99:2C88:13E:820000:0:0:0:</channel><!-- TVP Historia -->
 <!-- 13.0E --><channel id="TVPInfo.pl">1:0:1:1139:2AF8:13E:820000:0:0:0:</channel><!-- TVP Info HD -->
 <!-- 13.0E --><channel id="TVPKultura.pl">1:0:1:3D59:2C88:13E:820000:0:0:0:</channel><!-- TVP Kultura HD -->
+<!-- 13.0E --><channel id="TVPPolonia.pl">1:0:1:4239:2F44:13E:820000:0:0:0:</channel><!-- TVP Polonia -->
 <!-- 13.0E --><channel id="TVPPolonia.pl">1:0:1:E83:3200:13E:820000:0:0:0:</channel><!-- TVP Polonia -->
 <!-- 13.0E --><channel id="TVPRozrywka.pl">1:0:1:4288:2BC0:13E:820000:0:0:0:</channel><!-- TVP Rozrywka -->
 <!-- 13.0E --><channel id="TVPSeriale.pl">1:0:1:3D5C:2C88:13E:820000:0:0:0:</channel><!-- TVP SERIALE -->
@@ -494,8 +495,6 @@
 <!-- IPTV --><channel id="EUMusic.pl">4097:0:1:7264:8452:EC:0:0:0:0:http%3a//</channel><!-- EU Music -->
 <!-- IPTV --><channel id="EWTNPolska.pl">4097:0:1:70:1:48:0:0:0:0:http%3a//</channel><!-- EWTN Polska -->
 <!-- IPTV --><channel id="EnglishClubTv.pl">4097:0:1:7985:ABCC:EC:0:0:0:0:http%3a//</channel><!-- ENGLISH CLUB TV HD -->
-<!-- IPTV --><channel id="EskaHityNaCzasie.pl">4097:0:1:3167:CB6C:EC:0:0:0:0:http%3a//</channel><!-- Eska Hity Na Czasie -->
-<!-- IPTV --><channel id="EskaRockDobrzeRockuje.pl">4097:0:1:175D:100D:EC:0:0:0:0:http%3a//</channel><!-- Eska Rock Dobrze Rockuje -->
 <!-- IPTV --><channel id="EuronewsPL.pl">4097:0:1:8072:5DDF:EC:0:0:0:0:http%3a//</channel><!-- Euronews PL -->
 <!-- IPTV --><channel id="Eurosport3.pl">4097:0:1:2D2:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport 3 -->
 <!-- IPTV --><channel id="FashionBox.pl">4097:0:1:CFD7:D8C:EC:0:0:0:0:http%3a//</channel><!-- FashionBox -->
@@ -507,8 +506,6 @@
 <!-- IPTV --><channel id="GinxEsportsTv.pl">4097:0:1:5E1:F:601:FFFF0000:0:0:0:http%3a//</channel><!-- GINX ESPORTS TV HD -->
 <!-- IPTV --><channel id="GlinaTv.pl">4097:0:1:C7D4:533B:EC:0:0:0:0:http%3a//</channel><!-- Glina TV -->
 <!-- IPTV --><channel id="GodTv.pl">4097:0:1:B0CA:6549:EC:0:0:0:0:http%3a//</channel><!-- GOD TV -->
-<!-- IPTV --><channel id="HiDance.pl">4097:0:1:15F3:51DC:EC:0:0:0:0:http%3a//</channel><!-- HiDance -->
-<!-- IPTV --><channel id="HiMusic.pl">4097:0:1:7A4C:2833:EC:0:0:0:0:http%3a//</channel><!-- HiMusic -->
 <!-- IPTV --><channel id="Home4K.pl">4097:0:1:1F7:2137:9F:820000:0:0:0:http%3a//</channel><!-- HOME 4K -->
 <!-- IPTV --><channel id="Jazz.pl">4097:0:1:540B:DD1E:EC:0:0:0:0:http%3a//</channel><!-- JAZZ HD-->
 <!-- IPTV --><channel id="KapitanBomba.pl">4097:0:1:D340:668B:EE:0:0:0:0:http%3a//</channel><!-- Kapitan Bomba -->
@@ -518,7 +515,6 @@
 <!-- IPTV --><channel id="LubuskaTVHoryzont.pl">4097:0:1:3AF1:7638:EC:0:0:0:0:http%3a//</channel><!-- Lubuska TV Horyzont -->
 <!-- IPTV --><channel id="MTVClassic.pl">4097:0:1:90:A11A:2268:0:0:0:0:http%3a//</channel><!-- MTV Classic -->
 <!-- IPTV --><channel id="MixTape.pl">4097:0:1:C20B:E8B5:EC:0:0:0:0:http%3a//</channel><!-- MIX TAPE -->
-<!-- IPTV --><channel id="Murator.pl">4097:0:1:99BA:260E:EC:0:0:0:0:http%3a//</channel><!-- Murator -->
 <!-- IPTV --><channel id="Music00s.pl">4097:0:1:8D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music 00s -->
 <!-- IPTV --><channel id="Music80s.pl">4097:0:1:8B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music 80s -->
 <!-- IPTV --><channel id="Music90s.pl">4097:0:1:8C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Music 90s -->
@@ -539,7 +535,6 @@
 <!-- IPTV --><channel id="Novelas+1.pl">4097:0:1:755:1362:EC:0:0:0:0:http%3a//</channel><!-- Novelas+1 -->
 <!-- IPTV --><channel id="PixelTV.pl">4097:0:1:80:A11A:2268:0:0:0:0:http%3a//</channel><!-- Pixel TV -->
 <!-- IPTV --><channel id="Polsat1.pl">4097:0:1:943A:2C7F:EC:0:0:0:0:http%3a//</channel><!-- Polsat 1 -->
-<!-- IPTV --><channel id="PoradnikZdrowie.pl">4097:0:1:C7D1:B312:EC:0:0:0:0:http%3a//</channel><!-- Poradnik Zdrowie -->
 <!-- IPTV --><channel id="PorucznikKabura.pl">4097:0:1:EED4:9CF5:EE:0:0:0:0:http%3a//</channel><!-- Porucznik Kabura -->
 <!-- IPTV --><channel id="PrimeFight.pl">4097:0:1:6AC8:5E32:EC:0:0:0:0:http%3a//</channel><!-- Prime Fight HD -->
 <!-- IPTV --><channel id="ProartHD.pl">4097:0:1:DFC5:FFB3:EC:0:0:0:0:http%3a//</channel><!-- Proart HD -->
@@ -549,7 +544,6 @@
 <!-- IPTV --><channel id="RadioRam.pl">4097:0:1:AC96:C97C:EC:0:0:0:0:http%3a//</channel><!-- RADIO RAM --><!-- VISUAL RADIO -->
 <!-- IPTV --><channel id="RadioWroclawKultura.pl">4097:0:1:3204:B5D9:EC:0:0:0:0:http%3a//</channel><!-- Radio Wrocław Kultura -->
 <!-- IPTV --><channel id="RemontyTV.pl">4097:0:1:1F34:1D76:EE:0:0:0:0:http%3a//</channel><!-- Remonty TV -->
-<!-- IPTV --><channel id="SayHi.pl">4097:0:1:314F:5245:EC:0:0:0:0:http%3a//</channel><!-- SayHi -->
 <!-- IPTV --><channel id="SferaTv.pl">4097:0:1:6:1:48:0:0:0:0:http%3a//</channel><!-- Sfera TV -->
 <!-- IPTV --><channel id="SportowaTv.pl">4097:0:1:391F:42F:EC:0:0:0:0:http%3a//</channel><!--Sportowa TV -->
 <!-- IPTV --><channel id="StargazeTV.pl">4097:0:19:E17:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- Stargaze TV -->
@@ -585,10 +579,8 @@
 <!-- IPTV --><channel id="UltraTv4K.pl">4097:0:1:7389:DE37:EC:0:0:0:0:http%3a//</channel><!-- ULTRA TV 4K -->
 <!-- IPTV --><channel id="V90.pl">4097:0:1:91:A11A:2268:0:0:0:0:http%3a//</channel><!-- V90 -->
 <!-- IPTV --><channel id="VIVARussia.pl">4097:0:1:533C:8B4E:EC:0:0:0:0:http%3a//</channel><!-- VIVA Russia -->
-<!-- IPTV --><channel id="VOXwRytmieHitow.pl">4097:0:1:273E:63ED:EC:0:0:0:0:http%3a//</channel><!-- VOX W Rytmie Hitów -->
 <!-- IPTV --><channel id="VantageDance.pl">4097:0:1:502:8B4E:EC:0:0:0:0:http%3a//</channel><!-- Vantage Dance -->
 <!-- IPTV --><channel id="VantageMusic.pl">4097:0:1:501:8B4E:EC:0:0:0:0:http%3a//</channel><!-- Vantage Music -->
-<!-- IPTV --><channel id="VantageMusicUK.pl">4097:0:1:504:8B4E:EC:0:0:0:0:http%3a//</channel><!-- Vantage Music UK -->
 <!-- IPTV --><channel id="VantageRock.pl">4097:0:1:503:8B4E:EC:0:0:0:0:http%3a//</channel><!-- Vantage Rock -->
 
 <!-- 900-999:A11A:2268 -->
@@ -598,21 +590,12 @@
 <!-- IPTV --><channel id="C+Extra7.pl">4097:0:1:386:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 7 -->
 <!-- IPTV --><channel id="C+Extra8.pl">4097:0:1:387:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 8 -->
 <!-- IPTV --><channel id="C+Extra9.pl">4097:0:1:388:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 9 -->
-<!-- IPTV --><channel id="C+Extra10.pl">4097:0:1:389:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 10 -->
-<!-- IPTV --><channel id="C+Extra11.pl">4097:0:1:38A:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 11 -->
-<!-- IPTV --><channel id="C+Extra12.pl">4097:0:1:38B:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 12 -->
-<!-- IPTV --><channel id="C+Extra13.pl">4097:0:1:38C:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 13 -->
-<!-- IPTV --><channel id="C+Extra14.pl">4097:0:1:38D:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 14 -->
-<!-- IPTV --><channel id="C+Extra15.pl">4097:0:1:38E:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 15 -->
-<!-- IPTV --><channel id="C+Extra16.pl">4097:0:1:38F:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 16 -->
-<!-- IPTV --><channel id="C+Extra17.pl">4097:0:1:390:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 17 -->
-<!-- IPTV --><channel id="C+Extra18.pl">4097:0:1:391:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 18 -->
-<!-- IPTV --><channel id="C+Live1.pl">4097:0:1:392:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 1 -->
-<!-- IPTV --><channel id="C+Live2.pl">4097:0:1:393:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 2 -->
-<!-- IPTV --><channel id="C+Live3.pl">4097:0:1:394:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 3 -->
-<!-- IPTV --><channel id="C+Live4.pl">4097:0:1:395:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 4 -->
-<!-- IPTV --><channel id="C+Live5.pl">4097:0:1:396:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 5 -->
-<!-- IPTV --><channel id="C+Live6.pl">4097:0:1:397:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 6 -->
+<!-- IPTV --><channel id="C+Live1.pl">4097:0:1:389:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 1 -->
+<!-- IPTV --><channel id="C+Live2.pl">4097:0:1:38A:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 2 -->
+<!-- IPTV --><channel id="C+Live3.pl">4097:0:1:38B:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 3 -->
+<!-- IPTV --><channel id="C+Live4.pl">4097:0:1:38C:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 4 -->
+<!-- IPTV --><channel id="C+Live5.pl">4097:0:1:38D:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 5 -->
+<!-- IPTV --><channel id="C+Live6.pl">4097:0:1:38E:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 6 -->
 
 <!-- IPTV INNE --><!-- 1000-xxxx:A11A:2268 -->
 
