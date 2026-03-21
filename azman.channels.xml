@@ -41,6 +41,10 @@
 <!-- 13.0E --><channel id="BrazzersTv.pl">1:0:19:422C:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:13ED:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:141F:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
+<!-- 13.0E --><channel id="C+360.pl">1:0:1:1131:2AF8:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
+<!-- 13.0E --><channel id="C+360.pl">1:0:1:1163:2AF8:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
+<!-- 13.0E --><channel id="C+360.pl">1:0:1:116D:2AF8:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
+<!-- 13.0E --><channel id="C+360.pl">1:0:1:1177:2AF8:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
 <!-- 13.0E --><channel id="C+360.pl">1:0:19:377B:44C:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
 <!-- 13.0E --><channel id="C+360.pl">1:0:19:37AD:44C:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
 <!-- 13.0E --><channel id="C+360.pl">1:0:19:37B7:44C:13E:820000:0:0:0:</channel><!-- CANAL+ 360 HD -->
@@ -48,16 +52,17 @@
 <!-- 13.0E --><channel id="C+4KUltra.pl">1:0:1F:32DB:190:13E:820000:0:0:0:</channel><!-- CANAL+ 4K ULTRA HD -->
 <!-- 13.0E --><channel id="C+4KUltra.pl">1:0:1F:330D:190:13E:820000:0:0:0:</channel><!-- CANAL+ 4K ULTRA HD -->
 <!-- 13.0E --><channel id="C+4KUltra.pl">1:0:1F:330E:190:13E:820000:0:0:0:</channel><!-- CANAL+ 4K ULTRA HD -->
+<!-- 13.0E --><channel id="C+Dokument.pl">1:0:1:3D58:2C88:13E:820000:0:0:0:</channel><!-- CANAL+ DOKUMENT HD -->
+<!-- 13.0E --><channel id="C+Dokument.pl">1:0:1:3D8A:2C88:13E:820000:0:0:0:</channel><!-- CANAL+ DOKUMENT HD -->
 <!-- 13.0E --><channel id="C+Dokument.pl">1:0:1:377A:44C:13E:820000:0:0:0:</channel><!-- CANAL+ DOKUMENT HD -->
 <!-- 13.0E --><channel id="C+Dokument.pl">1:0:1:37AC:44C:13E:820000:0:0:0:</channel><!-- CANAL+ DOKUMENT HD -->
-<!-- 13.0E --><channel id="C+Dokument.pl">1:0:1:3A99:514:13E:820000:0:0:0:</channel><!-- CANAL+ DOKUMENT HD -->
-<!-- 13.0E --><channel id="C+Dokument.pl">1:0:1:3ACB:514:13E:820000:0:0:0:</channel><!-- CANAL+ DOKUMENT HD -->
 <!-- 13.0E --><channel id="C+Domo.pl">1:0:1:13EF:5DC:13E:820000:0:0:0:</channel><!-- CANAL+ DOMO HD -->
 <!-- 13.0E --><channel id="C+Domo.pl">1:0:1:1421:5DC:13E:820000:0:0:0:</channel><!-- CANAL+ DOMO HD -->
 <!-- 13.0E --><channel id="C+Extra1.pl">1:0:1:32E1:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 1 -->
 <!-- 13.0E --><channel id="C+Extra1.pl">1:0:1:3313:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 1 -->
 <!-- 13.0E --><channel id="C+Extra2.pl">1:0:1:3783:44C:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 2 -->
 <!-- 13.0E --><channel id="C+Extra2.pl">1:0:1:37B5:44C:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 2 -->
+<!-- 13.0E --><channel id="C+Extra2.pl">1:0:1:37BF:44C:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 2 -->
 <!-- 13.0E --><channel id="C+Extra3.pl">1:0:1:32E3:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 3 -->
 <!-- 13.0E --><channel id="C+Extra3.pl">1:0:1:3315:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 3 -->
 <!-- 13.0E --><channel id="C+Extra4.pl">1:0:1:32E4:190:13E:820000:0:0:0:</channel><!-- CANAL+ Extra 4 -->
@@ -66,6 +71,8 @@
 <!-- 13.0E --><channel id="C+Film.pl">1:0:1:37AB:44C:13E:820000:0:0:0:</channel><!-- CANAL+ FILM HD -->
 <!-- 13.0E --><channel id="C+Kuchnia.pl">1:0:19:377F:44C:13E:820000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
 <!-- 13.0E --><channel id="C+Kuchnia.pl">1:0:19:37B1:44C:13E:820000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
+<!-- 13.0E --><channel id="C+Kuchnia.pl">1:0:1:13F0:5DC:13E:820000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
+<!-- 13.0E --><channel id="C+Kuchnia.pl">1:0:1:1422:5DC:13E:820000:0:0:0:</channel><!-- CANAL+ KUCHNIA -->
 <!-- 13.0E --><channel id="C+Now.pl">1:0:1:32CD:190:13E:820000:0:0:0:</channel><!-- CANAL+ NOW -->
 <!-- 13.0E --><channel id="C+Now.pl">1:0:1:32FF:190:13E:820000:0:0:0:</channel><!-- CANAL+ NOW -->
 <!-- 13.0E --><channel id="C+Now.pl">1:0:1:3327:190:13E:820000:0:0:0:</channel><!-- CANAL+ NOW -->
@@ -74,6 +81,8 @@
 <!-- 13.0E --><channel id="C+Premium.pl">1:0:1:32FA:190:13E:820000:0:0:0:</channel><!-- CANAL+ PREMIUM HD -->
 <!-- 13.0E --><channel id="C+Premium.pl">1:0:1:3304:190:13E:820000:0:0:0:</channel><!-- CANAL+ PREMIUM HD -->
 <!-- 13.0E --><channel id="C+Premium.pl">1:0:1:3322:190:13E:820000:0:0:0:</channel><!-- CANAL+ PREMIUM HD -->
+<!-- 13.0E --><channel id="C+Seriale.pl">1:0:1:3D57:2C88:13E:820000:0:0:0:</channel><!-- CANAL+ SERIALE HD -->
+<!-- 13.0E --><channel id="C+Seriale.pl">1:0:1:3D89:2C88:13E:820000:0:0:0:</channel><!-- CANAL+ SERIALE HD -->
 <!-- 13.0E --><channel id="C+Seriale.pl">1:0:19:3782:44C:13E:820000:0:0:0:</channel><!-- CANAL+ SERIALE HD -->
 <!-- 13.0E --><channel id="C+Seriale.pl">1:0:19:37B4:44C:13E:820000:0:0:0:</channel><!-- CANAL+ SERIALE HD -->
 <!-- 13.0E --><channel id="C+Sport.pl">1:0:1:32DE:190:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT HD -->
@@ -129,6 +138,7 @@
 <!-- 13.0E --><channel id="ElevenSports3.pl">1:0:1:143E:5DC:13E:820000:0:0:0:</channel><!-- Eleven Sports 3 HD -->
 <!-- 13.0E --><channel id="ElevenSports3.pl">1:0:1:1448:5DC:13E:820000:0:0:0:</channel><!-- Eleven Sports 3 HD -->
 <!-- 13.0E --><channel id="ElevenSports4.pl">1:0:1:13FA:5DC:13E:820000:0:0:0:</channel><!-- ELEVEN SPORTS 4 HD -->
+<!-- 13.0E --><channel id="ElevenSports4.pl">1:0:1:3D6C:2C88:13E:820000:0:0:0:</channel><!-- ELEVEN SPORTS 4 HD -->
 <!-- 13.0E --><channel id="EpicDrama.pl">1:0:1:4290:2BC0:13E:820000:0:0:0:</channel><!-- Epic Drama -->
 <!-- 13.0E --><channel id="EskaRockTv.pl">1:0:1:2909:1EDC:71:820000:0:0:0:</channel><!-- Eska Rock -->
 <!-- 13.0E --><channel id="EskaRockTv.pl">1:0:1:4299:2BC0:13E:820000:0:0:0:</channel><!-- Eska Rock -->
@@ -318,6 +328,7 @@
 <!-- 13.0E --><channel id="SundanceTv.pl">1:0:1:3E1D:2EE0:13E:820000:0:0:0:</channel><!-- Sundance TV -->
 <!-- 13.0E --><channel id="SuperPolsat.pl">1:0:1:339B:3390:71:820000:0:0:0:</channel><!-- Super Polsat -->
 <!-- 13.0E --><channel id="SuperPolsat.pl">1:0:1:33AB:3390:71:820000:0:0:0:</channel><!-- Super Polsat -->
+<!-- 13.0E --><channel id="SuperPolsat.pl">1:0:1:33BB:3390:71:820000:0:0:0:</channel><!-- Super Polsat -->
 <!-- 13.0E --><channel id="SzlagierTv.pl">1:0:1:1152:2AF8:13E:820000:0:0:0:</channel><!-- Szlagier TV -->
 <!-- 13.0E --><channel id="TLC.pl">1:0:19:10DE:3E8:13E:820000:0:0:0:</channel><!-- TLC Poland HD -->
 <!-- 13.0E --><channel id="TTV.pl">1:0:19:3DD7:640:13E:820000:0:0:0:</channel><!-- TTV HD -->
@@ -411,6 +422,7 @@
 <!-- 13.0E --><channel id="Bloomberg.pl">1:0:1:1C86:332C:13E:820000:0:0:0:</channel><!-- Bloomberg European TV -->
 <!-- 13.0E --><channel id="CNBC.pl">1:0:1:1326:33F4:13E:820000:0:0:0:</channel><!-- CNBC HD -->
 <!-- 13.0E --><channel id="CurrentTime.pl">1:0:16:13B2:2710:D5:820000:0:0:0:</channel><!-- Current Time -->
+<!-- 13.0E --><channel id="DayStarTV.pl">1:0:19:1200:2B5C:13E:820000:0:0:0:</channel><!-- DayStar TV -->
 <!-- 13.0E --><channel id="DWEnglish.pl">1:0:1:332D:1388:13E:820000:0:0:0:</channel><!-- DW English HD -->
 <!-- 13.0E --><channel id="EspresoTv.pl">1:0:1:4235:2F44:13E:820000:0:0:0:</channel><!-- Espreso TV -->
 <!-- 13.0E --><channel id="Euronews.pl">1:0:16:321:3BC4:1:820000:0:0:0:</channel><!-- Euronews English HD -->
