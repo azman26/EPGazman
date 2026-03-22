@@ -471,7 +471,6 @@
 
 <!-- IPTV --><!-- 1-999:A11A:2268 -->
 
-<!-- IPTV --><channel id="Biznes24.pl">4097:0:1:3D57:2C88:13E:820000:0:0:0:http%3a//</channel><!-- Biznes24 -->
 <!-- IPTV --><channel id="DayStarTV.pl">4097:0:19:E13:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- DayStar TV -->
 <!-- IPTV --><channel id="DolceVitaTV.pl">4097:0:19:E13:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- DolceVita TV -->
 <!-- IPTV --><channel id="Echo24.pl">4097:0:19:50:B052:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Echo24 HD -->
@@ -596,6 +595,8 @@
 <!-- IPTV --><channel id="VantageDance.pl">4097:0:1:66:A11A:2268:0:0:0:0:http%3a//</channel><!-- Vantage Dance -->
 <!-- IPTV --><channel id="VantageMusic.pl">4097:0:1:67:A11A:2268:0:0:0:0:http%3a//</channel><!-- Vantage Music -->
 <!-- IPTV --><channel id="VantageRock.pl">4097:0:1:68:A11A:2268:0:0:0:0:http%3a//</channel><!-- Vantage Rock -->
+<!-- IPTV --><channel id="Biznes24.pl">4097:0:1:69:A11A:2268:0:0:0:0:http%3a//</channel><!-- Biznes24 -->
+
 
 <!-- 900-999:A11A:2268 -->
 
