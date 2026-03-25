@@ -553,7 +553,7 @@
 <!-- IPTV --><channel id="PorucznikKabura.pl">4097:0:1:3C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Porucznik Kabura -->
 <!-- IPTV --><channel id="PrimeFight.pl">4097:0:1:3D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Prime Fight HD -->
 <!-- IPTV --><channel id="ProartHD.pl">4097:0:1:3E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Proart HD -->
-<!-- IPTV --><channel id="Quadro4K.pl">4097:0:1:3F:A11A:2268:0:0:0:0:http%3a//</chann<!-- Quadro 4K -->
+<!-- IPTV --><channel id="Quadro4K.pl">4097:0:1:3F:A11A:2268:0:0:0:0:http%3a//</channel<!-- Quadro 4K -->
 <!-- IPTV --><channel id="Radio357.pl">4097:0:1:40:A11A:2268:0:0:0:0:http%3a//</channel><!-- RADIO 357 --><!-- WP PILOT -->
 <!-- IPTV --><channel id="RadioNowySwiat.pl">4097:0:1:41:A11A:2268:0:0:0:0:http%3a//</channel><!-- RADIO NOWY ŚWIAT --><!-- WP PILOT -->
 <!-- IPTV --><channel id="RadioRam.pl">4097:0:1:42:A11A:2268:0:0:0:0:http%3a//</channel><!-- RADIO RAM --><!-- VISUAL RADIO -->
