@@ -553,7 +553,7 @@
 <!-- IPTV --><channel id="PorucznikKabura.pl">4097:0:1:3C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Porucznik Kabura -->
 <!-- IPTV --><channel id="PrimeFight.pl">4097:0:1:3D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Prime Fight HD -->
 <!-- IPTV --><channel id="ProartHD.pl">4097:0:1:3E:A11A:2268:0:0:0:0:http%3a//</channel><!-- Proart HD -->
-<!-- IPTV --><channel id="Quadro4K.pl">4097:0:1:3F:A11A:2268:0:0:0:0:http%3a//</channel<!-- Quadro 4K -->
+<!-- IPTV --><channel id="Quadro4K.pl">4097:0:1:3F:A11A:2268:0:0:0:0:http%3a//</channel><!-- Quadro 4K -->
 <!-- IPTV --><channel id="Radio357.pl">4097:0:1:40:A11A:2268:0:0:0:0:http%3a//</channel><!-- RADIO 357 --><!-- WP PILOT -->
 <!-- IPTV --><channel id="RadioNowySwiat.pl">4097:0:1:41:A11A:2268:0:0:0:0:http%3a//</channel><!-- RADIO NOWY ŚWIAT --><!-- WP PILOT -->
 <!-- IPTV --><channel id="RadioRam.pl">4097:0:1:42:A11A:2268:0:0:0:0:http%3a//</channel><!-- RADIO RAM --><!-- VISUAL RADIO -->
@@ -597,7 +597,6 @@
 <!-- IPTV --><channel id="VantageRock.pl">4097:0:1:68:A11A:2268:0:0:0:0:http%3a//</channel><!-- Vantage Rock -->
 <!-- IPTV --><channel id="Biznes24.pl">4097:0:1:69:A11A:2268:0:0:0:0:http%3a//</channel><!-- Biznes24 -->
 
-
 <!-- 900-999:A11A:2268 -->
 
 <!-- IPTV --><channel id="C+Extra5.pl">4097:0:1:384:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ Extra 5 -->
@@ -612,7 +611,7 @@
 <!-- IPTV --><channel id="C+Live5.pl">4097:0:1:38D:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 5 -->
 <!-- IPTV --><channel id="C+Live6.pl">4097:0:1:38E:A11A:2268:0:0:0:0:http%3a//</channel><!-- CANAL+ LIVE 6 -->
 
-<!-- IPTV EXTRA --><!-- 1000-xxxx:A11A:2268 -->
+<!-- IPTV EXTRA --><!-- 1000-1500:A11A:2268 -->
 
 <!-- IPTV --><channel id="DAZNevents.pl">4097:0:1:3E8:A11A:2268:0:0:0:0:http%3a//</channel><!-- DAZN events -->
 <!-- IPTV --><channel id="ElevenOnline1.pl">4097:0:1:3E9:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 1 -->
@@ -635,11 +634,29 @@
 <!-- IPTV --><channel id="ElevenOnline18.pl">4097:0:1:3FA:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 18 -->
 <!-- IPTV --><channel id="EmocjeTV.pl">4097:0:1:3FB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Emocje TV -->
 <!-- IPTV --><channel id="EurosportExtra.pl">4097:0:1:3FC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport Extra -->
-<!-- IPTV --><channel id="Viaplay.pl">4097:0:1:3FD:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viaplay -->
+<!-- IPTV --><!-- <channel id="Viaplay.pl">4097:0:1:3FD:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="ViaplayOnline.pl">4097:0:1:3FE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viaplay Online -->
-<!-- IPTV --><channel id="TVPSportExtra.pl">4097:0:1:3FF:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP Sport Extra -->
+<!-- IPTV --><channel id="TVPSportTransmisje.pl">4097:0:1:3FF:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP Sport Transmisje -->
 <!-- IPTV --><channel id="Eurosport4KSK.pl">4097:0:1:400:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport 4K SK -->
 <!-- IPTV --><channel id="HBO3EuropeCZ.pl">4097:0:1:401:A11A:2268:0:0:0:0:http%3a//</channel><!-- HBO 3 Europe CZ -->
+
+<!-- IPTV EXTRA --><!-- KANAŁY SKYSHOWTIME --><!-- 1500-xxxx:A11A:2268 -->
+
+<!-- IPTV --><channel id="Dora.skyshowtime.pl">4097:0:1:5DC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Dora -->
+<!-- IPTV --><channel id="NiebezpiecznyHenryk.skyshowtime.pl">4097:0:1:5DD:A11A:2268:0:0:0:0:http%3a//</channel><!-- Niebezpieczny Henryk -->
+<!-- IPTV --><channel id="PawPatrol.skyshowtime.pl">4097:0:1:5DE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Paw Patrol -->
+<!-- IPTV --><channel id="SpongeBobKanciastoporty.skyshowtime.pl">4097:0:1:5DF:A11A:2268:0:0:0:0:http%3a//</channel><!-- SpongeBob Kanciastoporty -->
+<!-- IPTV --><channel id="Komedie.skyshowtime.pl">4097:0:1:5E0:A11A:2268:0:0:0:0:http%3a//</channel><!-- Komedie -->
+<!-- IPTV --><channel id="TheOffice.skyshowtime.pl">4097:0:1:5E1:A11A:2268:0:0:0:0:http%3a//</channel><!-- The Office -->
+<!-- IPTV --><channel id="Frasier.skyshowtime.pl">4097:0:1:5E2:A11A:2268:0:0:0:0:http%3a//</channel><!-- Frasier -->
+<!-- IPTV --><channel id="StarTrek.skyshowtime.pl">4097:0:1:5E3:A11A:2268:0:0:0:0:http%3a//</channel><!-- StarTrek -->
+<!-- IPTV --><channel id="House.skyshowtime.pl">4097:0:1:5E4:A11A:2268:0:0:0:0:http%3a//</channel><!-- House -->
+<!-- IPTV --><channel id="PrawoiPorzadek.skyshowtime.pl">4097:0:1:5E5:A11A:2268:0:0:0:0:http%3a//</channel><!-- Prawo i Porządek -->
+<!-- IPTV --><channel id="Zabojcy.skyshowtime.pl">4097:0:1:5E6:A11A:2268:0:0:0:0:http%3a//</channel><!-- Zabójcy -->
+<!-- IPTV --><channel id="Billions.skyshowtime.pl">4097:0:1:5E7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Billions -->
+<!-- IPTV --><channel id="Dexter.skyshowtime.pl">4097:0:1:5E8:A11A:2268:0:0:0:0:http%3a//</channel><!-- Dexter -->
+<!-- IPTV --><channel id="wGarniturach.skyshowtime.pl">4097:0:1:5E9:A11A:2268:0:0:0:0:http%3a//</channel><!-- W Garniturach -->
+<!-- IPTV --><channel id="UniwersumYellowstone.skyshowtime.pl">4097:0:1:5EA:A11A:2268:0:0:0:0:http%3a//</channel><!-- Uniwersum Yellowstone -->
 
 <!-- iTVN -->
 
