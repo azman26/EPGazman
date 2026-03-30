@@ -634,7 +634,7 @@
 <!-- IPTV --><channel id="ElevenOnline18.pl">4097:0:1:3FA:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 18 -->
 <!-- IPTV --><channel id="EmocjeTV.pl">4097:0:1:3FB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Emocje TV -->
 <!-- IPTV --><channel id="EurosportExtra.pl">4097:0:1:3FC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport Extra -->
-<!-- IPTV --><!-- <channel id="Viaplay.pl">4097:0:1:3FD:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viaplay -->
+<!-- IPTV --><channel id="Viaplay.pl">4097:0:1:3FD:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viaplay -->
 <!-- IPTV --><channel id="ViaplayOnline.pl">4097:0:1:3FE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viaplay Online -->
 <!-- IPTV --><channel id="TVPSportTransmisje.pl">4097:0:1:3FF:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP Sport Transmisje -->
 <!-- IPTV --><channel id="Eurosport4KSK.pl">4097:0:1:400:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport 4K SK -->
@@ -1011,7 +1011,7 @@
 <!-- RADIO IP --><channel id="RadioNewonce.pl">4097:0:2:25:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO NEWONCE -->
 <!-- RADIO IP --><channel id="RadioNiepokalanow.pl">4097:0:2:26:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO NIEPOKALANÓW -->
 <!-- RADIO IP --><channel id="RadioNowySwiat.pl">4097:0:2:27:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO NOWY ŚWIAT -->
-<!-- RADIO IP --><channel id="RadioOlsztyn.pl">4097:0:2:28:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO nN -->
+<!-- RADIO IP --><channel id="RadioOlsztyn.pl">4097:0:2:28:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO OLSZTYN -->
 <!-- RADIO IP --><channel id="RadioOpole.pl">4097:0:2:29:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO OPOLE -->
 <!-- RADIO IP --><channel id="RadioOstrowiec.pl">4097:0:2:42:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO OSTROWIEC -->
 <!-- RADIO IP --><channel id="RadioParada.pl">4097:0:2:2A:A22A:2268:0:0:0:0:http%3a//</channel><!-- RADIO PARADA -->
