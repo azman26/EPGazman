@@ -456,8 +456,8 @@
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:6FFF:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
 <!-- 19.2E --><channel id="MTVGermany.pl">1:0:1:7006:436:1:C00000:0:0:0:</channel><!-- MTV Germany -->
 <!-- 19.2E --><channel id="Mezzo.pl">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- MEZZO -->
-<!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:2262:438:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
 <!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:74A2:41C:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
+<!-- 19.2E --><channel id="MezzoLive.pl">1:0:19:2718:44C:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
 <!-- 19.2E --><channel id="PlayboyTv.pl">1:0:1:778B:424:1:C00000:0:0:0:</channel><!-- Playboy TV -->
 <!-- 19.2E --><channel id="SBN.pl">1:0:1:2F9A:454:1:C00000:0:0:0:</channel><!-- SBN International -->
 <!-- 19.2E --><channel id="SkyNews.pl">1:0:1:1C7A:457:1:C00000:0:0:0:</channel><!-- Sky News -->
@@ -484,9 +484,8 @@
 <!-- IPTV --><channel id="KabaretTV.pl">4097:0:19:90A:17:601:FFFF0000:0:0:0:http%3a//</channel><!--Kabaret TV -->
 <!-- IPTV --><channel id="LRTLituanica.pl">4097:0:1:3F8:65:64:FFFF0000:0:0:0:http%3a//</channel><!-- LRT Lituanica -->
 <!-- IPTV --><channel id="MusicBox.pl">4097:0:1:2341:2328:13E:820000:0:0:0:http%3a//</channel><!-- Music Box Polska -->
+<!-- IPTV --><channel id="Outdoor.pl">4097:0:19:908E:89:64:FFFF0000:0:0:0:http%3a//</channel><!-- OUTDOOR TV -->
 <!-- IPTV --><channel id="Pogoda24Tv.pl">4097:0:16:91:B052:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Pogoda24 TV -->
-<!-- IPTV --><channel id="SkyShowtime1.pl">4097:0:19:E11:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- Sky Showtime 1 -->
-<!-- IPTV --><channel id="SkyShowtime2.pl">4097:0:19:E12:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- Sky Showtime 2 -->
 <!-- IPTV --><channel id="StargazeTV.pl">4097:0:19:E17:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- Stargaze TV -->
 <!-- IPTV --><channel id="TBNPolska.pl">4097:0:1:327:1F40:13E:820000:0:0:0:http%3a//</channel><!-- TBN Poland -->
 <!-- IPTV --><channel id="TelewizjaRepublika.pl">4097:0:1F:BC:15:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Telewizja Republika -->
