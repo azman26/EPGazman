@@ -35,8 +35,7 @@
 <!-- 13.0E --><channel id="BBCFirst.pl">1:0:1:1183:2AF8:13E:820000:0:0:0:</channel><!-- BBC FIRST -->
 <!-- 13.0E --><channel id="BBCLifestyle.pl">1:0:1:7DB:22C4:13E:820000:0:0:0:</channel><!-- BBC Lifestyle HD -->
 <!-- 13.0E --><channel id="BBCLifestyle.pl">1:0:1:7E5:22C4:13E:820000:0:0:0:</channel><!-- BBC Lifestyle HD -->
-<!-- 13.0E --><channel id="BabyTv.pl">1:0:1:1201:2B5C:13E:820000:0:0:0:</channel><!-- Baby TV -->
-<!-- 13.0E --><channel id="BabyTv.pl">1:0:1:53B:3D54:13E:820000:0:0:0:</channel><!-- Baby TV -->
+<!-- 13.0E --><channel id="BabyTv.pl">1:0:16:E8:25E4:D5:820000:0:0:0:</channel><!-- Baby TV -->
 <!-- 13.0E --><channel id="BlueHustler.pl">1:0:16:1140:2AF8:13E:820000:0:0:0:</channel><!-- Blue Hustler -->
 <!-- 13.0E --><channel id="BrazzersTv.pl">1:0:19:422C:2F44:13E:820000:0:0:0:</channel><!-- Brazzers TV -->
 <!-- 13.0E --><channel id="C+1.pl">1:0:1:13ED:5DC:13E:820000:0:0:0:</channel><!-- CANAL+1 HD -->
@@ -471,6 +470,7 @@
 
 <!-- IPTV --><!-- 1-999:A11A:2268 -->
 
+<!-- IPTV --><channel id="BabyFirstTv.pl">4097:0:19:1FE:5:601:FFFF0000:0:0:0:http%3a//</channel><!-- Baby First TV -->
 <!-- IPTV --><channel id="DayStarTV.pl">4097:0:19:E13:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- DayStar TV -->
 <!-- IPTV --><channel id="DolceVitaTV.pl">4097:0:19:E13:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- DolceVita TV -->
 <!-- IPTV --><channel id="Echo24.pl">4097:0:19:50:B052:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Echo24 HD -->
@@ -479,6 +479,9 @@
 <!-- IPTV --><channel id="FunBox4K.pl">4097:0:1F:138A:69:64:FFFF0000:0:0:0:http%3a//</channel><!-- FunBox UHD -->
 <!-- IPTV --><channel id="GinxEsportsTv.pl">4097:0:1:5E1:F:601:FFFF0000:0:0:0:http%3a//</channel><!-- GINX ESPORTS TV HD -->
 <!-- IPTV --><channel id="GodTv.pl">4097:0:16:89F:1F4:FC:820000:0:0:0:http%3a//</channel><!-- GOD TV -->
+<!-- IPTV --><channel id="JuniorChannel.pl">4097:0:1F:52:14:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Junior Channel -->
+<!-- IPTV --><channel id="JuniorMusic.pl">4097:0:19:BBF:67:64:FFFF0000:0:0:0:http%3a//</channel><!-- JUNIOR MUSIC HD -->
+<!-- IPTV --><channel id="KabaretTV.pl">4097:0:19:90A:17:601:FFFF0000:0:0:0:http%3a//</channel><!--Kabaret TV -->
 <!-- IPTV --><channel id="LRTLituanica.pl">4097:0:1:3F8:65:64:FFFF0000:0:0:0:http%3a//</channel><!-- LRT Lituanica -->
 <!-- IPTV --><channel id="MusicBox.pl">4097:0:1:2341:2328:13E:820000:0:0:0:http%3a//</channel><!-- Music Box Polska -->
 <!-- IPTV --><channel id="Pogoda24Tv.pl">4097:0:16:91:B052:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Pogoda24 TV -->
