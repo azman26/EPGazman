@@ -470,7 +470,6 @@
 
 <!-- IPTV --><!-- 1-999:A11A:2268 -->
 
-<!-- IPTV --><channel id="BabyFirstTv.pl">4097:0:19:1FE:5:601:FFFF0000:0:0:0:http%3a//</channel><!-- Baby First TV -->
 <!-- IPTV --><channel id="DayStarTV.pl">4097:0:19:E13:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- DayStar TV -->
 <!-- IPTV --><channel id="DolceVitaTV.pl">4097:0:19:E13:24:601:FFFF0000:0:0:0:http%3a//</channel><!-- DolceVita TV -->
 <!-- IPTV --><channel id="Echo24.pl">4097:0:19:50:B052:2268:EEEE0000:0:0:0:http%3a//</channel><!-- Echo24 HD -->
@@ -617,31 +616,44 @@
 <!-- IPTV EXTRA --><!-- 1000-1500:A11A:2268 -->
 
 <!-- IPTV --><channel id="DAZNevents.pl">4097:0:1:3E8:A11A:2268:0:0:0:0:http%3a//</channel><!-- DAZN events -->
-<!-- IPTV --><channel id="ElevenOnline1.pl">4097:0:1:3E9:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 1 -->
-<!-- IPTV --><channel id="ElevenOnline2.pl">4097:0:1:3EA:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 2 -->
-<!-- IPTV --><channel id="ElevenOnline3.pl">4097:0:1:3EB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 3 -->
-<!-- IPTV --><channel id="ElevenOnline4.pl">4097:0:1:3EC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 4 -->
-<!-- IPTV --><channel id="ElevenOnline5.pl">4097:0:1:3ED:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 5 -->
-<!-- IPTV --><channel id="ElevenOnline6.pl">4097:0:1:3EE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 6 -->
-<!-- IPTV --><channel id="ElevenOnline7.pl">4097:0:1:3EF:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 7 -->
-<!-- IPTV --><channel id="ElevenOnline8.pl">4097:0:1:3F0:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 8 -->
-<!-- IPTV --><channel id="ElevenOnline9.pl">4097:0:1:3F1:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 9 -->
-<!-- IPTV --><channel id="ElevenOnline10.pl">4097:0:1:3F2:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 10 -->
-<!-- IPTV --><channel id="ElevenOnline11.pl">4097:0:1:3F3:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 11 -->
-<!-- IPTV --><channel id="ElevenOnline12.pl">4097:0:1:3F4:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 12 -->
-<!-- IPTV --><channel id="ElevenOnline13.pl">4097:0:1:3F5:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 13 -->
-<!-- IPTV --><channel id="ElevenOnline14.pl">4097:0:1:3F6:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 14 -->
-<!-- IPTV --><channel id="ElevenOnline15.pl">4097:0:1:3F7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 15 -->
-<!-- IPTV --><channel id="ElevenOnline16.pl">4097:0:1:3F8:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 16 -->
-<!-- IPTV --><channel id="ElevenOnline17.pl">4097:0:1:3F9:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 17 -->
-<!-- IPTV --><channel id="ElevenOnline18.pl">4097:0:1:3FA:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 18 -->
-<!-- IPTV --><channel id="EmocjeTV.pl">4097:0:1:3FB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Emocje TV -->
-<!-- IPTV --><channel id="EurosportExtra.pl">4097:0:1:3FC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport Extra -->
-<!-- IPTV --><channel id="Viaplay.pl">4097:0:1:3FD:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viaplay -->
-<!-- IPTV --><channel id="ViaplayOnline.pl">4097:0:1:3FE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viaplay Online -->
-<!-- IPTV --><channel id="TVPSportTransmisje.pl">4097:0:1:3FF:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP Sport Transmisje -->
-<!-- IPTV --><channel id="Eurosport4KSK.pl">4097:0:1:400:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport 4K SK -->
-<!-- IPTV --><channel id="HBO3EuropeCZ.pl">4097:0:1:401:A11A:2268:0:0:0:0:http%3a//</channel><!-- HBO 3 Europe CZ -->
+<!-- IPTV --><channel id="EurosportExtra.pl">4097:0:1:3E9:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport Extra -->
+<!-- IPTV --><channel id="TVPSportTransmisje.pl">4097:0:1:3EA:A11A:2268:0:0:0:0:http%3a//</channel><!-- TVP Sport Transmisje -->
+<!-- IPTV --><channel id="ViaplayOnline.pl">4097:0:1:3EB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Viaplay Online -->
+<!-- IPTV --><channel id="ElevenOnline.pl">4097:0:1:3EC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online -->
+<!-- IPTV --><channel id="EmocjeTV.pl">4097:0:1:3ED:A11A:2268:0:0:0:0:http%3a//</channel><!-- Emocje TV -->
+<!-- IPTV --><channel id="PolsatGOLive.pl">4097:0:1:3EE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live -->
+<!-- IPTV --><channel id="Eurosport4KSK.pl">4097:0:1:3EF:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport 4K SK -->
+<!-- IPTV --><channel id="ElevenOnline1.pl">4097:0:1:3F0:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 1 -->
+<!-- IPTV --><channel id="ElevenOnline2.pl">4097:0:1:3F1:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 2 -->
+<!-- IPTV --><channel id="ElevenOnline3.pl">4097:0:1:3F2:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 3 -->
+<!-- IPTV --><channel id="ElevenOnline4.pl">4097:0:1:3F3:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 4 -->
+<!-- IPTV --><channel id="ElevenOnline5.pl">4097:0:1:3F4:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 5 -->
+<!-- IPTV --><channel id="ElevenOnline6.pl">4097:0:1:3F5:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 6 -->
+<!-- IPTV --><channel id="ElevenOnline7.pl">4097:0:1:3F6:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 7 -->
+<!-- IPTV --><channel id="ElevenOnline8.pl">4097:0:1:3F7:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 8 -->
+<!-- IPTV --><channel id="ElevenOnline9.pl">4097:0:1:3F8:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 9 -->
+<!-- IPTV --><channel id="ElevenOnline10.pl">4097:0:1:3F9:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 10 -->
+<!-- IPTV --><channel id="ElevenOnline11.pl">4097:0:1:3FA:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 11 -->
+<!-- IPTV --><channel id="ElevenOnline12.pl">4097:0:1:3FB:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 12 -->
+<!-- IPTV --><channel id="ElevenOnline13.pl">4097:0:1:3FC:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 13 -->
+<!-- IPTV --><channel id="ElevenOnline14.pl">4097:0:1:3FD:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 14 -->
+<!-- IPTV --><channel id="ElevenOnline15.pl">4097:0:1:3FE:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 15 -->
+<!-- IPTV --><channel id="ElevenOnline16.pl">4097:0:1:3FF:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 16 -->
+<!-- IPTV --><channel id="ElevenOnline17.pl">4097:0:1:400:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 17 -->
+<!-- IPTV --><channel id="ElevenOnline18.pl">4097:0:1:401:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 18 -->
+<!-- IPTV --><channel id="ElevenOnline19.pl">4097:0:1:402:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 19 -->
+<!-- IPTV --><channel id="ElevenOnline20.pl">4097:0:1:403:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eleven Online 20 -->
+<!-- IPTV --><channel id="PolsatGOLive1.pl">4097:0:1:404:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live 1 -->
+<!-- IPTV --><channel id="PolsatGOLive2.pl">4097:0:1:405:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live 2 -->
+<!-- IPTV --><channel id="PolsatGOLive3.pl">4097:0:1:406:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live 3 -->
+<!-- IPTV --><channel id="PolsatGOLive4.pl">4097:0:1:407:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live 4 -->
+<!-- IPTV --><channel id="PolsatGOLive5.pl">4097:0:1:408:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live 5 -->
+<!-- IPTV --><channel id="PolsatGOLive6.pl">4097:0:1:409:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live 6 -->
+<!-- IPTV --><channel id="PolsatGOLive7.pl">4097:0:1:40A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live 7 -->
+<!-- IPTV --><channel id="PolsatGOLive8.pl">4097:0:1:40B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live 8 -->
+<!-- IPTV --><channel id="PolsatGOLive9.pl">4097:0:1:40C:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live 9 -->
+<!-- IPTV --><channel id="PolsatGOLive10.pl">4097:0:1:40D:A11A:2268:0:0:0:0:http%3a//</channel><!-- Polsat GO Live 10 -->
+
 
 <!-- IPTV EXTRA --><!-- KANAŁY SKYSHOWTIME --><!-- 1500-xxxx:A11A:2268 -->
 
