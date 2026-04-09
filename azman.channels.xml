@@ -841,7 +841,7 @@
 
 <!-- IPTV --><channel id="TopMovies.rtv.pl">4097:0:1:1:A66A:2268:0:0:0:0:http%3a//</channel><!-- Top Movies Polska -->
 <!-- IPTV --><channel id="GrjngoWesterny.rtv.pl">4097:0:1:2:A66A:2268:0:0:0:0:http%3a//</channel><!-- Grjngo Westerny -->
-<!-- IPTV --><channel id="BjgTjme.rtv.pl">4097:0:1:3:A66A:2268:0:0:0:0:http%3a//</channel><!-- BjgTjme -->
+<!-- IPTV --><channel id="BjgTjme.rtv.pl">4097:0:1:3:A66A:2268:0:0:0:0:http%3a//</channel><!-- BigTime -->
 <!-- IPTV --><channel id="WedotvAuta.rtv.pl">4097:0:1:4:A66A:2268:0:0:0:0:http%3a//</channel><!-- Wedotv Auta -->
 <!-- IPTV --><channel id="RedCarpetTvInternational.rtv.pl">4097:0:1:5:A66A:2268:0:0:0:0:http%3a//</channel><!-- Red Carpet TV International -->
 <!-- IPTV --><channel id="ViasatExploreClassic.rtv.pl">4097:0:1:6:A66A:2268:0:0:0:0:http%3a//</channel><!-- Viasat Explore Classic -->
@@ -856,6 +856,7 @@
 <!-- IPTV --><channel id="DeluxeLounge.rtv.pl">4097:0:1:F:A66A:2268:0:0:0:0:http%3a//</channel><!-- Deluxe Lounge -->
 <!-- IPTV --><channel id="QwestTv.rtv.pl">4097:0:1:10:A66A:2268:0:0:0:0:http%3a//</channel><!-- Qwest TV -->
 <!-- IPTV --><channel id="Travelxp.rtv.pl">4097:0:1:11:A66A:2268:0:0:0:0:http%3a//</channel><!-- Travel XP -->
+<!-- IPTV --><channel id="CTVserial.rtv.pl">4097:0:1:12:A66A:2268:0:0:0:0:http%3a//</channel><!-- CTV Serial -->
 
 <!-- LG Channels --><!-- 1-999:A77A:2268 -->
 
@@ -913,6 +914,21 @@
 <!-- IPTV --><channel id="WlatcyMoch.pl">4097:0:1:12:A99A:2268:0:0:0:0:http%3a//</channel><!-- Włatcy móch -->
 <!-- IPTV --><channel id="Zbrodnie.pl">4097:0:1:13:A99A:2268:0:0:0:0:http%3a//</channel><!-- Zbrodnie -->
 <!-- IPTV --><channel id="ZycioweHistorie.pl">4097:0:1:14:A99A:2268:0:0:0:0:http%3a//</channel><!-- Życiowe historie -->
+
+<!-- Xiaomi TV+ --><!-- 1-999:A1AA:2268 -->
+
+<!-- IPTV --><channel id="TopMoviesPolskaRakutenTv.xiaomi.pl">4097:0:1:1:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Top Movies Polska -->
+<!-- IPTV --><channel id="GrjngoWesterny.xiaomi.pl">4097:0:1:2:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Grjngo Westerny -->
+<!-- IPTV --><channel id="BigtimeDarmoweFilmy.xiaomi.pl">4097:0:1:3:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Bigtime Darmowe Filmy -->
+<!-- IPTV --><channel id="MoconomyGospodarkaIFinanse.xiaomi.pl">4097:0:1:4:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Moconomy Gospodarka I Finanse -->
+<!-- IPTV --><channel id="RoyalworldArystokracjaIDynastie.xiaomi.pl">4097:0:1:5:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Royalworld Arystokracja I Dynastie -->
+<!-- IPTV --><channel id="EuronewsPolish.xiaomi.pl">4097:0:1:6:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Euronews Polish -->
+<!-- IPTV --><channel id="BestDramaTv.xiaomi.pl">4097:0:1:7:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Best Drama TV -->
+<!-- IPTV --><channel id="CharlieSilentMovies.xiaomi.pl">4097:0:1:8:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Charlie Silent Movies -->
+<!-- IPTV --><channel id="ScifiWorld.xiaomi.pl">4097:0:1:9:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Scifi World -->
+<!-- IPTV --><channel id="SpaceSeries.xiaomi.pl">4097:0:1:A:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Space Series -->
+<!-- IPTV --><channel id="HorrorTv.xiaomi.pl">4097:0:1:B:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Horror TV -->
+<!-- IPTV --><channel id="PanicTv.xiaomi.pl">4097:0:1:C:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Panic TV -->
 
 <!-- RADIO --><!-- 1-999:A22A:2268 -->
 
