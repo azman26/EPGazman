@@ -929,6 +929,14 @@
 <!-- IPTV --><channel id="SpaceSeries.xiaomi.pl">4097:0:1:A:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Space Series -->
 <!-- IPTV --><channel id="HorrorTv.xiaomi.pl">4097:0:1:B:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Horror TV -->
 <!-- IPTV --><channel id="PanicTv.xiaomi.pl">4097:0:1:C:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Panic TV -->
+<!-- IPTV --><channel id="Heritage+.xiaomi.pl">4097:0:1:D:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Heritage+ -->
+<!-- IPTV --><channel id="HeritageTourism.xiaomi.pl">4097:0:1:E:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Heritage Tourism -->
+<!-- IPTV --><channel id="EscapeTv.xiaomi.pl">4097:0:1:F:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Escape TV -->
+<!-- IPTV --><channel id="NinjaKidzTv.xiaomi.pl">4097:0:1:10:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Ninja Kidz TV -->
+<!-- IPTV --><channel id="CartoonClassic.xiaomi.pl">4097:0:1:11:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Cartoon Classic TV -->
+<!-- IPTV --><channel id="Yugioh.xiaomi.pl">4097:0:1:12:A1AA:2268:0:0:0:0:http%3a//</channel><!-- YuGiOh -->
+<!-- IPTV --><channel id="NauticalChannel.xiaomi.pl">4097:0:1:13:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Nautical Channel -->
+<!-- IPTV --><channel id="ZutTv.xiaomi.pl">4097:0:1:14:A1AA:2268:0:0:0:0:http%3a//</channel><!-- Zut TV -->
 
 <!-- RADIO --><!-- 1-999:A22A:2268 -->
 
