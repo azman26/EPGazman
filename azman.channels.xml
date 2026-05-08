@@ -99,8 +99,6 @@
 <!-- 13.0E --><channel id="C+Sport5.pl">1:0:1:3AA5:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 5 HD -->
 <!-- 13.0E --><channel id="C+Sport5.pl">1:0:1:3AB9:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 5 HD -->
 <!-- 13.0E --><channel id="C+Sport5.pl">1:0:1:3AE1:514:13E:820000:0:0:0:</channel><!-- CANAL+ SPORT 5 HD -->
-<!-- 13.0E --><channel id="CBSReality.pl">1:0:1:3D5B:2C88:13E:820000:0:0:0:</channel><!-- CBS Reality -->
-<!-- 13.0E --><channel id="CBSReality.pl">1:0:1:3D8D:2C88:13E:820000:0:0:0:</channel><!-- CBS Reality -->
 <!-- 13.0E --><channel id="CIPolsat.pl">1:0:1:C30:1E78:71:820000:0:0:0:</channel><!-- CI Polsat HD -->
 <!-- 13.0E --><channel id="CIPolsat.pl">1:0:1:C31:1E78:71:820000:0:0:0:</channel><!-- CI Polsat HD -->
 <!-- 13.0E --><channel id="CNN.pl">1:0:19:3B6D:12C:13E:820000:0:0:0:</channel><!-- CNNI EMEA -->
@@ -150,7 +148,6 @@
 <!-- 13.0E --><channel id="ExtremeSports.pl">1:0:1:290A:1EDC:71:820000:0:0:0:</channel><!-- Extreme Sports -->
 <!-- 13.0E --><channel id="FightBox.pl">1:0:1:3E24:2EE0:13E:820000:0:0:0:</channel><!-- Fightbox HD -->
 <!-- 13.0E --><channel id="FightKlub.pl">1:0:1:113B:2AF8:13E:820000:0:0:0:</channel><!-- Fightklub HD -->
-<!-- 13.0E --><channel id="FilmCafe.pl">1:0:1:290B:1EDC:71:820000:0:0:0:</channel><!-- Film Cafe -->
 <!-- 13.0E --><channel id="FilmboxAction.pl">1:0:1:3D65:2C88:13E:820000:0:0:0:</channel><!-- FilmBox Action -->
 <!-- 13.0E --><channel id="FilmboxAction.pl">1:0:1:3D97:2C88:13E:820000:0:0:0:</channel><!-- Filmbox Action -->
 <!-- 13.0E --><channel id="FilmboxAction.pl">1:0:1:3DAB:2C88:13E:820000:0:0:0:</channel><!-- Filmbox Action -->
@@ -210,9 +207,6 @@
 <!-- 13.0E --><channel id="LoveNature4K.pl">1:0:20:8B5:1F4:13E:820000:0:0:0:</channel><!-- Love Nature 4K -->
 <!-- 13.0E --><channel id="LoveNature4K.pl">1:0:20:8B5:1F4:FC:820000:0:0:0:</channel><!-- Love Nature 4K -->
 <!-- 13.0E --><channel id="MTV.pl">1:0:1:F:1964:13E:820000:0:0:0:</channel><!-- MTV Polska HD -->
-<!-- 13.0E --><channel id="MTV00s.pl">1:0:1:8:1964:13E:820000:0:0:0:</channel><!-- MTV 00s -->
-<!-- 13.0E --><channel id="MTV90s.pl">1:0:1:1CB9:1CE8:71:820000:0:0:0:</channel><!-- MTV 90s -->
-<!-- 13.0E --><channel id="MTVLive.pl">1:0:1:1:1964:13E:820000:0:0:0:</channel><!-- MTV Live HD -->
 <!-- 13.0E --><channel id="Mango.pl">1:0:1:2914:1EDC:71:820000:0:0:0:</channel><!-- Mango -->
 <!-- 13.0E --><channel id="Metro.pl">1:0:19:3DD4:640:13E:820000:0:0:0:</channel><!-- Metro HD -->
 <!-- 13.0E --><channel id="Mezzo.pl">1:0:1:422B:2F44:13E:820000:0:0:0:</channel><!-- MEZZO -->
@@ -230,7 +224,6 @@
 <!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:32DF:190:13E:820000:0:0:0:</channel><!-- NATIONAL GEO HD -->
 <!-- 13.0E --><channel id="NationalGeographic.pl">1:0:1:331B:190:13E:820000:0:0:0:</channel><!-- NATIONAL GEO HD -->
 <!-- 13.0E --><channel id="NickJr.pl">1:0:1:3:1964:13E:820000:0:0:0:</channel><!-- Nick Jr -->
-<!-- 13.0E --><channel id="NickMusic.pl">1:0:1:2:1964:13E:820000:0:0:0:</channel><!-- Nick Music -->
 <!-- 13.0E --><channel id="Nickelodeon.pl">1:0:1:9:1964:13E:820000:0:0:0:</channel><!-- Nickelodeon -->
 <!-- 13.0E --><channel id="Nicktoons.pl">1:0:1:45:1964:13E:820000:0:0:0:</channel><!-- Nicktoons HD -->
 <!-- 13.0E --><channel id="Nicktoons.pl">1:0:1:E:1964:13E:820000:0:0:0:</channel><!-- Nicktoons HD -->
@@ -608,6 +601,7 @@
 <!-- IPTV --><channel id="VantageRock.pl">4097:0:1:68:A11A:2268:0:0:0:0:http%3a//</channel><!-- Vantage Rock -->
 <!-- IPTV --><channel id="Biznes24.pl">4097:0:1:69:A11A:2268:0:0:0:0:http%3a//</channel><!-- Biznes24 -->
 <!-- IPTV --><channel id="Eurosport4.pl">4097:0:1:6A:A11A:2268:0:0:0:0:http%3a//</channel><!-- Eurosport 4 -->
+<!-- IPTV --><channel id="VantageClassic.pl">4097:0:1:6B:A11A:2268:0:0:0:0:http%3a//</channel><!-- Vantage Classic -->
 
 <!-- 900-999:A11A:2268 -->
 
@@ -846,6 +840,7 @@
 <!-- IPTV --><channel id="TraceLatina.swtv.pl">4097:0:1:5A:A55A:2268:0:0:0:0:http%3a//</channel><!-- Trace Latina HD -->
 <!-- IPTV --><channel id="WorldOfFreesports.swtv.pl">4097:0:1:5B:A55A:2268:0:0:0:0:http%3a//</channel><!-- World Of Freesports HD -->
 <!-- IPTV --><channel id="MalaMalpkaTv.swtv.pl">4097:0:1:5C:A55A:2268:0:0:0:0:http%3a//</channel><!-- Mała Małpka TV HD -->
+
 
 <!-- Rakuten TV --><!-- 1-999:A66A:2268 -->
 
