@@ -196,6 +196,7 @@
 <!-- 13.0E --><channel id="KanalZeroTV.pl">1:0:1:32FB:190:13E:820000:0:0:0:</channel><!-- Kanał Zero TV -->
 <!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:3D64:2C88:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
 <!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:3D96:2C88:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
+<!-- 13.0E --><channel id="KinoPolska.pl">1:0:19:3784:44C:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
 <!-- 13.0E --><channel id="KinoPolska.pl">1:0:1:37B6:44C:13E:820000:0:0:0:</channel><!-- KINO POLSKA HD -->
 <!-- 13.0E --><channel id="KinoPolskaMuzyka.pl">1:0:1:3D60:2C88:13E:820000:0:0:0:</channel><!-- Kino Polska Muzyka -->
 <!-- 13.0E --><channel id="KinoPolskaMuzyka.pl">1:0:1:3D92:2C88:13E:820000:0:0:0:</channel><!-- Kino Polska Muzyka -->
@@ -372,7 +373,6 @@
 <!-- 13.0E --><channel id="TVS.pl">1:0:1:1135:2AF8:13E:820000:0:0:0:</channel><!-- TVS -->
 <!-- 13.0E --><channel id="TVS.pl">1:0:1:3D58:2C88:13E:820000:0:0:0:</channel><!-- TVS -->
 <!-- 13.0E --><channel id="TVS.pl">1:0:1:1403:5DC:13E:820000:0:0:0:</channel><!-- TVS -->
-<!-- 13.0E --><channel id="TeenNick.pl">1:0:19:3784:44C:13E:820000:0:0:0:</channel><!-- TeenNick -->
 <!-- 13.0E --><channel id="TeenNick.pl">1:0:1:13FC:5DC:13E:820000:0:0:0:</channel><!-- TeenNick -->
 <!-- 13.0E --><channel id="Tele5.pl">1:0:1:423B:3DB8:13E:820000:0:0:0:</channel><!-- TELE 5 -->
 <!-- 13.0E --><channel id="TeleToon.pl">1:0:19:37AF:44C:13E:820000:0:0:0:</channel><!-- teleTOON+ HD -->
@@ -840,7 +840,17 @@
 <!-- IPTV --><channel id="TraceLatina.swtv.pl">4097:0:1:5A:A55A:2268:0:0:0:0:http%3a//</channel><!-- Trace Latina HD -->
 <!-- IPTV --><channel id="WorldOfFreesports.swtv.pl">4097:0:1:5B:A55A:2268:0:0:0:0:http%3a//</channel><!-- World Of Freesports HD -->
 <!-- IPTV --><channel id="MalaMalpkaTv.swtv.pl">4097:0:1:5C:A55A:2268:0:0:0:0:http%3a//</channel><!-- Mała Małpka TV HD -->
-
+<!-- IPTV --><channel id="MegaHit.swtv.pl">4097:0:1:5D:A55A:2268:0:0:0:0:http%3a//</channel><!-- Mega Hit HD -->
+<!-- IPTV --><channel id="PremiumAction.swtv.pl">4097:0:1:5E:A55A:2268:0:0:0:0:http%3a//</channel><!-- Premium Action HD -->
+<!-- IPTV --><channel id="PremiumComedy.swtv.pl">4097:0:1:5F:A55A:2268:0:0:0:0:http%3a//</channel><!-- Premium Comedy HD -->
+<!-- IPTV --><channel id="PremiumThriller.swtv.pl">4097:0:1:60:A55A:2268:0:0:0:0:http%3a//</channel><!-- Premium Thriller HD -->
+<!-- IPTV --><channel id="PremiumDrama.swtv.pl">4097:0:1:61:A55A:2268:0:0:0:0:http%3a//</channel><!-- Premium Drama HD -->
+<!-- IPTV --><channel id="Premiere.swtv.pl">4097:0:1:62:A55A:2268:0:0:0:0:http%3a//</channel><!-- Premiere HD -->
+<!-- IPTV --><channel id="SciFiAndFantasy.swtv.pl">4097:0:1:63:A55A:2268:0:0:0:0:http%3a//</channel><!-- SciFi And Fantasy HD -->
+<!-- IPTV --><channel id="CrimeTV.swtv.pl">4097:0:1:64:A55A:2268:0:0:0:0:http%3a//</channel><!-- Crime TV HD -->
+<!-- IPTV --><channel id="RealDrama.swtv.pl">4097:0:1:65:A55A:2268:0:0:0:0:http%3a//</channel><!-- Real Drama HD -->
+<!-- IPTV --><channel id="BurzaUczuc.swtv.pl">4097:0:1:66:A55A:2268:0:0:0:0:http%3a//</channel><!-- Burza Uczuć HD -->
+<!-- IPTV --><channel id="FamilyFun.swtv.pl">4097:0:1:67:A55A:2268:0:0:0:0:http%3a//</channel><!-- Family Fun HD -->
 
 <!-- Rakuten TV --><!-- 1-999:A66A:2268 -->
 
